@@ -1,0 +1,12 @@
+[19-Jan-2023 21:58:29 UTC] PHP Warning:  require(/home/upayx/new.megacashbucks.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/upayx/new.megacashbucks.com/public/index.php on line 34
+[19-Jan-2023 21:58:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/upayx/new.megacashbucks.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/upayx/new.megacashbucks.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/upayx/new.megacashbucks.com/public/index.php on line 34
+[19-Jan-2023 21:58:33 UTC] PHP Warning:  require(/home/upayx/new.megacashbucks.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/upayx/new.megacashbucks.com/public/index.php on line 34
+[19-Jan-2023 21:58:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/upayx/new.megacashbucks.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/upayx/new.megacashbucks.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/upayx/new.megacashbucks.com/public/index.php on line 34
+[19-Jan-2023 22:02:14 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.27. in /home/upayx/new.megacashbucks.com/vendor/composer/platform_check.php on line 24
+[19-Jan-2023 22:02:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.27. in /home/upayx/new.megacashbucks.com/vendor/composer/platform_check.php on line 24

@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Disallow: *?*
+
+User-agent: Googlebot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Disallow: */?*
+
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Disallow: */?*
+
+User-Agent: bingbot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Disallow: */?*
+
+Sitemap: https://megacashbucks.com/sitemap.xml

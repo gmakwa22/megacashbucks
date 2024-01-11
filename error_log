@@ -1,0 +1,9 @@
+[16-Nov-2021 23:38:11 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[16-Nov-2021 23:38:40 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[16-Nov-2021 23:38:54 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[16-Nov-2021 23:40:50 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[16-Nov-2021 23:42:33 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleWatchGraph.php on line 52
+[16-Nov-2021 23:43:44 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[16-Nov-2021 23:56:54 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[16-Nov-2021 23:57:15 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[17-Nov-2021 00:19:25 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/taxcashloans/megacashbucks.com/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
