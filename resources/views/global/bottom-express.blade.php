@@ -13,7 +13,9 @@
 <p>If you meet the basic requirements, then you’ll qualify, and express loans online are the perfect choice for you. All you have to do is to start filling out the application online!
 </p><ul>
 <li>You must be at least 19 years old.</li>
-<li>You must be a Canadian citizen, residing in one of the provinces we service – specifically <a href="{{url('/payday-loans-alberta')}}" rel="noopener">Alberta</a>, <a href="{{url('/payday-loans-british-columbia')}}" rel="noopener">British Columbia</a>, <a href="{{url('/payday-loans-new-brunswick')}}" rel="noopener">New Brunswick</a>, and <a href="{{url('/payday-loans-ontario')}}" rel="noopener">Ontario</a>.
+<li>You must be a Canadian citizen, residing in one of the provinces we service – specifically <a href="{{url('/payday-loans-alberta')}}" rel="noopener">Alberta</a>, <a href="{{url('/payday-loans-british-columbia')}}" rel="noopener">British Columbia</a>,
+ <!-- <a href="{{url('/payday-loans-new-brunswick')}}" rel="noopener">New Brunswick</a>, -->
+  and <a href="{{url('/payday-loans-ontario')}}" rel="noopener">Ontario</a>.
 </li><li>You must have been receiving the same source or mix of income for at least the past 3 months.</li>
 <li>You must have a net income of at least $800/month.</li>
 <li>Own a Canadian bank account, opened for at least 3 months, with access to online banking features.</li>

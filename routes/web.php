@@ -328,7 +328,7 @@ Route::get('/payday-advance',[LpController::class,'paydayadvance']);
 Route::get('/payday-loans-alberta',[LpController::class,'paydayloansalberta']);
 Route::get('/loan-without-credit-check',[LpController::class,'loanwithoutcreditcheck']);
 Route::get('/easy-personal-loans',[LpController::class,'easypersonalloans']);
-Route::get('/cash-loans',[LpController::class,'cashloans']);   ////// duplicate
+Route::get('/cash-loans',[LpController::class,'cashloans']);  
 Route::get('/cash-loans-today',[LpController::class,'cashloanstoday']);
 Route::get('/a-loans',[LpController::class,'aloans']);
 Route::get('/instant-cash-advance-online',[LpController::class,'instantcashadvanceonline']);
@@ -546,7 +546,7 @@ Route::get('/payday-loans-red-deer',[ABController::class,'reddeer']);
 Route::get('/payday-loans-lethbridge',[ABController::class,'lethbridge']);
 Route::get('/payday-loans-steinbach',[ABController::class,'steinbach']);
 Route::get('/payday-loans-airdrie',[ABController::class,'airdrie']);
-Route::get('/payday-loans-fort-mcmurry',[ABController::class,'fortmcmurray']);
+Route::get('/payday-loans-fort-mcmurray',[ABController::class,'fortmcmurry']);
 Route::get('/payday-loans-st-albert',[ABController::class,'stalbert']);
 Route::get('/payday-loans-grande-prairie',[ABController::class,'grandeprairie']);
 Route::get('/payday-loans-spruce-grove',[ABController::class,'sprucegrove']);

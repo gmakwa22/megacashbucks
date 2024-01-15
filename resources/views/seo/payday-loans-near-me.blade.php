@@ -23,7 +23,9 @@
 														<p>Our eligibly requirements are basic. All we ask is that you:</p>
 														<ul>
 														<li>Are a Canadian citizen.
-														Live in a province where we do business.<a href="/payday-loans-alberta" target="_blank" rel="noopener">Alberta</a>, <a href="/payday-loans-british-columbia" target="_blank" rel="noopener">British Columbia</a>, <a href="/payday-loans-new-brunswick" target="_blank" rel="noopener">New Brunswick</a>, and <a href="/payday-loans-ontario" target="_blank" rel="noopener">Ontario</a>.</li>
+														Live in a province where we do business.<a href="/payday-loans-alberta" target="_blank" rel="noopener">Alberta</a>, <a href="/payday-loans-british-columbia" target="_blank" rel="noopener">British Columbia</a>,
+														<!-- <a href="/payday-loans-new-brunswick" target="_blank" rel="noopener">New Brunswick</a>,  -->
+														and <a href="/payday-loans-ontario" target="_blank" rel="noopener">Ontario</a>.</li>
 														<li>Are 19 years of age or more.</li>
 														<li>Received the same income source for at least 3 months.</li>
 														<li>Have at least a monthly net income of $800.</li>

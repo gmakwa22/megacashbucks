@@ -111,7 +111,7 @@ footer section#footer .footer-left a:link, footer section#footer .footer-left a:
 		<ul>
     <li id="alb"><a href="{{url('/payday-loans-alberta')}}">Alberta</a></li>
 		<li id="brit"><a href="{{url('/payday-loans-british-columbia')}}">British Columbia</a></li>
-    <li id="nb"><a href="{{url('/payday-loans-new-brunswick')}}">New Brunswick</a></li>
+    <!-- <li id="nb"><a href="{{url('/payday-loans-new-brunswick')}}">New Brunswick</a></li> -->
     <li id="nb"><a href="{{url('/payday-loans-manitoba')}}">Manitoba</a></li>
     <li id="ont"><a href="{{url('/payday-loans-ontario')}}">Ontario</a></li>
     <li id="sask"><a href="{{url('/payday-loans-saskatchewan')}}">Saskatchewan</a></li>

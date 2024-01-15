@@ -141,7 +141,7 @@ class ABController extends Controller
 
 // Old ones beginning new ones
 
-     public function fortmcmurray() {
+     public function fortmcmurry() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Fort McMurray", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN FORT MCMURRAY", "headtxtcolor" => "WHITE"];
        SEOMeta::setTitle('Mega Cash Bucks | Get Payday Loans Online Fortmcmurray');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');

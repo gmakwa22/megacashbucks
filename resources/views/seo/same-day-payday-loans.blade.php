@@ -32,7 +32,7 @@
 				                  <div class="acd-des" style="display: none;"><p class="newtext">Anyone who meets the basic lending requirements and residents in one of the following provinces can apply for a same day payday loan:
 													<a href="/payday-loans-alberta" rel="noopener">Alberta</a>,
 													<a href="/payday-loans-british-columbia" rel="noopener">British Columbia</a>,
-													<a href="/payday-loans-new-brunswick" rel="noopener">New Brunswick</a>, and
+													<!-- <a href="/payday-loans-new-brunswick" rel="noopener">New Brunswick</a>, and -->
 													<a href="/payday-loans-ontario" rel="noopener">Ontario</a>.<br><br>
 													We don’t discriminate on any basis – our limited requirements for things like age and citizenship are purely legal requirements. Your ethnicity, religious affiliation, sexual orientation, political affiliation, age, housing situation, employer, job type, or any of the other myriad characteristics that make you uniquely you don’t come into play. Just the basic lending requirements are all that must be met, which can be found on our site in the <a href="/faq" rel="noopener">Payday Loans Frequently Asked Questions</a> page</p></div>
 				              </div>

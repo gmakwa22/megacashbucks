@@ -14,7 +14,7 @@ use App\Http\Controllers\Controller;
 
 class LpController extends Controller
 {
-    use Traits\Tracking;
+    //use Traits\Tracking;
     public $admin_details;
     /**
      * Create a new controller instance.
@@ -56,6 +56,7 @@ class LpController extends Controller
 
      }
 
+     
   public function instantcashloan() { $track = $this->tracker();
    $txtlp = '<h1>Instant Cash Loan</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this instant cash loan Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Instant Cash Loan", "headtxtcolor" => "white", "headalt" => "Instant Cash Loan", "land" => "1", "lptxt" => $txtlp];
@@ -64,6 +65,7 @@ class LpController extends Controller
     SEOMeta::addKeyword('instant cash loan, get a personal loan, easy cash canada, a loan, no credit check loan, online lending, quick loans online, payday loans bad credit, bad credit lenders');
               return view('lp.lptemplate', $data);
             }
+            
   public function getapersonalloan() { $track = $this->tracker();
    $txtlp = '<h1>Get A Personal Loan</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadian residents to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Get A Personal Loan", "headtxtcolor" => "white", "headalt" => "Get A Personal Loan", "land" => "1", "lptxt" => $txtlp];
@@ -1790,9 +1792,16 @@ class LpController extends Controller
     SEOMeta::setTitle('Loans Instant');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
     SEOMeta::addKeyword('loans instant, get a personal loan, easy cash canada, a loan, no credit check loan, online lending, quick loans online, payday loans bad credit, bad credit lenders');
-              return view('lp.lptemplate', $data);
-            }
+    return view('lp.lptemplate', $data);
+  }
+     public function cash_loans() { $track = $this->tracker();
 
-
-
+    {
+      $data = ["bannerbg" => "images/category-new.jpg", "headpg" => "CASH LOANS CANADA", "headtxtcolor" => "white", "headalign" => "text-right"];
+      SEOMeta::setTitle('Mega Cash Bucks | Cash Money');
+      SEOMeta::setDescription('Cash Loans Loans Canada, Short Term Loans Or Cash Advance Loan Interest Rates & How They Work? Contact Mega Cash Bucks. The Only Trusted Payday Advance In Canada.d');
+      SEOMeta::addKeyword('Payday Advance, Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
+      return view('cash-loans', $data);
+    }
+  }
 }

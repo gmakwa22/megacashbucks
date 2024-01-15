@@ -65,7 +65,7 @@
 		<li id="brit"><a href="{{url('/payday-loans-british-columbia')}}">British Columbia</a></li>
 
 		<li id="nb"><a href="{{url('/payday-loans-manitoba')}}">Manitoba</a></li>
-		<li id="nb"><a href="{{url('/payday-loans-new-brunswick')}}">New Brunswick</a></li>
+		<!-- <li id="nb"><a href="{{url('/payday-loans-new-brunswick')}}">New Brunswick</a></li> -->
 		<li id="ont"><a href="{{url('/payday-loans-nova-scotia')}}">Nova Scotia</a></li>
 
 		<li id="ont"><a href="{{url('/payday-loans-ontario')}}">Ontario</a></li>

@@ -161,7 +161,7 @@
 <a class='city' href='/debt-management-plan'>Debt Management Plan</a>,
 <a class='city' href='/direct-lenders'>Direct Lenders</a>,
 <a class='city' href='/e-transfer-payday-loans'>E Transfer Payday Loans</a>,
-<a class='city' href='/ei-loans'>Ei Loans</a>,
+<!-- <a class='city' href='/ei-loans'>Ei Loans</a>, -->
 <a class='city' href='/faxless-payday-loans'>Faxless Payday Loans</a>,
 <a class='city' href='/gst-hst-credit'>Gst Hst Credit</a>,
 <a class='city' href='/guaranteed-approval-loans-poor-credit'>Guaranteed Approval Loans Poor Credit</a>,

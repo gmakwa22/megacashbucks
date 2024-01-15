@@ -27,7 +27,7 @@ Same Day Cash Loans for Unexpected Emergency Bills
 <p class="text text-justify">
 One of the most common reasons for Canadians to get same day cash loans is to cover unexpected bills or emergency expenses. These types of costs always seem to come up at the worst possible time.
 For Canadians who are living paycheck-to-paycheck, or don’t have a great deal of savings, these kinds of expenses can be devastating to the finances and budget of a household.
-But with an <a href="{{url('/emergency-loans')}}" rel="noopener">emergency loan</a> from Canada’s premiere direct online lender, Pay Day, you can pay all your bills quickly and get on with your life!
+But with an emergency loan from Canada’s premiere direct online lender, Pay Day, you can pay all your bills quickly and get on with your life!
 </p>
 <h3 class="small-title" style="color:#b2752d;">
 Same Day Cash Advance for Medical, Dental, or Childcare Bills
@@ -52,7 +52,7 @@ Same Day Cash Loans Online for Auto Repair
 </h3>
 <p class="text text-justify">
 Car repairs are expensive, and for most people, necessary. We rely on our cars to get to work, school, and around town to run errands and live our lives.
-When your car breaks down unexpectedly, it’s a big hassle, and can cost quite a lot to get repaired at the local auto garage. Still, not everyone can come up with $1,000 or more to get their car repaired. With <a href="{{url('/cash-loans')}}" rel="noopener">cash loans</a> that are approved the same day, you can get the funds you need to get back on the road.
+When your car breaks down unexpectedly, it’s a big hassle, and can cost quite a lot to get repaired at the local auto garage. Still, not everyone can come up with $1,000 or more to get their car repaired. With cash loans that are approved the same day, you can get the funds you need to get back on the road.
 </p>
 <h3 class="small-title" style="color:#b2752d;">
 Same Day Loans Online for Home Repair, Renovation, and Furnishings
@@ -68,7 +68,7 @@ Same Day Payday Loans for Vacation and Travel Plans
 <p class="text text-justify">
 Not everything has to be about paying bills or making ends meet. It’s always good to take a break and sometimes travel, have a vacation with your significant other or your family and enjoy life.
 But finding the money for such things can be a challenge.
-With <a href="{{url('/same-day-payday-loans')}}" rel="noopener">same day payday loans</a>, you can get approved instantly to get the funds you need to take that much-needed vacation even on last-minute notice.
+With same day payday loans, you can get approved instantly to get the funds you need to take that much-needed vacation even on last-minute notice.
 </p>
 </div>
 </div>

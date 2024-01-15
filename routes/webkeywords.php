@@ -273,7 +273,7 @@ Route::get('/faq',[HomeController::class,'Faq']);
 Route::get('/bad-credit-loans-counsellors',[HomeController::class,'badcreditloanscounsellors']);
 Route::get('/privacy-policy',[HomeController::class,'Privacy']);
 Route::get('/terms-conditions',[HomeController::class,'Terms']);
-Route::get('/responsible_lending',[HomeController::class,'Responsible_lending']);
+Route::get('/responsible-lending',[HomeController::class,'Responsible_lending']);
 Route::get('/sitemap',[HomeController::class,'Sitemap']);
 Route::get('/sitemap2',[HomeController::class,'Sitemap2']);
 Route::get('/reviews',[HomeController::class,'Reviews']);
