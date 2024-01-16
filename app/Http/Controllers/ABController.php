@@ -383,7 +383,7 @@ class ABController extends Controller
 
      public function rockymountainhouse() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Rocky Mountain House", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN ROCKY MOUNTAIN HOUSE", "headtxtcolor" => "WHITE", "headalt" => "payday loans Rocky Mountain House"];
-       SEOMeta::setTitle('Rocky Mountain House | Need Fast Cash Loans Near Rocky Mountain House, AB? Loans From $100 To $1500 From a Safe Trusted Licensed Lender. ');
+       SEOMeta::setTitle('Need Fast Cash Loans Near Rocky Mountain House');
        SEOMeta::setDescription ('A safe and trusted best lender loans canada direct lender conforming to all Provincial rules and regulations pertaining to our regulatory environment.');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.rockymountainhouse', $data); }
@@ -548,14 +548,14 @@ class ABController extends Controller
 
      public function highlevel() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "High Level", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN HIGH LEVEL", "headtxtcolor" => "WHITE", "headalt" => "payday loans High Level"];
-       SEOMeta::setTitle('High Level | Need Fast Cash Loans Near High Level, AB? Get Up To $1500 From Mega Cash Bucks. ');
+       SEOMeta::setTitle('Need Fast Cash Loans Near High Level, AB');
        SEOMeta::setDescription ('The Quick Simple Loan, When You Need It. Apply Now, Know Immediately and Receive Money.');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.highlevel', $data); }
 
      public function fortmacleod() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Fort Macleod", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN FORT MACLEOD", "headtxtcolor" => "WHITE", "headalt" => "payday loans Fort Macleod"];
-       SEOMeta::setTitle('Fort Macleod | Mega Cash Bucks OffersFast Cash Loans Near Fort Macleod, AB');
+       SEOMeta::setTitle('Mega Cash Bucks Loans Near Fort Macleod, AB');
        SEOMeta::setDescription ('A safe and trusted best lender loans canada direct lender conforming to all Provincial rules and regulations pertaining to our regulatory environment. Fort Macleod Payday Loans');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.fortmacleod', $data); }
@@ -597,7 +597,7 @@ class ABController extends Controller
 
      public function sexsmith() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Sexsmith", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN SEXSMITH", "headtxtcolor" => "WHITE", "headalt" => "payday loans Sexsmith"];
-       SEOMeta::setTitle('Sexsmith | Need Fast Cash Loans Near Sexsmith, AB? Get Up To $1500 From Mega Cash Bucks. ');
+       SEOMeta::setTitle('Need Fast Cash Loans Near Sexsmith, AB');
        SEOMeta::setDescription ('A safe and trusted best lender loans canada direct lender conforming to all Provincial rules and regulations pertaining to our regulatory environment.');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.sexsmith', $data); }

@@ -1344,7 +1344,7 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloanssaskatchewan() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('Payday Loans Saskatchewan Online | No Credit Check Loans Saskatchewan');
+        SEOMeta::setTitle('Payday Loans Saskatchewan Online ');
         SEOMeta::setDescription('The fastest payday loans online in Saskatchewan with no credit check. Apply for a payday loan now and get cash the same day from Mega Cash Bucks.');
         SEOMeta::addKeyword('payday loans saskatchewan online, no credit check loans saskatchewan');
            return view('keywords2.payday-loans-saskatchewan', $data); }

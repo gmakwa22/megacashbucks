@@ -441,7 +441,7 @@ SEOMeta::addKeyword('Online cash loans in Thompson, Manitoba, money, cash, cash 
   {
     setpurlads();
      $data = ["bannerbg" => "provinces/mississauga.jpg", "licpr" => "on", "spprov" => "Brampton", "headpg" => "Brampton'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "Brampton's BEST PAYDAY LOAN OPTION. Get up to $1,500. Low Rates. 5 minutes e-transfer."];
-     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Brampton, ON? Get Up To $1500 From a Safe Trusted Licensed Lender. Easy Application, 5 Minutes‎‎ e-Transfer with Mega Cash Bucks.');
+     SEOMeta::setTitle('Need Instant Payday Loans Online in Brampton.');
      SEOMeta::setDescription('Payday Loans Brampton Ontario | Need Instant Payday Loans Online in Brampton On? Get Up To $1500.');
      SEOMeta::addKeyword('loans Brampton, bad credit loans Brampton, cash loans Brampton, instant payday loans Brampton, online loans Brampton, quick loans Brampton, quick loans in Brampton, loan companies Brampton, cash advance Brampton, cash advance loans Brampton, cash advance Brampton, cash for you now Brampton, cash king Brampton, cash money Brampton, cash shop Brampton, cash store Brampton, direct cash Brampton, ez loan Brampton, fast cash loans Brampton, money loans Brampton, money mart Brampton, money Brampton, payday loans Brampton');
      return view('payday-loans-brampton', $data);
@@ -459,7 +459,7 @@ SEOMeta::addKeyword('Online cash loans in Thompson, Manitoba, money, cash, cash 
   {
     setpurlads();
      $data = ["bannerbg" => "provinces/windsor.jpg", "licpr" => "on", "spprov" => "Windsor", "headpg" => "WINDSOR'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WINDSOR'S BEST PAYDAY LOAN OPTION. We know that things happen in life and sometimes you need extra money for unexpected expenses"];
-     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in London, ON? Get Up To $1500 From a Safe Trusted Licensed Lender..');
+     SEOMeta::setTitle('Need Instant Payday Loans Online in London, ON');
 SEOMeta::setDescription ('A safe and trusted best lender loans canada direct lender conforming to all Provincial rules and regulations pertaining to our regulatory environment.');
      SEOMeta::addKeyword('Online cash loans london_ontario, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, Ontario,Windsor, on, On');
      return view('payday-loans-windsor', $data);
@@ -468,7 +468,7 @@ SEOMeta::setDescription ('A safe and trusted best lender loans canada direct len
   {
     setpurlads();
      $data = ["bannerbg" => "provinces/hamilton.jpg", "licpr" => "on", "spprov" => "Hamilton", "headpg" => "HAMILTON'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "HAMILTON'S BEST PAYDAY LOAN OPTION Hamilton is a great city, with a long and fascinating history. Once a manufacturing hub of the country, it now is emerging as a key player in the new service economy"];
-     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Hamilton ON? Get Up To $1500 From a Safe Trusted Licensed Lender offering Easy Applications, Multiple repayments and 5 Minute‎‎ e-Transfers.');
+     SEOMeta::setTitle('Need Instant Payday Loans Online in Hamilton ON.');
      SEOMeta::addKeyword('Online cash loans WOnline cash loans london_ontario, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, payday loan, payday loans, loans with bad credit, loans from bad credit, bad credit loans Ontario, on');
      SEOMeta::setDescription ('A safe and trusted best Hamilton ON lender in canada a direct lender that conforms to all Provincial rules and regulations pertaining to our regulatory environment.');
      return view('payday-loans-hamilton', $data);
@@ -479,7 +479,7 @@ SEOMeta::setDescription ('A safe and trusted best lender loans canada direct len
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/saskatchewan.jpg", "licpr" => "on", "spprov" => "Saskatchewan", "headpg" => "Payday Loans Saskatchewan Online", "headtxtcolor" => "white", "headalt" => "payday loans saskatchewan online"];
-     SEOMeta::setTitle('Payday Loans Saskatchewan Online | No Credit Check Loans Saskatchewan');
+     SEOMeta::setTitle('No Credit Check Loans Saskatchewan');
      SEOMeta::setDescription('The fastest payday loans online in Saskatchewan with no credit check. Apply for a payday loan now and get cash the same day from Mega Cash Bucks.');
      SEOMeta::addKeyword('payday loans saskatchewan online, no credit check loans saskatchewan');
      return view('payday-loans-saskatchewan', $data);
@@ -516,7 +516,7 @@ SEOMeta::setDescription ('A safe and trusted best lender loans canada direct len
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/nova-scotia.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Nova Scotia No Credit Check", "headtxtcolor" => "white", "headalt" => "payday loans nova scotia no credit check"];
-     SEOMeta::setTitle('Payday Loans Nova Scotia No Credit Check | Mega Cash Bucks');
+     SEOMeta::setTitle('Payday Loans Nova Scotia No Credit Check');
      SEOMeta::setDescription('All loans made with Mega Cash Bucks require absolutely NO credit checks. Apply by registering online and get fast payday loans in Nova Scotia with no credit check.');
 SEOMeta::addKeyword('payday loans nova scotia no credit check');
      return view('payday-loans-nova-scotia', $data);
@@ -525,7 +525,7 @@ SEOMeta::addKeyword('payday loans nova scotia no credit check');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/halifax.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Niagara Halifax, Ontario", "headtxtcolor" => "white", "headalt" => "payday loans niagara halifax ontario"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Niagara Halifax, Ontario | Mega Cash Bucks');
+     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Niagara Halifax, Ontario');
      SEOMeta::setDescription('Get 24/7 approvals & funding online for payday loans in Niagara Halifax ON with no credit check & money in 1 hour. So credit the money now with our payday loans.');
      SEOMeta::addKeyword('payday loans niagara halifax ontario');
      return view('payday-loans-halifax', $data);
@@ -534,7 +534,7 @@ SEOMeta::addKeyword('payday loans nova scotia no credit check');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/cape-breton.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Cape Breton", "headtxtcolor" => "white", "headalt" => "Payday Loans Cape Breton"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Cape Breton NS | Instant Approval Loans in Canada');
+     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Cape Breton NS');
      SEOMeta::setDescription('The fastest and instant loan approval by {{ $privname ?? "Mega Cash Bucks" }} with the fastest cash in advance. We offer fast Payday Loans Cape Breton NS to get money instantly.');
      SEOMeta::addKeyword('payday loans cape breton');
      return view('payday-loans-cape-breton', $data);
@@ -543,7 +543,7 @@ SEOMeta::addKeyword('payday loans nova scotia no credit check');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/dartmouth.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "DARTMOTH'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white"];
-     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Dartmoth, NS? Get Up To $1500 From a Safe Trusted Licensed Lender. Easy Application. Multiple repayments, 5 Minutes‎‎ e-Transfer.');
+     SEOMeta::setTitle('Need Instant Payday Loans Online in Dartmoth, NS');
      SEOMeta::setDescription('Dartmouth Payday Loans 24/7. ✔ 5 Minute Approval ✔ No FAX ✔ Bad Credit OK ✔ Interac ✔ Instant Response.');
      SEOMeta::addKeyword('loans dartmouth, bad credit loans dartmouth, cash loans dartmouth, instant payday loans dartmouth, online loans dartmouth, quick loans dartmouth, quick loans in dartmouth, loan companies dartmouth, cash advance dartmouth, cash advance loans dartmouth, cash advance dartmouth, cash for you now dartmouth, cash king dartmouth, cash money dartmouth, cash shop dartmouth, cash store dartmouth, direct cash dartmouth, ez loan dartmouth, fast cash loans dartmouth, money loans dartmouth, money mart dartmouth, money dartmouth, payday loans dartmouth, AB');
      return view('payday-loans-dartmouth', $data);
@@ -561,7 +561,7 @@ SEOMeta::addKeyword('payday loans fort mcmurray ab');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/truro.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Truro NS", "headtxtcolor" => "white", "headalt" => "payday loans truro ns"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Truro NS | Nova Scotia Payday Loans');
+     SEOMeta::setTitle('Nova Scotia Payday Loans');
      SEOMeta::setDescription('Our loan agency in Truro NS provides low-cost payday loans and fast cash advances with multiple repayments. So to apply now and get instant approval!');
 SEOMeta::addKeyword('payday loans truro ns');
      return view('payday-loans-truro', $data);
@@ -570,7 +570,7 @@ SEOMeta::addKeyword('payday loans truro ns');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/sydney.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Sydney NS", "headtxtcolor" => "white", "headalt" => "payday loans sydney ns"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Sydney NS | 24/7 Instant Loan in Canada');
+     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Sydney NS ');
      SEOMeta::setDescription('Get cash with payday loan in Sydney NS which is speedy, safe, and secure. 100% online from trusted loan agency in Canada. Apply now and get instant money.');
 SEOMeta::addKeyword('payday loans, sydney, nova scotia, ns');
      return view('payday-loans-sydney', $data);
@@ -579,7 +579,7 @@ SEOMeta::addKeyword('payday loans, sydney, nova scotia, ns');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/sydney.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Sydney MB", "headtxtcolor" => "white", "headalt" => "payday loans sydney MB"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Dauphin MB | 24/7 Instant Loan in Canada');
+     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Dauphin MB ');
      SEOMeta::setDescription('Get cash with payday loans Dauphin MB which is speedy, safe, secure, and 100% online from trusted loan agency in Canada. Apply now and get instant money.');
 SEOMeta::addKeyword('payday loans Dauphin MB');
      return view('payday-loans-dauphin', $data);
@@ -588,7 +588,7 @@ SEOMeta::addKeyword('payday loans Dauphin MB');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/sydney.jpg", "licpr" => "ns", "spprov" => "Nova Scotia", "headpg" => "Payday Loans Morden MB", "headtxtcolor" => "white", "headalt" => "payday loans morden mb"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Morden MB | 24/7 Instant Loan in Canada');
+     SEOMeta::setTitle('Payday Loans Morden MB');
      SEOMeta::setDescription('Get cash with a payday loan in Morden MB which is speedy, safe, secure, and 100% online from trusted loan agency in Canada. Apply now and get instant money.');
 SEOMeta::addKeyword('payday loans morden mb');
      return view('payday-loans-morden', $data);
@@ -597,7 +597,7 @@ SEOMeta::addKeyword('payday loans morden mb');
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/portage-la-prairie.jpg", "licpr" => "mb", "spprov" => "Portage La Prairie", "headpg" => "Payday Loans Portage La Prairie", "headtxtcolor" => "white", "headalt" => "payday loans portage la prairie"];
-     SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Portage La Prairie MB | Payday Loans Online');
+     SEOMeta::setTitle('Payday Loans Portage La Prairie MB ');
      SEOMeta::setDescription('Our payday loan in Portage La Prairie MB can get your payday loan online easily. So apply fast and get a quick approval for payday loan.');
   SEOMeta::addKeyword('payday loans portage la prairie');
      return view('payday-loans-portage-la-prairie', $data);
@@ -625,7 +625,7 @@ public function Privacy()
 {
   setpurlads();
  $data = ["bannerbg" => "privacy-policy.jpg", "licpr" => "on", "headsub" => "The funds you need when you need them.", "headpg" => "PRIVACY POLICY", "headtxtcolor" => "white", "headphonehide" => "hide", "headalt" => "Canada’s most accessible loans Your Privacy is our Priority TRACKING USER BEHAVIOUR AUTOMATICALLY COLLECTED INFORMATION USE OF COOKIES SECURITY OF PERSONAL INFORMATION UNSUBSCRIBING"];
- SEOMeta::setTitle('Mega Cash Bucks | Privacy Policy On Your Personal Information Security');
+ SEOMeta::setTitle('Privacy Policy On Your Personal Information Security');
  SEOMeta::setDescription('Learn how Mega Cash Bucks, a safe and trusted direct lender safeguards your private information with our privacy policy, what data we collect and how we use this data in the loan application process.');
  SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, fast cash, cash loans, quick cash, Wise loans, payday, financial, cash lenders, online cash loan, loans, Wise loan, cash loan, payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance');
    return view('privacy-policy', $data);
@@ -652,7 +652,7 @@ public function contact()
 {
   setpurlads();
  $data = ["bannerbg" => "images/contact-us.jpg", "licpr" => "on", "headpg" => "CONTACT US TODAY!", "headtxtcolor" => "white", "headphonehide" => "hide", "headsub" => "We’re always happy to hear from you.", "phonesmall" => "Phone: +1 (855) 942-4422", "headalt" => "CONTACT US TODAY We’re always happy to hear from you. Tell us about your experience with our service and what we can do to serve you even better"];
- SEOMeta::setTitle('Contact Mega Cash Bucks About Your Payday Loans Questions and Loans');
+ SEOMeta::setTitle('Contact Mega Cash Bucks');
  SEOMeta::setDescription('Do You Have A Question about Your Payday Loan, Short Term Loans Or Cash Advance Loan Interest Rates & How They Work? Mega Cash Bucks is the Best Trusted Lender. Get approved today');
  SEOMeta::addKeyword('national student loan contact, student loans contact, loan contact, national student loan contact number, national student loan centre contact');
    return view('contact', $data);
