@@ -1,4 +1,4 @@
-<div class="sidebar-widget">
+<!-- <div class="sidebar-widget">
    <h6 class="mb-20">Mega Cash Bucks</h6>
    <p>You can borrow any amount between $100 and $1,500 with repayment options in one to three installments. You’ll be surprised at how competitive our rates are - even if you have bad credit. If you’re looking for an instant loan online, choose <a href="/">Mega Cash Bucks</a>. </p>
 </div>
@@ -84,10 +84,10 @@
 <a class='city' href='/earn-extra-cash'>Earn Extra Cash</a>,
 <a class='city' href='/easy-online-loans-canada'>Easy Online Loans Canada</a>,
 <a class='city' href='/easy-payday-loans-canada'>Easy Payday Loans Canada</a>,
-<!-- <a class='city' href='/ei-loans'>Ei Loans</a>, -->
+<a class='city' href='/ei-loans'>Ei Loans</a>,
 <a class='city' href='/emergency-financial-assistance'>Emergency Financial Assistance</a>,
 <a class='city' href='/emergency-help-with-bills'>Emergency Help With Bills</a>,
-<!-- <a class='city' href='/emergency-loans'>Emergency Loans</a>, -->
+<a class='city' href='/emergency-loans'>Emergency Loans</a>,
 <a class='city' href='/emergency-loans-for-bad-credit'>Emergency Loans For Bad Credit</a>,
 <a class='city' href='/emergency-rent-assistance-ontario'>Emergency Rent Assistance Ontario</a>,
 <a class='city' href='/e-transfer-loans'>E Transfer Loans</a>,
@@ -237,8 +237,8 @@
       <a class='city' href='/quick-loans-bad-credit'>Quick Loans Bad Credit</a>,
       <a class='city' href='/quick-money-now'>Quick Money Now</a>,
       <a class='city' href='/quick-payday-loans-online'>Quick Payday Loans Online</a>,
-      <a class='city' href='/rapid-funds'>Rapid Funds</a>,
-      <!-- <a class='city' href='/same-day-payday-loans'>Same Day Payday Loans</a>, -->
+      <a class='city' href='/rapid-funds'>Rapid Funds</a>, 
+      <a class='city' href='/same-day-payday-loans'>Same Day Payday Loans</a>,
       <a class='city' href='/same-day-personal-loans-near-me'>Same Day Personal Loans Near Me</a>,
       <a class='city' href='/send-cash'>Send Cash</a>,
       <a class='city' href='/short-term-loans-online'>Short Term Loans Online</a>,
@@ -254,4 +254,4 @@
         </div>
       </div>
     </div>
- </div>
+ </div> -->

@@ -1,4 +1,4 @@
-<div class="sidebar-widget">
+<!-- <div class="sidebar-widget">
    <h6 class="mb-20">Mega Cash Bucks</h6>
    <p>You can borrow any amount between $100 and $1,500 with repayment options in one to three installments. You’ll be surprised at how competitive our rates are - even if you have bad credit. If you’re looking for an instant loan online, choose <a href="/">Mega Cash Bucks</a>. </p>
 </div>
@@ -161,7 +161,7 @@
 <a class='city' href='/debt-management-plan'>Debt Management Plan</a>,
 <a class='city' href='/direct-lenders'>Direct Lenders</a>,
 <a class='city' href='/e-transfer-payday-loans'>E Transfer Payday Loans</a>,
-<!-- <a class='city' href='/ei-loans'>Ei Loans</a>, -->
+<a class='city' href='/ei-loans'>Ei Loans</a>,
 <a class='city' href='/faxless-payday-loans'>Faxless Payday Loans</a>,
 <a class='city' href='/gst-hst-credit'>Gst Hst Credit</a>,
 <a class='city' href='/guaranteed-approval-loans-poor-credit'>Guaranteed Approval Loans Poor Credit</a>,
@@ -232,4 +232,4 @@
         </div>
       </div>
     </div>
- </div>
+ </div> -->
