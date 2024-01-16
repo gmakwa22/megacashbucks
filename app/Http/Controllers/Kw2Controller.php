@@ -455,9 +455,9 @@ class Kw2Controller extends Controller
 
      public function kwemergencyloans() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
+        SEOMeta::setTitle('Mega Cash Bucks | Emergency Loans Canada');
+        SEOMeta::setDescription('Disability Loans, Short Term Loans Or Cash Advance Loan Interest Rates & How They Work? Contact Mega Cash Bucks. The Most Trusted Payday Advance In Canada for emergency loans.');
+        SEOMeta::addKeyword('Payday Advance, Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
         return view('keywords2.emergency-loans', $data); }
 
      public function kwemergencyloansforbadcredit() { $track = $this->tracker();
@@ -819,10 +819,10 @@ class Kw2Controller extends Controller
 
      public function kwinstantpaydayloanscanada() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.instant-payday-loans-canada', $data); }
+        SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Canada');
+        SEOMeta::setDescription('Intant Payday Loans Canada, Short Term Loans Or Cash Advance Loan Interest Rates & How They Work? Contact Mega Cash Bucks. The Only Trusted Payday Advance In Canada.d');
+        SEOMeta::addKeyword('Payday Advance, Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
+       return view('keywords2.instant-payday-loans-canada', $data); }
 
      public function kwinstantshorttermloan() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
@@ -1344,10 +1344,10 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloanssaskatchewan() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.payday-loans-saskatchewan', $data); }
+        SEOMeta::setTitle('Payday Loans Saskatchewan Online | No Credit Check Loans Saskatchewan');
+        SEOMeta::setDescription('The fastest payday loans online in Saskatchewan with no credit check. Apply for a payday loan now and get cash the same day from Mega Cash Bucks.');
+        SEOMeta::addKeyword('payday loans saskatchewan online, no credit check loans saskatchewan');
+           return view('keywords2.payday-loans-saskatchewan', $data); }
 
      public function kwpaydayloanssaskatoon() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];

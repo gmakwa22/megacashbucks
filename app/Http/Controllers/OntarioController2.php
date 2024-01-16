@@ -67,14 +67,14 @@ class OntarioController extends Controller
           }
          public function amherstburg() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Amherstburg| Loans in Amherstburg, Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Amherstburg');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Amherstburg, Ontario. 1, 2, or 3 payment installments all for the same interest charge!');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Amherstburg, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
            return view('payday-loans-amherstburg', $data);
           }
          public function amigobeach() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Amigo Beach| Loans in Amigo Beach, Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Amigo Beach');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Amigo Beach, Ontario. You can apply for this loan from the comfort of your couch.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Amigo Beach, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
            return view('payday-loans-amigo-beach', $data);
@@ -88,7 +88,7 @@ class OntarioController extends Controller
           }
          public function arnprior() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Arnprior| Loans in Arnprior, Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Arnprior');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Arnprior, Ontario. Our advanced assessment tools instantly determine your eligibility.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Arnprior, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
            return view('payday-loans-arnprior', $data);
@@ -1700,7 +1700,7 @@ class OntarioController extends Controller
           }
           public function stcatharinesniagara() {
             $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-            SEOMeta::setTitle('Online Instant Payday Loans in Niagara Falls| Loans in Niagara Falls, Ontario');
+            SEOMeta::setTitle('Online Instant Payday Loans in St. Catharines, Ontario');
             SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Niagara Falls Ontario. Getting a loan has never been easier - or faster.');
             SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Niagara Falls , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
                return view('payday-loans-st-catharines-niagara', $data);

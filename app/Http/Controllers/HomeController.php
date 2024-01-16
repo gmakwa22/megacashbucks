@@ -67,7 +67,7 @@ class HomeController extends Controller
      {
        setpurlads();
          $data = ["bannerbg" => "states/illinois.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "Illinois", "headpg" => "ILLINOIS'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Illinois, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
-         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online California');
+         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Illinois');
           SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
 
          return view('/usa/illinois', $data);
@@ -76,7 +76,7 @@ class HomeController extends Controller
      {
        setpurlads();
          $data = ["bannerbg" => "states/ohio.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "Ohio", "headpg" => "OHIO'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
-         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online California');
+         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Ohio');
           SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
 
          return view('/usa/ohio', $data);
@@ -85,7 +85,7 @@ class HomeController extends Controller
      {
        setpurlads();
          $data = ["bannerbg" => "states/georgia.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "Georgia", "headpg" => "GEORGIA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
-         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online California');
+         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Georgia');
           SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
 
          return view('/usa/georgia', $data);
@@ -94,7 +94,7 @@ class HomeController extends Controller
      {
        setpurlads();
          $data = ["bannerbg" => "provinces/vancouver.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "North Carolina", "headpg" => "NORTH CAROLINA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
-         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online California');
+         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online North Carolina');
           SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
 
          return view('/usa/north-carolina', $data);
@@ -103,7 +103,7 @@ class HomeController extends Controller
      {
        setpurlads();
          $data = ["bannerbg" => "states/michigan.jpg", "licpr" => "bc", "spprov" => "Michigan", "headsub" => "The funds you need when you need them. USA",  "headpg" => "MICHIGAN'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
-         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online California');
+         SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Michigan');
           SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
 
          return view('/usa/michigan', $data);
@@ -607,7 +607,7 @@ SEOMeta::addKeyword('payday loans morden mb');
  {
    setpurlads();
    $data = ["bannerbg" => "be-informed.jpg", "licpr" => "on", "spprov" => "Be Informed", "headpg" => "BE INFORMED", "headsub" => "Make the best choice for your financial situation.", "headalign" => "text-center", "headalt" => "Make the best choice for your financial situation. WHAT'S THE BEST LOAN FOR YOU? Everyone’s financial challenges are a little unique to them."];
-   SEOMeta::setTitle('Mega Cash Bucks | Education Center for Lender for Bad Credit Loans.');
+   SEOMeta::setTitle('Education Center for Lender for Bad Credit Loans');
    SEOMeta::setDescription('Why Us? Mega Cash Bucks offers trusted, fast and flexible short term loans. Our loans for bad credit in many repayments will put your finances back on track! Come & view our Education Center to learn more.');
    SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, fast cash, cash loans, quick cash, Wise loans, payday, financial, cash lenders, online cash loan, loans, Wise loan, cash loan, payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance');
      return view('education-center', $data);
@@ -616,7 +616,7 @@ SEOMeta::addKeyword('payday loans morden mb');
 {
   setpurlads();
   $data = ["bannerbg" => "woman-smiling-phone.jpg", "licpr" => "on", "spprov" => "Be Informed", "headpg" => "FREQUENTLY ASKED QUESTIONS", "headtxtcolor" => "black", "headsub" => "Here are answers to the questions you ask most often", "headphonehide" => "hide", "headalt" => "How do I apply for a loan from you?  How fast can I get a payday loan? What will I need to provide to get a Mega Cash Bucks payday loan? Do I need to be have a job? Can I get a loan if I do not own my own home? Do you need any personal information from me?"];
-  SEOMeta::setTitle('Frequently Asked Questions FAQ | Lender for Bad Credit Loans | Mega Cash Bucks');
+  SEOMeta::setTitle('FAQ | Lender for Bad Credit Loans');
   SEOMeta::setDescription('Frequently Asked Questions (FAQ) Mega Cash Bucks offers trusted, fast and flexible short term loans. Our loans for bad credit in many repayments will put your finances back on track!');
   SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, fast cash, cash loans, quick cash, Wise loans, payday, financial, cash lenders, online cash loan, loans, Wise loan, cash loan, payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance');
     return view('faq', $data);

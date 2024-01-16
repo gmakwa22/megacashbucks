@@ -180,7 +180,7 @@ class BCController extends Controller
 
     public function crofton() {
       $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "British Columbia", "headpg" => "Online Instant Payday Loans in British Columbia", "headtxtcolor" => "white", "headalt" => "payday loans Crofton bc"];
-      SEOMeta::setTitle('Payday Loans Creston, British Columbia');
+      SEOMeta::setTitle('Payday Loans Creston, Crofton');
       SEOMeta::setDescription('Crofton British Columbia. With Mega Cash Bucks, you’ll be immediately informed if you qualify.');
       SEOMeta::addKeyword('payday loans, payday loans canada, payday loans online, payday loans bc, payday loans canada, payday loans online, payday loans british columbia,  e-transfer payday loans canada, e-transfer payday loans canada 24 7, online payday loans canada, guaranteed payday loans no matter what canada, payday loans near me, low income e-transfer payday loans, Crofton British Columbia');
       return view('payday-loans-crofton', $data); }

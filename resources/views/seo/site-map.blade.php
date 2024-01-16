@@ -119,7 +119,7 @@
             <!-- <li><a href="{{url('/cash-loans')}}">  Cash Loans</a></li> -->
             <li><a href="{{url('/payday-advance')}}">  Payday Advance</a></li>
             <li><a href="{{url('/payday-loans-near-me')}}">  Payday Loans Near Me</a></li>
-            <li><a href="{{url('/short-term-loans-canada')}}">  Short Term Loans Canada</a></li>
+            <!-- <li><a href="{{url('/short-term-loans-canada')}}">  Short Term Loans Canada</a></li> -->
             <!-- <li><a href="{{url('/same-day-payday-loans')}}">  Same Day Payday Loans</a></li> -->
             <li><a href="{{url('/same-day-loans')}}">  Same Day Loans</a></li>
             <li><a href="{{url('/express-loans')}}">  Express Loans</a></li>
