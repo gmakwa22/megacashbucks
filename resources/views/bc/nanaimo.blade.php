@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Nanaimo, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://tourismnanaimo.com/what-to-do/" target="_blank" rel="nofollow noopener">- Best Attractions in Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://tourismnanaimo.com/what-to-do/sip-and-savour/downtown-nanaimo-restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-c26-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/nanaimo/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/nanaimo.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-zft11306-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.nanaimobulletin.com/" target="_blank" rel="nofollow noopener">- Local News for Nanaimo, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-20_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://tourismnanaimo.com/what-to-do/" target="_blank" >- Best Attractions in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://tourismnanaimo.com/what-to-do/sip-and-savour/downtown-nanaimo-restaurants/" target="_blank" >- Best Places to Eat in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-c26-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/nanaimo/home" target="_blank" >- Public Transportation Options in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/nanaimo.html" target="_blank" >- Best Places to Stay in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-zft11306-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.nanaimobulletin.com/" target="_blank" >- Local News for Nanaimo, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-20_metric_e.html" target="_blank" >- Weather in Nanaimo, British Columbia</a></li>
 					</ul>
       </div>
      </div>

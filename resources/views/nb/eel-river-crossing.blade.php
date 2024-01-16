@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Eel River Crossing, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://tourismnewbrunswick.ca/listing/village-eel-river-dundee" target="_blank" rel="nofollow noopener">- Best Attractions in Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/great-service-Eel-River-Crossing-m9643" target="_blank" rel="nofollow noopener">- Best Places to Eat in Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Eel+River+Crossing%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/100-mile-house/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/San-Francisco/Eel-River-Crossing" target="_blank" rel="nofollow noopener">- Best Places to Stay in Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.mykiddypark.com/en/localisation/outdoor-family-activities-at-eel-river-crossing-new-brunswick-canada" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/eel-river-crossing/" target="_blank" rel="nofollow noopener">- Local News for Eel River Crossing, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/eel-river-crossing" target="_blank" rel="nofollow noopener">- Weather in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://tourismnewbrunswick.ca/listing/village-eel-river-dundee" target="_blank" >- Best Attractions in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/great-service-Eel-River-Crossing-m9643" target="_blank" >- Best Places to Eat in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Eel+River+Crossing%2C+NB" target="_blank" >- Best Places to Go Shopping in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/100-mile-house/home" target="_blank" >- Public Transportation Options in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/San-Francisco/Eel-River-Crossing" target="_blank" >- Best Places to Stay in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.mykiddypark.com/en/localisation/outdoor-family-activities-at-eel-river-crossing-new-brunswick-canada" target="_blank" >- Best Things to do with the Kids in Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/eel-river-crossing/" target="_blank" >- Local News for Eel River Crossing, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/eel-river-crossing" target="_blank" >- Weather in Eel River Crossing, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

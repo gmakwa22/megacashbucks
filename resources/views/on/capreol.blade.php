@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Capreol, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.triphobo.com/places/capreol-canada/things-to-do" target="_blank" rel="nofollow noopener">- Best Attractions in Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Capreol" target="_blank" rel="nofollow noopener">- Best Places to Eat in Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.com/search?cflt=shopping&find_loc=Capreol%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Capreol-Greater_Sudbury_ON-site_13411300-3723" target="_blank" rel="nofollow noopener">- Public Transportation Options in Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7113380-Capreol_Sudbury_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7113380-Activities-zft11306-Capreol_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.sudbury.com/neighbourhood-news/capreol" target="_blank" rel="nofollow noopener">- Local News for Capreol, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/capreol" target="_blank" rel="nofollow noopener">- Weather in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.triphobo.com/places/capreol-canada/things-to-do" target="_blank" >- Best Attractions in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Capreol" target="_blank" >- Best Places to Eat in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.com/search?cflt=shopping&find_loc=Capreol%2C+ON" target="_blank" >- Best Places to Go Shopping in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Capreol-Greater_Sudbury_ON-site_13411300-3723" target="_blank" >- Public Transportation Options in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7113380-Capreol_Sudbury_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7113380-Activities-zft11306-Capreol_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.sudbury.com/neighbourhood-news/capreol" target="_blank" >- Local News for Capreol, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/capreol" target="_blank" >- Weather in Capreol, Ontario</a></li>
 					</ul>
       </div>
      </div>

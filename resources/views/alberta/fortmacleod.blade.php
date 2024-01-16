@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort Macleod, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182207-Activities-Fort_Macleod_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182207-Fort_Macleod_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://fortmacleod.com/live-here/directory/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/fort_macleod_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182207-Fort_Macleod_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182207-Activities-zft11306-Fort_Macleod_Alberta.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.fortmacleodgazette.com/" target="_blank" rel="nofollow noopener">- Local News for Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/fort-macleod" target="_blank" rel="nofollow noopener">- Weather in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182207-Activities-Fort_Macleod_Alberta.html" target="_blank" >- Best Attractions in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182207-Fort_Macleod_Alberta.html" target="_blank" >- Best Places to Eat in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://fortmacleod.com/live-here/directory/" target="_blank" >- Best Places to Go Shopping in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/fort_macleod_bus_routes.htm" target="_blank" >- Public Transportation Options in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182207-Fort_Macleod_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182207-Activities-zft11306-Fort_Macleod_Alberta.html" target="_blank" >- Best Things to do with the Kids in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.fortmacleodgazette.com/" target="_blank" >- Local News for Fort Macleod, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/fort-macleod" target="_blank" >- Weather in Fort Macleod, Alberta</a></li>
 					</ul>
       </div>
      </div>

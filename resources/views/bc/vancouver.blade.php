@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Vancouver, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.vancouverattractions.com/" target="_blank" rel="nofollow noopener">- Best Attractions in Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.eater.com/maps/best-vancouver-restaurants-canada" target="_blank" rel="nofollow noopener">- Best Places to Eat in Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.destinationvancouver.com/activities/shopping/vancouver-shopping-neighbourhoods/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.translink.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/vancouver.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.destinationvancouver.com/activities/family-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/bc/" target="_blank" rel="nofollow noopener">- Local News for Vancouver, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-74_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.vancouverattractions.com/" target="_blank" >- Best Attractions in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.eater.com/maps/best-vancouver-restaurants-canada" target="_blank" >- Best Places to Eat in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.destinationvancouver.com/activities/shopping/vancouver-shopping-neighbourhoods/" target="_blank" >- Best Places to Go Shopping in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.translink.ca/" target="_blank" >- Public Transportation Options in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/vancouver.html" target="_blank" >- Best Places to Stay in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.destinationvancouver.com/activities/family-kids/" target="_blank" >- Best Things to do with the Kids in Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/bc/" target="_blank" >- Local News for Vancouver, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-74_metric_e.html" target="_blank" >- Weather in Vancouver, British Columbia</a></li>
 					</ul>
       </div>
      </div>

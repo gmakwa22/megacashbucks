@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Espanola, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Espanola%2C-Canada" target="_blank" rel="nofollow noopener">- Best Attractions in Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/espanola/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Espanola%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Espanola-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/espanola.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Espanola%2C-Canada" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.myespanolanow.com/news/" target="_blank" rel="nofollow noopener">- Local News for Espanola, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/espanola" target="_blank" rel="nofollow noopener">- Weather in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Espanola%2C-Canada" target="_blank" >- Best Attractions in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/espanola/" target="_blank" >- Best Places to Eat in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Espanola%2C+ON" target="_blank" >- Best Places to Go Shopping in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Espanola-ON-Canada" target="_blank" >- Public Transportation Options in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/espanola.html" target="_blank" >- Best Places to Stay in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Espanola%2C-Canada" target="_blank" >- Best Things to do with the Kids in Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.myespanolanow.com/news/" target="_blank" >- Local News for Espanola, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/espanola" target="_blank" >- Weather in Espanola, Ontario</a></li>
 					</ul>
       </div>
      </div>

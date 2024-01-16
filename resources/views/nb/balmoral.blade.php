@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Balmoral, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://tourismnewbrunswick.ca/listing/village-balmoral#:~:text=A%20wooded%20paradise%20of%20hunting,a%20variety%20of%20themed%20programs." target="_blank" rel="nofollow noopener">- Best Attractions in Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Balmoral-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://balmoralnb.com/economie/commerces-et-industries/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11399929/balmoral-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/balmoral/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/balmoral-nb/" target="_blank" rel="nofollow noopener">- Local News for Balmoral, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/balmoral" target="_blank" rel="nofollow noopener">- Weather in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://tourismnewbrunswick.ca/listing/village-balmoral#:~:text=A%20wooded%20paradise%20of%20hunting,a%20variety%20of%20themed%20programs." target="_blank" >- Best Attractions in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Balmoral-New-Brunswick" target="_blank" >- Best Places to Eat in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://balmoralnb.com/economie/commerces-et-industries/" target="_blank" >- Best Places to Go Shopping in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11399929/balmoral-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/balmoral/nb" target="_blank" >- Best Things to do with the Kids in Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/balmoral-nb/" target="_blank" >- Local News for Balmoral, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/balmoral" target="_blank" >- Weather in Balmoral, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wetaskiwin, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499115-Activities-Wetaskiwin_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499115-Wetaskiwin_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="http://wetaskiwin.ca/1125/Wetaskiwin-Mall" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.wetaskiwin.ca/681/Transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499115-Wetaskiwin_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.wetaskiwin.ca/865/Family-Fun" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.wetaskiwintimes.com/category/news/local-news/" target="_blank" rel="nofollow noopener">- Local News for Wetaskiwin, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/wetaskiwin" target="_blank" rel="nofollow noopener">- Weather in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499115-Activities-Wetaskiwin_Alberta.html" target="_blank" >- Best Attractions in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499115-Wetaskiwin_Alberta.html" target="_blank" >- Best Places to Eat in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="http://wetaskiwin.ca/1125/Wetaskiwin-Mall" target="_blank" >- Best Places to Go Shopping in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.wetaskiwin.ca/681/Transportation" target="_blank" >- Public Transportation Options in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499115-Wetaskiwin_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.wetaskiwin.ca/865/Family-Fun" target="_blank" >- Best Things to do with the Kids in Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.wetaskiwintimes.com/category/news/local-news/" target="_blank" >- Local News for Wetaskiwin, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/wetaskiwin" target="_blank" >- Weather in Wetaskiwin, Alberta</a></li>
 					</ul>
       </div>
      </div>

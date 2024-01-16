@@ -39,7 +39,7 @@ class OntarioController extends Controller
       }
       public function alexandria() {
         $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-        SEOMeta::setTitle('Online Instant Payday Loans in Alexandria| Loans in Alexandria, Ontario');
+        SEOMeta::setTitle('Online Instant Payday Loans in Alexandria');
         SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Alexandria, Ontario. You can pay back your loan on your next payday in a single installment.');
         SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Alexandria, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
         return view('/on.alexandria', $data);
@@ -53,7 +53,7 @@ class OntarioController extends Controller
         }
         public function alliston() {
           $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-          SEOMeta::setTitle('Online Instant Payday Loans in Alliston| Loans in Alliston, Ontario');
+          SEOMeta::setTitle('Online Instant Payday Loans in Alliston');
           SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Aliston, Ontario. You have more time to repay, with no extra fees or interest charges.');
           SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Alliston, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
           return view('/on.alliston', $data);

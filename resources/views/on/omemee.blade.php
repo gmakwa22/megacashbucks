@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Omemee, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3454061-Activities-Omemee_Kawartha_Lakes_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3454061-Omemee_Kawartha_Lakes_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadianplanet.net/omemee/retail+stores" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Omemee-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de171024/omemee-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/kawartha-lakes/omemee/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/omemee/" target="_blank" rel="nofollow noopener">- Local News for Omemee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/omemee" target="_blank" rel="nofollow noopener">- Weather in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3454061-Activities-Omemee_Kawartha_Lakes_Ontario.html" target="_blank" >- Best Attractions in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3454061-Omemee_Kawartha_Lakes_Ontario.html" target="_blank" >- Best Places to Eat in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadianplanet.net/omemee/retail+stores" target="_blank" >- Best Places to Go Shopping in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Omemee-ON-Canada" target="_blank" >- Public Transportation Options in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de171024/omemee-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/kawartha-lakes/omemee/" target="_blank" >- Best Things to do with the Kids in Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/omemee/" target="_blank" >- Local News for Omemee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/omemee" target="_blank" >- Weather in Omemee, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Puntledge, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181789-Activities-Courtenay_Comox_Valley_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.comoxvalleyrecord.com/community/list-of-comox-valley-restaurants-offering-take-out-patio-dining-options/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://experiencecomoxvalley.ca/discover/things-to-do/shop-local/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/comox-valley/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/comox-province-of-british-columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/British Columbia/prince-albert/Puntledge/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.comoxvalleyrecord.com/" target="_blank" rel="nofollow noopener">- Local News for Puntledge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/puntledge" target="_blank" rel="nofollow noopener">- Weather in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181789-Activities-Courtenay_Comox_Valley_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.comoxvalleyrecord.com/community/list-of-comox-valley-restaurants-offering-take-out-patio-dining-options/" target="_blank" >- Best Places to Eat in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://experiencecomoxvalley.ca/discover/things-to-do/shop-local/" target="_blank" >- Best Places to Go Shopping in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/comox-valley/schedules-and-maps" target="_blank" >- Public Transportation Options in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/comox-province-of-british-columbia.html" target="_blank" >- Best Places to Stay in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/British Columbia/prince-albert/Puntledge/" target="_blank" >- Best Things to do with the Kids in Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.comoxvalleyrecord.com/" target="_blank" >- Local News for Puntledge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/puntledge" target="_blank" >- Weather in Puntledge, British Columbia</a></li>
 					</ul>
       </div>
      </div>

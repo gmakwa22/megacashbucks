@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bolton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1600459-Activities-Bolton_Caledon_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1600459-Bolton_Caledon_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1600459-Activities-c26-Bolton_Caledon_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.caledon.ca/en/town-services/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848892.b1114449709519.g1kwd-312865192012.l1.e1c.m1EAIaIQobChMI3ti0jLnN8wIVFX8rCh2DggnBEAAYAiAAEgIVPfD_BwE.r1cb3f5b3b7d888ca0a1b54bb92b0c5f3bc4ca5e2acdf6b6d31bfa2c82bb45668f.c1E7zDhsKw3YIf7RLNcg6Xiw.j19001551.k1.d1486358308180.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Bolton%2C%20Caledon%2C%20Ontario%2C%20Canada&endDate=2021-10-30&gclid=EAIaIQobChMI3ti0jLnN8wIVFX8rCh2DggnBEAAYAiAAEgIVPfD_BwE&locale=en_CA&regionId=6344594&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-29&theme=&useRewards=false&userIntent=" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bolton/on" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.caledonenterprise.com/" target="_blank" rel="nofollow noopener">- Local News for Bolton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bolton" target="_blank" rel="nofollow noopener">- Weather in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1600459-Activities-Bolton_Caledon_Ontario.html" target="_blank" >- Best Attractions in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1600459-Bolton_Caledon_Ontario.html" target="_blank" >- Best Places to Eat in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1600459-Activities-c26-Bolton_Caledon_Ontario.html" target="_blank" >- Best Places to Go Shopping in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.caledon.ca/en/town-services/transit.aspx" target="_blank" >- Public Transportation Options in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848892.b1114449709519.g1kwd-312865192012.l1.e1c.m1EAIaIQobChMI3ti0jLnN8wIVFX8rCh2DggnBEAAYAiAAEgIVPfD_BwE.r1cb3f5b3b7d888ca0a1b54bb92b0c5f3bc4ca5e2acdf6b6d31bfa2c82bb45668f.c1E7zDhsKw3YIf7RLNcg6Xiw.j19001551.k1.d1486358308180.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Bolton%2C%20Caledon%2C%20Ontario%2C%20Canada&endDate=2021-10-30&gclid=EAIaIQobChMI3ti0jLnN8wIVFX8rCh2DggnBEAAYAiAAEgIVPfD_BwE&locale=en_CA&regionId=6344594&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-29&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bolton/on" target="_blank" >- Best Things to do with the Kids in Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.caledonenterprise.com/" target="_blank" >- Local News for Bolton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bolton" target="_blank" >- Weather in Bolton, Ontario</a></li>
 					</ul>
       </div>
      </div>

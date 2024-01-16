@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chippawa, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g154986-Chippawa_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154986-zfg16556-Chippawa_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chippawa/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Chippawa-Toronto_ON-site_13404378-143" target="_blank" rel="nofollow noopener">- Public Transportation Options in Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g154986-Chippawa_Ontario-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154998-Activities-zft11306-Niagara_Falls_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagarathisweek.com/niagarafalls-on/" target="_blank" rel="nofollow noopener">- Local News for Chippawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chippawa" target="_blank" rel="nofollow noopener">- Weather in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g154986-Chippawa_Ontario-Vacations.html" target="_blank" >- Best Attractions in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154986-zfg16556-Chippawa_Ontario.html" target="_blank" >- Best Places to Eat in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chippawa/80014000.html" target="_blank" >- Best Places to Go Shopping in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Chippawa-Toronto_ON-site_13404378-143" target="_blank" >- Public Transportation Options in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g154986-Chippawa_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154998-Activities-zft11306-Niagara_Falls_Ontario.html" target="_blank" >- Best Things to do with the Kids in Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagarathisweek.com/niagarafalls-on/" target="_blank" >- Local News for Chippawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chippawa" target="_blank" >- Weather in Chippawa, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stratford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155015-Activities-Stratford_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/stratford/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155015-Activities-c26-Stratford_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.stratford.ca/en/live-here/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/stratford.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/stratford/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.stratfordbeaconherald.com/category/news/local-news/" target="_blank" rel="nofollow noopener">- Local News for Stratford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-116_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155015-Activities-Stratford_Ontario.html" target="_blank" >- Best Attractions in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/stratford/" target="_blank" >- Best Places to Eat in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155015-Activities-c26-Stratford_Ontario.html" target="_blank" >- Best Places to Go Shopping in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.stratford.ca/en/live-here/transit.aspx" target="_blank" >- Public Transportation Options in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/stratford.html" target="_blank" >- Best Places to Stay in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/stratford/" target="_blank" >- Best Things to do with the Kids in Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.stratfordbeaconherald.com/category/news/local-news/" target="_blank" >- Local News for Stratford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-116_metric_e.html" target="_blank" >- Weather in Stratford, Ontario</a></li>
 					</ul>
       </div>
      </div>

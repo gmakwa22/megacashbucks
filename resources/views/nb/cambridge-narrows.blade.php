@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cambridge-Narrows, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2261501-Activities-Cambridge_Narrows_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2261501-Cambridge_Narrows_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://cambridge-narrows.ca/our-village/local-businesses" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Cambridge-Narrows/Fredericton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/cambridge-narrows" target="_blank" rel="nofollow noopener">- Best Places to Stay in Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g2261501-Activities-Cambridge_Narrows_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/cambridge-narrows-nb/" target="_blank" rel="nofollow noopener">- Local News for Cambridge-Narrows, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/cambridge-narrows" target="_blank" rel="nofollow noopener">- Weather in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2261501-Activities-Cambridge_Narrows_New_Brunswick.html" target="_blank" >- Best Attractions in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2261501-Cambridge_Narrows_New_Brunswick.html" target="_blank" >- Best Places to Eat in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://cambridge-narrows.ca/our-village/local-businesses" target="_blank" >- Best Places to Go Shopping in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Cambridge-Narrows/Fredericton" target="_blank" >- Public Transportation Options in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/cambridge-narrows" target="_blank" >- Best Places to Stay in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g2261501-Activities-Cambridge_Narrows_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/cambridge-narrows-nb/" target="_blank" >- Local News for Cambridge-Narrows, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/cambridge-narrows" target="_blank" >- Weather in Cambridge-Narrows, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

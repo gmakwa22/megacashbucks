@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Attawapiskat, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.hellotravel.com/canada/attawapiskat" target="_blank" rel="nofollow noopener">- Best Attractions in Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Restaurants/Attawapiskat+ON" target="_blank" rel="nofollow noopener">- Best Places to Eat in Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-attawapiskat-ontario-4343-609-39" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ontariopublictransit.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/attawapiskat-on" target="_blank" rel="nofollow noopener">- Best Places to Stay in Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/family-attractions/16-great-things-do-kids-ontario" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/attawapiskat/" target="_blank" rel="nofollow noopener">- Local News for Attawapiskat, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-164_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hellotravel.com/canada/attawapiskat" target="_blank" >- Best Attractions in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Restaurants/Attawapiskat+ON" target="_blank" >- Best Places to Eat in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-attawapiskat-ontario-4343-609-39" target="_blank" >- Best Places to Go Shopping in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontariopublictransit.ca/" target="_blank" >- Public Transportation Options in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/attawapiskat-on" target="_blank" >- Best Places to Stay in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/family-attractions/16-great-things-do-kids-ontario" target="_blank" >- Best Things to do with the Kids in Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/attawapiskat/" target="_blank" >- Local News for Attawapiskat, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-164_metric_e.html" target="_blank" >- Weather in Attawapiskat, Ontario</a></li>
 					</ul>
       </div>
      </div>

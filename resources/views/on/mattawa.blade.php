@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Mattawa, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940809-Activities-Mattawa_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940809-Mattawa_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Mattawa%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Mattawa-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g940809-Mattawa_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/nipissing/mattawa/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/mattawa/" target="_blank" rel="nofollow noopener">- Local News for Mattawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mattawa" target="_blank" rel="nofollow noopener">- Weather in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940809-Activities-Mattawa_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940809-Mattawa_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Mattawa%2C+ON" target="_blank" >- Best Places to Go Shopping in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Mattawa-ON-Canada" target="_blank" >- Public Transportation Options in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g940809-Mattawa_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/nipissing/mattawa/" target="_blank" >- Best Things to do with the Kids in Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/mattawa/" target="_blank" >- Local News for Mattawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mattawa" target="_blank" >- Weather in Mattawa, Ontario</a></li>
 					</ul>
       </div>
      </div>

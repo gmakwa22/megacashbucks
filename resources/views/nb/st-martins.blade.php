@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Martins, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://bucketlistbri.com/things-to-do-st-martins/" target="_blank" rel="nofollow noopener">- Best Attractions in St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Saint-Martins-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://stmartinscanada.com/shops-services/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/St-Martins-NB-Canada/Saint-John" target="_blank" rel="nofollow noopener">- Public Transportation Options in St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-martins.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499184-Activities-zft11306-St_Martins_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-martin/" target="_blank" rel="nofollow noopener">- Local News for St. Martins, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/st-martins" target="_blank" rel="nofollow noopener">- Weather in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://bucketlistbri.com/things-to-do-st-martins/" target="_blank" >- Best Attractions in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Saint-Martins-New-Brunswick" target="_blank" >- Best Places to Eat in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://stmartinscanada.com/shops-services/" target="_blank" >- Best Places to Go Shopping in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/St-Martins-NB-Canada/Saint-John" target="_blank" >- Public Transportation Options in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-martins.html" target="_blank" >- Best Places to Stay in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499184-Activities-zft11306-St_Martins_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-martin/" target="_blank" >- Local News for St. Martins, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/st-martins" target="_blank" >- Weather in St. Martins, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

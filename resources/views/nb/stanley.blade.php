@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stanley, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g504330-Activities-Stanley_Tasmania.html" target="_blank" rel="nofollow noopener">- Best Attractions in Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Stanley-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Stanley%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://saintjohn.ca/en/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.airbnb.ca/stanley-canada/stays" target="_blank" rel="nofollow noopener">- Best Places to Stay in Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g504330-Activities-Stanley_Tasmania.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/stanley-new-brunswick/" target="_blank" rel="nofollow noopener">- Local News for Stanley, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/stanley" target="_blank" rel="nofollow noopener">- Weather in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g504330-Activities-Stanley_Tasmania.html" target="_blank" >- Best Attractions in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Stanley-New-Brunswick" target="_blank" >- Best Places to Eat in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Stanley%2C+NB" target="_blank" >- Best Places to Go Shopping in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://saintjohn.ca/en/transit" target="_blank" >- Public Transportation Options in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.airbnb.ca/stanley-canada/stays" target="_blank" >- Best Places to Stay in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g504330-Activities-Stanley_Tasmania.html" target="_blank" >- Best Things to do with the Kids in Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/stanley-new-brunswick/" target="_blank" >- Local News for Stanley, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/stanley" target="_blank" >- Weather in Stanley, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

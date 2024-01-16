@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sparwood, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1015558-Activities-Sparwood_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1015558-Sparwood_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Sparwood%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/elk-valley/schedules-and-maps/route-overview?route=1" target="_blank" rel="nofollow noopener">- Public Transportation Options in Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1015558-Sparwood_Kootenay_Rockies_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1015558-Activities-Sparwood_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.e-know.ca/category/regions/elk-valley/sparwood/" target="_blank" rel="nofollow noopener">- Local News for Sparwood, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-52_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1015558-Activities-Sparwood_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Attractions in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1015558-Sparwood_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Places to Eat in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Sparwood%2C+BC" target="_blank" >- Best Places to Go Shopping in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/elk-valley/schedules-and-maps/route-overview?route=1" target="_blank" >- Public Transportation Options in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1015558-Sparwood_Kootenay_Rockies_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1015558-Activities-Sparwood_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.e-know.ca/category/regions/elk-valley/sparwood/" target="_blank" >- Local News for Sparwood, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-52_metric_e.html" target="_blank" >- Weather in Sparwood, British Columbia</a></li>
 					</ul>
       </div>
      </div>

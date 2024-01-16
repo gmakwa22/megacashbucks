@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bonnyville, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670325-Activities-Bonnyville_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g670325-Bonnyville_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-bonnyville-alberta-4182-601-39" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://md.bonnyville.ab.ca/414/Transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g670325-Bonnyville_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bonnyville/ab" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.lakelandtoday.ca/bonnyville-news" target="_blank" rel="nofollow noopener">- Local News for Bonnyville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/bonnyville" target="_blank" rel="nofollow noopener">- Weather in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670325-Activities-Bonnyville_Alberta.html" target="_blank" >- Best Attractions in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g670325-Bonnyville_Alberta.html" target="_blank" >- Best Places to Eat in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-bonnyville-alberta-4182-601-39" target="_blank" >- Best Places to Go Shopping in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://md.bonnyville.ab.ca/414/Transportation" target="_blank" >- Public Transportation Options in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g670325-Bonnyville_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bonnyville/ab" target="_blank" >- Best Things to do with the Kids in Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.lakelandtoday.ca/bonnyville-news" target="_blank" >- Local News for Bonnyville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/bonnyville" target="_blank" >- Weather in Bonnyville, Alberta</a></li>
 					</ul>
       </div>
      </div>

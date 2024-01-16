@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Saint John, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/saint-john-cdn-nb-nbs.htm" target="_blank" rel="nofollow noopener">- Best Attractions in Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/saint-john/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154960-Activities-c26-Saint_John_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://saintjohn.ca/en/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-john.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154960-Activities-zft11306-Saint_John_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/saint-john/" target="_blank" rel="nofollow noopener">- Local News for Saint John, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-23_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/saint-john-cdn-nb-nbs.htm" target="_blank" >- Best Attractions in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/saint-john/" target="_blank" >- Best Places to Eat in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154960-Activities-c26-Saint_John_New_Brunswick.html" target="_blank" >- Best Places to Go Shopping in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://saintjohn.ca/en/transit" target="_blank" >- Public Transportation Options in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-john.html" target="_blank" >- Best Places to Stay in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154960-Activities-zft11306-Saint_John_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/saint-john/" target="_blank" >- Local News for Saint John, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-23_metric_e.html" target="_blank" >- Weather in Saint John, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

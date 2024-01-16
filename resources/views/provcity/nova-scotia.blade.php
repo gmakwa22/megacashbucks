@@ -37,14 +37,14 @@
       <div class="col-lg-6 sm-mt-30">
 				  <h3>Helpful information about Nova Scotia</h3>
           <ul class="list-group">
-						<li class="list-group-item"><a href="https://novascotia.ca" target="_blank" rel="nofollow noopener">- Province of Nova Scotia</a></li>
-						<li class="list-group-item"><a href="https://library.novascotia.ca/map " target="_blank" rel="nofollow noopener">- Libraries in Nova Scotia</a></li>
-						<li class="list-group-item"><a href="https://www.novascotia.com/" target="_blank" rel="nofollow noopener">- Public Transit in Nova Scotia</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154967-Nova_Scotia.html" target="_blank" rel="nofollow noopener">- Best restaurants in Nova Scotia</a></li>
-						 <li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154967-Nova_Scotia-Hotels.html" target="_blank" rel="nofollow noopener">- The best Hotels in Nova Scotia</a></li>
-						<li class="list-group-item"><a href="https://www.novascotia.com/explore/top-25" target="_blank" rel="nofollow noopener">- Best Things to Do in Nova Scotia</a></li>
-						<li class="list-group-item"><a href="https://www.cbc.ca/news/canada/nova-scotia" target="_blank" rel="nofollow noopener">- News in Nova Scotia</a></li>
-						<li class="list-group-item"><a href="https://weather.gc.ca/forecast/canada/index_e.html?id=NS" target="_blank" rel="nofollow noopener">- Weather in Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://novascotia.ca" target="_blank" >- Province of Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://library.novascotia.ca/map " target="_blank" >- Libraries in Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://www.novascotia.com/" target="_blank" >- Public Transit in Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154967-Nova_Scotia.html" target="_blank" >- Best restaurants in Nova Scotia</a></li>
+						 <li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154967-Nova_Scotia-Hotels.html" target="_blank" >- The best Hotels in Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://www.novascotia.com/explore/top-25" target="_blank" >- Best Things to Do in Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://www.cbc.ca/news/canada/nova-scotia" target="_blank" >- News in Nova Scotia</a></li>
+						<li class="list-group-item"><a href="https://weather.gc.ca/forecast/canada/index_e.html?id=NS" target="_blank" >- Weather in Nova Scotia</a></li>
 		 			 </ul>
       </div>
      </div>

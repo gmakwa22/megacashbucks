@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lake Cowichan, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismcowichan.com/things-to-do/" target="_blank" rel="nofollow noopener">- Best Attractions in Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g635947-Lake_Cowichan_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.cowichanlake.ca/directory/categories/retail" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.cowichanlake.ca/directory/categories/accommodation" target="_blank" rel="nofollow noopener">- Best Places to Stay in Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=kids+activities&find_loc=Lake+Cowichan%2C+BC" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.lakecowichangazette.com/" target="_blank" rel="nofollow noopener">- Local News for Lake Cowichan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/lake-cowichan" target="_blank" rel="nofollow noopener">- Weather in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismcowichan.com/things-to-do/" target="_blank" >- Best Attractions in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g635947-Lake_Cowichan_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.cowichanlake.ca/directory/categories/retail" target="_blank" >- Best Places to Go Shopping in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps" target="_blank" >- Public Transportation Options in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.cowichanlake.ca/directory/categories/accommodation" target="_blank" >- Best Places to Stay in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=kids+activities&find_loc=Lake+Cowichan%2C+BC" target="_blank" >- Best Things to do with the Kids in Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.lakecowichangazette.com/" target="_blank" >- Local News for Lake Cowichan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/lake-cowichan" target="_blank" >- Weather in Lake Cowichan, British Columbia</a></li>
 					</ul>
       </div>
      </div>

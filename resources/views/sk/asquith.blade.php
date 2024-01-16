@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Asquith, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/32/asquith#sort=relevancy" target="_blank" rel="nofollow noopener">- Best Attractions in Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Asquith%2C+SK+S0K+0J0" target="_blank" rel="nofollow noopener">- Best Places to Eat in Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Asquith%2C+SK" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Ferries/Asquith+SK" target="_blank" rel="nofollow noopener">- Public Transportation Options in Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de660422693849083904/asquith-saskatchewan-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://kidsportcanada.ca/saskatchewan/asquith/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/asquith/" target="_blank" rel="nofollow noopener">- Local News for Asquith, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/asquith" target="_blank" rel="nofollow noopener">- Weather in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/32/asquith#sort=relevancy" target="_blank" >- Best Attractions in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Asquith%2C+SK+S0K+0J0" target="_blank" >- Best Places to Eat in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Asquith%2C+SK" target="_blank" >- Best Places to Go Shopping in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Ferries/Asquith+SK" target="_blank" >- Public Transportation Options in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de660422693849083904/asquith-saskatchewan-hotels-rooms/" target="_blank" >- Best Places to Stay in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://kidsportcanada.ca/saskatchewan/asquith/" target="_blank" >- Best Things to do with the Kids in Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/asquith/" target="_blank" >- Local News for Asquith, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/asquith" target="_blank" >- Weather in Asquith, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

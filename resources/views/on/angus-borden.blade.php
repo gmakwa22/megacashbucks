@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Angus–Borden, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g4058671-d4057897-Base_Borden_Military_Museum-Borden_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4058671-Borden_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-angus-borden-canada-4338-609-39" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.madhunt.com/angus-bus-ending-20191202.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848859.b1114449646479.g1kwd-22876788156.l1.e1c.m1EAIaIQobChMIqLKDv87I8wIVsx-tBh30WQmiEAAYAiAAEgK2RfD_BwE.r1dca2000e038173b74d710b58e0c0b44678b010b3b62c8e05e7b20b909383c902.c1UmvJ_Q2UKuu-5pFfeWDY-g.j19001551.k1.d1486363839278.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Angus%2C%20Essa%2C%20Ontario%2C%20Canada&endDate=2021-10-28&gclid=EAIaIQobChMIqLKDv87I8wIVsx-tBh30WQmiEAAYAiAAEgK2RfD_BwE&locale=en_CA&regionId=6157900&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-27&theme=&useRewards=false&userIntent=" target="_blank" rel="nofollow noopener">- Best Places to Stay in Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/simcoe/angus/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/cfb-borden/" target="_blank" rel="nofollow noopener">- Local News for Angus–Borden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/borden" target="_blank" rel="nofollow noopener">- Weather in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g4058671-d4057897-Base_Borden_Military_Museum-Borden_Ontario.html" target="_blank" >- Best Attractions in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4058671-Borden_Ontario.html" target="_blank" >- Best Places to Eat in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-angus-borden-canada-4338-609-39" target="_blank" >- Best Places to Go Shopping in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.madhunt.com/angus-bus-ending-20191202.html" target="_blank" >- Public Transportation Options in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848859.b1114449646479.g1kwd-22876788156.l1.e1c.m1EAIaIQobChMIqLKDv87I8wIVsx-tBh30WQmiEAAYAiAAEgK2RfD_BwE.r1dca2000e038173b74d710b58e0c0b44678b010b3b62c8e05e7b20b909383c902.c1UmvJ_Q2UKuu-5pFfeWDY-g.j19001551.k1.d1486363839278.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Angus%2C%20Essa%2C%20Ontario%2C%20Canada&endDate=2021-10-28&gclid=EAIaIQobChMIqLKDv87I8wIVsx-tBh30WQmiEAAYAiAAEgK2RfD_BwE&locale=en_CA&regionId=6157900&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-27&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/simcoe/angus/" target="_blank" >- Best Things to do with the Kids in Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/cfb-borden/" target="_blank" >- Local News for Angus–Borden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/borden" target="_blank" >- Weather in Angus–Borden, Ontario</a></li>
 					</ul>
       </div>
      </div>

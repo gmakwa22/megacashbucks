@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Roberts Creek, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.twoscotsabroad.com/quirkin-out-in-roberts-creek/" target="_blank" rel="nofollow noopener">- Best Attractions in Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2021/05/roberts-creek-and-davis-bay-dining-guide-patios-takeout-and-delivery-edition/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.robertscreekdirectory.ca/shops/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/sunshine-coast/schedules-and-maps/route-overview?route=1" target="_blank" rel="nofollow noopener">- Public Transportation Options in Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/roberts-creek.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2021/07/summer-activities-for-families-on-the-sunshine-coast/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.coastreporter.net/" target="_blank" rel="nofollow noopener">- Local News for Roberts Creek, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/british-columbia/roberts-creek" target="_blank" rel="nofollow noopener">- Weather in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.twoscotsabroad.com/quirkin-out-in-roberts-creek/" target="_blank" >- Best Attractions in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2021/05/roberts-creek-and-davis-bay-dining-guide-patios-takeout-and-delivery-edition/" target="_blank" >- Best Places to Eat in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.robertscreekdirectory.ca/shops/" target="_blank" >- Best Places to Go Shopping in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/sunshine-coast/schedules-and-maps/route-overview?route=1" target="_blank" >- Public Transportation Options in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/roberts-creek.html" target="_blank" >- Best Places to Stay in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2021/07/summer-activities-for-families-on-the-sunshine-coast/" target="_blank" >- Best Things to do with the Kids in Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.coastreporter.net/" target="_blank" >- Local News for Roberts Creek, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/british-columbia/roberts-creek" target="_blank" >- Weather in Roberts Creek, British Columbia</a></li>
 					</ul>
       </div>
      </div>

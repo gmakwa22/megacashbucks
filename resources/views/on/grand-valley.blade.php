@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Grand Valley, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5827995-Activities-Grand_Valley_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Grand-Valley" target="_blank" rel="nofollow noopener">- Best Places to Eat in Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.townofgrandvalley.ca/en/doing-business/business-directory.aspx" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Grand-Valley" target="_blank" rel="nofollow noopener">- Public Transportation Options in Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g5827995-Grand_Valley_Ontario-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/health-and-fitness/fitness/location/ontario/dufferin/grand-valley/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.townofgrandvalley.ca/Modules/News/Search.aspx" target="_blank" rel="nofollow noopener">- Local News for Grand Valley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/grand-valley" target="_blank" rel="nofollow noopener">- Weather in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5827995-Activities-Grand_Valley_Ontario.html" target="_blank" >- Best Attractions in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Grand-Valley" target="_blank" >- Best Places to Eat in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.townofgrandvalley.ca/en/doing-business/business-directory.aspx" target="_blank" >- Best Places to Go Shopping in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Grand-Valley" target="_blank" >- Public Transportation Options in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g5827995-Grand_Valley_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/health-and-fitness/fitness/location/ontario/dufferin/grand-valley/" target="_blank" >- Best Things to do with the Kids in Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.townofgrandvalley.ca/Modules/News/Search.aspx" target="_blank" >- Local News for Grand Valley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/grand-valley" target="_blank" >- Weather in Grand Valley, Ontario</a></li>
 					</ul>
       </div>
      </div>

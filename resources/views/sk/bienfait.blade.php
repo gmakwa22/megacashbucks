@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bienfait, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/42/bienfait#sort=relevancy" target="_blank" rel="nofollow noopener">- Best Attractions in Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g19794386-Bienfait_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.Bienfaitlakelouise.com/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/bus/Saskatchewan/Bienfait/Trimac-Transportation/100858935.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19794386-Bienfait_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bienfait/sk/kids-fun" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/bienfait-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Bienfait, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/bienfait" target="_blank" rel="nofollow noopener">- Weather in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/42/bienfait#sort=relevancy" target="_blank" >- Best Attractions in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g19794386-Bienfait_Saskatchewan.html" target="_blank" >- Best Places to Eat in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.Bienfaitlakelouise.com/shopping" target="_blank" >- Best Places to Go Shopping in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/bus/Saskatchewan/Bienfait/Trimac-Transportation/100858935.html" target="_blank" >- Public Transportation Options in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19794386-Bienfait_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bienfait/sk/kids-fun" target="_blank" >- Best Things to do with the Kids in Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/bienfait-saskatchewan/" target="_blank" >- Local News for Bienfait, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/bienfait" target="_blank" >- Weather in Bienfait, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

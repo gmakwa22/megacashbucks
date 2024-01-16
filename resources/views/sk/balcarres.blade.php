@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Balcarres, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/37/balcarres#sort=relevancy" target="_blank" rel="nofollow noopener">- Best Attractions in Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Balcarres%2C+SK+S0G" target="_blank" rel="nofollow noopener">- Best Places to Eat in Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://sk.allpages.com/balcarres/shopping-shopping-services/food-beverage-stores-services/grocery-stores-supermarkets/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Bus+%26+Coach+Lines/Balcarres+SK" target="_blank" rel="nofollow noopener">- Public Transportation Options in Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/balcarres/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/balcarres/sk" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/balcarres/" target="_blank" rel="nofollow noopener">- Local News for Balcarres, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/balcarres" target="_blank" rel="nofollow noopener">- Weather in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/37/balcarres#sort=relevancy" target="_blank" >- Best Attractions in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Balcarres%2C+SK+S0G" target="_blank" >- Best Places to Eat in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://sk.allpages.com/balcarres/shopping-shopping-services/food-beverage-stores-services/grocery-stores-supermarkets/" target="_blank" >- Best Places to Go Shopping in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Bus+%26+Coach+Lines/Balcarres+SK" target="_blank" >- Public Transportation Options in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/balcarres/" target="_blank" >- Best Places to Stay in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/balcarres/sk" target="_blank" >- Best Things to do with the Kids in Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/balcarres/" target="_blank" >- Local News for Balcarres, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/balcarres" target="_blank" >- Weather in Balcarres, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Amigo Beach, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/leisure-sports/beaches/visit-6-beautiful-islands-ontario?gclid=EAIaIQobChMI8pCriMvI8wIV3AutBh0HTA8xEAAYASAAEgIum_D_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/restaurants/Amigo+Beach+ON" target="_blank" rel="nofollow noopener">- Best Places to Eat in Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ph.top10place.com/amigo-shopping-center-1376967340.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.simcoe.ca/Transit/Pages/Routes-Schedule.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Hotels/Amigo+Beach+ON" target="_blank" rel="nofollow noopener">- Best Places to Stay in Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://exploringwiththeyaps.com/11-awesome-beaches-in-ontario-to-take-your-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/alerts/high-alert/ontario/amigo-beach/2" target="_blank" rel="nofollow noopener">- Local News for Amigo Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/amigo-beach" target="_blank" rel="nofollow noopener">- Weather in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/leisure-sports/beaches/visit-6-beautiful-islands-ontario?gclid=EAIaIQobChMI8pCriMvI8wIV3AutBh0HTA8xEAAYASAAEgIum_D_BwE" target="_blank" >- Best Attractions in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/restaurants/Amigo+Beach+ON" target="_blank" >- Best Places to Eat in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ph.top10place.com/amigo-shopping-center-1376967340.html" target="_blank" >- Best Places to Go Shopping in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.simcoe.ca/Transit/Pages/Routes-Schedule.aspx" target="_blank" >- Public Transportation Options in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Hotels/Amigo+Beach+ON" target="_blank" >- Best Places to Stay in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://exploringwiththeyaps.com/11-awesome-beaches-in-ontario-to-take-your-kids/" target="_blank" >- Best Things to do with the Kids in Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/alerts/high-alert/ontario/amigo-beach/2" target="_blank" >- Local News for Amigo Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/amigo-beach" target="_blank" >- Weather in Amigo Beach, Ontario</a></li>
 					</ul>
       </div>
      </div>

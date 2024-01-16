@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Springside, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/attractions" target="_blank" rel="nofollow noopener">- Best Attractions in Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Springside-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofspringside.ca/businesses" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/listings/1296/hotel-california" target="_blank" rel="nofollow noopener">- Best Places to Stay in Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/springside-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Springside, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/springside" target="_blank" rel="nofollow noopener">- Weather in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/attractions" target="_blank" >- Best Attractions in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Springside-Saskatchewan" target="_blank" >- Best Places to Eat in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofspringside.ca/businesses" target="_blank" >- Best Places to Go Shopping in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/listings/1296/hotel-california" target="_blank" >- Best Places to Stay in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/springside-saskatchewan/" target="_blank" >- Local News for Springside, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/springside" target="_blank" >- Weather in Springside, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

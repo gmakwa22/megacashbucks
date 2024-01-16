@@ -40,14 +40,14 @@
       <div class="col-lg-6 sm-mt-30" id="custlink">
 			<h3 class="mb-2">Helpful information about Ohio</h3>
 				<ul class="list-group">
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28956-Activities-Ohio.html" target="_blank" rel="nofollow noopener">- Best Attractions in Ohio</a></li>
-		<li class="list-group-item"><a href="https://www.opentable.com/cuisine/best-steakhouse-restaurants-columbus-oh" target="_blank" rel="nofollow noopener">- Best Steakhouse in Ohio</a></li>
-		<li class="list-group-item"><a href="https://www.ohiotraveler.com/ohio-shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Ohio</a></li>
-		<li class="list-group-item"><a href="https://www.transportation.ohio.gov/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Ohio</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28956-Ohio-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Ohio</a></li>
-		<li class="list-group-item"><a href="https://whatshouldwedotodaycolumbus.com/fun-things-to-do-in-ohio-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Ohio</a></li>
-		<li class="list-group-item"><a href="https://www.foxnews.com/category/us/us-regions/midwest/ohio" target="_blank" rel="nofollow noopener">- Local News for Ohio</a></li>
-		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/ohio/columbus" target="_blank" rel="nofollow noopener">- Weather in Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28956-Activities-Ohio.html" target="_blank" >- Best Attractions in Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.opentable.com/cuisine/best-steakhouse-restaurants-columbus-oh" target="_blank" >- Best Steakhouse in Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.ohiotraveler.com/ohio-shopping/" target="_blank" >- Best Places to Go Shopping in Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.transportation.ohio.gov/" target="_blank" >- Public Transportation Options in Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28956-Ohio-Hotels.html" target="_blank" >- Best Places to Stay in Ohio</a></li>
+		<li class="list-group-item"><a href="https://whatshouldwedotodaycolumbus.com/fun-things-to-do-in-ohio-with-kids/" target="_blank" >- Best Things to do with the Kids in Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.foxnews.com/category/us/us-regions/midwest/ohio" target="_blank" >- Local News for Ohio</a></li>
+		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/ohio/columbus" target="_blank" >- Weather in Ohio</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Smithville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.expedia.ca/Things-To-Do-In-Smithville.d3000438459.Travel-Guide-Activities" target="_blank" rel="nofollow noopener">- Best Attractions in Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Smithville-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://m.yelp.com/search?cflt=shopping&find_loc=Smithville%2C+ON+L0R" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Smithville-ON-Canada/Mississauga" target="_blank" rel="nofollow noopener">- Public Transportation Options in Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3930604-Smithville_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/smithville/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/smithville/" target="_blank" rel="nofollow noopener">- Local News for Smithville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/smithville" target="_blank" rel="nofollow noopener">- Weather in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Things-To-Do-In-Smithville.d3000438459.Travel-Guide-Activities" target="_blank" >- Best Attractions in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Smithville-Ontario" target="_blank" >- Best Places to Eat in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://m.yelp.com/search?cflt=shopping&find_loc=Smithville%2C+ON+L0R" target="_blank" >- Best Places to Go Shopping in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Smithville-ON-Canada/Mississauga" target="_blank" >- Public Transportation Options in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3930604-Smithville_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/smithville/" target="_blank" >- Best Things to do with the Kids in Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/smithville/" target="_blank" >- Local News for Smithville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/smithville" target="_blank" >- Weather in Smithville, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tweed, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g667793-Activities-Tweed_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g667793-Tweed_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g667793-Activities-c26-Tweed_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Tweed/Toronto" target="_blank" rel="nofollow noopener">- Public Transportation Options in Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/tweed.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/ontario/hastings/tweed/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/tweed-ontario/" target="_blank" rel="nofollow noopener">- Local News for Tweed, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tweed" target="_blank" rel="nofollow noopener">- Weather in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g667793-Activities-Tweed_Ontario.html" target="_blank" >- Best Attractions in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g667793-Tweed_Ontario.html" target="_blank" >- Best Places to Eat in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g667793-Activities-c26-Tweed_Ontario.html" target="_blank" >- Best Places to Go Shopping in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Tweed/Toronto" target="_blank" >- Public Transportation Options in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/tweed.html" target="_blank" >- Best Places to Stay in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/ontario/hastings/tweed/" target="_blank" >- Best Things to do with the Kids in Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/tweed-ontario/" target="_blank" >- Local News for Tweed, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tweed" target="_blank" >- Weather in Tweed, Ontario</a></li>
 					</ul>
       </div>
      </div>

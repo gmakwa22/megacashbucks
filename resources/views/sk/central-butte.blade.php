@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Central Butte, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/229/central-butte" target="_blank" rel="nofollow noopener">- Best Attractions in Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Central-Butte" target="_blank" rel="nofollow noopener">- Best Places to Eat in Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://centralbutte.ca/files/cbusiness.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Central-Butte" target="_blank" rel="nofollow noopener">- Public Transportation Options in Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Central-Butte-Hotels.d553248635921965410.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/229/central-butte" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/central-butte/" target="_blank" rel="nofollow noopener">- Local News for Central Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/central-butte" target="_blank" rel="nofollow noopener">- Weather in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/229/central-butte" target="_blank" >- Best Attractions in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Central-Butte" target="_blank" >- Best Places to Eat in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://centralbutte.ca/files/cbusiness.html" target="_blank" >- Best Places to Go Shopping in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Central-Butte" target="_blank" >- Public Transportation Options in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Central-Butte-Hotels.d553248635921965410.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/229/central-butte" target="_blank" >- Best Things to do with the Kids in Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/central-butte/" target="_blank" >- Local News for Central Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/central-butte" target="_blank" >- Weather in Central Butte, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

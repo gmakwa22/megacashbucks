@@ -23,7 +23,7 @@
 
               <p class="text text-justify">As of July 20th, 2016, the Canada Child Tax Benefit (C.C.T.B.), was officially renamed the “Canada Child Benefit” (CCB). This change included some notable adjustments which leads to questions about a variety of different types of loans and the application processes that come with them. </p>
 
-                <p class="text text-justify">One question that we frequently get is: “Will I qualify for a payday loan if I’m currently receiving the <a href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html" target="_blank" rel="nofollow noopener">Canada.ca Child Benefit</a>?” While the answer to this question varies from lender to lender, here’s how you can use your Canada Child Benefit income to qualify for a loan: </p>
+                <p class="text text-justify">One question that we frequently get is: “Will I qualify for a payday loan if I’m currently receiving the <a href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html" target="_blank" >Canada.ca Child Benefit</a>?” While the answer to this question varies from lender to lender, here’s how you can use your Canada Child Benefit income to qualify for a loan: </p>
 
                 <p class="text text-justify">The Canada Child Benefit is a government program that provides families and single parents with financial assistance. It is a tax-free payment that families or single parents can apply for when they have a child or children who are currently under the age of 18. </p>
 
@@ -59,7 +59,7 @@
                 <h4 class="small-title"> •	Requirements For Payday Loans That Accept Child Tax </h4>
                 <p class="text text-justify">– Most new payday lenders require proof of income, a valid bank account, and proof of identity to qualify. Most lenders also do not require a credit check, which makes it a good option for those with bad credit.</p>
 
-                <p class="text text-justify"> For your personal loan, while qualifying for the CCB, contact <a href="https://www.megacashbucks.com" target="_blank" rel="nofollow noopener">Mega Cash Bucks</a> today for your simple online loan details.</p>
+                <p class="text text-justify"> For your personal loan, while qualifying for the CCB, contact <a href="https://www.megacashbucks.com" target="_blank" >Mega Cash Bucks</a> today for your simple online loan details.</p>
 
           </div>
        </div>

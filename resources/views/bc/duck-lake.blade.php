@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Duck Lake, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://bcparks.ca/explore/parkpgs/duck_lk/" target="_blank" rel="nofollow noopener">- Best Attractions in Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/RestaurantsNear-g184843-d6582793-Duck_Lake_Protected_Area-Powell_River_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g184843-Activities-c26-Powell_River_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/powell-river/schedules-and-maps/route-overview?route=12" target="_blank" rel="nofollow noopener">- Public Transportation Options in Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g184843-d6582793-Duck_Lake_Protected_Area-Powell_River_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.fodors.com/community/canada/anyone-know-about-duck-lake-659819/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.crestonvalleykootenaylakeroute.com/things-to-do/nature-and-recreation/boating-fishing/duck-lake" target="_blank" rel="nofollow noopener">- Local News for Duck Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/duck-lake-7" target="_blank" rel="nofollow noopener">- Weather in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://bcparks.ca/explore/parkpgs/duck_lk/" target="_blank" >- Best Attractions in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/RestaurantsNear-g184843-d6582793-Duck_Lake_Protected_Area-Powell_River_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Places to Eat in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g184843-Activities-c26-Powell_River_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/powell-river/schedules-and-maps/route-overview?route=12" target="_blank" >- Public Transportation Options in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g184843-d6582793-Duck_Lake_Protected_Area-Powell_River_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Places to Stay in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.fodors.com/community/canada/anyone-know-about-duck-lake-659819/" target="_blank" >- Best Things to do with the Kids in Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.crestonvalleykootenaylakeroute.com/things-to-do/nature-and-recreation/boating-fishing/duck-lake" target="_blank" >- Local News for Duck Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/duck-lake-7" target="_blank" >- Weather in Duck Lake, British Columbia</a></li>
 					</ul>
       </div>
      </div>

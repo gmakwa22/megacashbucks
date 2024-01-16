@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Broadview, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2290673-Broadview_Saskatchewan-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Broadview%2C+SK+S0G+0K0" target="_blank" rel="nofollow noopener">- Best Places to Eat in Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/broadview" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://sk.211.ca/services/town-office-32/transit-assistance-for-people-with-disabilities/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2290673-Broadview_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/broadview/sk" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/broadview/" target="_blank" rel="nofollow noopener">- Local News for Broadview, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/saskatchewan/broadview" target="_blank" rel="nofollow noopener">- Weather in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2290673-Broadview_Saskatchewan-Vacations.html" target="_blank" >- Best Attractions in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Broadview%2C+SK+S0G+0K0" target="_blank" >- Best Places to Eat in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/broadview" target="_blank" >- Best Places to Go Shopping in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://sk.211.ca/services/town-office-32/transit-assistance-for-people-with-disabilities/" target="_blank" >- Public Transportation Options in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2290673-Broadview_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/broadview/sk" target="_blank" >- Best Things to do with the Kids in Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/broadview/" target="_blank" >- Local News for Broadview, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/saskatchewan/broadview" target="_blank" >- Weather in Broadview, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Regina, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155042-Activities-Regina_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Regina" target="_blank" rel="nofollow noopener">- Best Places to Eat in Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155042-Activities-c26-Regina_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.regina.ca/transportation-roads-parking/transit/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155042-Regina_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/regina/sk" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/regina/" target="_blank" rel="nofollow noopener">- Local News for Regina, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-32_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155042-Activities-Regina_Saskatchewan.html" target="_blank" >- Best Attractions in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Regina" target="_blank" >- Best Places to Eat in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155042-Activities-c26-Regina_Saskatchewan.html" target="_blank" >- Best Places to Go Shopping in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.regina.ca/transportation-roads-parking/transit/" target="_blank" >- Public Transportation Options in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155042-Regina_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/regina/sk" target="_blank" >- Best Things to do with the Kids in Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/regina/" target="_blank" >- Local News for Regina, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-32_metric_e.html" target="_blank" >- Weather in Regina, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

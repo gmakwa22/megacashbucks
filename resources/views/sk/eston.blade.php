@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Eston, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g735462-Activities-Eston_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g735462-Eston_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/eston/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g735462-Eston_Saskatchewan-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/eston-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Eston, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/eston" target="_blank" rel="nofollow noopener">- Weather in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g735462-Activities-Eston_Saskatchewan.html" target="_blank" >- Best Attractions in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g735462-Eston_Saskatchewan.html" target="_blank" >- Best Places to Eat in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/eston/shopping/" target="_blank" >- Best Places to Go Shopping in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g735462-Eston_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/eston-saskatchewan/" target="_blank" >- Local News for Eston, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/eston" target="_blank" >- Weather in Eston, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

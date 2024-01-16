@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort St. James, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://britishcolumbia.com/plan-your-trip/regions-and-towns/northern-bc-and-haida-gwaii/fort-st-james/" target="_blank" rel="nofollow noopener">- Best Attractions in Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1096212-Fort_St_James_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Fort+St.+James+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://bcbus.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g1096212-Fort_St_James_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://fortstjames.bc.libraries.coop/explore/for-you/kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.caledoniacourier.com/" target="_blank" rel="nofollow noopener">- Local News for Fort St. James, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/british-columbia/fort-st-james" target="_blank" rel="nofollow noopener">- Weather in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://britishcolumbia.com/plan-your-trip/regions-and-towns/northern-bc-and-haida-gwaii/fort-st-james/" target="_blank" >- Best Attractions in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1096212-Fort_St_James_British_Columbia.html" target="_blank" >- Best Places to Eat in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Fort+St.+James+BC" target="_blank" >- Best Places to Go Shopping in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://bcbus.ca/" target="_blank" >- Public Transportation Options in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g1096212-Fort_St_James_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://fortstjames.bc.libraries.coop/explore/for-you/kids/" target="_blank" >- Best Things to do with the Kids in Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.caledoniacourier.com/" target="_blank" >- Local News for Fort St. James, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/british-columbia/fort-st-james" target="_blank" >- Weather in Fort St. James, British Columbia</a></li>
 					</ul>
       </div>
      </div>

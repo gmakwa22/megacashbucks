@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30"  id="custlink">
 			<h3 class="mb-3">Helpful information about Cavite</h3>
 				<ul>
-					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions/Cavite-usca.htm" target="_blank" rel="nofollow noopener">- Best Attractions in Cavite</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Cavite.html" target="_blank" rel="nofollow noopener">- Best Steakhouse in Cavite</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Cavite.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Cavite</a></li>
-		<li class="list-group-item"><a href="https://www.lonelyplanet.com/articles/how-to-get-around-Cavite" target="_blank" rel="nofollow noopener">- Public Transportation Options in Cavite</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28926-Cavite-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Cavite</a></li>
-		<li class="list-group-item"><a href="https://travelmamas.com/Cavite-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Cavite</a></li>
-		<li class="list-group-item"><a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjg6Ybnh8P8AhULDucKHbVVAbgYABABGgJwdg&sig=AOD64_0FXtyU5n6GdfvAjrAwXXFIkOtMdQ&q&adurl&ved=2ahUKEwiDlv_mh8P8AhV6GTQIHXXZCTIQ0Qx6BAgKEAE" target="_blank" rel="nofollow noopener">- Local News for Cavite</a></li>
-		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/Cavite/los-angeles" target="_blank" rel="nofollow noopener">- Weather in Cavite</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions/Cavite-usca.htm" target="_blank" >- Best Attractions in Cavite</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Cavite.html" target="_blank" >- Best Steakhouse in Cavite</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Cavite.html" target="_blank" >- Best Places to Go Shopping in Cavite</a></li>
+		<li class="list-group-item"><a href="https://www.lonelyplanet.com/articles/how-to-get-around-Cavite" target="_blank" >- Public Transportation Options in Cavite</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28926-Cavite-Hotels.html" target="_blank" >- Best Places to Stay in Cavite</a></li>
+		<li class="list-group-item"><a href="https://travelmamas.com/Cavite-with-kids/" target="_blank" >- Best Things to do with the Kids in Cavite</a></li>
+		<li class="list-group-item"><a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjg6Ybnh8P8AhULDucKHbVVAbgYABABGgJwdg&sig=AOD64_0FXtyU5n6GdfvAjrAwXXFIkOtMdQ&q&adurl&ved=2ahUKEwiDlv_mh8P8AhV6GTQIHXXZCTIQ0Qx6BAgKEAE" target="_blank" >- Local News for Cavite</a></li>
+		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/Cavite/los-angeles" target="_blank" >- Weather in Cavite</a></li>
 					</ul>
       </div>
      </div>

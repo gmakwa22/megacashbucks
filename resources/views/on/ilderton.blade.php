@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Iderton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7276751-Activities-Ilderton_Middlesex_Centre_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Ilderton" target="_blank" rel="nofollow noopener">- Best Places to Eat in Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7276751-Activities-c26-t144-Ilderton_Middlesex_Centre_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/ilderton_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7276751-Ilderton_Middlesex_Centre_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/ilderton/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/ilderton/" target="_blank" rel="nofollow noopener">- Local News for Iderton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ilderton" target="_blank" rel="nofollow noopener">- Weather in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7276751-Activities-Ilderton_Middlesex_Centre_Ontario.html" target="_blank" >- Best Attractions in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Ilderton" target="_blank" >- Best Places to Eat in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7276751-Activities-c26-t144-Ilderton_Middlesex_Centre_Ontario.html" target="_blank" >- Best Places to Go Shopping in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/ilderton_bus_routes.htm" target="_blank" >- Public Transportation Options in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7276751-Ilderton_Middlesex_Centre_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/ilderton/" target="_blank" >- Best Things to do with the Kids in Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/ilderton/" target="_blank" >- Local News for Iderton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ilderton" target="_blank" >- Weather in Iderton, Ontario</a></li>
 					</ul>
       </div>
      </div>

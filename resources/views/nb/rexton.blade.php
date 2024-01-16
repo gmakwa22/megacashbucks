@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rexton, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g652390-Activities-Rexton_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/rexton-new-brunswick/restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/rexton-new-brunswick/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Rexton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/rexton-nb" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://travelingcanucks.com/2021/07/things-to-do-in-new-brunswick-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rexton-nb/" target="_blank" rel="nofollow noopener">- Local News for Rexton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/rexton" target="_blank" rel="nofollow noopener">- Weather in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g652390-Activities-Rexton_New_Brunswick.html" target="_blank" >- Best Attractions in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/rexton-new-brunswick/restaurants/" target="_blank" >- Best Places to Eat in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/rexton-new-brunswick/shopping/" target="_blank" >- Best Places to Go Shopping in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Rexton" target="_blank" >- Public Transportation Options in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/rexton-nb" target="_blank" >- Best Places to Stay in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://travelingcanucks.com/2021/07/things-to-do-in-new-brunswick-with-kids/" target="_blank" >- Best Things to do with the Kids in Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rexton-nb/" target="_blank" >- Local News for Rexton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/rexton" target="_blank" >- Weather in Rexton, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

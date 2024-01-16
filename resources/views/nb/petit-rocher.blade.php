@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Petit-Rocher, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2479841-Petit_Rocher_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.menupix.com/new-brunswick/n/2049/Petit-Rocher-restaurants" target="_blank" rel="nofollow noopener">- Best Places to Eat in Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Petit+Rocher%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Petit-Rocher/Moncton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Petit-Rocher-Hotels.d6341670.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tourismchaleur.ca/en/stories/top-6-things-to-do-in-petit-rocher-summer-2021" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/petit-rocher/" target="_blank" rel="nofollow noopener">- Local News for Petit-Rocher, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/petit-rocher" target="_blank" rel="nofollow noopener">- Weather in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2479841-Petit_Rocher_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.menupix.com/new-brunswick/n/2049/Petit-Rocher-restaurants" target="_blank" >- Best Places to Eat in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Petit+Rocher%2C+NB" target="_blank" >- Best Places to Go Shopping in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Petit-Rocher/Moncton" target="_blank" >- Public Transportation Options in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Petit-Rocher-Hotels.d6341670.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tourismchaleur.ca/en/stories/top-6-things-to-do-in-petit-rocher-summer-2021" target="_blank" >- Best Things to do with the Kids in Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/petit-rocher/" target="_blank" >- Local News for Petit-Rocher, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/petit-rocher" target="_blank" >- Weather in Petit-Rocher, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

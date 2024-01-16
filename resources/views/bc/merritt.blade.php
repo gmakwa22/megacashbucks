@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Merritt, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismmerritt.ca/things-to-do" target="_blank" rel="nofollow noopener">- Best Attractions in Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismmerritt.ca/where-to-eat" target="_blank" rel="nofollow noopener">- Best Places to Eat in Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://experiencemerritt.com/things-to-do/shop-merritt/downtown-merritt-shopping.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/merritt/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/merritt.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.vanmag.com/5-reasons-for-a-family-road-trip-to-merritt" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.merrittherald.com/" target="_blank" rel="nofollow noopener">- Local News for Merritt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-49_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismmerritt.ca/things-to-do" target="_blank" >- Best Attractions in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismmerritt.ca/where-to-eat" target="_blank" >- Best Places to Eat in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://experiencemerritt.com/things-to-do/shop-merritt/downtown-merritt-shopping.html" target="_blank" >- Best Places to Go Shopping in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/merritt/home" target="_blank" >- Public Transportation Options in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/merritt.html" target="_blank" >- Best Places to Stay in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.vanmag.com/5-reasons-for-a-family-road-trip-to-merritt" target="_blank" >- Best Things to do with the Kids in Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.merrittherald.com/" target="_blank" >- Local News for Merritt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-49_metric_e.html" target="_blank" >- Weather in Merritt, British Columbia</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Revelstoke, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://seerevelstoke.com/10-things-to-do-in-revelstoke-in-the-summer/" target="_blank" rel="nofollow noopener">- Best Attractions in Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://leavetown.com/magazine/revelstoke-dining-guide/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.revelstokechamber.com/list/ql/shopping-specialty-retail-47" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/revelstoke/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://seerevelstoke.com/stay-here/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://seerevelstoke.com/things-to-do/family-activites/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.revelstokereview.com/" target="_blank" rel="nofollow noopener">- Local News for Revelstoke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-65_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://seerevelstoke.com/10-things-to-do-in-revelstoke-in-the-summer/" target="_blank" >- Best Attractions in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://leavetown.com/magazine/revelstoke-dining-guide/" target="_blank" >- Best Places to Eat in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.revelstokechamber.com/list/ql/shopping-specialty-retail-47" target="_blank" >- Best Places to Go Shopping in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/revelstoke/home" target="_blank" >- Public Transportation Options in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://seerevelstoke.com/stay-here/" target="_blank" >- Best Places to Stay in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://seerevelstoke.com/things-to-do/family-activites/" target="_blank" >- Best Things to do with the Kids in Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.revelstokereview.com/" target="_blank" >- Local News for Revelstoke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-65_metric_e.html" target="_blank" >- Weather in Revelstoke, British Columbia</a></li>
 					</ul>
       </div>
      </div>

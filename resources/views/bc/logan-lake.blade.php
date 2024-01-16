@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Logan Lake, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://visitloganlake.com/things-to-do" target="_blank" rel="nofollow noopener">- Best Attractions in Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.loganlake.ca/restaurant-listings" target="_blank" rel="nofollow noopener">- Best Places to Eat in Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.loganlake.ca/shopping-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/kelowna/schedules-and-maps/health-connections/logan-lake-kelowna" target="_blank" rel="nofollow noopener">- Public Transportation Options in Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.loganlake.ca/accommodations" target="_blank" rel="nofollow noopener">- Best Places to Stay in Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1579868-Activities-zft11306-Logan_Lake_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.loganlake.ca/newsreleases/post/category/7" target="_blank" rel="nofollow noopener">- Local News for Logan Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/logan-lake" target="_blank" rel="nofollow noopener">- Weather in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://visitloganlake.com/things-to-do" target="_blank" >- Best Attractions in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.loganlake.ca/restaurant-listings" target="_blank" >- Best Places to Eat in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.loganlake.ca/shopping-directory" target="_blank" >- Best Places to Go Shopping in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/kelowna/schedules-and-maps/health-connections/logan-lake-kelowna" target="_blank" >- Public Transportation Options in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.loganlake.ca/accommodations" target="_blank" >- Best Places to Stay in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1579868-Activities-zft11306-Logan_Lake_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.loganlake.ca/newsreleases/post/category/7" target="_blank" >- Local News for Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/logan-lake" target="_blank" >- Weather in Logan Lake, British Columbia</a></li>
 					</ul>
       </div>
      </div>

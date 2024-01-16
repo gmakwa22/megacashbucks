@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Maisonnette, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g15339331-Maisonnette_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g15339331-Maisonnette_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-maisonnette-nb/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g15339331-Maisonnette_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://maisonnette.ca/" target="_blank" rel="nofollow noopener">- Local News for Maisonnette, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/maisonnette" target="_blank" rel="nofollow noopener">- Weather in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g15339331-Maisonnette_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g15339331-Maisonnette_New_Brunswick.html" target="_blank" >- Best Places to Eat in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-maisonnette-nb/" target="_blank" >- Best Places to Go Shopping in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g15339331-Maisonnette_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://maisonnette.ca/" target="_blank" >- Local News for Maisonnette, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/maisonnette" target="_blank" >- Weather in Maisonnette, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

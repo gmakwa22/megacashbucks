@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Grenfell, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1202767-Activities-Grenfell_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Grenfell-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofgrenfell.com/p/business-directory-" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Grenfell/Saskatoon" target="_blank" rel="nofollow noopener">- Public Transportation Options in Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1202767-Grenfell_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofgrenfell.com/p/attractions-" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/grenfell/" target="_blank" rel="nofollow noopener">- Local News for Grenfell, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/grenfell" target="_blank" rel="nofollow noopener">- Weather in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1202767-Activities-Grenfell_Saskatchewan.html" target="_blank" >- Best Attractions in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Grenfell-Saskatchewan" target="_blank" >- Best Places to Eat in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofgrenfell.com/p/business-directory-" target="_blank" >- Best Places to Go Shopping in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Grenfell/Saskatoon" target="_blank" >- Public Transportation Options in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1202767-Grenfell_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofgrenfell.com/p/attractions-" target="_blank" >- Best Things to do with the Kids in Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/grenfell/" target="_blank" >- Local News for Grenfell, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/grenfell" target="_blank" >- Weather in Grenfell, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

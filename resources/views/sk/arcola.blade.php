@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Arcola, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/29/arcola#sort=relevancy" target="_blank" rel="nofollow noopener">- Best Attractions in Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7368853-Arcola_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/arcola" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://arcola.rbe.sk.ca/node/265" target="_blank" rel="nofollow noopener">- Public Transportation Options in Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=arcola-DmOhaO1%2AQliJR5ezaMOkmwS151893283192%3Apl%3Ata%3Ap12%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-54551256235%3Alp9001515%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=1f047569645c5c3c64a3dd09448f6bd1;city=-560258;redirected=1;redirected_from_city=1;source=city&" target="_blank" rel="nofollow noopener">- Best Places to Stay in Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.codeninjas.com/arcola-east-sk-ca" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/arcola-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Arcola, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/arcola" target="_blank" rel="nofollow noopener">- Weather in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/29/arcola#sort=relevancy" target="_blank" >- Best Attractions in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7368853-Arcola_Saskatchewan.html" target="_blank" >- Best Places to Eat in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/arcola" target="_blank" >- Best Places to Go Shopping in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://arcola.rbe.sk.ca/node/265" target="_blank" >- Public Transportation Options in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=arcola-DmOhaO1%2AQliJR5ezaMOkmwS151893283192%3Apl%3Ata%3Ap12%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-54551256235%3Alp9001515%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=1f047569645c5c3c64a3dd09448f6bd1;city=-560258;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.codeninjas.com/arcola-east-sk-ca" target="_blank" >- Best Things to do with the Kids in Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/arcola-saskatchewan/" target="_blank" >- Local News for Arcola, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/arcola" target="_blank" >- Weather in Arcola, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

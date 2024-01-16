@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dalhousie, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.dalhousie.ca/about/things-to-do-in-dalhousie/" target="_blank" rel="nofollow noopener">- Best Attractions in Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/great-location-Dalhousie-New-Brunswick-m9642" target="_blank" rel="nofollow noopener">- Best Places to Eat in Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Dalhousie%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-%5Bprovince%5D/dalhousie" target="_blank" rel="nofollow noopener">- Public Transportation Options in Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de1633935/dalhousie-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://daubneysadrift.com/101-things-to-do-with-kids-this-summer-in-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dalhousie-nb/" target="_blank" rel="nofollow noopener">- Local News for Dalhousie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-26_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.dalhousie.ca/about/things-to-do-in-dalhousie/" target="_blank" >- Best Attractions in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/great-location-Dalhousie-New-Brunswick-m9642" target="_blank" >- Best Places to Eat in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Dalhousie%2C+NB" target="_blank" >- Best Places to Go Shopping in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-%5Bprovince%5D/dalhousie" target="_blank" >- Public Transportation Options in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de1633935/dalhousie-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://daubneysadrift.com/101-things-to-do-with-kids-this-summer-in-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dalhousie-nb/" target="_blank" >- Local News for Dalhousie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-26_metric_e.html" target="_blank" >- Weather in Dalhousie, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

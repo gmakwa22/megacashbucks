@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Penticton, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thebarefootnomad.com/canada/the-best-things-to-do-in-penticton-bc/" target="_blank" rel="nofollow noopener">- Best Attractions in Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.visitpenticton.com/penticton-patio-dining-guide/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://forgottenhill.com/area-info/penticton-area/main-shopping-areas-in-penticton/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.penticton.ca/city-services/roads-transportation/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/penticton.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.visitpenticton.com/10-reasons-to-take-the-kids-to-penticton-this-summer/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.pentictonherald.ca/news/local_news/" target="_blank" rel="nofollow noopener">- Local News for Penticton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-84_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.thebarefootnomad.com/canada/the-best-things-to-do-in-penticton-bc/" target="_blank" >- Best Attractions in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.visitpenticton.com/penticton-patio-dining-guide/" target="_blank" >- Best Places to Eat in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://forgottenhill.com/area-info/penticton-area/main-shopping-areas-in-penticton/" target="_blank" >- Best Places to Go Shopping in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.penticton.ca/city-services/roads-transportation/transit" target="_blank" >- Public Transportation Options in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/penticton.html" target="_blank" >- Best Places to Stay in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.visitpenticton.com/10-reasons-to-take-the-kids-to-penticton-this-summer/" target="_blank" >- Best Things to do with the Kids in Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.pentictonherald.ca/news/local_news/" target="_blank" >- Local News for Penticton, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-84_metric_e.html" target="_blank" >- Weather in Penticton, British Columbia</a></li>
 					</ul>
       </div>
      </div>

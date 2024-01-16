@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Le Goulet, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g15338148-Le_Goulet_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Le-Goulet" target="_blank" rel="nofollow noopener">- Best Places to Eat in Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-le-goulet-nb/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Le-Goulet/Shippagan" target="_blank" rel="nofollow noopener">- Public Transportation Options in Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g15338148-Le_Goulet_New_Brunswick-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/50-things-august-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/le-goulet-nb/" target="_blank" rel="nofollow noopener">- Local News for Le Goulet, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/le-goulet" target="_blank" rel="nofollow noopener">- Weather in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g15338148-Le_Goulet_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Le-Goulet" target="_blank" >- Best Places to Eat in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-le-goulet-nb/" target="_blank" >- Best Places to Go Shopping in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Le-Goulet/Shippagan" target="_blank" >- Public Transportation Options in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g15338148-Le_Goulet_New_Brunswick-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/50-things-august-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/le-goulet-nb/" target="_blank" >- Local News for Le Goulet, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/le-goulet" target="_blank" >- Weather in Le Goulet, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

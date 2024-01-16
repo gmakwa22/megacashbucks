@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rothesay, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.touristplaces.ca/rothesay-nb/nature-attractions/" target="_blank" rel="nofollow noopener">- Best Attractions in Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Rothesay-New-Brunswick-m9623" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Rothesay%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Rothesay-NB-Canada/Saint-John" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de170150/rothesay-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1448456-Activities-Rothesay_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rothesay/" target="_blank" rel="nofollow noopener">- Local News for Rothesay, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/rothesay" target="_blank" rel="nofollow noopener">- Weather in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.touristplaces.ca/rothesay-nb/nature-attractions/" target="_blank" >- Best Attractions in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Rothesay-New-Brunswick-m9623" target="_blank" >- Best Places to Eat in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Rothesay%2C+NB" target="_blank" >- Best Places to Go Shopping in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Rothesay-NB-Canada/Saint-John" target="_blank" >- Public Transportation Options in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de170150/rothesay-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1448456-Activities-Rothesay_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rothesay/" target="_blank" >- Local News for Rothesay, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/rothesay" target="_blank" >- Weather in Rothesay, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

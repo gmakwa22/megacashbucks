@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sechelt, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499146-Activities-Sechelt_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2018/07/1o-foodie-faves-in-sechelt/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bigpacific.com/play/secheltshopping.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/sunshine-coast/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sechelt.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499146-Activities-zft11306-Sechelt_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.coastreporter.net/" target="_blank" rel="nofollow noopener">- Local News for Sechelt, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-3_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499146-Activities-Sechelt_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Attractions in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2018/07/1o-foodie-faves-in-sechelt/" target="_blank" >- Best Places to Eat in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bigpacific.com/play/secheltshopping.html" target="_blank" >- Best Places to Go Shopping in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/sunshine-coast/schedules-and-maps" target="_blank" >- Public Transportation Options in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sechelt.html" target="_blank" >- Best Places to Stay in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499146-Activities-zft11306-Sechelt_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.coastreporter.net/" target="_blank" >- Local News for Sechelt, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-3_metric_e.html" target="_blank" >- Weather in Sechelt, British Columbia</a></li>
 					</ul>
       </div>
      </div>

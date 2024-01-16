@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Port Dover, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940854-Activities-Port_Dover_Norfolk_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Port-Dover" target="_blank" rel="nofollow noopener">- Best Places to Eat in Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940854-Activities-c26-Port_Dover_Norfolk_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Dover" target="_blank" rel="nofollow noopener">- Public Transportation Options in Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-dover.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/haldimand-norfolk/port-dover/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/port-dover/" target="_blank" rel="nofollow noopener">- Local News for Port Dover, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/36-hour-weather-forecast/ontario/port-dover" target="_blank" rel="nofollow noopener">- Weather in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940854-Activities-Port_Dover_Norfolk_County_Ontario.html" target="_blank" >- Best Attractions in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Port-Dover" target="_blank" >- Best Places to Eat in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940854-Activities-c26-Port_Dover_Norfolk_County_Ontario.html" target="_blank" >- Best Places to Go Shopping in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Dover" target="_blank" >- Public Transportation Options in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-dover.html" target="_blank" >- Best Places to Stay in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/haldimand-norfolk/port-dover/" target="_blank" >- Best Things to do with the Kids in Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/port-dover/" target="_blank" >- Local News for Port Dover, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/36-hour-weather-forecast/ontario/port-dover" target="_blank" >- Weather in Port Dover, Ontario</a></li>
 					</ul>
       </div>
      </div>

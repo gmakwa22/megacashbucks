@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Alma, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499173-Activities-Alma_Albert_County_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/fries-Alma-New-Brunswick-m6427" target="_blank" rel="nofollow noopener">- Best Places to Eat in Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.villageofalma.ca/businesses.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Alma-QC-Canada/New-Brunswick" target="_blank" rel="nofollow noopener">- Public Transportation Options in Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499173-Alma_Albert_County_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/alma/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/alma-new-brunswick/" target="_blank" rel="nofollow noopener">- Local News for Alma, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/alma" target="_blank" rel="nofollow noopener">- Weather in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499173-Activities-Alma_Albert_County_New_Brunswick.html" target="_blank" >- Best Attractions in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/fries-Alma-New-Brunswick-m6427" target="_blank" >- Best Places to Eat in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.villageofalma.ca/businesses.html" target="_blank" >- Best Places to Go Shopping in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Alma-QC-Canada/New-Brunswick" target="_blank" >- Public Transportation Options in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499173-Alma_Albert_County_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/alma/nb" target="_blank" >- Best Things to do with the Kids in Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/alma-new-brunswick/" target="_blank" >- Local News for Alma, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/alma" target="_blank" >- Weather in Alma, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Qu'Appelle, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/59/fort-quappelle" target="_blank" rel="nofollow noopener">- Best Attractions in Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/QuAppelle" target="_blank" rel="nofollow noopener">- Best Places to Eat in Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofquappelle.ca/p/business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Fort-Qu-Appelle" target="_blank" rel="nofollow noopener">- Public Transportation Options in Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://braeburn.sk.ca/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/fort-quappelle/" target="_blank" rel="nofollow noopener">- Local News for Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/quappelle" target="_blank" rel="nofollow noopener">- Weather in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/59/fort-quappelle" target="_blank" >- Best Attractions in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/QuAppelle" target="_blank" >- Best Places to Eat in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofquappelle.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Fort-Qu-Appelle" target="_blank" >- Public Transportation Options in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://braeburn.sk.ca/" target="_blank" >- Best Places to Stay in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/fort-quappelle/" target="_blank" >- Local News for Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/quappelle" target="_blank" >- Weather in Qu'Appelle, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

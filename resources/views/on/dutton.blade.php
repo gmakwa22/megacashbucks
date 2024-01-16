@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dutton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6726119-Activities-Dutton_Dunwich_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Dutton%2C+ON+N0L+1J0" target="_blank" rel="nofollow noopener">- Best Places to Eat in Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=Dutton%2C+ON+N0L+1J0" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ontario.ca/locations/serviceontario/currie-and-mary-dutton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6726119-Dutton_Dunwich_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/elgin/dutton/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dutton-dunwich/" target="_blank" rel="nofollow noopener">- Local News for Dutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dutton" target="_blank" rel="nofollow noopener">- Weather in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6726119-Activities-Dutton_Dunwich_Ontario.html" target="_blank" >- Best Attractions in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Dutton%2C+ON+N0L+1J0" target="_blank" >- Best Places to Eat in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=Dutton%2C+ON+N0L+1J0" target="_blank" >- Best Places to Go Shopping in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ontario.ca/locations/serviceontario/currie-and-mary-dutton" target="_blank" >- Public Transportation Options in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6726119-Dutton_Dunwich_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/elgin/dutton/" target="_blank" >- Best Things to do with the Kids in Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dutton-dunwich/" target="_blank" >- Local News for Dutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dutton" target="_blank" >- Weather in Dutton, Ontario</a></li>
 					</ul>
       </div>
      </div>

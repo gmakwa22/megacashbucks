@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Riverside-Albert, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1816373-Activities-Riverside_Albert_Albert_County_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Riverside-Albert" target="_blank" rel="nofollow noopener">- Best Places to Eat in Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Riverside+Albert%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Riverside-Albert-Hotels.d6352492.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/7-things-to-do-in-riverside-albert-that-you-shouldn-t-miss-638950" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/nb/riverside-albert/news/" target="_blank" rel="nofollow noopener">- Local News for Riverside-Albert, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/riverside-albert" target="_blank" rel="nofollow noopener">- Weather in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1816373-Activities-Riverside_Albert_Albert_County_New_Brunswick.html" target="_blank" >- Best Attractions in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Riverside-Albert" target="_blank" >- Best Places to Eat in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Riverside+Albert%2C+NB" target="_blank" >- Best Places to Go Shopping in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Riverside-Albert-Hotels.d6352492.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/7-things-to-do-in-riverside-albert-that-you-shouldn-t-miss-638950" target="_blank" >- Best Things to do with the Kids in Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/nb/riverside-albert/news/" target="_blank" >- Local News for Riverside-Albert, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/riverside-albert" target="_blank" >- Weather in Riverside-Albert, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

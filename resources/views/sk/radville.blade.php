@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Radville, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/352/radville" target="_blank" rel="nofollow noopener">- Best Attractions in Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Radville" target="_blank" rel="nofollow noopener">- Best Places to Eat in Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/radville" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19767756-Radville_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/radville/" target="_blank" rel="nofollow noopener">- Local News for Radville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/radville" target="_blank" rel="nofollow noopener">- Weather in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/352/radville" target="_blank" >- Best Attractions in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Radville" target="_blank" >- Best Places to Eat in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/radville" target="_blank" >- Best Places to Go Shopping in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19767756-Radville_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/radville/" target="_blank" >- Local News for Radville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/radville" target="_blank" >- Weather in Radville, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

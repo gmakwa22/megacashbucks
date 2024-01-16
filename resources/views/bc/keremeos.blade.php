@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Keremeos, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.keremeos.ca/area-attractions" target="_blank" rel="nofollow noopener">- Best Attractions in Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g183737-Keremeos_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g183737-Activities-c26-Keremeos_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/route-overview?route=50" target="_blank" rel="nofollow noopener">- Public Transportation Options in Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g183737-Keremeos_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g183737-Activities-zft11306-Keremeos_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.keremeosreview.com/" target="_blank" rel="nofollow noopener">- Local News for Keremeos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/keremeos" target="_blank" rel="nofollow noopener">- Weather in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.keremeos.ca/area-attractions" target="_blank" >- Best Attractions in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g183737-Keremeos_British_Columbia.html" target="_blank" >- Best Places to Eat in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g183737-Activities-c26-Keremeos_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/route-overview?route=50" target="_blank" >- Public Transportation Options in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g183737-Keremeos_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g183737-Activities-zft11306-Keremeos_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.keremeosreview.com/" target="_blank" >- Local News for Keremeos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/keremeos" target="_blank" >- Weather in Keremeos, British Columbia</a></li>
 					</ul>
       </div>
      </div>

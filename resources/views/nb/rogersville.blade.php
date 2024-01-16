@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rogersville, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7713001-Rogersville_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Rogersville-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Rogersville%2C+NB+E4Y" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Bathurst-NB-Canada/Rogersville-NB-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7713001-Rogersville_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rogersville-nb/" target="_blank" rel="nofollow noopener">- Local News for Rogersville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-14_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7713001-Rogersville_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Rogersville-New-Brunswick" target="_blank" >- Best Places to Eat in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Rogersville%2C+NB+E4Y" target="_blank" >- Best Places to Go Shopping in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Bathurst-NB-Canada/Rogersville-NB-Canada" target="_blank" >- Public Transportation Options in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7713001-Rogersville_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" >- Best Things to do with the Kids in Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rogersville-nb/" target="_blank" >- Local News for Rogersville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-14_metric_e.html" target="_blank" >- Weather in Rogersville, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

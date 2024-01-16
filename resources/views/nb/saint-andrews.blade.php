@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Saint Andrews, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182147-Activities-Saint_Andrews_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/saint-andrews/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Water+St%2C+St.+Andrews%2C+NB+E5B" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/New-Brunswick/Saint-Andrews-NB-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-andrews.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182147-Activities-zft11306-Saint_Andrews_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-andrews/" target="_blank" rel="nofollow noopener">- Local News for Saint Andrews, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-18_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182147-Activities-Saint_Andrews_New_Brunswick.html" target="_blank" >- Best Attractions in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/saint-andrews/" target="_blank" >- Best Places to Eat in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Water+St%2C+St.+Andrews%2C+NB+E5B" target="_blank" >- Best Places to Go Shopping in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/New-Brunswick/Saint-Andrews-NB-Canada" target="_blank" >- Public Transportation Options in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-andrews.html" target="_blank" >- Best Places to Stay in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182147-Activities-zft11306-Saint_Andrews_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-andrews/" target="_blank" >- Local News for Saint Andrews, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-18_metric_e.html" target="_blank" >- Weather in Saint Andrews, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

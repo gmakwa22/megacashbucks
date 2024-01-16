@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stoney Point, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2327589-Stoney_Point_Lakeshore_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2327589-Stoney_Point_Lakeshore_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Stoney+Point+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.londontransit.ca/plan-a-trip/routes-schedules/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g2327589-Stoney_Point_Lakeshore_Ontario-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/family-attractions/16-great-things-do-kids-ontario" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/stoney-point/" target="_blank" rel="nofollow noopener">- Local News for Stoney Point, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stoney-point" target="_blank" rel="nofollow noopener">- Weather in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2327589-Stoney_Point_Lakeshore_Ontario-Vacations.html" target="_blank" >- Best Attractions in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2327589-Stoney_Point_Lakeshore_Ontario.html" target="_blank" >- Best Places to Eat in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Stoney+Point+ON" target="_blank" >- Best Places to Go Shopping in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.londontransit.ca/plan-a-trip/routes-schedules/" target="_blank" >- Public Transportation Options in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g2327589-Stoney_Point_Lakeshore_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/family-attractions/16-great-things-do-kids-ontario" target="_blank" >- Best Things to do with the Kids in Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/stoney-point/" target="_blank" >- Local News for Stoney Point, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stoney-point" target="_blank" >- Weather in Stoney Point, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wadena, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1131899-Activities-Wadena_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Wadena-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/wadena/shops" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1131899-d672233-Reviews-Blue_Willow_Inn-Wadena_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://wadenanews.ca/" target="_blank" rel="nofollow noopener">- Local News for Wadena, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/wadena" target="_blank" rel="nofollow noopener">- Weather in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1131899-Activities-Wadena_Saskatchewan.html" target="_blank" >- Best Attractions in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Wadena-Saskatchewan" target="_blank" >- Best Places to Eat in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/wadena/shops" target="_blank" >- Best Places to Go Shopping in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1131899-d672233-Reviews-Blue_Willow_Inn-Wadena_Saskatchewan.html" target="_blank" >- Best Places to Stay in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://wadenanews.ca/" target="_blank" >- Local News for Wadena, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/wadena" target="_blank" >- Weather in Wadena, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

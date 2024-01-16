@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Limoges, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g187159-Activities-Limoges_Haute_Vienne_Nouvelle_Aquitaine.html" target="_blank" rel="nofollow noopener">- Best Attractions in Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Limoges-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/limoges/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Limoges-ON-Canada/Ottawa" target="_blank" rel="nofollow noopener">- Public Transportation Options in Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de169230/limoges-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/limoges/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/on/limoges/news/" target="_blank" rel="nofollow noopener">- Local News for Limoges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/limoges" target="_blank" rel="nofollow noopener">- Weather in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g187159-Activities-Limoges_Haute_Vienne_Nouvelle_Aquitaine.html" target="_blank" >- Best Attractions in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Limoges-Ontario" target="_blank" >- Best Places to Eat in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/limoges/80014000.html" target="_blank" >- Best Places to Go Shopping in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Limoges-ON-Canada/Ottawa" target="_blank" >- Public Transportation Options in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de169230/limoges-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/limoges/" target="_blank" >- Best Things to do with the Kids in Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/on/limoges/news/" target="_blank" >- Local News for Limoges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/limoges" target="_blank" >- Weather in Limoges, Ontario</a></li>
 					</ul>
       </div>
      </div>

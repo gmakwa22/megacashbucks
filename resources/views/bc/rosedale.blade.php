@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rosedale, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2578537-Activities-Rosedale_Chilliwack_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.fraservalleylocal.ca/l/rosedale-bc/restaurants" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Rosedale%2C+Chilliwack%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/chilliwack/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/rosedale.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2578537-Activities-zft11306-Rosedale_Chilliwack_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rosedale/" target="_blank" rel="nofollow noopener">- Local News for Rosedale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.accuweather.com/en/ca/rosedale/v0x/weather-forecast/2291192" target="_blank" rel="nofollow noopener">- Weather in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2578537-Activities-Rosedale_Chilliwack_British_Columbia.html" target="_blank" >- Best Attractions in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.fraservalleylocal.ca/l/rosedale-bc/restaurants" target="_blank" >- Best Places to Eat in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Rosedale%2C+Chilliwack%2C+BC" target="_blank" >- Best Places to Go Shopping in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/chilliwack/schedules-and-maps" target="_blank" >- Public Transportation Options in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/rosedale.html" target="_blank" >- Best Places to Stay in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2578537-Activities-zft11306-Rosedale_Chilliwack_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rosedale/" target="_blank" >- Local News for Rosedale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.accuweather.com/en/ca/rosedale/v0x/weather-forecast/2291192" target="_blank" >- Weather in Rosedale, British Columbia</a></li>
 					</ul>
       </div>
      </div>

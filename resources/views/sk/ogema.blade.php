@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ogema, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/326/ogema" target="_blank" rel="nofollow noopener">- Best Attractions in Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Ogema" target="_blank" rel="nofollow noopener">- Best Places to Eat in Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://sk.allpages.com/ogema/shopping-shopping-services/food-beverage-stores-services/grocery-stores-supermarkets/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Ogema" target="_blank" rel="nofollow noopener">- Public Transportation Options in Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/ogema/hotels.php" target="_blank" rel="nofollow noopener">- Best Places to Stay in Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/ogema/sk" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/ogema/" target="_blank" rel="nofollow noopener">- Local News for Ogema, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/ogema" target="_blank" rel="nofollow noopener">- Weather in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/326/ogema" target="_blank" >- Best Attractions in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Ogema" target="_blank" >- Best Places to Eat in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://sk.allpages.com/ogema/shopping-shopping-services/food-beverage-stores-services/grocery-stores-supermarkets/" target="_blank" >- Best Places to Go Shopping in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Ogema" target="_blank" >- Public Transportation Options in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/ogema/hotels.php" target="_blank" >- Best Places to Stay in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/ogema/sk" target="_blank" >- Best Things to do with the Kids in Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/ogema/" target="_blank" >- Local News for Ogema, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/ogema" target="_blank" >- Weather in Ogema, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

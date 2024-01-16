@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Whistler, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.whistler.com/activities/" target="_blank" rel="nofollow noopener">- Best Attractions in Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.whistler.com/dining/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.whistler.com/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/whistler/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.whistler.com/accommodation/hotels/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.whistler.com/kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/whistler/" target="_blank" rel="nofollow noopener">- Local News for Whistler, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-86_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.whistler.com/activities/" target="_blank" >- Best Attractions in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.whistler.com/dining/" target="_blank" >- Best Places to Eat in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.whistler.com/shopping/" target="_blank" >- Best Places to Go Shopping in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/whistler/home" target="_blank" >- Public Transportation Options in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.whistler.com/accommodation/hotels/" target="_blank" >- Best Places to Stay in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.whistler.com/kids/" target="_blank" >- Best Things to do with the Kids in Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/whistler/" target="_blank" >- Local News for Whistler, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-86_metric_e.html" target="_blank" >- Weather in Whistler, British Columbia</a></li>
 					</ul>
       </div>
      </div>

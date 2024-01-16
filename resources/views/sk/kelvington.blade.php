@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kelvington, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/96/kelvington" target="_blank" rel="nofollow noopener">- Best Attractions in Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Kelvington" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofkelvington.com/where-to-shop/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofkelvington.com/transit-bus/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19760389-Kelvington_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/kelvington/" target="_blank" rel="nofollow noopener">- Local News for Kelvington, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/kelvington" target="_blank" rel="nofollow noopener">- Weather in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/96/kelvington" target="_blank" >- Best Attractions in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Kelvington" target="_blank" >- Best Places to Eat in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofkelvington.com/where-to-shop/" target="_blank" >- Best Places to Go Shopping in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofkelvington.com/transit-bus/" target="_blank" >- Public Transportation Options in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19760389-Kelvington_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/kelvington/" target="_blank" >- Local News for Kelvington, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/kelvington" target="_blank" >- Weather in Kelvington, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

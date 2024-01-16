@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kapuskasing, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499266-Activities-Kapuskasing_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Kapuskasing" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.kapuskasing.ca/en/playing/Shopping-and-Stores.aspx" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Kapuskasing" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kapuskasing.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/kapuskasing-ontario" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mykapuskasingnow.com/" target="_blank" rel="nofollow noopener">- Local News for Kapuskasing, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kapuskasing" target="_blank" rel="nofollow noopener">- Weather in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499266-Activities-Kapuskasing_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Kapuskasing" target="_blank" >- Best Places to Eat in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.kapuskasing.ca/en/playing/Shopping-and-Stores.aspx" target="_blank" >- Best Places to Go Shopping in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Kapuskasing" target="_blank" >- Public Transportation Options in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kapuskasing.html" target="_blank" >- Best Places to Stay in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/kapuskasing-ontario" target="_blank" >- Best Things to do with the Kids in Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mykapuskasingnow.com/" target="_blank" >- Local News for Kapuskasing, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kapuskasing" target="_blank" >- Weather in Kapuskasing, Ontario</a></li>
 					</ul>
       </div>
      </div>

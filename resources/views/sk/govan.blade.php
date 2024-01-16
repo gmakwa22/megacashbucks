@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Govan, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/71/govan" target="_blank" rel="nofollow noopener">- Best Attractions in Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Govan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/govan-saskatchewan/shopping-other/?p=3" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11399134/govan-saskatchewan-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/sk/govan/news/" target="_blank" rel="nofollow noopener">- Local News for Govan, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/saskatchewan/govan" target="_blank" rel="nofollow noopener">- Weather in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/71/govan" target="_blank" >- Best Attractions in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Govan" target="_blank" >- Best Places to Eat in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/govan-saskatchewan/shopping-other/?p=3" target="_blank" >- Best Places to Go Shopping in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11399134/govan-saskatchewan-hotels-rooms/" target="_blank" >- Best Places to Stay in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/sk/govan/news/" target="_blank" >- Local News for Govan, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/saskatchewan/govan" target="_blank" >- Weather in Govan, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Elmira, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678569-Activities-Elmira_Region_of_Waterloo_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/elmira/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678569-Activities-c26-Elmira_Region_of_Waterloo_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Waterloo-ON-Canada/Elmira-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/elmira.en-gb.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/waterloo/elmira/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/elmira-ontario/" target="_blank" rel="nofollow noopener">- Local News for Elmira, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/elmira" target="_blank" rel="nofollow noopener">- Weather in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678569-Activities-Elmira_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Attractions in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/elmira/" target="_blank" >- Best Places to Eat in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678569-Activities-c26-Elmira_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Places to Go Shopping in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Waterloo-ON-Canada/Elmira-ON-Canada" target="_blank" >- Public Transportation Options in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/elmira.en-gb.html" target="_blank" >- Best Places to Stay in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/waterloo/elmira/" target="_blank" >- Best Things to do with the Kids in Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/elmira-ontario/" target="_blank" >- Local News for Elmira, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/elmira" target="_blank" >- Weather in Elmira, Ontario</a></li>
 					</ul>
       </div>
      </div>

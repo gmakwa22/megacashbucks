@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Claremont, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g32215-Activities-Claremont_California.html" target="_blank" rel="nofollow noopener">- Best Attractions in Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g32215-Claremont_California.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Claremont+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Claremont_Park-Greater_Vancouver_BC-site_153402500-145" target="_blank" rel="nofollow noopener">- Public Transportation Options in Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/us/claremont.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g32215-Activities-zft11306-Claremont_California.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/claremont/" target="_blank" rel="nofollow noopener">- Local News for Claremont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/claremont" target="_blank" rel="nofollow noopener">- Weather in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g32215-Activities-Claremont_California.html" target="_blank" >- Best Attractions in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g32215-Claremont_California.html" target="_blank" >- Best Places to Eat in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Claremont+ON" target="_blank" >- Best Places to Go Shopping in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Claremont_Park-Greater_Vancouver_BC-site_153402500-145" target="_blank" >- Public Transportation Options in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/us/claremont.html" target="_blank" >- Best Places to Stay in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g32215-Activities-zft11306-Claremont_California.html" target="_blank" >- Best Things to do with the Kids in Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/claremont/" target="_blank" >- Local News for Claremont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/claremont" target="_blank" >- Weather in Claremont, Ontario</a></li>
 					</ul>
       </div>
      </div>

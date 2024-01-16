@@ -38,14 +38,14 @@
       <div class="col-lg-6 sm-mt-30">
 					<h3>Helpful information about Truro, NS</h3>
           <ul class="list-group">
-						<li class="list-group-item"><a href="https://www.truro.ca/" target="_blank" rel="nofollow noopener">- Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://lovemylibrary.ca/" target="_blank" rel="nofollow noopener">- Libraries in Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://www.truro.ca/transportation-services.html" target="_blank" rel="nofollow noopener">- Public Transit in Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181762-Truro_Nova_Scotia.html" target="_blank" rel="nofollow noopener">- Best restaurants in Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://www.booking.com/city/ca/truro.html" target="_blank" rel="nofollow noopener">- The best Hotels in Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181762-Activities-Truro_Nova_Scotia.html" target="_blank" rel="nofollow noopener">- Best Things to do in Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://www.trurodaily.com/news/local/" target="_blank" rel="nofollow noopener">- News in Truro, NS</a></li>
-						<li class="list-group-item"><a href="https://weather.com/weather/today/l/45.37,-63.29?par=google" target="_blank" rel="nofollow noopener">- Weather in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://www.truro.ca/" target="_blank" >- Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://lovemylibrary.ca/" target="_blank" >- Libraries in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://www.truro.ca/transportation-services.html" target="_blank" >- Public Transit in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181762-Truro_Nova_Scotia.html" target="_blank" >- Best restaurants in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://www.booking.com/city/ca/truro.html" target="_blank" >- The best Hotels in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181762-Activities-Truro_Nova_Scotia.html" target="_blank" >- Best Things to do in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://www.trurodaily.com/news/local/" target="_blank" >- News in Truro, NS</a></li>
+						<li class="list-group-item"><a href="https://weather.com/weather/today/l/45.37,-63.29?par=google" target="_blank" >- Weather in Truro, NS</a></li>
 		 			 </ul>
       </div>
      </div>

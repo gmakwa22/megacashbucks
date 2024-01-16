@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Aberdeen, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismOntario.com/community/5/aberdeen#sort=relevancy" target="_blank" rel="nofollow noopener">- Best Attractions in Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Aberdeen-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.aberdeencentre.com/en/shopping.php?type=shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.aberdeen.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11406879/aberdeen-Ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/Ontario/prince-albert/aberdeen/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/aberdeen-Ontario/" target="_blank" rel="nofollow noopener">- Local News for Aberdeen, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/Ontario/aberdeen" target="_blank" rel="nofollow noopener">- Weather in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tourismOntario.com/community/5/aberdeen#sort=relevancy" target="_blank" >- Best Attractions in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Aberdeen-Ontario" target="_blank" >- Best Places to Eat in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.aberdeencentre.com/en/shopping.php?type=shopping" target="_blank" >- Best Places to Go Shopping in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.aberdeen.ca/" target="_blank" >- Public Transportation Options in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11406879/aberdeen-Ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/Ontario/prince-albert/aberdeen/" target="_blank" >- Best Things to do with the Kids in Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/aberdeen-Ontario/" target="_blank" >- Local News for Aberdeen, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/Ontario/aberdeen" target="_blank" >- Weather in Aberdeen, Ontario</a></li>
 					</ul>
       </div>
      </div>

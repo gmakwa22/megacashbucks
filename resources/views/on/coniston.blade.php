@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Coniston, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940836-Activities-Coniston_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940836-Coniston_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canpages.ca/business/ON/coniston/convenience-and-variety-stores/2986-213300.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/gova-routes-and-schedules/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/coniston.en-gb.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://discoversudbury.ca/things-to-do/activity-type/family/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thesudburystar.com/category/news/" target="_blank" rel="nofollow noopener">- Local News for Coniston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/coniston" target="_blank" rel="nofollow noopener">- Weather in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940836-Activities-Coniston_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940836-Coniston_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canpages.ca/business/ON/coniston/convenience-and-variety-stores/2986-213300.html" target="_blank" >- Best Places to Go Shopping in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/gova-routes-and-schedules/" target="_blank" >- Public Transportation Options in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/coniston.en-gb.html" target="_blank" >- Best Places to Stay in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://discoversudbury.ca/things-to-do/activity-type/family/" target="_blank" >- Best Things to do with the Kids in Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thesudburystar.com/category/news/" target="_blank" >- Local News for Coniston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/coniston" target="_blank" >- Weather in Coniston, Ontario</a></li>
 					</ul>
       </div>
      </div>

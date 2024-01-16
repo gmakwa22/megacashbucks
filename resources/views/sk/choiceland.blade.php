@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Choiceland, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/234/choiceland" target="_blank" rel="nofollow noopener">- Best Attractions in Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7733921-Choiceland_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.choiceland.ca/business-grocers.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7733921-Choiceland_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.choiceland.ca/funstuff.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/choiceland/" target="_blank" rel="nofollow noopener">- Local News for Choiceland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/choiceland" target="_blank" rel="nofollow noopener">- Weather in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/234/choiceland" target="_blank" >- Best Attractions in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7733921-Choiceland_Saskatchewan.html" target="_blank" >- Best Places to Eat in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.choiceland.ca/business-grocers.html" target="_blank" >- Best Places to Go Shopping in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7733921-Choiceland_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.choiceland.ca/funstuff.html" target="_blank" >- Best Things to do with the Kids in Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/choiceland/" target="_blank" >- Local News for Choiceland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/choiceland" target="_blank" >- Weather in Choiceland, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

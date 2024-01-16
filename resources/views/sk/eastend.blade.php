@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Eastend, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2079956-Activities-Eastend_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Eastend" target="_blank" rel="nofollow noopener">- Best Places to Eat in Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofeastend.com/p/business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofeastend.com/p/transit-van-service" target="_blank" rel="nofollow noopener">- Public Transportation Options in Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2079956-c2-Eastend_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2079956-Activities-Eastend_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/eastend/" target="_blank" rel="nofollow noopener">- Local News for Eastend, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-45_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2079956-Activities-Eastend_Saskatchewan.html" target="_blank" >- Best Attractions in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Eastend" target="_blank" >- Best Places to Eat in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofeastend.com/p/business-directory" target="_blank" >- Best Places to Go Shopping in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofeastend.com/p/transit-van-service" target="_blank" >- Public Transportation Options in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2079956-c2-Eastend_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2079956-Activities-Eastend_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/eastend/" target="_blank" >- Local News for Eastend, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-45_metric_e.html" target="_blank" >- Weather in Eastend, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

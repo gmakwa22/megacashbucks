@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Trail-Fruitvale, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://www.village.fruitvale.bc.ca/content/things-do" target="_blank" rel="nofollow noopener">- Best Attractions in Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.menupix.com/british-columbia/n/1143/Fruitvale-restaurants" target="_blank" rel="nofollow noopener">- Best Places to Eat in Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://m.yelp.ca/search?cflt=shopping&find_loc=Fruitvale%2C+BC&start=10" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=43" target="_blank" rel="nofollow noopener">- Public Transportation Options in Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fruitvale.en-gb.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bcmag.ca/5-family-friendly-activities-in-trail/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.trailtimes.ca/" target="_blank" rel="nofollow noopener">- Local News for Trail-Fruitvale, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/fruitvale" target="_blank" rel="nofollow noopener">- Weather in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.village.fruitvale.bc.ca/content/things-do" target="_blank" >- Best Attractions in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.menupix.com/british-columbia/n/1143/Fruitvale-restaurants" target="_blank" >- Best Places to Eat in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://m.yelp.ca/search?cflt=shopping&find_loc=Fruitvale%2C+BC&start=10" target="_blank" >- Best Places to Go Shopping in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=43" target="_blank" >- Public Transportation Options in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fruitvale.en-gb.html" target="_blank" >- Best Places to Stay in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bcmag.ca/5-family-friendly-activities-in-trail/" target="_blank" >- Best Things to do with the Kids in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.trailtimes.ca/" target="_blank" >- Local News for Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/fruitvale" target="_blank" >- Weather in Trail-Fruitvale, British Columbia</a></li>
 					</ul>
       </div>
      </div>

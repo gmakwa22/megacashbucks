@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Doaktown, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1800631-Doaktown_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Doaktown" target="_blank" rel="nofollow noopener">- Best Places to Eat in Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Doaktown%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Doaktown/Fredericton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.agoda.com/en-ca/city/doaktown-nb-ca.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/doaktown/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/nb/doaktown/news/" target="_blank" rel="nofollow noopener">- Local News for Doaktown, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-4_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1800631-Doaktown_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Doaktown" target="_blank" >- Best Places to Eat in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Doaktown%2C+NB" target="_blank" >- Best Places to Go Shopping in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Doaktown/Fredericton" target="_blank" >- Public Transportation Options in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.agoda.com/en-ca/city/doaktown-nb-ca.html" target="_blank" >- Best Places to Stay in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/doaktown/nb" target="_blank" >- Best Things to do with the Kids in Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/nb/doaktown/news/" target="_blank" >- Local News for Doaktown, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-4_metric_e.html" target="_blank" >- Weather in Doaktown, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

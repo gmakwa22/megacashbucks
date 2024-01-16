@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Crossfield, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4471916-Crossfield_Alberta-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4471916-Crossfield_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Crossfield%2C+AB+T0M+0S0" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Transportation+Service/Crossfield+AB" target="_blank" rel="nofollow noopener">- Public Transportation Options in Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4471916-Crossfield_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Crossfield,_Alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/crossfield/" target="_blank" rel="nofollow noopener">- Local News for Crossfield, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/crossfield" target="_blank" rel="nofollow noopener">- Weather in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4471916-Crossfield_Alberta-Vacations.html" target="_blank" >- Best Attractions in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4471916-Crossfield_Alberta.html" target="_blank" >- Best Places to Eat in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Crossfield%2C+AB+T0M+0S0" target="_blank" >- Best Places to Go Shopping in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Transportation+Service/Crossfield+AB" target="_blank" >- Public Transportation Options in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4471916-Crossfield_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Crossfield,_Alberta" target="_blank" >- Best Things to do with the Kids in Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/crossfield/" target="_blank" >- Local News for Crossfield, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/crossfield" target="_blank" >- Weather in Crossfield, Alberta</a></li>
 					</ul>
       </div>
      </div>

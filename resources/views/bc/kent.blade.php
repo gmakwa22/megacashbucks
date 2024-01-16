@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kent, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g616301-Activities-Agassiz_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g616301-Agassiz_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Kent%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.kentbc.ca/en/living-here/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de12509539/kent-british-columbia-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g616301-Activities-Agassiz_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.kentbc.ca/Modules/News/en" target="_blank" rel="nofollow noopener">- Local News for Kent, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/kent" target="_blank" rel="nofollow noopener">- Weather in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g616301-Activities-Agassiz_British_Columbia.html" target="_blank" >- Best Attractions in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g616301-Agassiz_British_Columbia.html" target="_blank" >- Best Places to Eat in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Kent%2C+BC" target="_blank" >- Best Places to Go Shopping in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.kentbc.ca/en/living-here/transit.aspx" target="_blank" >- Public Transportation Options in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de12509539/kent-british-columbia-hotels-rooms/" target="_blank" >- Best Places to Stay in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g616301-Activities-Agassiz_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.kentbc.ca/Modules/News/en" target="_blank" >- Local News for Kent, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/kent" target="_blank" >- Weather in Kent, British Columbia</a></li>
 					</ul>
       </div>
      </div>

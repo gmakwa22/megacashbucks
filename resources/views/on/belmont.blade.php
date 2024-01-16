@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Belmont, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2213283-Belmont_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2213283-Belmont_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.facebook.com/places/Shopping-Retail-in-Belmont-Ontario/104007479637081/200600219953504/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mykawartha.com/directory/belmont-on/transport-service/land-transportation-1905326/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2213283-Belmont_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/elgin/belmont/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/belmont/" target="_blank" rel="nofollow noopener">- Local News for Belmont, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/belmont" target="_blank" rel="nofollow noopener">- Weather in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2213283-Belmont_Ontario-Vacations.html" target="_blank" >- Best Attractions in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2213283-Belmont_Ontario.html" target="_blank" >- Best Places to Eat in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/places/Shopping-Retail-in-Belmont-Ontario/104007479637081/200600219953504/" target="_blank" >- Best Places to Go Shopping in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mykawartha.com/directory/belmont-on/transport-service/land-transportation-1905326/" target="_blank" >- Public Transportation Options in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2213283-Belmont_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/elgin/belmont/" target="_blank" >- Best Things to do with the Kids in Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/belmont/" target="_blank" >- Local News for Belmont, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/belmont" target="_blank" >- Weather in Belmont, Ontario</a></li>
 					</ul>
       </div>
      </div>

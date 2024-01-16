@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rockglen, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/137/rockglen" target="_blank" rel="nofollow noopener">- Best Attractions in Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Rollin-Rock-Bar-and-Grill-Rockglen" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.rockglentourism.com/new-page-1" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://rockglenmotel.ca/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.rockglentourism.com/attractions" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rockglen/" target="_blank" rel="nofollow noopener">- Local News for Rockglen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-54_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/137/rockglen" target="_blank" >- Best Attractions in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Rollin-Rock-Bar-and-Grill-Rockglen" target="_blank" >- Best Places to Eat in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.rockglentourism.com/new-page-1" target="_blank" >- Best Places to Go Shopping in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://rockglenmotel.ca/" target="_blank" >- Best Places to Stay in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.rockglentourism.com/attractions" target="_blank" >- Best Things to do with the Kids in Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rockglen/" target="_blank" >- Local News for Rockglen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-54_metric_e.html" target="_blank" >- Weather in Rockglen, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

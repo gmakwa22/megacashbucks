@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Port McNeill, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/vancouver-island/port-mcneill.html" target="_blank" rel="nofollow noopener">- Best Attractions in Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499144-Port_McNeill_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://vancouverislandnorth.ca/things-to-do/dining-shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/mount-waddington/schedules-and-maps/route-overview?route=1" target="_blank" rel="nofollow noopener">- Public Transportation Options in Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499144-Port_McNeill_Vancouver_Island_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/port-mcneill/bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.northislandgazette.com/local-news/" target="_blank" rel="nofollow noopener">- Local News for Port McNeill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/port-mcneill" target="_blank" rel="nofollow noopener">- Weather in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/vancouver-island/port-mcneill.html" target="_blank" >- Best Attractions in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499144-Port_McNeill_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://vancouverislandnorth.ca/things-to-do/dining-shopping/" target="_blank" >- Best Places to Go Shopping in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/mount-waddington/schedules-and-maps/route-overview?route=1" target="_blank" >- Public Transportation Options in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499144-Port_McNeill_Vancouver_Island_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/port-mcneill/bc" target="_blank" >- Best Things to do with the Kids in Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.northislandgazette.com/local-news/" target="_blank" >- Local News for Port McNeill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/port-mcneill" target="_blank" >- Weather in Port McNeill, British Columbia</a></li>
 					</ul>
       </div>
      </div>

@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chelmsford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2534428-Activities-Chelmsford_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2534428-Chelmsford_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chelmsford/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/gova-routes-and-schedules/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/chelmsford.en-gb.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://discoversudbury.ca/things-to-do/activity-type/family/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://local.ca/on/chelmsford/news/" target="_blank" rel="nofollow noopener">- Local News for Chelmsford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chelmsford" target="_blank" rel="nofollow noopener">- Weather in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2534428-Activities-Chelmsford_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2534428-Chelmsford_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chelmsford/80014000.html" target="_blank" >- Best Places to Go Shopping in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/gova-routes-and-schedules/" target="_blank" >- Public Transportation Options in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/chelmsford.en-gb.html" target="_blank" >- Best Places to Stay in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://discoversudbury.ca/things-to-do/activity-type/family/" target="_blank" >- Best Things to do with the Kids in Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://local.ca/on/chelmsford/news/" target="_blank" >- Local News for Chelmsford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chelmsford" target="_blank" >- Weather in Chelmsford, Ontario</a></li>
 					</ul>
       </div>
      </div>

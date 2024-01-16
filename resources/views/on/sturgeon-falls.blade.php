@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sturgeon Falls, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940826-Activities-Sturgeon_Falls_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940826-Sturgeon_Falls_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.facebook.com/places/Shopping-Retail-in-Sturgeon-Falls-Ontario/115213381822125/200600219953504/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto-Union-Station/Sturgeon-Falls" target="_blank" rel="nofollow noopener">- Public Transportation Options in Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g940826-Sturgeon_Falls_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/parry-sound/sturgeon-falls/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://westnipissingouest.com/" target="_blank" rel="nofollow noopener">- Local News for Sturgeon Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sturgeon-falls" target="_blank" rel="nofollow noopener">- Weather in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940826-Activities-Sturgeon_Falls_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940826-Sturgeon_Falls_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/places/Shopping-Retail-in-Sturgeon-Falls-Ontario/115213381822125/200600219953504/" target="_blank" >- Best Places to Go Shopping in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto-Union-Station/Sturgeon-Falls" target="_blank" >- Public Transportation Options in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g940826-Sturgeon_Falls_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/parry-sound/sturgeon-falls/" target="_blank" >- Best Things to do with the Kids in Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://westnipissingouest.com/" target="_blank" >- Local News for Sturgeon Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sturgeon-falls" target="_blank" >- Weather in Sturgeon Falls, Ontario</a></li>
 					</ul>
       </div>
      </div>

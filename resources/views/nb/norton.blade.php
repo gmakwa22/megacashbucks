@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Norton, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g3596598-Norton_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Norton-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Upper+Midland+Rd%2C+Norton%2C+NB+E5T" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/New-Brunswick/Norton-MA-USA" target="_blank" rel="nofollow noopener">- Public Transportation Options in Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10417179/norton-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/norton-nb/" target="_blank" rel="nofollow noopener">- Local News for Norton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/norton" target="_blank" rel="nofollow noopener">- Weather in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g3596598-Norton_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Norton-New-Brunswick" target="_blank" >- Best Places to Eat in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Upper+Midland+Rd%2C+Norton%2C+NB+E5T" target="_blank" >- Best Places to Go Shopping in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/New-Brunswick/Norton-MA-USA" target="_blank" >- Public Transportation Options in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10417179/norton-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/norton-nb/" target="_blank" >- Local News for Norton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/norton" target="_blank" >- Weather in Norton, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Gibbons, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g656228-Activities-Gibbons_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g656228-Gibbons_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.gibbons.ca/services/resources/business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coldshot.ca/gibbons/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g656228-Gibbons_Alberta-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Gibbons,_Alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/gibbons/" target="_blank" rel="nofollow noopener">- Local News for Gibbons, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/gibbons" target="_blank" rel="nofollow noopener">- Weather in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g656228-Activities-Gibbons_Alberta.html" target="_blank" >- Best Attractions in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g656228-Gibbons_Alberta.html" target="_blank" >- Best Places to Eat in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.gibbons.ca/services/resources/business-directory" target="_blank" >- Best Places to Go Shopping in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.coldshot.ca/gibbons/" target="_blank" >- Public Transportation Options in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g656228-Gibbons_Alberta-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Gibbons,_Alberta" target="_blank" >- Best Things to do with the Kids in Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/gibbons/" target="_blank" >- Local News for Gibbons, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/gibbons" target="_blank" >- Weather in Gibbons, Alberta</a></li>
 					</ul>
       </div>
      </div>

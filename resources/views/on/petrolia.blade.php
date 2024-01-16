@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Petrolia, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2207973-Activities-Petrolia_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Petrolia" target="_blank" rel="nofollow noopener">- Best Places to Eat in Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://shoppetrolia.ca/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Petrolia-ON-Canada/Toronto" target="_blank" rel="nofollow noopener">- Public Transportation Options in Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Petrolia-Hotels.d3000404351.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/lambton/petrolia/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/petrolia/" target="_blank" rel="nofollow noopener">- Local News for Petrolia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/petrolia" target="_blank" rel="nofollow noopener">- Weather in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2207973-Activities-Petrolia_Ontario.html" target="_blank" >- Best Attractions in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Petrolia" target="_blank" >- Best Places to Eat in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://shoppetrolia.ca/" target="_blank" >- Best Places to Go Shopping in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Petrolia-ON-Canada/Toronto" target="_blank" >- Public Transportation Options in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Petrolia-Hotels.d3000404351.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/lambton/petrolia/" target="_blank" >- Best Things to do with the Kids in Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/petrolia/" target="_blank" >- Local News for Petrolia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/petrolia" target="_blank" >- Weather in Petrolia, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Leroy, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/399/leroy" target="_blank" rel="nofollow noopener">- Best Attractions in Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Lemon-Tree-Restaurant-Leroy" target="_blank" rel="nofollow noopener">- Best Places to Eat in Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://leroy.ca/business/business-directory/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7726153-Leroy_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/leroy-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Leroy, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/leroy" target="_blank" rel="nofollow noopener">- Weather in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/399/leroy" target="_blank" >- Best Attractions in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Lemon-Tree-Restaurant-Leroy" target="_blank" >- Best Places to Eat in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://leroy.ca/business/business-directory/" target="_blank" >- Best Places to Go Shopping in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7726153-Leroy_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/leroy-saskatchewan/" target="_blank" >- Local News for Leroy, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/leroy" target="_blank" >- Weather in Leroy, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

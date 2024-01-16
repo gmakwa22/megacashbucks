@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Embrun, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984025-Activities-Embrun_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/embrun/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Embrun%2C+ON+K0A" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Embrun/Ottawa" target="_blank" rel="nofollow noopener">- Public Transportation Options in Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g984025-Embrun_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/embrun/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/embrun-ontario/" target="_blank" rel="nofollow noopener">- Local News for Embrun, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/embrun" target="_blank" rel="nofollow noopener">- Weather in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984025-Activities-Embrun_Ontario.html" target="_blank" >- Best Attractions in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/embrun/" target="_blank" >- Best Places to Eat in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Embrun%2C+ON+K0A" target="_blank" >- Best Places to Go Shopping in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Embrun/Ottawa" target="_blank" >- Public Transportation Options in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g984025-Embrun_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/embrun/" target="_blank" >- Best Things to do with the Kids in Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/embrun-ontario/" target="_blank" >- Local News for Embrun, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/embrun" target="_blank" >- Weather in Embrun, Ontario</a></li>
 					</ul>
       </div>
      </div>

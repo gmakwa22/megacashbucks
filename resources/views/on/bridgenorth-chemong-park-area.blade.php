@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bridgenorth–Chemong Park Area, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMIobCY9cDN8wIV-A-tBh0S6w2iEAAYASAAEgKVKfD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/food-drink/foodie-destinations/8-foodie-destinations-ontario-you-need-savour?gclid=EAIaIQobChMIlcz7gMHN8wIVUT2tBh3-dwv1EAAYASAAEgIVLPD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://onculturedays.ca/guides/?gclid=EAIaIQobChMI0daTjMHN8wIVFBvnCh0VMghBEAAYAiAAEgLolvD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.peterborough.ca/en/city-services/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10423501/bridgenorth-ontario-hotels-rooms/?rffrid=sem.hcom.CA.google.003.00.04.s.kwrd%3Dc.433995110104.57526245334.1533330660..dsa-524895749964.9001551...EAIaIQobChMIvejfocHN8wIVgQh9Ch0LngFaEAAYAiAAEgIwbvD_BwE.aw.ds&PSRC=G21&gclid=EAIaIQobChMIvejfocHN8wIVgQh9Ch0LngFaEAAYAiAAEgIwbvD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.selwyntownship.ca/en/township-hall/parksbeachesandtrails.aspx" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ptbotoday.ca/local-news/" target="_blank" rel="nofollow noopener">- Local News for Bridgenorth–Chemong Park Area, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.wunderground.com/weather/ca/bridgenorth---chemong-park-area" target="_blank" rel="nofollow noopener">- Weather in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMIobCY9cDN8wIV-A-tBh0S6w2iEAAYASAAEgKVKfD_BwE" target="_blank" >- Best Attractions in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/food-drink/foodie-destinations/8-foodie-destinations-ontario-you-need-savour?gclid=EAIaIQobChMIlcz7gMHN8wIVUT2tBh3-dwv1EAAYASAAEgIVLPD_BwE" target="_blank" >- Best Places to Eat in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://onculturedays.ca/guides/?gclid=EAIaIQobChMI0daTjMHN8wIVFBvnCh0VMghBEAAYAiAAEgLolvD_BwE" target="_blank" >- Best Places to Go Shopping in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.peterborough.ca/en/city-services/transit.aspx" target="_blank" >- Public Transportation Options in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10423501/bridgenorth-ontario-hotels-rooms/?rffrid=sem.hcom.CA.google.003.00.04.s.kwrd%3Dc.433995110104.57526245334.1533330660..dsa-524895749964.9001551...EAIaIQobChMIvejfocHN8wIVgQh9Ch0LngFaEAAYAiAAEgIwbvD_BwE.aw.ds&PSRC=G21&gclid=EAIaIQobChMIvejfocHN8wIVgQh9Ch0LngFaEAAYAiAAEgIwbvD_BwE" target="_blank" >- Best Places to Stay in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.selwyntownship.ca/en/township-hall/parksbeachesandtrails.aspx" target="_blank" >- Best Things to do with the Kids in Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ptbotoday.ca/local-news/" target="_blank" >- Local News for Bridgenorth–Chemong Park Area, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wunderground.com/weather/ca/bridgenorth---chemong-park-area" target="_blank" >- Weather in Bridgenorth–Chemong Park Area, Ontario</a></li>
 					</ul>
       </div>
      </div>

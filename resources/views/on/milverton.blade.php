@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Milverton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4431925-Milverton_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Milverton" target="_blank" rel="nofollow noopener">- Best Places to Eat in Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Milverton%2C+ON+N0K" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Waterloo-ON-Canada/Milverton-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4431925-Milverton_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4431925-Milverton_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/milverton/" target="_blank" rel="nofollow noopener">- Local News for Milverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/milverton" target="_blank" rel="nofollow noopener">- Weather in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4431925-Milverton_Ontario-Vacations.html" target="_blank" >- Best Attractions in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Milverton" target="_blank" >- Best Places to Eat in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Milverton%2C+ON+N0K" target="_blank" >- Best Places to Go Shopping in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Waterloo-ON-Canada/Milverton-ON-Canada" target="_blank" >- Public Transportation Options in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4431925-Milverton_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4431925-Milverton_Ontario-Vacations.html" target="_blank" >- Best Things to do with the Kids in Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/milverton/" target="_blank" >- Local News for Milverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/milverton" target="_blank" >- Weather in Milverton, Ontario</a></li>
 					</ul>
       </div>
      </div>

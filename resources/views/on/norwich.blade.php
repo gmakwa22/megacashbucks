@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Norwich, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1720849-Activities-Norwich_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Norwich-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="https://norwichontario.com/places-to-shop-in-norwich/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/norwich_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g1720849-d14018161-Norwich_and_District_Museum_and_Archives-Norwich_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g186342-Activities-zft11306-Norwich_Norfolk_East_Anglia_England.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/norwich-ontario/" target="_blank" rel="nofollow noopener">- Local News for Norwich, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/norwich" target="_blank" rel="nofollow noopener">- Weather in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1720849-Activities-Norwich_Ontario.html" target="_blank" >- Best Attractions in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Norwich-Ontario" target="_blank" >- Best Places to Eat in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://norwichontario.com/places-to-shop-in-norwich/" target="_blank" >- Best Places to Go Shopping in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/norwich_bus_routes.htm" target="_blank" >- Public Transportation Options in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g1720849-d14018161-Norwich_and_District_Museum_and_Archives-Norwich_Ontario.html" target="_blank" >- Best Places to Stay in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g186342-Activities-zft11306-Norwich_Norfolk_East_Anglia_England.html" target="_blank" >- Best Things to do with the Kids in Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/norwich-ontario/" target="_blank" >- Local News for Norwich, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/norwich" target="_blank" >- Weather in Norwich, Ontario</a></li>
 					</ul>
       </div>
      </div>

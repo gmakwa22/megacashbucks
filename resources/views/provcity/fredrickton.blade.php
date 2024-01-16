@@ -47,13 +47,13 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Best things about living in Fredericton, New Brunswick:</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://www.fredericton.ca/en/contact-us" target="_blank" rel="nofollow noopener">- City of Fredericton, NB</a></li>
-					<li class="list-group-item"><a href="https://www1.gnb.ca/0003/pages/en/biblio-e.asp?code=YF" target="_blank" rel="nofollow noopener">- Libraries in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="http://www.fredericton.ca/en/transit" target="_blank" rel="nofollow noopener">- Public Transit, Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurant_Review-g154957-d709720-Reviews-Cabin_Restaurant-Fredericton_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best fast food restaurant in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Magnetic-Hill-Fredericton.d6131988.Vacation-Attraction" target="_blank" rel="nofollow noopener">- Exploring Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="http://www.fredericton.ca/en/contact-us" target="_blank" >- City of Fredericton, NB</a></li>
+					<li class="list-group-item"><a href="https://www1.gnb.ca/0003/pages/en/biblio-e.asp?code=YF" target="_blank" >- Libraries in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="http://www.fredericton.ca/en/transit" target="_blank" >- Public Transit, Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurant_Review-g154957-d709720-Reviews-Cabin_Restaurant-Fredericton_New_Brunswick.html" target="_blank" >- Best fast food restaurant in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Magnetic-Hill-Fredericton.d6131988.Vacation-Attraction" target="_blank" >- Exploring Fredericton, New Brunswick</a></li>
 					<li class="list-group-item"><a href="https://globalnews.ca/tag/fredericton/" target="_blank" rel="noopener">- News in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.com/en-CA/weather/today/l/45.96,-66.64?par=google?par=google" target="_blank" rel="nofollow noopener">- Weather in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.com/en-CA/weather/today/l/45.96,-66.64?par=google?par=google" target="_blank" >- Weather in Fredericton, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

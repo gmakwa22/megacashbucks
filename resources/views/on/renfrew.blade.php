@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Renfrew, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.renfrew.ca/attractions.cfm" target="_blank" rel="nofollow noopener">- Best Attractions in Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/renfrew/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.redc.ca/retail-stores" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Renfrew-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/renfrew.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/renfrew/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.renfrewtoday.ca/local-news/" target="_blank" rel="nofollow noopener">- Local News for Renfrew, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-58_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.renfrew.ca/attractions.cfm" target="_blank" >- Best Attractions in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/renfrew/" target="_blank" >- Best Places to Eat in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.redc.ca/retail-stores" target="_blank" >- Best Places to Go Shopping in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Renfrew-ON-Canada" target="_blank" >- Public Transportation Options in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/renfrew.html" target="_blank" >- Best Places to Stay in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/renfrew/" target="_blank" >- Best Things to do with the Kids in Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.renfrewtoday.ca/local-news/" target="_blank" >- Local News for Renfrew, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-58_metric_e.html" target="_blank" >- Weather in Renfrew, Ontario</a></li>
 					</ul>
       </div>
      </div>

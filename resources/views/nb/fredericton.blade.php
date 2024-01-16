@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fredericton, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/fredericton-cdn-nb-nbf.htm" target="_blank" rel="nofollow noopener">- Best Attractions in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/fredericton/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tourismfredericton.ca/en/experience/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.fredericton.ca/en/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fredericton.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tourismfredericton.ca/en/experience/family-fun" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/fredericton/" target="_blank" rel="nofollow noopener">- Local News for Fredericton, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-29_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/fredericton-cdn-nb-nbf.htm" target="_blank" >- Best Attractions in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/fredericton/" target="_blank" >- Best Places to Eat in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tourismfredericton.ca/en/experience/shopping" target="_blank" >- Best Places to Go Shopping in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.fredericton.ca/en/transit" target="_blank" >- Public Transportation Options in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fredericton.html" target="_blank" >- Best Places to Stay in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tourismfredericton.ca/en/experience/family-fun" target="_blank" >- Best Things to do with the Kids in Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/fredericton/" target="_blank" >- Local News for Fredericton, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-29_metric_e.html" target="_blank" >- Weather in Fredericton, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

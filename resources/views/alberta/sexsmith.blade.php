@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sexsmith, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g3813644-Sexsmith_Alberta-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3813644-Sexsmith_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sexsmith.ca/main.aspx?CategoryCode=71C5B41B-2BE9-45BB-BE76-B808B9C1C779&pageCode=047CEA41-6379-44F5-90F7-FB3CD33EA5CA" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sexsmith.ca/main.aspx?CategoryCode=47615773-CD0B-4668-8B13-398E20D842A1&pageCode=A8F6A8CB-FD54-4A7B-BD90-A8BA8BEB910D" target="_blank" rel="nofollow noopener">- Public Transportation Options in Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g3813644-Sexsmith_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Sexsmith,_Alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/sexsmith/" target="_blank" rel="nofollow noopener">- Local News for Sexsmith, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/sexsmith" target="_blank" rel="nofollow noopener">- Weather in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g3813644-Sexsmith_Alberta-Vacations.html" target="_blank" >- Best Attractions in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3813644-Sexsmith_Alberta.html" target="_blank" >- Best Places to Eat in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.sexsmith.ca/main.aspx?CategoryCode=71C5B41B-2BE9-45BB-BE76-B808B9C1C779&pageCode=047CEA41-6379-44F5-90F7-FB3CD33EA5CA" target="_blank" >- Best Places to Go Shopping in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.sexsmith.ca/main.aspx?CategoryCode=47615773-CD0B-4668-8B13-398E20D842A1&pageCode=A8F6A8CB-FD54-4A7B-BD90-A8BA8BEB910D" target="_blank" >- Public Transportation Options in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g3813644-Sexsmith_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Sexsmith,_Alberta" target="_blank" >- Best Things to do with the Kids in Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sexsmith/" target="_blank" >- Local News for Sexsmith, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/sexsmith" target="_blank" >- Weather in Sexsmith, Alberta</a></li>
 					</ul>
       </div>
      </div>

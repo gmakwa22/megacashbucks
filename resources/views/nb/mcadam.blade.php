@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about McAdam, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4332395-Activities-McAdam_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=McAdam%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Eat in McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=McAdam%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4332395-McAdam_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://mcadamnb.com/visit-mcadam" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/mcadam/" target="_blank" rel="nofollow noopener">- Local News for McAdam, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/mcadam" target="_blank" rel="nofollow noopener">- Weather in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4332395-Activities-McAdam_New_Brunswick.html" target="_blank" >- Best Attractions in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=McAdam%2C+NB" target="_blank" >- Best Places to Eat in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=McAdam%2C+NB" target="_blank" >- Best Places to Go Shopping in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4332395-McAdam_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://mcadamnb.com/visit-mcadam" target="_blank" >- Best Things to do with the Kids in McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/mcadam/" target="_blank" >- Local News for McAdam, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/mcadam" target="_blank" >- Weather in McAdam, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

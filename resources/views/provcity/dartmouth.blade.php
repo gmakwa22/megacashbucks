@@ -37,14 +37,14 @@
       <div class="col-lg-6 sm-mt-30">
 					<h3>Helpful information about Dartmouth, NS</h3>
           <ul class="list-group">
-						<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Dartmouth,_Nova_Scotia" target="_blank" rel="nofollow noopener">- Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://www.halifaxpubliclibraries.ca/locations/DN/" target="_blank" rel="nofollow noopener">- Libraries in Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Dartmouth_Crossing-Halifax_NS-efsite_4d1cd0b9c50e6ea89dcad5b8-2203" target="_blank" rel="nofollow noopener">- Public Transit in Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154974-Dartmouth_Halifax_Regional_Municipality_Nova_Scotia.html" target="_blank" rel="nofollow noopener">- Best restaurants in Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://www.expedia.ca/Dartmouth-Hotels.d7560.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- The best Hotels in Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/dartmouth/ns" target="_blank" rel="nofollow noopener">- Best Things to do in Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://globalnews.ca/tag/dartmouth/" target="_blank" rel="nofollow noopener">- News in Dartmouth, NS</a></li>
-						<li class="list-group-item"><a href="https://weather.com/weather/today/l/44.70,-63.56?par=google" target="_blank" rel="nofollow noopener">- Weather in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Dartmouth,_Nova_Scotia" target="_blank" >- Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://www.halifaxpubliclibraries.ca/locations/DN/" target="_blank" >- Libraries in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Dartmouth_Crossing-Halifax_NS-efsite_4d1cd0b9c50e6ea89dcad5b8-2203" target="_blank" >- Public Transit in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154974-Dartmouth_Halifax_Regional_Municipality_Nova_Scotia.html" target="_blank" >- Best restaurants in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://www.expedia.ca/Dartmouth-Hotels.d7560.Travel-Guide-Hotels" target="_blank" >- The best Hotels in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/dartmouth/ns" target="_blank" >- Best Things to do in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://globalnews.ca/tag/dartmouth/" target="_blank" >- News in Dartmouth, NS</a></li>
+						<li class="list-group-item"><a href="https://weather.com/weather/today/l/44.70,-63.56?par=google" target="_blank" >- Weather in Dartmouth, NS</a></li>
 		 			 </ul>
       </div>
      </div>

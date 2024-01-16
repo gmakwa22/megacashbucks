@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cardinal, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://koa.com/campgrounds/cardinal/local-area/" target="_blank" rel="nofollow noopener">- Best Attractions in Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2099967-Cardinal_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Cardinal/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.twpec.ca/en/living-here/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10405895/cardinal-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g2099967-d2085134-Cardinal_Ottawa_South_KOA-Cardinal_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.twpec.ca/Modules/News/en" target="_blank" rel="nofollow noopener">- Local News for Cardinal, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/cardinal" target="_blank" rel="nofollow noopener">- Weather in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://koa.com/campgrounds/cardinal/local-area/" target="_blank" >- Best Attractions in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2099967-Cardinal_Ontario.html" target="_blank" >- Best Places to Eat in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Cardinal/80014000.html" target="_blank" >- Best Places to Go Shopping in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.twpec.ca/en/living-here/transit.aspx" target="_blank" >- Public Transportation Options in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10405895/cardinal-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g2099967-d2085134-Cardinal_Ottawa_South_KOA-Cardinal_Ontario.html" target="_blank" >- Best Things to do with the Kids in Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.twpec.ca/Modules/News/en" target="_blank" >- Local News for Cardinal, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/cardinal" target="_blank" >- Weather in Cardinal, Ontario</a></li>
 					</ul>
       </div>
      </div>

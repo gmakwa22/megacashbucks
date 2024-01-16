@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Grande Prarie, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.travelalberta.com/ca/places-to-go/northern-alberta/grande-prairie/natural-attractions/" target="_blank" rel="nofollow noopener">- Best Attractions in Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.opentable.ca/start/geo/?mn=3073&n=8102" target="_blank" rel="nofollow noopener">- Best Places to Eat in Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.shopprairiemall.com/stores" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.alberta.ca/grande-prairie-bypass.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=grande-prairie-p5tBD5wXYpcTBA_tL5XTMwS392865643885%3Apl%3Ata%3Ap120%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-922652055822%3Akwd-1900039369%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=b515e3f781e019b3df1a697071b19db0;city=-565467;redirected=1;redirected_from_city=1;source=city&" target="_blank" rel="nofollow noopener">- Best Places to Stay in Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154916-Activities-Grande_Prairie_Alberta.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://everythinggp.com/" target="_blank" rel="nofollow noopener">- Local News for Grande Prarie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/ab-31_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.travelalberta.com/ca/places-to-go/northern-alberta/grande-prairie/natural-attractions/" target="_blank" >- Best Attractions in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.opentable.ca/start/geo/?mn=3073&n=8102" target="_blank" >- Best Places to Eat in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.shopprairiemall.com/stores" target="_blank" >- Best Places to Go Shopping in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.alberta.ca/grande-prairie-bypass.aspx" target="_blank" >- Public Transportation Options in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=grande-prairie-p5tBD5wXYpcTBA_tL5XTMwS392865643885%3Apl%3Ata%3Ap120%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-922652055822%3Akwd-1900039369%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=b515e3f781e019b3df1a697071b19db0;city=-565467;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154916-Activities-Grande_Prairie_Alberta.html" target="_blank" >- Best Things to do with the Kids in Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://everythinggp.com/" target="_blank" >- Local News for Grande Prarie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/ab-31_metric_e.html" target="_blank" >- Weather in Grande Prarie, Alberta</a></li>
 					</ul>
       </div>
      </div>

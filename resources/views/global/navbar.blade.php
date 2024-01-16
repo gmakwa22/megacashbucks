@@ -12,11 +12,11 @@
                         <span></span>
                     </div>
                     <ul class="fusion-menu">
-                    <li id="why"><a href="{{ url('/why_use_us') }}" >What we offer</a></li>
+                    <!-- <li id="why"><a href="{{ url('/why_use_us') }}" >What we offer</a></li> -->
                         <li id="how"><a href="{{ url('/agent-list') }}" >How it’s done</a></li>
                       <li id="edu"><a href="{{ url('/education-center') }}">Be informed</a></li>
                      <li id="supp"><a href="{{ url('/faq') }}">FAQ &nbsp;</a></li>
-                    {{--  <li id="aff"><a href="#" target="_blank">Our Blog</a></li> --}}
+                    <!-- {{--  <li id="aff"><a href="#" target="_blank">Our Blog</a></li> --}} -->
                         <li id="acc"><a href="{{ $corpsignin }}" >Sign in</a></li>
                         <li id="get"><a href="{{ $corpregister }}"  class="ea">APPLY NOW</a></li>
                     </ul>

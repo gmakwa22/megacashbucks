@@ -38,14 +38,14 @@
       <div class="col-lg-6 sm-mt-30">
 				  <h3>Helpful information about Cape Breton, NS</h3>
           <ul class="list-group">
-						<li class="list-group-item"><a href="https://www.cbisland.com/" target="_blank" rel="nofollow noopener">- Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://cbrl.ca/" target="_blank" rel="nofollow noopener">- Libraries in Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://www.cbrm.ns.ca/transit" target="_blank" rel="nofollow noopener">- Public Transit in Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://www.foodbloggersofcanada.com/where-to-eat-this-weekend-cape-breton-island-edition/" target="_blank" rel="nofollow noopener">- Best restaurants in Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://www.fodors.com/world/north-america/canada/nova-scotia/cape-breton-island/hotels" target="_blank" rel="nofollow noopener">- The best Hotels in Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154972-Activities-Cape_Breton_Island_Nova_Scotia.html" target="_blank" rel="nofollow noopener">- Best Things to do in Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://www.capebretonpost.com/news/local/" target="_blank" rel="nofollow noopener">- News in Cape Breton, NS</a></li>
-						<li class="list-group-item"><a href="https://weather.com/weather/today/l/46.25,-60.85?par=google" target="_blank" rel="nofollow noopener">- Weather in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://www.cbisland.com/" target="_blank" >- Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://cbrl.ca/" target="_blank" >- Libraries in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://www.cbrm.ns.ca/transit" target="_blank" >- Public Transit in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://www.foodbloggersofcanada.com/where-to-eat-this-weekend-cape-breton-island-edition/" target="_blank" >- Best restaurants in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://www.fodors.com/world/north-america/canada/nova-scotia/cape-breton-island/hotels" target="_blank" >- The best Hotels in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154972-Activities-Cape_Breton_Island_Nova_Scotia.html" target="_blank" >- Best Things to do in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://www.capebretonpost.com/news/local/" target="_blank" >- News in Cape Breton, NS</a></li>
+						<li class="list-group-item"><a href="https://weather.com/weather/today/l/46.25,-60.85?par=google" target="_blank" >- Weather in Cape Breton, NS</a></li>
 		 			 </ul>
       </div>
      </div>

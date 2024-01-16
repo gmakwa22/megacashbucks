@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Upper Miramichi, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-Miramichi_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/miramichi/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/new-brunswick/miramichi/northumberland-square-mall" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://miramichitransit.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499181-Miramichi_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/miramichi/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/miramichi/" target="_blank" rel="nofollow noopener">- Local News for Upper Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.com/weather/tenday/l/Upper+Miramichi+New+Brunswick+Canada?canonicalCityId=eb486ca1191366778b29743893c6dc8415b3803f40ee4b5e64062f5967593c79" target="_blank" rel="nofollow noopener">- Weather in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-Miramichi_New_Brunswick.html" target="_blank" >- Best Attractions in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/miramichi/" target="_blank" >- Best Places to Eat in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/new-brunswick/miramichi/northumberland-square-mall" target="_blank" >- Best Places to Go Shopping in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://miramichitransit.ca/" target="_blank" >- Public Transportation Options in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499181-Miramichi_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/miramichi/nb" target="_blank" >- Best Things to do with the Kids in Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/miramichi/" target="_blank" >- Local News for Upper Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.com/weather/tenday/l/Upper+Miramichi+New+Brunswick+Canada?canonicalCityId=eb486ca1191366778b29743893c6dc8415b3803f40ee4b5e64062f5967593c79" target="_blank" >- Weather in Upper Miramichi, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

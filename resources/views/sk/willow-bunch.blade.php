@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Willow Bunch, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2642415-Activities-Willow_Bunch_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Willow-Bunch" target="_blank" rel="nofollow noopener">- Best Places to Eat in Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://willowbunch.ca/business/directory/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/willow-bunch.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/willow-bunch/" target="_blank" rel="nofollow noopener">- Local News for Willow Bunch, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/willow-bunch" target="_blank" rel="nofollow noopener">- Weather in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2642415-Activities-Willow_Bunch_Saskatchewan.html" target="_blank" >- Best Attractions in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Willow-Bunch" target="_blank" >- Best Places to Eat in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://willowbunch.ca/business/directory/" target="_blank" >- Best Places to Go Shopping in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/willow-bunch.html" target="_blank" >- Best Places to Stay in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/willow-bunch/" target="_blank" >- Local News for Willow Bunch, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/willow-bunch" target="_blank" >- Weather in Willow Bunch, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

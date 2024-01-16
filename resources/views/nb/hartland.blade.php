@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hartland, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Hartland%2C-Canada" target="_blank" rel="nofollow noopener">- Best Attractions in Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Hartland-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://townofhartland.ca/p/business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Fredericton/Hartland-NB-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1093799-Hartland_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/hartland/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hartland-nb/" target="_blank" rel="nofollow noopener">- Local News for Hartland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/hartland" target="_blank" rel="nofollow noopener">- Weather in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Hartland%2C-Canada" target="_blank" >- Best Attractions in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Hartland-New-Brunswick" target="_blank" >- Best Places to Eat in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://townofhartland.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Fredericton/Hartland-NB-Canada" target="_blank" >- Public Transportation Options in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1093799-Hartland_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/hartland/nb" target="_blank" >- Best Things to do with the Kids in Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hartland-nb/" target="_blank" >- Local News for Hartland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/hartland" target="_blank" >- Weather in Hartland, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ladysmith, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182188-Activities-Ladysmith_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182188-Ladysmith_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://tourismladysmith.ca/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps/route-overview?route=36" target="_blank" rel="nofollow noopener">- Public Transportation Options in Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/ladysmith-province-of-british-columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/ladysmith-british-columbia" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.ladysmithchronicle.com/" target="_blank" rel="nofollow noopener">- Local News for Ladysmith, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/ladysmith" target="_blank" rel="nofollow noopener">- Weather in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182188-Activities-Ladysmith_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182188-Ladysmith_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://tourismladysmith.ca/shopping" target="_blank" >- Best Places to Go Shopping in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps/route-overview?route=36" target="_blank" >- Public Transportation Options in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/ladysmith-province-of-british-columbia.html" target="_blank" >- Best Places to Stay in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/ladysmith-british-columbia" target="_blank" >- Best Things to do with the Kids in Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ladysmithchronicle.com/" target="_blank" >- Local News for Ladysmith, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/ladysmith" target="_blank" >- Weather in Ladysmith, British Columbia</a></li>
 					</ul>
       </div>
      </div>

@@ -53,14 +53,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bradford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMI15Kc5r3N8wIVCzUrCh3BOA0PEAAYAyAAEgLcnPD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g804487-Bradford_West_Gwillimbury_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopbradford.ca/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.townofbwg.com/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11116559/bradford-west-gwillimbury-ontario-hotels-rooms/?rffrid=sem.hcom.CA.google.003.00.04.s.kwrd%3Dc.433995110047.57526245014.1533330660..dsa-524895745324.9001551...EAIaIQobChMIsIjnkb7N8wIVjhitBh3KXwxhEAAYASAAEgLSkfD_BwE.aw.ds&PSRC=G21&gclid=EAIaIQobChMIsIjnkb7N8wIVjhitBh3KXwxhEAAYASAAEgLSkfD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://helpwevegotkids.com/toronto-gta/southern-ontario/bradford-west-gwillimbury/listings/attractions-for-kids-and-families/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.bradfordtoday.ca/" target="_blank" rel="nofollow noopener">- Local News for Bradford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bradford" target="_blank" rel="nofollow noopener">- Weather in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMI15Kc5r3N8wIVCzUrCh3BOA0PEAAYAyAAEgLcnPD_BwE" target="_blank" >- Best Attractions in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g804487-Bradford_West_Gwillimbury_Ontario.html" target="_blank" >- Best Places to Eat in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopbradford.ca/" target="_blank" >- Best Places to Go Shopping in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.townofbwg.com/transit" target="_blank" >- Public Transportation Options in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11116559/bradford-west-gwillimbury-ontario-hotels-rooms/?rffrid=sem.hcom.CA.google.003.00.04.s.kwrd%3Dc.433995110047.57526245014.1533330660..dsa-524895745324.9001551...EAIaIQobChMIsIjnkb7N8wIVjhitBh3KXwxhEAAYASAAEgLSkfD_BwE.aw.ds&PSRC=G21&gclid=EAIaIQobChMIsIjnkb7N8wIVjhitBh3KXwxhEAAYASAAEgLSkfD_BwE" target="_blank" >- Best Places to Stay in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://helpwevegotkids.com/toronto-gta/southern-ontario/bradford-west-gwillimbury/listings/attractions-for-kids-and-families/" target="_blank" >- Best Things to do with the Kids in Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.bradfordtoday.ca/" target="_blank" >- Local News for Bradford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bradford" target="_blank" >- Weather in Bradford, Ontario</a></li>
 					</ul>
       </div>
      </div>

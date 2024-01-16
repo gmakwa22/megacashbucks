@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Canterbury, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://tourismnewbrunswick.ca/" target="_blank" rel="nofollow noopener">- Best Attractions in Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.new-brunswick.net/Saint_John/dining.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/New-Brunswick/Canterbury/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/dir/Lids-site_57078124-site_23163089-121" target="_blank" rel="nofollow noopener">- Public Transportation Options in Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/canterbury-canada" target="_blank" rel="nofollow noopener">- Best Places to Stay in Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/canterbury/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/nb/canterbury/news/" target="_blank" rel="nofollow noopener">- Local News for Canterbury, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/canterbury" target="_blank" rel="nofollow noopener">- Weather in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://tourismnewbrunswick.ca/" target="_blank" >- Best Attractions in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.new-brunswick.net/Saint_John/dining.html" target="_blank" >- Best Places to Eat in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/New-Brunswick/Canterbury/80014000.html" target="_blank" >- Best Places to Go Shopping in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/dir/Lids-site_57078124-site_23163089-121" target="_blank" >- Public Transportation Options in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/canterbury-canada" target="_blank" >- Best Places to Stay in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/canterbury/nb" target="_blank" >- Best Things to do with the Kids in Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/nb/canterbury/news/" target="_blank" >- Local News for Canterbury, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/canterbury" target="_blank" >- Weather in Canterbury, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

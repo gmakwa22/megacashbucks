@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hastings, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.visittrenthills.ca/hastings/" target="_blank" rel="nofollow noopener">- Best Attractions in Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1900747-Hastings_Trent_Hills_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visittrenthills.ca/shoppingintrenthills/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Hastings-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hastings.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/25-summer-adventures-and-activities-in-hastings-county/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hastings/" target="_blank" rel="nofollow noopener">- Local News for Hastings, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hastings" target="_blank" rel="nofollow noopener">- Weather in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visittrenthills.ca/hastings/" target="_blank" >- Best Attractions in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1900747-Hastings_Trent_Hills_Ontario.html" target="_blank" >- Best Places to Eat in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visittrenthills.ca/shoppingintrenthills/" target="_blank" >- Best Places to Go Shopping in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Hastings-ON-Canada" target="_blank" >- Public Transportation Options in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hastings.html" target="_blank" >- Best Places to Stay in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/25-summer-adventures-and-activities-in-hastings-county/" target="_blank" >- Best Things to do with the Kids in Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hastings/" target="_blank" >- Local News for Hastings, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hastings" target="_blank" >- Weather in Hastings, Ontario</a></li>
 					</ul>
       </div>
      </div>

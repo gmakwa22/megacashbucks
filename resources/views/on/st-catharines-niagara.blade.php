@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Catharines–Niagara, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155013-Activities-St_Catharines_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in St. Catharines–Niagara, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155013-St_Catharines_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in St. Catharines–Niagara, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155013-Activities-c26-St_Catharines_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155013-Activities-St_Catharines_Ontario.html" target="_blank" >- Best Attractions in St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155013-St_Catharines_Ontario.html" target="_blank" >- Best Places to Eat in St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155013-Activities-c26-St_Catharines_Ontario.html" target="_blank" >- Best Places to Go Shopping in St. Catharines–Niagara, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.stcatharines.ca/en/livein/publictransportation.asp">- Public Transportation Options in St. Catharines–Niagara, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-catharines.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IQc2FpbnQtY2F0aGFyaW5lc0gzWANoJ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCrfuiiwbAAgHSAiRkYTEwYWZlZC1kYzI5LTQ4ZGUtOTU1Ni04MzVmYzM5OGQwOWXYAgTgAgE;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank" rel="nofollow noopener">- Best Places to Stay in St. Catharines–Niagara, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g155013-Activities-zft11306-St_Catharines_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in St. Catharines–Niagara, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.stcatharinesstandard.ca" target="_blank" rel="nofollow noopener">- Local News for St. Catharines–Niagara, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/st-catharines" target="_blank" rel="nofollow noopener">- Weather in St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/saint-catharines.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IQc2FpbnQtY2F0aGFyaW5lc0gzWANoJ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCrfuiiwbAAgHSAiRkYTEwYWZlZC1kYzI5LTQ4ZGUtOTU1Ni04MzVmYzM5OGQwOWXYAgTgAgE;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank" >- Best Places to Stay in St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g155013-Activities-zft11306-St_Catharines_Ontario.html" target="_blank" >- Best Things to do with the Kids in St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.stcatharinesstandard.ca" target="_blank" >- Local News for St. Catharines–Niagara, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/st-catharines" target="_blank" >- Weather in St. Catharines–Niagara, Ontario</a></li>
 					</ul>
       </div>
      </div>

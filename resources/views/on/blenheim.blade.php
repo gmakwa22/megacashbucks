@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Blenheim, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMI7puuvLPN8wIVyhOtBh3sGwXXEAAYASAAEgK-jPD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1223767-Blenheim_Chatham_Kent_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1223767-Activities-c26-Blenheim_Chatham_Kent_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.chatham-kent.ca/transit/Pages/default.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Blenheim-Hotels.d181866.Travel-Guide-Hotels?semcid=CA.UB.GOOGLE.DL-DSA-c-EN.HOTEL&semdtl=a111766942614.b1116981749649.r1.g1dsa-975551410270.i1150215858395.d1483829037944.e1c.j19001551.k1.f1.n1.l1g.h1b.m1&gclid=EAIaIQobChMIz_fGlbTN8wIV_w2tBh0hjg1eEAAYAiAAEgKo-vD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/blenheim-ontario" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/blenheim/" target="_blank" rel="nofollow noopener">- Local News for Blenheim, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/blenheim" target="_blank" rel="nofollow noopener">- Weather in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMI7puuvLPN8wIVyhOtBh3sGwXXEAAYASAAEgK-jPD_BwE" target="_blank" >- Best Attractions in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1223767-Blenheim_Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Eat in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1223767-Activities-c26-Blenheim_Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Go Shopping in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.chatham-kent.ca/transit/Pages/default.aspx" target="_blank" >- Public Transportation Options in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Blenheim-Hotels.d181866.Travel-Guide-Hotels?semcid=CA.UB.GOOGLE.DL-DSA-c-EN.HOTEL&semdtl=a111766942614.b1116981749649.r1.g1dsa-975551410270.i1150215858395.d1483829037944.e1c.j19001551.k1.f1.n1.l1g.h1b.m1&gclid=EAIaIQobChMIz_fGlbTN8wIV_w2tBh0hjg1eEAAYAiAAEgKo-vD_BwE" target="_blank" >- Best Places to Stay in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/blenheim-ontario" target="_blank" >- Best Things to do with the Kids in Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/blenheim/" target="_blank" >- Local News for Blenheim, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/blenheim" target="_blank" >- Weather in Blenheim, Ontario</a></li>
 					</ul>
       </div>
      </div>

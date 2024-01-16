@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about New Liskeard, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1893213-Activities-New_Liskeard_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in New Liskeard, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1893213-New_Liskeard_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in New Liskeard, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Temiskaming+Shores%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in New Liskeard, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/New-Liskeard" target="_blank" rel="nofollow noopener">- Public Transportation Options in New Liskeard, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/new-liskeard.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in New Liskeard, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.laketemiskamingtour.com/regions/TemiskamingShoresArea/FamilyActivities.cfm" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in New Liskeard, Ontario</a></li>s
-					<li class="list-group-item"><a href="https://local.ca/on/new-liskeard/news/" target="_blank" rel="nofollow noopener">- Local News for New Liskeard, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/new-liskeard" target="_blank" rel="nofollow noopener">- Weather in New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1893213-Activities-New_Liskeard_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1893213-New_Liskeard_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Temiskaming+Shores%2C+ON" target="_blank" >- Best Places to Go Shopping in New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/New-Liskeard" target="_blank" >- Public Transportation Options in New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/new-liskeard.html" target="_blank" >- Best Places to Stay in New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.laketemiskamingtour.com/regions/TemiskamingShoresArea/FamilyActivities.cfm" target="_blank" >- Best Things to do with the Kids in New Liskeard, Ontario</a></li>s
+					<li class="list-group-item"><a href="https://local.ca/on/new-liskeard/news/" target="_blank" >- Local News for New Liskeard, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/new-liskeard" target="_blank" >- Weather in New Liskeard, Ontario</a></li>
 					</ul>
       </div>
      </div>

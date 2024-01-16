@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dorchester, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g8611952-Activities-Dorchester_London_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8611952-Dorchester_London_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dorchester/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagararegion.ca/transit/stop.aspx?id=1&routeID=10" target="_blank" rel="nofollow noopener">- Public Transportation Options in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/north-dorchester-community-centre-arena.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/dorchester/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dorchester/" target="_blank" rel="nofollow noopener">- Local News for Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dorchester" target="_blank" rel="nofollow noopener">- Weather in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g8611952-Activities-Dorchester_London_Ontario.html" target="_blank" >- Best Attractions in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8611952-Dorchester_London_Ontario.html" target="_blank" >- Best Places to Eat in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dorchester/80014000.html" target="_blank" >- Best Places to Go Shopping in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagararegion.ca/transit/stop.aspx?id=1&routeID=10" target="_blank" >- Public Transportation Options in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/north-dorchester-community-centre-arena.html" target="_blank" >- Best Places to Stay in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/dorchester/" target="_blank" >- Best Things to do with the Kids in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dorchester/" target="_blank" >- Local News for Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dorchester" target="_blank" >- Weather in Dorchester, Ontario</a></li>
 					</ul>
       </div>
      </div>

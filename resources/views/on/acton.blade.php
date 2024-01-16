@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Acton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4176273-Activities-Acton_Halton_Hills_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Acton-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=outlet_stores&find_loc=Acton%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/c/acton-on-ca/publictransport" target="_blank" rel="nofollow noopener">- Public Transportation Options in Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiM_bSuqsjzAhUbPa0GHXp_DQAYABABGgJwdg&ae=2&ohost=www.google.com&cid=CAASEuRo8N0evNfo67YfBg49ksoMqg&sig=AOD64_1tvkLbalQ90O7o1g_0sDHvwqMhOA&q&adurl&ved=2ahUKEwighKuuqsjzAhVNKDQIHe2LBnsQ0Qx6BAgDEAE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g29503-Activities-zft11306-Acton_Massachusetts.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/acton/" target="_blank" rel="nofollow noopener">- Local News for Acton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/acton" target="_blank" rel="nofollow noopener">- Weather in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4176273-Activities-Acton_Halton_Hills_Ontario.html" target="_blank" >- Best Attractions in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Acton-Ontario" target="_blank" >- Best Places to Eat in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=outlet_stores&find_loc=Acton%2C+ON" target="_blank" >- Best Places to Go Shopping in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/c/acton-on-ca/publictransport" target="_blank" >- Public Transportation Options in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiM_bSuqsjzAhUbPa0GHXp_DQAYABABGgJwdg&ae=2&ohost=www.google.com&cid=CAASEuRo8N0evNfo67YfBg49ksoMqg&sig=AOD64_1tvkLbalQ90O7o1g_0sDHvwqMhOA&q&adurl&ved=2ahUKEwighKuuqsjzAhVNKDQIHe2LBnsQ0Qx6BAgDEAE" target="_blank" >- Best Places to Stay in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g29503-Activities-zft11306-Acton_Massachusetts.html" target="_blank" >- Best Things to do with the Kids in Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/acton/" target="_blank" >- Local News for Acton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/acton" target="_blank" >- Weather in Acton, Ontario</a></li>
 					</ul>
       </div>
      </div>

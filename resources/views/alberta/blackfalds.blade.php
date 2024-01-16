@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Blackfalds, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1172332-Activities-Blackfalds_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1172332-Blackfalds_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/blackfalds/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.blackfalds.com/living-here/news/post/blackfalds-introduces-new-on-demand-local-transit-bolt-service" target="_blank" rel="nofollow noopener">- Public Transportation Options in Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1172332-Blackfalds_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/blackfalds/ab" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/blackfalds/" target="_blank" rel="nofollow noopener">- Local News for Blackfalds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/blackfalds" target="_blank" rel="nofollow noopener">- Weather in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1172332-Activities-Blackfalds_Alberta.html" target="_blank" >- Best Attractions in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1172332-Blackfalds_Alberta.html" target="_blank" >- Best Places to Eat in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/blackfalds/80014000.html" target="_blank" >- Best Places to Go Shopping in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.blackfalds.com/living-here/news/post/blackfalds-introduces-new-on-demand-local-transit-bolt-service" target="_blank" >- Public Transportation Options in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1172332-Blackfalds_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/blackfalds/ab" target="_blank" >- Best Things to do with the Kids in Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/blackfalds/" target="_blank" >- Local News for Blackfalds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/blackfalds" target="_blank" >- Weather in Blackfalds, Alberta</a></li>
 					</ul>
       </div>
      </div>

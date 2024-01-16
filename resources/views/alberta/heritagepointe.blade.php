@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Heritage Pointe, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g154913-d218304-Heritage_Pointe_Golf_Course-Calgary_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.opentable.ca/landmark/restaurants-near-heritage-pointe-golf-course" target="_blank" rel="nofollow noopener">- Best Places to Eat in Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://vymaps.com/CA/Heritage-Shopping-Plaza-77198/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.calgarytransit.com/home.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154913-d218304-Heritage_Pointe_Golf_Course-Calgary_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.lahp.ca/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.lahp.ca/news" target="_blank" rel="nofollow noopener">- Local News for Heritage Pointe, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/forecasts/golf-report/alberta/heritage-pointe-golf-club" target="_blank" rel="nofollow noopener">- Weather in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g154913-d218304-Heritage_Pointe_Golf_Course-Calgary_Alberta.html" target="_blank" >- Best Attractions in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.opentable.ca/landmark/restaurants-near-heritage-pointe-golf-course" target="_blank" >- Best Places to Eat in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://vymaps.com/CA/Heritage-Shopping-Plaza-77198/" target="_blank" >- Best Places to Go Shopping in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.calgarytransit.com/home.html" target="_blank" >- Public Transportation Options in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154913-d218304-Heritage_Pointe_Golf_Course-Calgary_Alberta.html" target="_blank" >- Best Places to Stay in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.lahp.ca/" target="_blank" >- Best Things to do with the Kids in Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.lahp.ca/news" target="_blank" >- Local News for Heritage Pointe, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/forecasts/golf-report/alberta/heritage-pointe-golf-club" target="_blank" >- Weather in Heritage Pointe, Alberta</a></li>
 					</ul>
       </div>
      </div>

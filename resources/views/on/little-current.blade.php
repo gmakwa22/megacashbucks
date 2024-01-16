@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Little Current, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940847-Activities-Little_Current_Manitoulin_Island_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940847-Little_Current_Manitoulin_Island_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Little+Current/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Little-Current/Toronto" target="_blank" rel="nofollow noopener">- Public Transportation Options in Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/little-current.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/manitoulin/little-current/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/little-current/" target="_blank" rel="nofollow noopener">- Local News for Little Current, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/little-current" target="_blank" rel="nofollow noopener">- Weather in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940847-Activities-Little_Current_Manitoulin_Island_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940847-Little_Current_Manitoulin_Island_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Little+Current/80014000.html" target="_blank" >- Best Places to Go Shopping in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Little-Current/Toronto" target="_blank" >- Public Transportation Options in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/little-current.html" target="_blank" >- Best Places to Stay in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/manitoulin/little-current/" target="_blank" >- Best Things to do with the Kids in Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/little-current/" target="_blank" >- Local News for Little Current, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/little-current" target="_blank" >- Weather in Little Current, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ashcroft, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g666346-Activities-Ashcroft_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Ashcroft%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Eat in Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Ashcroft%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/ashcroft-cache-creek-clinton/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de169150/ashcroft-british-columbia-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/ashcroft-british-columbia" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.ashcroftcachecreekjournal.com/" target="_blank" rel="nofollow noopener">- Local News for Ashcroft, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/ashcroft" target="_blank" rel="nofollow noopener">- Weather in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g666346-Activities-Ashcroft_British_Columbia.html" target="_blank" >- Best Attractions in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Ashcroft%2C+BC" target="_blank" >- Best Places to Eat in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Ashcroft%2C+BC" target="_blank" >- Best Places to Go Shopping in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/ashcroft-cache-creek-clinton/home" target="_blank" >- Public Transportation Options in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de169150/ashcroft-british-columbia-hotels-rooms/" target="_blank" >- Best Places to Stay in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/ashcroft-british-columbia" target="_blank" >- Best Things to do with the Kids in Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ashcroftcachecreekjournal.com/" target="_blank" >- Local News for Ashcroft, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/ashcroft" target="_blank" >- Weather in Ashcroft, British Columbia</a></li>
 					</ul>
       </div>
      </div>

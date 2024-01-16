@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Vankleek Hill, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4332398-Activities-Vankleek_Hill_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://vankleekhill.ca/where-to-eat/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://vankleekhill.ca/where-to-shop/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Vankleek-Hill" target="_blank" rel="nofollow noopener">- Public Transportation Options in Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g4332398-d2040634-Vankleek_Hill_Vineyard-Vankleek_Hill_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/vankleek-hill/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://thereview.ca/" target="_blank" rel="nofollow noopener">- Local News for Vankleek Hill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/vankleek-hill" target="_blank" rel="nofollow noopener">- Weather in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4332398-Activities-Vankleek_Hill_Ontario.html" target="_blank" >- Best Attractions in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://vankleekhill.ca/where-to-eat/" target="_blank" >- Best Places to Eat in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://vankleekhill.ca/where-to-shop/" target="_blank" >- Best Places to Go Shopping in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Vankleek-Hill" target="_blank" >- Public Transportation Options in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g4332398-d2040634-Vankleek_Hill_Vineyard-Vankleek_Hill_Ontario.html" target="_blank" >- Best Places to Stay in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/vankleek-hill/" target="_blank" >- Best Things to do with the Kids in Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://thereview.ca/" target="_blank" >- Local News for Vankleek Hill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/vankleek-hill" target="_blank" >- Weather in Vankleek Hill, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Pointe-Verte, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismchaleur.ca/en/stories/top-9-things-to-do-in-pointe-verte-and-nigadoo-summer-2021" target="_blank" rel="nofollow noopener">- Best Attractions in Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/pointe-verte-new-brunswick/restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/pointe-verte-new-brunswick/shopping-other/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.roadonmap.com/ca/how-to-get-to/Pointe-Verte,new_brunswick" target="_blank" rel="nofollow noopener">- Public Transportation Options in Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g609107-Pointe_Verte_New_Brunswick-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/holidays/location/new-brunswick/gloucester/pointe-verte/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://atlantic.ctvnews.ca/" target="_blank" rel="nofollow noopener">- Local News for Pointe-Verte, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/pointe-verte" target="_blank" rel="nofollow noopener">- Weather in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tourismchaleur.ca/en/stories/top-9-things-to-do-in-pointe-verte-and-nigadoo-summer-2021" target="_blank" >- Best Attractions in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/pointe-verte-new-brunswick/restaurants/" target="_blank" >- Best Places to Eat in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/pointe-verte-new-brunswick/shopping-other/" target="_blank" >- Best Places to Go Shopping in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.roadonmap.com/ca/how-to-get-to/Pointe-Verte,new_brunswick" target="_blank" >- Public Transportation Options in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g609107-Pointe_Verte_New_Brunswick-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/holidays/location/new-brunswick/gloucester/pointe-verte/" target="_blank" >- Best Things to do with the Kids in Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://atlantic.ctvnews.ca/" target="_blank" >- Local News for Pointe-Verte, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/pointe-verte" target="_blank" >- Weather in Pointe-Verte, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Pincher Creek, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499107-Activities-Pincher_Creek_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499107-Pincher_Creek_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499107-Activities-c26-Pincher_Creek_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/pincher_creek_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/pincher-creek.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499107-Activities-zft11306-Pincher_Creek_Alberta.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.pinchercreekecho.com/" target="_blank" rel="nofollow noopener">- Local News for Pincher Creek, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/pincher-creek" target="_blank" rel="nofollow noopener">- Weather in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499107-Activities-Pincher_Creek_Alberta.html" target="_blank" >- Best Attractions in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499107-Pincher_Creek_Alberta.html" target="_blank" >- Best Places to Eat in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499107-Activities-c26-Pincher_Creek_Alberta.html" target="_blank" >- Best Places to Go Shopping in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/pincher_creek_bus_routes.htm" target="_blank" >- Public Transportation Options in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/pincher-creek.html" target="_blank" >- Best Places to Stay in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499107-Activities-zft11306-Pincher_Creek_Alberta.html" target="_blank" >- Best Things to do with the Kids in Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.pinchercreekecho.com/" target="_blank" >- Local News for Pincher Creek, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/pincher-creek" target="_blank" >- Weather in Pincher Creek, Alberta</a></li>
 					</ul>
       </div>
      </div>

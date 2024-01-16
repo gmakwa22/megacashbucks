@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lemberg, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/123/lemberg" target="_blank" rel="nofollow noopener">- Best Attractions in Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/cafe-Lemberg-Saskatchewan-t6" target="_blank" rel="nofollow noopener">- Best Places to Eat in Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://lemberg-sk-ca.weebly.com/town-business-directory.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/lemberg/hotels.php" target="_blank" rel="nofollow noopener">- Best Places to Stay in Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/lemberg/" target="_blank" rel="nofollow noopener">- Local News for Lemberg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/lemberg" target="_blank" rel="nofollow noopener">- Weather in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/123/lemberg" target="_blank" >- Best Attractions in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/cafe-Lemberg-Saskatchewan-t6" target="_blank" >- Best Places to Eat in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://lemberg-sk-ca.weebly.com/town-business-directory.html" target="_blank" >- Best Places to Go Shopping in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/lemberg/hotels.php" target="_blank" >- Best Places to Stay in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/lemberg/" target="_blank" >- Local News for Lemberg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/lemberg" target="_blank" >- Weather in Lemberg, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

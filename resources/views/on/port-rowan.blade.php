@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Port Rowan, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g666693-Activities-Port_Rowan_Norfolk_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Port-Rowan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g666693-Activities-c26-Port_Rowan_Norfolk_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Rowan" target="_blank" rel="nofollow noopener">- Public Transportation Options in Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-rowan.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/ball-sports/location/ontario/haldimand-norfolk/port-rowan/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/port-rowan/" target="_blank" rel="nofollow noopener">- Local News for Port Rowan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-rowan" target="_blank" rel="nofollow noopener">- Weather in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g666693-Activities-Port_Rowan_Norfolk_County_Ontario.html" target="_blank" >- Best Attractions in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Port-Rowan" target="_blank" >- Best Places to Eat in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g666693-Activities-c26-Port_Rowan_Norfolk_County_Ontario.html" target="_blank" >- Best Places to Go Shopping in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Rowan" target="_blank" >- Public Transportation Options in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-rowan.html" target="_blank" >- Best Places to Stay in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/ball-sports/location/ontario/haldimand-norfolk/port-rowan/" target="_blank" >- Best Things to do with the Kids in Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/port-rowan/" target="_blank" >- Local News for Port Rowan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-rowan" target="_blank" >- Weather in Port Rowan, Ontario</a></li>
 					</ul>
       </div>
      </div>

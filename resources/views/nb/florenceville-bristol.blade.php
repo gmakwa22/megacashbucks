@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Florenceville-Bristol, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3363960-Activities-Florenceville_Bristol_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Florenceville-Bristol%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Eat in Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.florencevillebristol.ca/shop-retail" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/florenceville" target="_blank" rel="nofollow noopener">- Public Transportation Options in Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Florenceville-Bristol-Hotels.d6148130.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/florenceville-bristol/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/florenceville-bristol/" target="_blank" rel="nofollow noopener">- Local News for Florenceville-Bristol, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/florenceville-bristol" target="_blank" rel="nofollow noopener">- Weather in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3363960-Activities-Florenceville_Bristol_New_Brunswick.html" target="_blank" >- Best Attractions in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Florenceville-Bristol%2C+NB" target="_blank" >- Best Places to Eat in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.florencevillebristol.ca/shop-retail" target="_blank" >- Best Places to Go Shopping in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/florenceville" target="_blank" >- Public Transportation Options in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Florenceville-Bristol-Hotels.d6148130.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/florenceville-bristol/nb" target="_blank" >- Best Things to do with the Kids in Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/florenceville-bristol/" target="_blank" >- Local News for Florenceville-Bristol, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/florenceville-bristol" target="_blank" >- Weather in Florenceville-Bristol, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

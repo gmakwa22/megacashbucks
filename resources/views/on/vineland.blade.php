@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Vineland, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1120030-Activities-Vineland_Lincoln_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1120030-Vineland_Lincoln_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1120030-Activities-c26-Vineland_Lincoln_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagararegion.ca/transit/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g1120030-d593232-Vineland_Estates_Winery-Vineland_Lincoln_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/vineland/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/vineland/" target="_blank" rel="nofollow noopener">- Local News for Vineland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/vineland" target="_blank" rel="nofollow noopener">- Weather in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1120030-Activities-Vineland_Lincoln_Ontario.html" target="_blank" >- Best Attractions in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1120030-Vineland_Lincoln_Ontario.html" target="_blank" >- Best Places to Eat in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1120030-Activities-c26-Vineland_Lincoln_Ontario.html" target="_blank" >- Best Places to Go Shopping in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagararegion.ca/transit/" target="_blank" >- Public Transportation Options in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g1120030-d593232-Vineland_Estates_Winery-Vineland_Lincoln_Ontario.html" target="_blank" >- Best Places to Stay in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/vineland/" target="_blank" >- Best Things to do with the Kids in Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/vineland/" target="_blank" >- Local News for Vineland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/vineland" target="_blank" >- Weather in Vineland, Ontario</a></li>
 					</ul>
       </div>
      </div>

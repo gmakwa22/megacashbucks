@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Duncan, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154929-Activities-Duncan_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Duncan%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Eat in Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.duncancc.bc.ca/list/ql/shopping-specialty-retail-47" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/duncan.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154929-Activities-zft11306-Duncan_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cowichanvalleycitizen.com/local-news/" target="_blank" rel="nofollow noopener">- Local News for Duncan, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/duncan" target="_blank" rel="nofollow noopener">- Weather in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154929-Activities-Duncan_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Duncan%2C+BC" target="_blank" >- Best Places to Eat in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.duncancc.bc.ca/list/ql/shopping-specialty-retail-47" target="_blank" >- Best Places to Go Shopping in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/home" target="_blank" >- Public Transportation Options in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/duncan.html" target="_blank" >- Best Places to Stay in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154929-Activities-zft11306-Duncan_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cowichanvalleycitizen.com/local-news/" target="_blank" >- Local News for Duncan, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/duncan" target="_blank" >- Weather in Duncan, British Columbia</a></li>
 					</ul>
       </div>
      </div>

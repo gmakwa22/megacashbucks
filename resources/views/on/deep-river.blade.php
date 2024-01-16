@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Deep River, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.deepriver.ca/visitors/attractions/" target="_blank" rel="nofollow noopener">- Best Attractions in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Deep-River-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.deepriver.ca/business-directory/Retail/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ontario-Canada/Deep-River-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/deep-river.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/deep-river/on" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/deep-river-ontario/" target="_blank" rel="nofollow noopener">- Local News for Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/deep-river" target="_blank" rel="nofollow noopener">- Weather in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.deepriver.ca/visitors/attractions/" target="_blank" >- Best Attractions in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Deep-River-Ontario" target="_blank" >- Best Places to Eat in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.deepriver.ca/business-directory/Retail/" target="_blank" >- Best Places to Go Shopping in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ontario-Canada/Deep-River-ON-Canada" target="_blank" >- Public Transportation Options in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/deep-river.html" target="_blank" >- Best Places to Stay in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/deep-river/on" target="_blank" >- Best Things to do with the Kids in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/deep-river-ontario/" target="_blank" >- Local News for Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/deep-river" target="_blank" >- Weather in Deep River, Ontario</a></li>
 					</ul>
       </div>
      </div>

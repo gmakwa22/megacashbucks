@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Mission, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://scenic7bc.com/communities/mission/" target="_blank" rel="nofollow noopener">- Best Attractions in Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/bc/mission/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://business.missionchamber.bc.ca/list/ql/shopping-specialty-retail-23" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.mission.ca/public-transit/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181781-Mission_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/mission/bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.missioncityrecord.com/" target="_blank" rel="nofollow noopener">- Local News for Mission, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/mission" target="_blank" rel="nofollow noopener">- Weather in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://scenic7bc.com/communities/mission/" target="_blank" >- Best Attractions in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/bc/mission/" target="_blank" >- Best Places to Eat in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://business.missionchamber.bc.ca/list/ql/shopping-specialty-retail-23" target="_blank" >- Best Places to Go Shopping in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.mission.ca/public-transit/" target="_blank" >- Public Transportation Options in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181781-Mission_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/mission/bc" target="_blank" >- Best Things to do with the Kids in Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.missioncityrecord.com/" target="_blank" >- Local News for Mission, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/mission" target="_blank" >- Weather in Mission, British Columbia</a></li>
 					</ul>
       </div>
      </div>

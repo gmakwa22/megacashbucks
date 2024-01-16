@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cardston, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499098-Activities-Cardston_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499098-Cardston_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499098-Activities-c26-Cardston_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Edmonton/Cardston" target="_blank" rel="nofollow noopener">- Public Transportation Options in Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499098-Cardston_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/cardston-alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.cardston.ca/news" target="_blank" rel="nofollow noopener">- Local News for Cardston, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/cardston" target="_blank" rel="nofollow noopener">- Weather in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499098-Activities-Cardston_Alberta.html" target="_blank" >- Best Attractions in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499098-Cardston_Alberta.html" target="_blank" >- Best Places to Eat in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499098-Activities-c26-Cardston_Alberta.html" target="_blank" >- Best Places to Go Shopping in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Edmonton/Cardston" target="_blank" >- Public Transportation Options in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499098-Cardston_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/cardston-alberta" target="_blank" >- Best Things to do with the Kids in Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.cardston.ca/news" target="_blank" >- Local News for Cardston, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/cardston" target="_blank" >- Weather in Cardston, Alberta</a></li>
 					</ul>
       </div>
      </div>

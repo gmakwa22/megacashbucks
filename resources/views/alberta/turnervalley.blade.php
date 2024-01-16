@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Turner Valley, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1877724-Activities-Turner_Valley_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1877724-Turner_Valley_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://turnervalley.ca/business-directory/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.town.blackdiamond.ab.ca/198/Transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.travelocity.ca/Turner-Valley-Hotels.d3000008907.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://calgaryplaygroundreview.com/things-kids-turner-valley-black-diamond-longview-cool-little-towns/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://turnervalley.ca/news-notices/" target="_blank" rel="nofollow noopener">- Local News for Turner Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/turner-valley" target="_blank" rel="nofollow noopener">- Weather in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1877724-Activities-Turner_Valley_Alberta.html" target="_blank" >- Best Attractions in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1877724-Turner_Valley_Alberta.html" target="_blank" >- Best Places to Eat in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://turnervalley.ca/business-directory/" target="_blank" >- Best Places to Go Shopping in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.town.blackdiamond.ab.ca/198/Transportation" target="_blank" >- Public Transportation Options in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.travelocity.ca/Turner-Valley-Hotels.d3000008907.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://calgaryplaygroundreview.com/things-kids-turner-valley-black-diamond-longview-cool-little-towns/" target="_blank" >- Best Things to do with the Kids in Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://turnervalley.ca/news-notices/" target="_blank" >- Local News for Turner Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/turner-valley" target="_blank" >- Weather in Turner Valley, Alberta</a></li>
 					</ul>
       </div>
      </div>

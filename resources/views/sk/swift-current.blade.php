@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Swift Current, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/450/swift-current" target="_blank" rel="nofollow noopener">- Best Attractions in Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/swift-current/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://tourismswiftcurrent.ca/category/things-to-do/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.swiftcurrent.ca/divisions/infrastructure-operations/transit-services/swift-transit/swift-transit-introducing-the-red-blue-lines" target="_blank" rel="nofollow noopener">- Public Transportation Options in Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155044-Swift_Current_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155044-Activities-Swift_Current_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.swiftcurrentonline.com/" target="_blank" rel="nofollow noopener">- Local News for Swift Current, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-41_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/450/swift-current" target="_blank" >- Best Attractions in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/swift-current/" target="_blank" >- Best Places to Eat in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://tourismswiftcurrent.ca/category/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.swiftcurrent.ca/divisions/infrastructure-operations/transit-services/swift-transit/swift-transit-introducing-the-red-blue-lines" target="_blank" >- Public Transportation Options in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155044-Swift_Current_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155044-Activities-Swift_Current_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.swiftcurrentonline.com/" target="_blank" >- Local News for Swift Current, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-41_metric_e.html" target="_blank" >- Weather in Swift Current, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

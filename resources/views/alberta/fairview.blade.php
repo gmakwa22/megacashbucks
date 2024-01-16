@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fairview, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1028541-Fairview_Alberta-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1028541-Fairview_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.fairview.ca/business-directory/wpbdp_category/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://maps123.net/en/CA/5883102-alberta/11807297-fairview/92-transit-station" target="_blank" rel="nofollow noopener">- Public Transportation Options in Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1028541-Fairview_Alberta-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Fairview,_Alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.fairviewpost.com/" target="_blank" rel="nofollow noopener">- Local News for Fairview, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/fairview" target="_blank" rel="nofollow noopener">- Weather in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1028541-Fairview_Alberta-Vacations.html" target="_blank" >- Best Attractions in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1028541-Fairview_Alberta.html" target="_blank" >- Best Places to Eat in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.fairview.ca/business-directory/wpbdp_category/shopping/" target="_blank" >- Best Places to Go Shopping in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://maps123.net/en/CA/5883102-alberta/11807297-fairview/92-transit-station" target="_blank" >- Public Transportation Options in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1028541-Fairview_Alberta-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Fairview,_Alberta" target="_blank" >- Best Things to do with the Kids in Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.fairviewpost.com/" target="_blank" >- Local News for Fairview, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/fairview" target="_blank" >- Weather in Fairview, Alberta</a></li>
 					</ul>
       </div>
      </div>

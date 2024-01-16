@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kingston, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.visitkingston.ca/25-things-to-do-in-october-2021/?gclid=EAIaIQobChMIyOj5j9LK8wIVPSitBh3s3gg1EAAYASAAEgKMoPD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154992-Kingston_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.downtownkingston.ca/shop" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.cityofkingston.ca/residents/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitkingston.ca/experiences/?gclid=EAIaIQobChMIotPVwdLK8wIVQgnnCh2GjwNwEAAYASAAEgJ-t_D_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154992-Activities-zft11306-Kingston_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thewhig.com/category/news/local-news/" target="_blank" rel="nofollow noopener">- Local News for Kingston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kingston" target="_blank" rel="nofollow noopener">- Weather in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitkingston.ca/25-things-to-do-in-october-2021/?gclid=EAIaIQobChMIyOj5j9LK8wIVPSitBh3s3gg1EAAYASAAEgKMoPD_BwE" target="_blank" >- Best Attractions in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154992-Kingston_Ontario.html" target="_blank" >- Best Places to Eat in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.downtownkingston.ca/shop" target="_blank" >- Best Places to Go Shopping in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.cityofkingston.ca/residents/transit" target="_blank" >- Public Transportation Options in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitkingston.ca/experiences/?gclid=EAIaIQobChMIotPVwdLK8wIVQgnnCh2GjwNwEAAYASAAEgJ-t_D_BwE" target="_blank" >- Best Places to Stay in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154992-Activities-zft11306-Kingston_Ontario.html" target="_blank" >- Best Things to do with the Kids in Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thewhig.com/category/news/local-news/" target="_blank" >- Local News for Kingston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kingston" target="_blank" >- Weather in Kingston, Ontario</a></li>
 					</ul>
       </div>
      </div>

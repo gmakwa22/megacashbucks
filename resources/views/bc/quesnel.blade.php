@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Quesnel, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182161-Activities-Quesnel_Cariboo_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/bc/quesnel/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182161-Activities-c26-Quesnel_Cariboo_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/quesnel/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/quesnel.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/quesnel/bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.quesnelobserver.com/" target="_blank" rel="nofollow noopener">- Local News for Quesnel, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-64_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182161-Activities-Quesnel_Cariboo_British_Columbia.html" target="_blank" >- Best Attractions in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/bc/quesnel/" target="_blank" >- Best Places to Eat in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182161-Activities-c26-Quesnel_Cariboo_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/quesnel/home" target="_blank" >- Public Transportation Options in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/quesnel.html" target="_blank" >- Best Places to Stay in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/quesnel/bc" target="_blank" >- Best Things to do with the Kids in Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.quesnelobserver.com/" target="_blank" >- Local News for Quesnel, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-64_metric_e.html" target="_blank" >- Weather in Quesnel, British Columbia</a></li>
 					</ul>
       </div>
      </div>

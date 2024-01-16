@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lively, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g11039861-Lively_Sudbury_Northeastern_Ontario_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g11039861-Lively_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-lively-ontario-4477-609-39" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.greatersudbury.ca/sudburyen/assets/File/Transit/19_%20Route%20101%20Lively.pdf?fbclid=IwAR1zsJtO6Whd6ZU52ds05Mwk9eC1o8PWBlrmxQt8At6eqgYddBsqfVUY3p4" target="_blank" rel="nofollow noopener">- Public Transportation Options in Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/lively.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/greater-sudbury/lively/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/lively/" target="_blank" rel="nofollow noopener">- Local News for Lively, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/lively" target="_blank" rel="nofollow noopener">- Weather in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g11039861-Lively_Sudbury_Northeastern_Ontario_Ontario-Vacations.html" target="_blank" >- Best Attractions in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g11039861-Lively_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-lively-ontario-4477-609-39" target="_blank" >- Best Places to Go Shopping in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.greatersudbury.ca/sudburyen/assets/File/Transit/19_%20Route%20101%20Lively.pdf?fbclid=IwAR1zsJtO6Whd6ZU52ds05Mwk9eC1o8PWBlrmxQt8At6eqgYddBsqfVUY3p4" target="_blank" >- Public Transportation Options in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/lively.html" target="_blank" >- Best Places to Stay in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/greater-sudbury/lively/" target="_blank" >- Best Things to do with the Kids in Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/lively/" target="_blank" >- Local News for Lively, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/lively" target="_blank" >- Weather in Lively, Ontario</a></li>
 					</ul>
       </div>
      </div>

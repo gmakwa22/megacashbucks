@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Taber, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://visittaber.com/profile_cat.asp?busCatID=12&CityID=14" target="_blank" rel="nofollow noopener">- Best Attractions in Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499112-Taber_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="http://visittaber.com/profile_cat.asp?busCatID=17&CityID=10" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/taber_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499112-Taber_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Taber,_Alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.tabertimes.com/news/" target="_blank" rel="nofollow noopener">- Local News for Taber, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/taber" target="_blank" rel="nofollow noopener">- Weather in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="http://visittaber.com/profile_cat.asp?busCatID=12&CityID=14" target="_blank" >- Best Attractions in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499112-Taber_Alberta.html" target="_blank" >- Best Places to Eat in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="http://visittaber.com/profile_cat.asp?busCatID=17&CityID=10" target="_blank" >- Best Places to Go Shopping in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/taber_bus_routes.htm" target="_blank" >- Public Transportation Options in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499112-Taber_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Taber,_Alberta" target="_blank" >- Best Things to do with the Kids in Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.tabertimes.com/news/" target="_blank" >- Local News for Taber, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/taber" target="_blank" >- Weather in Taber, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Virgil, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4291090-Activities-Virgil_Niagara_on_the_Lake_Ontario.htmly" target="_blank" rel="nofollow noopener">- Best Attractions in Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4291090-Virgil_Niagara_on_the_Lake_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4291090-Activities-c26-Virgil_Niagara_on_the_Lake_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Virgil-Toronto_ON-site_23592062-143" target="_blank" rel="nofollow noopener">- Public Transportation Options in Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4291090-Virgil_Niagara_on_the_Lake_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/fun-things-to-do-in-niagara-falls-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagaranow.com/news.phtml" target="_blank" rel="nofollow noopener">- Local News for Virgil, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/virgil" target="_blank" rel="nofollow noopener">- Weather in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4291090-Activities-Virgil_Niagara_on_the_Lake_Ontario.htmly" target="_blank" >- Best Attractions in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4291090-Virgil_Niagara_on_the_Lake_Ontario.html" target="_blank" >- Best Places to Eat in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4291090-Activities-c26-Virgil_Niagara_on_the_Lake_Ontario.html" target="_blank" >- Best Places to Go Shopping in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Virgil-Toronto_ON-site_23592062-143" target="_blank" >- Public Transportation Options in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4291090-Virgil_Niagara_on_the_Lake_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/fun-things-to-do-in-niagara-falls-with-kids/" target="_blank" >- Best Things to do with the Kids in Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagaranow.com/news.phtml" target="_blank" >- Local News for Virgil, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/virgil" target="_blank" >- Weather in Virgil, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -20,10 +20,10 @@
 			<div class="col-xs-12 col-sm-12 col-md-7 col-md-7 alpha">
 				<img src="{{url('/images/FL2.jpg')}}" alt="PayDay logo" width="130px" class="log">
 				<ul class="list-sitemap">
-					<li><a href="{{ url('/short-term-loans')}}">Home</a></li>
-					<li><a href="{{ url('/why_use_us')}}">What we offer</a></li>
+					<li><a href="{{ url('/')}}">Home</a></li>
+					<!-- <li><a href="{{ url('/why_use_us')}}">What we offer</a></li> -->
 					<li><a href="{{ url('/agent-list')}}">How it's Done</a></li>
-		{{--	<li><a href="{{ url('/reviews')}}">Pay Day Reviews</a></li> --}}
+		<!-- {{--	<li><a href="{{ url('/reviews')}}">Pay Day Reviews</a></li> --}} -->
 					<li><a href="{{ url('/signin')}}">My Account</a></li>
 					<li> <a href="{{$corpregister}}">Get a loan now</a>
 					</li>
@@ -139,9 +139,9 @@
 				<div class="col-xs-12 col-sm-12 col-md-7 col-md-7 alpha">
 					<h2 class="small-title">Resources</h2>
 					<ul class="list-sitemap">
-						<li><a href="{{ url('/best-lender-loans-canada')}}">{{ $privname }} vs other lenders</a></li>
-			{{--			<li><a href="{{ url('/loan-calculator')}}">Loan Budgeting</a></li>
-		 	<li><a href="#" target="_blank" rel="noopener">Blog</a></li> --}}
+						<!-- <li><a href="{{ url('/best-lender-loans-canada')}}">{{ $privname }} vs other lenders</a></li> -->
+			<!-- {{--			<li><a href="{{ url('/loan-calculator')}}">Loan Budgeting</a></li>
+		 	<li><a href="#" target="_blank" rel="noopener">Blog</a></li> --}} -->
 						<li><a href="{{ url('/key-terms')}}">Key Terms</a></li>
 					</ul>
 				</div>
@@ -162,7 +162,7 @@
 						<li><a href="{{ url('/payday-advance')}}" >Payday Advance</a></li>
 						<li><a href="{{ url('/payday-loans-near-me')}}">Payday Loans Near Me</a></li>
 
-						<li><a href="{{ url('/short-term-loans-canada')}}" >Short Term Loans Canada</a></li>
+						<!-- <li><a href="{{ url('/short-term-loans-canada')}}" >Short Term Loans Canada</a></li> -->
 						<!-- <li><a href="{{ url('/same-day-payday-loans')}}" >Same Day Payday Loans</a></li> -->
 						<li><a href="{{ url('/same-day-loans')}}" >Same Day Loans</a></li>
 						<li><a href="{{ url('/express-loans')}}" >Express Loans</a></li>

@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stony Plain, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499111-Activities-Stony_Plain_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1034759-Stony Plain_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://linda-hoang.com/shopping-guide-to-stony-plain-alberta-a-surprising-and-delightful-hub-for-local-shops/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.stonyplain.com/en/live/transit-services.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499111-Stony_Plain_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Stony_Plain,_Alberta" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.stonyplain.com/Modules/News/Search.aspx?feedId=cf48a381-eac7-4f7f-8fcb-7a96d5d0bc6c&_mid_=647" target="_blank" rel="nofollow noopener">- Local News for Stony Plain, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/stony-plain" target="_blank" rel="nofollow noopener">- Weather in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499111-Activities-Stony_Plain_Alberta.html" target="_blank" >- Best Attractions in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1034759-Stony Plain_Alberta.html" target="_blank" >- Best Places to Eat in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://linda-hoang.com/shopping-guide-to-stony-plain-alberta-a-surprising-and-delightful-hub-for-local-shops/" target="_blank" >- Best Places to Go Shopping in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.stonyplain.com/en/live/transit-services.aspx" target="_blank" >- Public Transportation Options in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499111-Stony_Plain_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Stony_Plain,_Alberta" target="_blank" >- Best Things to do with the Kids in Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.stonyplain.com/Modules/News/Search.aspx?feedId=cf48a381-eac7-4f7f-8fcb-7a96d5d0bc6c&_mid_=647" target="_blank" >- Local News for Stony Plain, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/stony-plain" target="_blank" >- Weather in Stony Plain, Alberta</a></li>
 					</ul>
       </div>
      </div>

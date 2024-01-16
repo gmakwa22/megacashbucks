@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Russell, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7271460-Activities-Russell_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Russell-Ontario" target="_blank" rel="nofollow noopener">- Best Places to Eat in Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.russell.ca/en/recreation-and-culture/shop-local.aspx" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.417busline.com/wp-content/uploads/2017/08/RussellTranspoSchedules-v.Eng-for-InfoGuide-April-2017.pdf" target="_blank" rel="nofollow noopener">- Public Transportation Options in Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7271460-Russell_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.russell.ca/Modules/News/en" target="_blank" rel="nofollow noopener">- Local News for Russell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/russell" target="_blank" rel="nofollow noopener">- Weather in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7271460-Activities-Russell_Ontario.html" target="_blank" >- Best Attractions in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Russell-Ontario" target="_blank" >- Best Places to Eat in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.russell.ca/en/recreation-and-culture/shop-local.aspx" target="_blank" >- Best Places to Go Shopping in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.417busline.com/wp-content/uploads/2017/08/RussellTranspoSchedules-v.Eng-for-InfoGuide-April-2017.pdf" target="_blank" >- Public Transportation Options in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7271460-Russell_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/" target="_blank" >- Best Things to do with the Kids in Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.russell.ca/Modules/News/en" target="_blank" >- Local News for Russell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/russell" target="_blank" >- Weather in Russell, Ontario</a></li>
 					</ul>
       </div>
      </div>

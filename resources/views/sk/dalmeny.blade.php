@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dalmeny, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/251/dalmeny" target="_blank" rel="nofollow noopener">- Best Attractions in Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Dalmeny-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.dalmeny.ca/p/business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Dalmeny-SK-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de660423121062060032/dalmeny-saskatchewan-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/saskatchewan/saskatoon/dalmeny/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dalmeny/" target="_blank" rel="nofollow noopener">- Local News for Dalmeny, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/dalmeny" target="_blank" rel="nofollow noopener">- Weather in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/251/dalmeny" target="_blank" >- Best Attractions in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Dalmeny-Saskatchewan" target="_blank" >- Best Places to Eat in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.dalmeny.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Dalmeny-SK-Canada" target="_blank" >- Public Transportation Options in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de660423121062060032/dalmeny-saskatchewan-hotels-rooms/" target="_blank" >- Best Places to Stay in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/saskatchewan/saskatoon/dalmeny/" target="_blank" >- Best Things to do with the Kids in Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dalmeny/" target="_blank" >- Local News for Dalmeny, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/dalmeny" target="_blank" >- Weather in Dalmeny, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

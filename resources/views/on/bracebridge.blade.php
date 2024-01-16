@@ -55,14 +55,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bracebridge, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://bracebridgechamber.com/fall-fun-in-bracebridge-muskoka/?gclid=EAIaIQobChMIkc_M77vN8wIV8Z7CCh2j8wuiEAAYAiAAEgI6kPD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181759-Bracebridge_Muskoka_District_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.bracebridge.ca/en/explore/Shopping.aspx" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.bracebridge.ca/en/live-here/Bracebridge-Transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.trivago.ca/?themeId=1&iPathId=443016&sem_keyword=bracebridge%20hotels&sem_creativeid=486844338383&sem_matchtype=e&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=&sem_param1=&sem_param2=&sem_campaignid=11857607889&sem_adgroupid=120879188568&sem_targetid=kwd-527738480&sem_location=9001551&cipc=sem&cip=1071900386&gclid=EAIaIQobChMIqLPKoLzN8wIV-A-tBh0S6w2iEAAYASAAEgL84fD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181759-Activities-zft11306-Bracebridge_Muskoka_District_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.muskokaregion.com/bracebridge-on/" target="_blank" rel="nofollow noopener">- Local News for Bracebridge, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bracebridge" target="_blank" rel="nofollow noopener">- Weather in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://bracebridgechamber.com/fall-fun-in-bracebridge-muskoka/?gclid=EAIaIQobChMIkc_M77vN8wIV8Z7CCh2j8wuiEAAYAiAAEgI6kPD_BwE" target="_blank" >- Best Attractions in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181759-Bracebridge_Muskoka_District_Ontario.html" target="_blank" >- Best Places to Eat in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.bracebridge.ca/en/explore/Shopping.aspx" target="_blank" >- Best Places to Go Shopping in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.bracebridge.ca/en/live-here/Bracebridge-Transit.aspx" target="_blank" >- Public Transportation Options in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.trivago.ca/?themeId=1&iPathId=443016&sem_keyword=bracebridge%20hotels&sem_creativeid=486844338383&sem_matchtype=e&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=&sem_param1=&sem_param2=&sem_campaignid=11857607889&sem_adgroupid=120879188568&sem_targetid=kwd-527738480&sem_location=9001551&cipc=sem&cip=1071900386&gclid=EAIaIQobChMIqLPKoLzN8wIV-A-tBh0S6w2iEAAYASAAEgL84fD_BwE" target="_blank" >- Best Places to Stay in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181759-Activities-zft11306-Bracebridge_Muskoka_District_Ontario.html" target="_blank" >- Best Things to do with the Kids in Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.muskokaregion.com/bracebridge-on/" target="_blank" >- Local News for Bracebridge, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bracebridge" target="_blank" >- Weather in Bracebridge, Ontario</a></li>
 					</ul>
       </div>
      </div>

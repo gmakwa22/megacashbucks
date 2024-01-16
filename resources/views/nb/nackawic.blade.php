@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Nackawic, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Nackawic%2C-Canada" target="_blank" rel="nofollow noopener">- Best Attractions in Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.sirved.com/restaurant/nackawic-new_brunswick-canada/list" target="_blank" rel="nofollow noopener">- Best Places to Eat in Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Nackawic%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Nackawic-Hotels.d6353508.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3420992-Activities-zft11306-Nackawic_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/nackawic/" target="_blank" rel="nofollow noopener">- Local News for Nackawic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/36-hour-weather-forecast/new-brunswick/nackawic" target="_blank" rel="nofollow noopener">- Weather in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.destimap.com/index.php?act=place&p=Nackawic%2C-Canada" target="_blank" >- Best Attractions in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.sirved.com/restaurant/nackawic-new_brunswick-canada/list" target="_blank" >- Best Places to Eat in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Nackawic%2C+NB" target="_blank" >- Best Places to Go Shopping in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Nackawic-Hotels.d6353508.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3420992-Activities-zft11306-Nackawic_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/nackawic/" target="_blank" >- Local News for Nackawic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/36-hour-weather-forecast/new-brunswick/nackawic" target="_blank" >- Weather in Nackawic, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

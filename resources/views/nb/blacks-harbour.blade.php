@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Blacks Harbour, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g814407-Activities-Blacks_Harbour_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://heyrestaurants.ca/New_Brunswick/Blacks_Harbour/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="http://blacksharbour.ca/directory.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Blacks-Harbour" target="_blank" rel="nofollow noopener">- Public Transportation Options in Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/blacks-harbour-nb" target="_blank" rel="nofollow noopener">- Best Places to Stay in Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/blacks-harbour/" target="_blank" rel="nofollow noopener">- Local News for Blacks Harbour, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/blacks-harbour" target="_blank" rel="nofollow noopener">- Weather in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g814407-Activities-Blacks_Harbour_New_Brunswick.html" target="_blank" >- Best Attractions in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://heyrestaurants.ca/New_Brunswick/Blacks_Harbour/" target="_blank" >- Best Places to Eat in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="http://blacksharbour.ca/directory.html" target="_blank" >- Best Places to Go Shopping in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Blacks-Harbour" target="_blank" >- Public Transportation Options in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/blacks-harbour-nb" target="_blank" >- Best Places to Stay in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" >- Best Things to do with the Kids in Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/blacks-harbour/" target="_blank" >- Local News for Blacks Harbour, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/blacks-harbour" target="_blank" >- Weather in Blacks Harbour, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

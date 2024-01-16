@@ -137,7 +137,7 @@
 
 <section id="beaver-tab" class="dark-blue">
 <div class="container">
-<p class="text text-center">There’s nothing like a direct one-to-one comparison to help you evaluate your options. You should always compare the terms on offer for any online short-term loans that you’re considering. Also, keep in mind that the provinces all have different regulations on rates that licensed lenders can charge. If you’ve got any questions around regulations or rates in your province, our Customer Service Advisors are there to help. {{-- Our <a href="{{url('/loan-calculator')}}" title="Budgeting page">Budgeting page</a> can be a great help in making sure you know what’s the right kind and amount of loan for you. --}}
+<p class="text text-center">There’s nothing like a direct one-to-one comparison to help you evaluate your options. You should always compare the terms on offer for any online short-term loans that you’re considering. Also, keep in mind that the provinces all have different regulations on rates that licensed lenders can charge. If you’ve got any questions around regulations or rates in your province, our Customer Service Advisors are there to help.  Can be a great help in making sure you know what’s the right kind and amount of loan for you. --}}
 
 </p>
 <br><br><br>

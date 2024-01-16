@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Beeton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMIoaG3wK3N8wIVFBLnCh1i3wE2EAAYASAAEgIsAvD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2213283-Belmont_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/arts-cultural-experiences/shopping?gclid=EAIaIQobChMI1ebj2a3N8wIVhB-tBh2r2APoEAAYASAAEgIFafD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.grt.ca/en/schedules-maps/schedules.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.choicehotels.com/en-ca/british-columbia/vancouver/ascend-hotels/cn393?mc=smgocnusacl&cid=Search_Ascend-Collection_BC_British-Columbia_General_Exact_CPC_Desktop_EN_B-G&ag=CA_BC_Vancouver_Property_CN393&pmf=GOOGLECA&kw=hotel+belmont&gclid=EAIaIQobChMI8_X8763N8wIVFiCtBh1RvQcyEAAYASAAEgJuqvD_BwE&gclsrc=aw.ds&checkInDate=2021-10-16&checkOutDate=2021-10-17" target="_blank" rel="nofollow noopener">- Best Places to Stay in Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/elgin/belmont/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/belmont/" target="_blank" rel="nofollow noopener">- Local News for Beeton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/belmont" target="_blank" rel="nofollow noopener">- Weather in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMIoaG3wK3N8wIVFBLnCh1i3wE2EAAYASAAEgIsAvD_BwE" target="_blank" >- Best Attractions in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2213283-Belmont_Ontario.html" target="_blank" >- Best Places to Eat in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/arts-cultural-experiences/shopping?gclid=EAIaIQobChMI1ebj2a3N8wIVhB-tBh2r2APoEAAYASAAEgIFafD_BwE" target="_blank" >- Best Places to Go Shopping in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.grt.ca/en/schedules-maps/schedules.aspx" target="_blank" >- Public Transportation Options in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.choicehotels.com/en-ca/british-columbia/vancouver/ascend-hotels/cn393?mc=smgocnusacl&cid=Search_Ascend-Collection_BC_British-Columbia_General_Exact_CPC_Desktop_EN_B-G&ag=CA_BC_Vancouver_Property_CN393&pmf=GOOGLECA&kw=hotel+belmont&gclid=EAIaIQobChMI8_X8763N8wIVFiCtBh1RvQcyEAAYASAAEgJuqvD_BwE&gclsrc=aw.ds&checkInDate=2021-10-16&checkOutDate=2021-10-17" target="_blank" >- Best Places to Stay in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/elgin/belmont/" target="_blank" >- Best Things to do with the Kids in Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/belmont/" target="_blank" >- Local News for Beeton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/belmont" target="_blank" >- Weather in Beeton, Ontario</a></li>
 					</ul>
       </div>
      </div>

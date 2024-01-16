@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Nelson, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.discovernelson.com/activities/" target="_blank" rel="nofollow noopener">- Best Attractions in Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.discovernelson.com/nelson-bc-directory/restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.discovernelson.com/nelson-bc-directory/shopping-retail/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.nelson.ca/421/Transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.nelsonkootenaylake.com/stay/places-to-stay" target="_blank" rel="nofollow noopener">- Best Places to Stay in Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.thepassportkids.com/things-to-do-in-nelson-bc/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.nelsonstar.com/" target="_blank" rel="nofollow noopener">- Local News for Nelson, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-37_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.discovernelson.com/activities/" target="_blank" >- Best Attractions in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.discovernelson.com/nelson-bc-directory/restaurants/" target="_blank" >- Best Places to Eat in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.discovernelson.com/nelson-bc-directory/shopping-retail/" target="_blank" >- Best Places to Go Shopping in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.nelson.ca/421/Transit" target="_blank" >- Public Transportation Options in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.nelsonkootenaylake.com/stay/places-to-stay" target="_blank" >- Best Places to Stay in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.thepassportkids.com/things-to-do-in-nelson-bc/" target="_blank" >- Best Things to do with the Kids in Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.nelsonstar.com/" target="_blank" >- Local News for Nelson, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-37_metric_e.html" target="_blank" >- Weather in Nelson, British Columbia</a></li>
 					</ul>
       </div>
      </div>

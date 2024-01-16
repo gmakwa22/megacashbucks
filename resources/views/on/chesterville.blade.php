@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chesterville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3607015-Activities-Chesterville_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Chesterville" target="_blank" rel="nofollow noopener">- Best Places to Eat in Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chesterville+Ontario/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ptv.vic.gov.au/stop/11797/chesterville-rdsouth-rd/2/bus/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10417275/chesterville-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3607015-Activities-Chesterville_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://chestervillerecord.com/" target="_blank" rel="nofollow noopener">- Local News for Chesterville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chesterville" target="_blank" rel="nofollow noopener">- Weather in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3607015-Activities-Chesterville_Ontario.html" target="_blank" >- Best Attractions in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Chesterville" target="_blank" >- Best Places to Eat in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chesterville+Ontario/80014000.html" target="_blank" >- Best Places to Go Shopping in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ptv.vic.gov.au/stop/11797/chesterville-rdsouth-rd/2/bus/" target="_blank" >- Public Transportation Options in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10417275/chesterville-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3607015-Activities-Chesterville_Ontario.html" target="_blank" >- Best Things to do with the Kids in Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://chestervillerecord.com/" target="_blank" >- Local News for Chesterville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chesterville" target="_blank" >- Weather in Chesterville, Ontario</a></li>
 					</ul>
       </div>
      </div>

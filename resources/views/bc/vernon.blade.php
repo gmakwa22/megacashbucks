@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Vernon, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-vernon-bc-cdn-1-297.htm" target="_blank" rel="nofollow noopener">- Best Attractions in Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://nomsmagazine.com/eat/best-vernon-restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.vernon.ca/business/moving-vernon/dining-shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/vernon/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/vernon.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.triphobo.com/places/vernon-canada/things-to-do/family-and-kids" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.vernonmorningstar.com/" target="_blank" rel="nofollow noopener">- Local News for Vernon, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-27_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-vernon-bc-cdn-1-297.htm" target="_blank" >- Best Attractions in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://nomsmagazine.com/eat/best-vernon-restaurants/" target="_blank" >- Best Places to Eat in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.vernon.ca/business/moving-vernon/dining-shopping" target="_blank" >- Best Places to Go Shopping in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/vernon/schedules-and-maps" target="_blank" >- Public Transportation Options in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/vernon.html" target="_blank" >- Best Places to Stay in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.triphobo.com/places/vernon-canada/things-to-do/family-and-kids" target="_blank" >- Best Things to do with the Kids in Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.vernonmorningstar.com/" target="_blank" >- Local News for Vernon, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-27_metric_e.html" target="_blank" >- Weather in Vernon, British Columbia</a></li>
 					</ul>
       </div>
      </div>

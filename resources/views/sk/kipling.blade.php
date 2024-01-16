@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kipling, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/104/kipling" target="_blank" rel="nofollow noopener">- Best Attractions in Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Kipling" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofkipling.ca/business/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kipling/Regina" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g8459204-Kipling_Saskatchewan-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/kipling/" target="_blank" rel="nofollow noopener">- Local News for Kipling, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/kipling" target="_blank" rel="nofollow noopener">- Weather in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/104/kipling" target="_blank" >- Best Attractions in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Kipling" target="_blank" >- Best Places to Eat in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofkipling.ca/business/" target="_blank" >- Best Places to Go Shopping in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kipling/Regina" target="_blank" >- Public Transportation Options in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g8459204-Kipling_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/kipling/" target="_blank" >- Local News for Kipling, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/kipling" target="_blank" >- Weather in Kipling, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

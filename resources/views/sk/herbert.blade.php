@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Herbert, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://townofherbert.ca/recreation_and_culture/tourism.html" target="_blank" rel="nofollow noopener">- Best Attractions in Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3680072-Herbert_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofherbert.ca/community/business_directory.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/herbert-sk" target="_blank" rel="nofollow noopener">- Best Places to Stay in Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/herbert-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Herbert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/herbert" target="_blank" rel="nofollow noopener">- Weather in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofherbert.ca/recreation_and_culture/tourism.html" target="_blank" >- Best Attractions in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3680072-Herbert_Saskatchewan.html" target="_blank" >- Best Places to Eat in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofherbert.ca/community/business_directory.html" target="_blank" >- Best Places to Go Shopping in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/herbert-sk" target="_blank" >- Best Places to Stay in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/herbert-saskatchewan/" target="_blank" >- Local News for Herbert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/herbert" target="_blank" >- Weather in Herbert, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

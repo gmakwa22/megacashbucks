@@ -42,14 +42,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Armstrong, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2184546-Activities-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2184546-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2184546-Activities-c26-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cityofarmstrong.bc.ca/content/transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Armstrong-Hotels.d6221909.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2184546-Activities-zft11306-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.armstrongmywire.com/vertical/category/news" target="_blank" rel="nofollow noopener">- Local News for Armstrong, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-111_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2184546-Activities-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" >- Best Attractions in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2184546-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" >- Best Places to Eat in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2184546-Activities-c26-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cityofarmstrong.bc.ca/content/transportation" target="_blank" >- Public Transportation Options in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Armstrong-Hotels.d6221909.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2184546-Activities-zft11306-Armstrong_Okanagan_Valley_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.armstrongmywire.com/vertical/category/news" target="_blank" >- Local News for Armstrong, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-111_metric_e.html" target="_blank" >- Weather in Armstrong, British Columbia</a></li>
 					</ul>
       </div>
      </div>

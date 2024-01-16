@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Coronach, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3347603-Activities-Coronach_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3347603-Coronach_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/coronach-saskatchewan/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.townofcoronach.com/accomodations/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g3347603-Activities-Coronach_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/coronach/" target="_blank" rel="nofollow noopener">- Local News for Coronach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-42_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3347603-Activities-Coronach_Saskatchewan.html" target="_blank" >- Best Attractions in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3347603-Coronach_Saskatchewan.html" target="_blank" >- Best Places to Eat in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/coronach-saskatchewan/shopping/" target="_blank" >- Best Places to Go Shopping in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.townofcoronach.com/accomodations/" target="_blank" >- Best Places to Stay in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g3347603-Activities-Coronach_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/coronach/" target="_blank" >- Local News for Coronach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-42_metric_e.html" target="_blank" >- Weather in Coronach, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

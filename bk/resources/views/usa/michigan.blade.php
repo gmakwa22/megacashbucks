@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30"  id="custlink">
 			<h3 class="mb-3">Helpful information about Michigan</h3>
 				<ul>
-					<li class="list-group-item"><a href="https://www.attractionsofamerica.com/attractions/michigan.php" target="_blank" rel="nofollow noopener">- Best Attractions in Michigan</a></li>
-		<li class="list-group-item"><a href="https://bigseventravel.com/7-best-steakhouses-in-michigan/" target="_blank" rel="nofollow noopener">- Best Steakhouse in Michigan</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28943-Activities-c26-t143-Michigan.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Michigan</a></li>
-		<li class="list-group-item"><a href="https://www.michigan.gov/mdot" target="_blank" rel="nofollow noopener">- Public Transportation Options in Michigan</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28943-Michigan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Michigan</a></li>
-		<li class="list-group-item"><a href="https://familydestinationsguide.com/fun-things-to-do-kids-michigan/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Michigan</a></li>
-		<li class="list-group-item"><a href="https://www.mlive.com/" target="_blank" rel="nofollow noopener">- Local News for Michigan</a></li>
-		<li class="list-group-item"><a href="https://weather.com/weather/tenday/l/Michigan+Center+MI?canonicalCityId=5f4e7f436b01939a0ec78f75693e65c6a39cdef15d8313dba0790bc7df0e36f7" target="_blank" rel="nofollow noopener">- Weather in Michigan</a></li>
+					<li class="list-group-item"><a href="https://www.attractionsofamerica.com/attractions/michigan.php" target="_blank" >- Best Attractions in Michigan</a></li>
+		<li class="list-group-item"><a href="https://bigseventravel.com/7-best-steakhouses-in-michigan/" target="_blank" >- Best Steakhouse in Michigan</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28943-Activities-c26-t143-Michigan.html" target="_blank" >- Best Places to Go Shopping in Michigan</a></li>
+		<li class="list-group-item"><a href="https://www.michigan.gov/mdot" target="_blank" >- Public Transportation Options in Michigan</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28943-Michigan-Hotels.html" target="_blank" >- Best Places to Stay in Michigan</a></li>
+		<li class="list-group-item"><a href="https://familydestinationsguide.com/fun-things-to-do-kids-michigan/" target="_blank" >- Best Things to do with the Kids in Michigan</a></li>
+		<li class="list-group-item"><a href="https://www.mlive.com/" target="_blank" >- Local News for Michigan</a></li>
+		<li class="list-group-item"><a href="https://weather.com/weather/tenday/l/Michigan+Center+MI?canonicalCityId=5f4e7f436b01939a0ec78f75693e65c6a39cdef15d8313dba0790bc7df0e36f7" target="_blank" >- Weather in Michigan</a></li>
 					</ul>
       </div>
      </div>

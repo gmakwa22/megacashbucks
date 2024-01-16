@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Duck Lake, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g795941-Activities-Duck_Lake_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Duck-Lake" target="_blank" rel="nofollow noopener">- Best Places to Eat in Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ducklake.ca/business/business_directory.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Duck-Lake/Saskatoon" target="_blank" rel="nofollow noopener">- Public Transportation Options in Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g795941-Duck_Lake_Saskatchewan-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/saskatchewan/prince-albert/duck-lake/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/duck-lake/" target="_blank" rel="nofollow noopener">- Local News for Duck Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/duck-lake" target="_blank" rel="nofollow noopener">- Weather in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g795941-Activities-Duck_Lake_Saskatchewan.html" target="_blank" >- Best Attractions in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Duck-Lake" target="_blank" >- Best Places to Eat in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ducklake.ca/business/business_directory.html" target="_blank" >- Best Places to Go Shopping in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Duck-Lake/Saskatoon" target="_blank" >- Public Transportation Options in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g795941-Duck_Lake_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/saskatchewan/prince-albert/duck-lake/" target="_blank" >- Best Things to do with the Kids in Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/duck-lake/" target="_blank" >- Local News for Duck Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/duck-lake" target="_blank" >- Weather in Duck Lake, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

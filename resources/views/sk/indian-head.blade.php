@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Indian Head, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2242603-Activities-Indian_Head_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Indian-Head-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofindianhead.com/business-services/business-directory.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Indian-Head" target="_blank" rel="nofollow noopener">- Public Transportation Options in Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofindianhead.com/business-services/business-directory.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofindianhead.com/visitors/attractions.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofindianhead.com/current-news.html" target="_blank" rel="nofollow noopener">- Local News for Indian Head, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-43_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2242603-Activities-Indian_Head_Saskatchewan.html" target="_blank" >- Best Attractions in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Indian-Head-Saskatchewan" target="_blank" >- Best Places to Eat in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofindianhead.com/business-services/business-directory.html" target="_blank" >- Best Places to Go Shopping in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Indian-Head" target="_blank" >- Public Transportation Options in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofindianhead.com/business-services/business-directory.html" target="_blank" >- Best Places to Stay in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofindianhead.com/visitors/attractions.html" target="_blank" >- Best Things to do with the Kids in Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofindianhead.com/current-news.html" target="_blank" >- Local News for Indian Head, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-43_metric_e.html" target="_blank" >- Weather in Indian Head, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -238,7 +238,7 @@
 		<h2>Same Day Cash Loans</h2>
 		<p class="text">Whether it's a car repair, doctors' bills, ODSP Payday Loans, or tuition fees, everyone needs a little help from time to time. A quick cash loan from iCASH gives you easy access to the funds you need.</p>
 		<p class="text">We want to make online loans as hassle-free as possible. Check out our Education Center to get all the details you need, from budgeting tips to financial term definitions.<br>If you are having a hard time figuring out how much money you need, try using our simple <a href="/payday-loans-calculator" onclick="ga('send', 'event', 'same day cash loan', 'click', 'Loan Budgeting');">budget loan calculator</a> !</p><br>
-		<p class="text">To learn more about how we differenciate ourselves from other lenders, go see our <a href="/best-lender-loans-canada" onclick="ga('send', 'event', 'same day cash loan', 'click', 'best lender');">comparison chart</a>.</p>
+		<p class="text">To learn more about how we differenciate ourselves from other lenders, go see our comparison chart.</p>
 		</div>
 		</article>
 	</section>

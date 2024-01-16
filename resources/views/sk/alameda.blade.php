@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Alameda, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7365123-Alameda_Saskatchewan-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Alameda-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.pagesjaunes.ca/search/si/1/Clothing+Stores/Alameda+SK" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7365123-Alameda_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Recreation+Centres/Alameda+SK" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/sk/alameda/news/" target="_blank" rel="nofollow noopener">- Local News for Alameda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/alameda" target="_blank" rel="nofollow noopener">- Weather in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7365123-Alameda_Saskatchewan-Vacations.html" target="_blank" >- Best Attractions in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Alameda-Saskatchewan" target="_blank" >- Best Places to Eat in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.pagesjaunes.ca/search/si/1/Clothing+Stores/Alameda+SK" target="_blank" >- Best Places to Go Shopping in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7365123-Alameda_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Recreation+Centres/Alameda+SK" target="_blank" >- Best Things to do with the Kids in Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/sk/alameda/news/" target="_blank" >- Local News for Alameda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/alameda" target="_blank" >- Weather in Alameda, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

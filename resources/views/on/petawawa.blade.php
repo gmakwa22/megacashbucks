@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Petawawa, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499285-Activities-Petawawa_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/petawawa/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.petawawa.ca/business-directory/Retail/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Petawawa" target="_blank" rel="nofollow noopener">- Public Transportation Options in Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/petawawa.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/renfrew/petawawa/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.petawawapostlive.ca/news.html" target="_blank" rel="nofollow noopener">- Local News for Petawawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-112_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499285-Activities-Petawawa_Ontario.html" target="_blank" >- Best Attractions in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/petawawa/" target="_blank" >- Best Places to Eat in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.petawawa.ca/business-directory/Retail/" target="_blank" >- Best Places to Go Shopping in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Petawawa" target="_blank" >- Public Transportation Options in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/petawawa.html" target="_blank" >- Best Places to Stay in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/renfrew/petawawa/" target="_blank" >- Best Things to do with the Kids in Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.petawawapostlive.ca/news.html" target="_blank" >- Local News for Petawawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-112_metric_e.html" target="_blank" >- Weather in Petawawa, Ontario</a></li>
 					</ul>
       </div>
      </div>

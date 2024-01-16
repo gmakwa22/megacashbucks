@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30"  id="custlink">
 			<h3 class="mb-3">Helpful information about Kentucky</h3>
 				<ul>
-					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions/Kentucky-usca.htm" target="_blank" rel="nofollow noopener">- Best Attractions in Kentucky</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Kentucky.html" target="_blank" rel="nofollow noopener">- Best Steakhouse in Kentucky</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Kentucky.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kentucky</a></li>
-		<li class="list-group-item"><a href="https://www.lonelyplanet.com/articles/how-to-get-around-Kentucky" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kentucky</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28926-Kentucky-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kentucky</a></li>
-		<li class="list-group-item"><a href="https://travelmamas.com/Kentucky-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kentucky</a></li>
-		<li class="list-group-item"><a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjg6Ybnh8P8AhULDucKHbVVAbgYABABGgJwdg&sig=AOD64_0FXtyU5n6GdfvAjrAwXXFIkOtMdQ&q&adurl&ved=2ahUKEwiDlv_mh8P8AhV6GTQIHXXZCTIQ0Qx6BAgKEAE" target="_blank" rel="nofollow noopener">- Local News for Kentucky</a></li>
-		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/Kentucky/los-angeles" target="_blank" rel="nofollow noopener">- Weather in Kentucky</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions/Kentucky-usca.htm" target="_blank" >- Best Attractions in Kentucky</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Kentucky.html" target="_blank" >- Best Steakhouse in Kentucky</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28926-Activities-c26-t143-Kentucky.html" target="_blank" >- Best Places to Go Shopping in Kentucky</a></li>
+		<li class="list-group-item"><a href="https://www.lonelyplanet.com/articles/how-to-get-around-Kentucky" target="_blank" >- Public Transportation Options in Kentucky</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28926-Kentucky-Hotels.html" target="_blank" >- Best Places to Stay in Kentucky</a></li>
+		<li class="list-group-item"><a href="https://travelmamas.com/Kentucky-with-kids/" target="_blank" >- Best Things to do with the Kids in Kentucky</a></li>
+		<li class="list-group-item"><a href="https://www.google.com/aclk?sa=l&ai=DChcSEwjg6Ybnh8P8AhULDucKHbVVAbgYABABGgJwdg&sig=AOD64_0FXtyU5n6GdfvAjrAwXXFIkOtMdQ&q&adurl&ved=2ahUKEwiDlv_mh8P8AhV6GTQIHXXZCTIQ0Qx6BAgKEAE" target="_blank" >- Local News for Kentucky</a></li>
+		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/Kentucky/los-angeles" target="_blank" >- Weather in Kentucky</a></li>
 					</ul>
       </div>
      </div>

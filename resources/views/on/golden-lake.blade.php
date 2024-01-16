@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Golden Lake, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1051939-Golden Lake_Lake_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Golden Lake-Lake" target="_blank" rel="nofollow noopener">- Best Places to Eat in Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Golden Lake+Lake%2C+ON+K0J+1X0" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.mto.gov.on.ca/english/transit/municipal-transit-systems-in-ontario.shtml" target="_blank" rel="nofollow noopener">- Public Transportation Options in Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1051939-Golden Lake_Lake_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/renfrew/Golden Lake-lake/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/on/Golden Lake-lake/news/" target="_blank" rel="nofollow noopener">- Local News for Golden Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/Golden Lake-lake" target="_blank" rel="nofollow noopener">- Weather in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1051939-Golden Lake_Lake_Ontario-Vacations.html" target="_blank" >- Best Attractions in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Golden Lake-Lake" target="_blank" >- Best Places to Eat in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Golden Lake+Lake%2C+ON+K0J+1X0" target="_blank" >- Best Places to Go Shopping in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.mto.gov.on.ca/english/transit/municipal-transit-systems-in-ontario.shtml" target="_blank" >- Public Transportation Options in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1051939-Golden Lake_Lake_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/renfrew/Golden Lake-lake/" target="_blank" >- Best Things to do with the Kids in Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/on/Golden Lake-lake/news/" target="_blank" >- Local News for Golden Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/Golden Lake-lake" target="_blank" >- Weather in Golden Lake, Ontario</a></li>
 					</ul>
       </div>
      </div>

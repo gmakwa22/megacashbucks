@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rocanville, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/136/rocanville" target="_blank" rel="nofollow noopener">- Best Attractions in Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4541528-Rocanville_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/rocanville/shops" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Rocanville" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g4541528-d4522868-Rocanville_and_District_Museum-Rocanville_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rocanville/" target="_blank" rel="nofollow noopener">- Local News for Rocanville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/rocanville" target="_blank" rel="nofollow noopener">- Weather in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/136/rocanville" target="_blank" >- Best Attractions in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4541528-Rocanville_Saskatchewan.html" target="_blank" >- Best Places to Eat in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/rocanville/shops" target="_blank" >- Best Places to Go Shopping in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Rocanville" target="_blank" >- Public Transportation Options in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g4541528-d4522868-Rocanville_and_District_Museum-Rocanville_Saskatchewan.html" target="_blank" >- Best Places to Stay in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rocanville/" target="_blank" >- Local News for Rocanville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/rocanville" target="_blank" >- Weather in Rocanville, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

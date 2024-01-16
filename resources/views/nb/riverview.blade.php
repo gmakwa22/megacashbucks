@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Riverview, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.townofriverview.ca/about-riverview/things-to-do-in-riverview" target="_blank" rel="nofollow noopener">- Best Attractions in Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/riverview/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.townofriverview.ca/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.townofriverview.ca/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g950953-Riverview_Albert_County_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.townofriverview.ca/about-riverview/things-to-do-in-riverview" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/riverview-nb/" target="_blank" rel="nofollow noopener">- Local News for Riverview, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/riverview" target="_blank" rel="nofollow noopener">- Weather in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.townofriverview.ca/about-riverview/things-to-do-in-riverview" target="_blank" >- Best Attractions in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/riverview/" target="_blank" >- Best Places to Eat in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.townofriverview.ca/shopping" target="_blank" >- Best Places to Go Shopping in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.townofriverview.ca/transit" target="_blank" >- Public Transportation Options in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g950953-Riverview_Albert_County_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.townofriverview.ca/about-riverview/things-to-do-in-riverview" target="_blank" >- Best Things to do with the Kids in Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/riverview-nb/" target="_blank" >- Local News for Riverview, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/riverview" target="_blank" >- Weather in Riverview, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

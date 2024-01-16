@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Crystal Beach, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://crystalbeachcottagerentals.ca/category/things-to-do/" target="_blank" rel="nofollow noopener">- Best Attractions in Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154987-Crystal_Beach_Fort_Erie_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Crystal+Beach/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Crystal_Beach-Toronto_ON-site_13404979-143" target="_blank" rel="nofollow noopener">- Public Transportation Options in Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/crystal-beach-ca.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/crystal-beach/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://local.ca/on/crystal-beach/news/" target="_blank" rel="nofollow noopener">- Local News for Crystal Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/crystal-beach" target="_blank" rel="nofollow noopener">- Weather in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://crystalbeachcottagerentals.ca/category/things-to-do/" target="_blank" >- Best Attractions in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154987-Crystal_Beach_Fort_Erie_Ontario.html" target="_blank" >- Best Places to Eat in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Crystal+Beach/80014000.html" target="_blank" >- Best Places to Go Shopping in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Crystal_Beach-Toronto_ON-site_13404979-143" target="_blank" >- Public Transportation Options in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/crystal-beach-ca.html" target="_blank" >- Best Places to Stay in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/crystal-beach/" target="_blank" >- Best Things to do with the Kids in Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://local.ca/on/crystal-beach/news/" target="_blank" >- Local News for Crystal Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/crystal-beach" target="_blank" >- Weather in Crystal Beach, Ontario</a></li>
 					</ul>
       </div>
      </div>

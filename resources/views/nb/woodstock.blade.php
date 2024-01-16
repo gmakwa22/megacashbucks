@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Woodstock, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182170-Activities-Woodstock_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/woodstock/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Woodstock%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/woodstock" target="_blank" rel="nofollow noopener">- Public Transportation Options in Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182170-Woodstock_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g182170-Activities-Woodstock_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/woodstock-nb/" target="_blank" rel="nofollow noopener">- Local News for Woodstock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-21_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182170-Activities-Woodstock_New_Brunswick.html" target="_blank" >- Best Attractions in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/woodstock/" target="_blank" >- Best Places to Eat in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Woodstock%2C+NB" target="_blank" >- Best Places to Go Shopping in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/woodstock" target="_blank" >- Public Transportation Options in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182170-Woodstock_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g182170-Activities-Woodstock_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/woodstock-nb/" target="_blank" >- Local News for Woodstock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-21_metric_e.html" target="_blank" >- Weather in Woodstock, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

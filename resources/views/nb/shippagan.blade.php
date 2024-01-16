@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Shippagan, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1924688-Shippagan_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Shippagan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Shippagan%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Shippagan-Hotels.d6353612.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/shippagan/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/shippagan/" target="_blank" rel="nofollow noopener">- Local News for Shippagan, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/shippagan" target="_blank" rel="nofollow noopener">- Weather in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1924688-Shippagan_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Shippagan" target="_blank" >- Best Places to Eat in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Shippagan%2C+NB" target="_blank" >- Best Places to Go Shopping in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Shippagan-Hotels.d6353612.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/shippagan/nb" target="_blank" >- Best Things to do with the Kids in Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/shippagan/" target="_blank" >- Local News for Shippagan, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/shippagan" target="_blank" >- Weather in Shippagan, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Memramcook, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7710602-Activities-Memramcook_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/memramcook/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Memramcook%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Memramcook" target="_blank" rel="nofollow noopener">- Public Transportation Options in Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g7710602-d10446894-Memramcook_Visitor_Information_Centre-Memramcook_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/memramcook-nb/" target="_blank" rel="nofollow noopener">- Local News for Memramcook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/memramcook" target="_blank" rel="nofollow noopener">- Weather in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7710602-Activities-Memramcook_New_Brunswick.html" target="_blank" >- Best Attractions in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/memramcook/" target="_blank" >- Best Places to Eat in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Memramcook%2C+NB" target="_blank" >- Best Places to Go Shopping in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Memramcook" target="_blank" >- Public Transportation Options in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g7710602-d10446894-Memramcook_Visitor_Information_Centre-Memramcook_New_Brunswick.html" target="_blank" >- Best Places to Stay in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/memramcook-nb/" target="_blank" >- Local News for Memramcook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/memramcook" target="_blank" >- Weather in Memramcook, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

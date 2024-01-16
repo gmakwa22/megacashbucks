@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Innisfail, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g681240-Activities-Innisfail_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g681240-Innisfail_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g681240-Activities-c26-Innisfail_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/innisfail_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g681240-Innisfail_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g681240-Activities-zft11306-Innisfail_Alberta.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.mountainviewtoday.ca/innisfail-news" target="_blank" rel="nofollow noopener">- Local News for Innisfail, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/innisfail" target="_blank" rel="nofollow noopener">- Weather in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g681240-Activities-Innisfail_Alberta.html" target="_blank" >- Best Attractions in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g681240-Innisfail_Alberta.html" target="_blank" >- Best Places to Eat in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g681240-Activities-c26-Innisfail_Alberta.html" target="_blank" >- Best Places to Go Shopping in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/innisfail_bus_routes.htm" target="_blank" >- Public Transportation Options in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g681240-Innisfail_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g681240-Activities-zft11306-Innisfail_Alberta.html" target="_blank" >- Best Things to do with the Kids in Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.mountainviewtoday.ca/innisfail-news" target="_blank" >- Local News for Innisfail, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/innisfail" target="_blank" >- Weather in Innisfail, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Nigadoo, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7709941-Nigadoo_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Nigadoo" target="_blank" rel="nofollow noopener">- Best Places to Eat in Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Nigadoo%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Nigadoo/Moncton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7709941-Nigadoo_New_Brunswick-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7709941-Nigadoo_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://atlantic.ctvnews.ca/" target="_blank" rel="nofollow noopener">- Local News for Nigadoo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/nigadoo" target="_blank" rel="nofollow noopener">- Weather in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7709941-Nigadoo_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Nigadoo" target="_blank" >- Best Places to Eat in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Nigadoo%2C+NB" target="_blank" >- Best Places to Go Shopping in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Nigadoo/Moncton" target="_blank" >- Public Transportation Options in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7709941-Nigadoo_New_Brunswick-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7709941-Nigadoo_New_Brunswick-Vacations.html" target="_blank" >- Best Things to do with the Kids in Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://atlantic.ctvnews.ca/" target="_blank" >- Local News for Nigadoo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/nigadoo" target="_blank" >- Weather in Nigadoo, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

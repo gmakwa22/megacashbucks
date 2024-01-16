@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Edmundston, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182168-Activities-Edmundston_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Edmundston" target="_blank" rel="nofollow noopener">- Best Places to Eat in Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/new-brunswick/edmundston" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/edmundston" target="_blank" rel="nofollow noopener">- Public Transportation Options in Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/edmundston.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/edmundston-new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/edmundston/" target="_blank" rel="nofollow noopener">- Local News for Edmundston, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-32_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182168-Activities-Edmundston_New_Brunswick.html" target="_blank" >- Best Attractions in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Edmundston" target="_blank" >- Best Places to Eat in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/new-brunswick/edmundston" target="_blank" >- Best Places to Go Shopping in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/edmundston" target="_blank" >- Public Transportation Options in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/edmundston.html" target="_blank" >- Best Places to Stay in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/edmundston-new-brunswick" target="_blank" >- Best Things to do with the Kids in Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/edmundston/" target="_blank" >- Local News for Edmundston, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-32_metric_e.html" target="_blank" >- Weather in Edmundston, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

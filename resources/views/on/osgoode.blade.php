@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Osgoode, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6652993-Activities-Osgoode_Ottawa_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Kars+-+Osgoode%2C+Ottawa%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Eat in Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Osgoode%2C+Ottawa%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Osgoode" target="_blank" rel="nofollow noopener">- Public Transportation Options in Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6652993-Osgoode_Ottawa_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/ottawa/osgoode/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/on/osgoode/news/" target="_blank" rel="nofollow noopener">- Local News for Osgoode, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/osgoode" target="_blank" rel="nofollow noopener">- Weather in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6652993-Activities-Osgoode_Ottawa_Ontario.html" target="_blank" >- Best Attractions in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Kars+-+Osgoode%2C+Ottawa%2C+ON" target="_blank" >- Best Places to Eat in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Osgoode%2C+Ottawa%2C+ON" target="_blank" >- Best Places to Go Shopping in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Osgoode" target="_blank" >- Public Transportation Options in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6652993-Osgoode_Ottawa_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/ottawa/osgoode/" target="_blank" >- Best Things to do with the Kids in Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/on/osgoode/news/" target="_blank" >- Local News for Osgoode, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/osgoode" target="_blank" >- Weather in Osgoode, Ontario</a></li>
 					</ul>
       </div>
      </div>

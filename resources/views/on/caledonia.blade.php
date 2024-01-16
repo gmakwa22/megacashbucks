@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Caledonia, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMIy-qP0MzN8wIVkgByCh1G1QrLEAAYASAAEgKnrfD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g676142-Caledonia_Haldimand_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.caledonia-ontario.com/shop" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=publictransport&find_loc=Caledonia%2C+ON" target="_blank" rel="nofollow noopener">- Public Transportation Options in Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=caledonia-ca-VIMcJOAMVsj6nePgVgYXOQS392919664795%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-20102777875%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=d2dcdcae4fc8748f235161bd9a869efa;city=-561987;redirected=1;redirected_from_city=1;source=city&" target="_blank" rel="nofollow noopener">- Best Places to Stay in Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g676142-Activities-zft11306-Caledonia_Haldimand_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/caledonia/" target="_blank" rel="nofollow noopener">- Local News for Caledonia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/caledonia" target="_blank" rel="nofollow noopener">- Weather in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMIy-qP0MzN8wIVkgByCh1G1QrLEAAYASAAEgKnrfD_BwE" target="_blank" >- Best Attractions in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g676142-Caledonia_Haldimand_Ontario.html" target="_blank" >- Best Places to Eat in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.caledonia-ontario.com/shop" target="_blank" >- Best Places to Go Shopping in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=publictransport&find_loc=Caledonia%2C+ON" target="_blank" >- Public Transportation Options in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=caledonia-ca-VIMcJOAMVsj6nePgVgYXOQS392919664795%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-20102777875%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=d2dcdcae4fc8748f235161bd9a869efa;city=-561987;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g676142-Activities-zft11306-Caledonia_Haldimand_Ontario.html" target="_blank" >- Best Things to do with the Kids in Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/caledonia/" target="_blank" >- Local News for Caledonia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/caledonia" target="_blank" >- Weather in Caledonia, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Osoyoos, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/attractions/" target="_blank" rel="nofollow noopener">- Best Attractions in Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.watermarkbeachresort.com/osoyoos/osoyoos-restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/route-overview?route=40" target="_blank" rel="nofollow noopener">- Public Transportation Options in Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/hotels-resorts/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/for-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.timeschronicle.ca/" target="_blank" rel="nofollow noopener">- Local News for Osoyoos, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-69_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/attractions/" target="_blank" >- Best Attractions in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.watermarkbeachresort.com/osoyoos/osoyoos-restaurants/" target="_blank" >- Best Places to Eat in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/shopping/" target="_blank" >- Best Places to Go Shopping in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/route-overview?route=40" target="_blank" >- Public Transportation Options in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/hotels-resorts/" target="_blank" >- Best Places to Stay in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.destinationosoyoos.com/listing-category/for-kids/" target="_blank" >- Best Things to do with the Kids in Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.timeschronicle.ca/" target="_blank" >- Local News for Osoyoos, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-69_metric_e.html" target="_blank" >- Weather in Osoyoos, British Columbia</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kenora, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181749-Activities-Kenora_Kenora_District_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/kenora/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitsunsetcountry.com/shopping-in-kenora-ontario-canada" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Winnipeg/Kenora" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kenora.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181749-Activities-zft11306-Kenora_Kenora_District_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.kenoraminerandnews.com/category/news/" target="_blank" rel="nofollow noopener">- Local News for Kenora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-96_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181749-Activities-Kenora_Kenora_District_Ontario.html" target="_blank" >- Best Attractions in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/kenora/" target="_blank" >- Best Places to Eat in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitsunsetcountry.com/shopping-in-kenora-ontario-canada" target="_blank" >- Best Places to Go Shopping in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Winnipeg/Kenora" target="_blank" >- Public Transportation Options in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kenora.html" target="_blank" >- Best Places to Stay in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181749-Activities-zft11306-Kenora_Kenora_District_Ontario.html" target="_blank" >- Best Things to do with the Kids in Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.kenoraminerandnews.com/category/news/" target="_blank" >- Local News for Kenora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-96_metric_e.html" target="_blank" >- Weather in Kenora, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Weyburn, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499391-Activities-Weyburn_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/weyburn/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/weyburn/shops/shopping-mall/city-centre-mall" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.goticketo.com/bus/regina,saskatchewan/weyburn,saskatchewan/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499391-Weyburn_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499391-Activities-Weyburn_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.sasktoday.ca/south/weyburn-review" target="_blank" rel="nofollow noopener">- Local News for Weyburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-31_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499391-Activities-Weyburn_Saskatchewan.html" target="_blank" >- Best Attractions in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/weyburn/" target="_blank" >- Best Places to Eat in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/weyburn/shops/shopping-mall/city-centre-mall" target="_blank" >- Best Places to Go Shopping in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.goticketo.com/bus/regina,saskatchewan/weyburn,saskatchewan/" target="_blank" >- Public Transportation Options in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499391-Weyburn_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499391-Activities-Weyburn_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.sasktoday.ca/south/weyburn-review" target="_blank" >- Local News for Weyburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-31_metric_e.html" target="_blank" >- Weather in Weyburn, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

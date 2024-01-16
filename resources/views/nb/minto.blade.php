@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Minto, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g15047329-Minto_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/minto/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://minto-nb.findstorenearme.ca/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Minto-NB-Canada/Fredericton" target="_blank" rel="nofollow noopener">- Public Transportation Options in Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/minto-new-brunswick-canada" target="_blank" rel="nofollow noopener">- Best Places to Stay in Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/minto-new-brunswick/" target="_blank" rel="nofollow noopener">- Local News for Minto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/minto" target="_blank" rel="nofollow noopener">- Weather in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g15047329-Minto_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/minto/" target="_blank" >- Best Places to Eat in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://minto-nb.findstorenearme.ca/" target="_blank" >- Best Places to Go Shopping in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Minto-NB-Canada/Fredericton" target="_blank" >- Public Transportation Options in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/minto-new-brunswick-canada" target="_blank" >- Best Places to Stay in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/minto-new-brunswick/" target="_blank" >- Local News for Minto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/minto" target="_blank" >- Weather in Minto, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

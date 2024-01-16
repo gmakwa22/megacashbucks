@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Colborne, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-Colborne_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-colborne/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/top-5-shopping-in-colborne-colborne-668591" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.portcolborne.ca/en/living-here/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-colborne.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-zft11306-Colborne_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.cramahenow.com/?cat=3" target="_blank" rel="nofollow noopener">- Local News for Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/colborne" target="_blank" rel="nofollow noopener">- Weather in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-Colborne_Ontario.html" target="_blank" >- Best Attractions in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-colborne/" target="_blank" >- Best Places to Eat in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/top-5-shopping-in-colborne-colborne-668591" target="_blank" >- Best Places to Go Shopping in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.portcolborne.ca/en/living-here/transit.aspx" target="_blank" >- Public Transportation Options in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-colborne.html" target="_blank" >- Best Places to Stay in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-zft11306-Colborne_Ontario.html" target="_blank" >- Best Things to do with the Kids in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.cramahenow.com/?cat=3" target="_blank" >- Local News for Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/colborne" target="_blank" >- Weather in Colborne, Ontario</a></li>
 					</ul>
       </div>
      </div>

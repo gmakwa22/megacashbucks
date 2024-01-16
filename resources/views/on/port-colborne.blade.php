@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Port Colborne, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.portcolborne.ca/en/recreation-and-leisure/things-to-do.aspx" target="_blank" rel="nofollow noopener">- Best Attractions in Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-colborne/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499288-Activities-c26-Port_Colborne_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Colborne" target="_blank" rel="nofollow noopener">- Public Transportation Options in Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-colborne.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/port-colborne/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagarathisweek.com/portcolborne-on/" target="_blank" rel="nofollow noopener">- Local News for Port Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-colborne" target="_blank" rel="nofollow noopener">- Weather in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.portcolborne.ca/en/recreation-and-leisure/things-to-do.aspx" target="_blank" >- Best Attractions in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-colborne/" target="_blank" >- Best Places to Eat in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499288-Activities-c26-Port_Colborne_Ontario.html" target="_blank" >- Best Places to Go Shopping in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Colborne" target="_blank" >- Public Transportation Options in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-colborne.html" target="_blank" >- Best Places to Stay in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/niagara/port-colborne/" target="_blank" >- Best Things to do with the Kids in Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagarathisweek.com/portcolborne-on/" target="_blank" >- Local News for Port Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-colborne" target="_blank" >- Weather in Port Colborne, Ontario</a></li>
 					</ul>
       </div>
      </div>

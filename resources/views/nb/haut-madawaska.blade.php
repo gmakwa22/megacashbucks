@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Haut-Madawaska, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://haut-madawaska.com/en/visitors/sites-attractions" target="_blank" rel="nofollow noopener">- Best Attractions in Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://haut-madawaska.com/en/visitors/accommodations-restaurants" target="_blank" rel="nofollow noopener">- Best Places to Eat in Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://haut-madawaska.com/en/business-people/business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://haut-madawaska.com/en/visitors/accommodations-restaurants" target="_blank" rel="nofollow noopener">- Best Places to Stay in Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://haut-madawaska.com/en/citizens/community-life" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://haut-madawaska.com/en" target="_blank" rel="nofollow noopener">- Local News for Haut-Madawaska, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/madawaska" target="_blank" rel="nofollow noopener">- Weather in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://haut-madawaska.com/en/visitors/sites-attractions" target="_blank" >- Best Attractions in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://haut-madawaska.com/en/visitors/accommodations-restaurants" target="_blank" >- Best Places to Eat in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://haut-madawaska.com/en/business-people/business-directory" target="_blank" >- Best Places to Go Shopping in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://haut-madawaska.com/en/visitors/accommodations-restaurants" target="_blank" >- Best Places to Stay in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://haut-madawaska.com/en/citizens/community-life" target="_blank" >- Best Things to do with the Kids in Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://haut-madawaska.com/en" target="_blank" >- Local News for Haut-Madawaska, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/madawaska" target="_blank" >- Weather in Haut-Madawaska, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

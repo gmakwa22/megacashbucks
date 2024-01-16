@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bobcaygeon, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.northumberlandtourism.com/en/fresh-fall-road-trips.aspx?gclid=EAIaIQobChMIkITCkrfN8wIVjyCtBh2PRAZ9EAAYASAAEgL6FfD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g796988-Bobcaygeon_Kawartha_Lakes_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/arts-cultural-experiences/shopping?gclid=EAIaIQobChMI5Ya3rrfN8wIV1R-tBh2BQwmEEAAYASAAEgLuTfD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.kawarthalakes.ca/en/living-here/out-of-town-and-connecting-transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ihg.com/hotels/us/en/reservation?fromRedirect=true&qSrt=sAV&qIta=99504300&icdv=99504300&setPMCookies=true&dp=true&gclid=EAIaIQobChMIuu3rwrfN8wIVKSCtBh2TCgOlEAAYAiAAEgIrsvD_BwE&cm_mmc=PDSEA-_-G|F-AMER|FS-USA|H-AMER|HS-USA|6C|NBS|EXM|CORE-IHG&srb_u=1" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca?gclid=EAIaIQobChMI64Sp0rfN8wIVaB-tBh3GeQDrEAAYASAAEgIzN_D_BwE" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://thestarfish.ca/journal?gclid=EAIaIQobChMIopi15LfN8wIV3h-tBh1Z2AyYEAAYAiAAEgJdZ_D_BwE" target="_blank" rel="nofollow noopener">- Local News for Bobcaygeon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/bobcaygeon" target="_blank" rel="nofollow noopener">- Weather in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.northumberlandtourism.com/en/fresh-fall-road-trips.aspx?gclid=EAIaIQobChMIkITCkrfN8wIVjyCtBh2PRAZ9EAAYASAAEgL6FfD_BwE" target="_blank" >- Best Attractions in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g796988-Bobcaygeon_Kawartha_Lakes_Ontario.html" target="_blank" >- Best Places to Eat in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/arts-cultural-experiences/shopping?gclid=EAIaIQobChMI5Ya3rrfN8wIV1R-tBh2BQwmEEAAYASAAEgLuTfD_BwE" target="_blank" >- Best Places to Go Shopping in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.kawarthalakes.ca/en/living-here/out-of-town-and-connecting-transit.aspx" target="_blank" >- Public Transportation Options in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ihg.com/hotels/us/en/reservation?fromRedirect=true&qSrt=sAV&qIta=99504300&icdv=99504300&setPMCookies=true&dp=true&gclid=EAIaIQobChMIuu3rwrfN8wIVKSCtBh2TCgOlEAAYAiAAEgIrsvD_BwE&cm_mmc=PDSEA-_-G|F-AMER|FS-USA|H-AMER|HS-USA|6C|NBS|EXM|CORE-IHG&srb_u=1" target="_blank" >- Best Places to Stay in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca?gclid=EAIaIQobChMI64Sp0rfN8wIVaB-tBh3GeQDrEAAYASAAEgIzN_D_BwE" target="_blank" >- Best Things to do with the Kids in Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://thestarfish.ca/journal?gclid=EAIaIQobChMIopi15LfN8wIV3h-tBh1Z2AyYEAAYAiAAEgJdZ_D_BwE" target="_blank" >- Local News for Bobcaygeon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/bobcaygeon" target="_blank" >- Weather in Bobcaygeon, Ontario</a></li>
 					</ul>
       </div>
      </div>

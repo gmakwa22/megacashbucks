@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Colchester, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.travelocity.ca/Things-To-Do-In-Colchester.d3000408287.Travel-Guide-Activities" target="_blank" rel="nofollow noopener">- Best Attractions in Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2327565-Colchester_Essex_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984015-Activities-c26-t144-Essex_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tourismessex.ca/en/stay/transportation.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/colchester.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/50-things-summer-windsor-essex-county/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://windsorstar.com/tag/colchester/" target="_blank" rel="nofollow noopener">- Local News for Colchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/colchester" target="_blank" rel="nofollow noopener">- Weather in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.travelocity.ca/Things-To-Do-In-Colchester.d3000408287.Travel-Guide-Activities" target="_blank" >- Best Attractions in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2327565-Colchester_Essex_Ontario.html" target="_blank" >- Best Places to Eat in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984015-Activities-c26-t144-Essex_Ontario.html" target="_blank" >- Best Places to Go Shopping in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tourismessex.ca/en/stay/transportation.aspx" target="_blank" >- Public Transportation Options in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/colchester.html" target="_blank" >- Best Places to Stay in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/50-things-summer-windsor-essex-county/" target="_blank" >- Best Things to do with the Kids in Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://windsorstar.com/tag/colchester/" target="_blank" >- Local News for Colchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/colchester" target="_blank" >- Weather in Colchester, Ontario</a></li>
 					</ul>
       </div>
      </div>

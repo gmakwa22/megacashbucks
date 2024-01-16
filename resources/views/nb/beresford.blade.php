@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Beresford, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismchaleur.ca/en/stories/top-6-things-to-do-in-beresford-summer-2021" target="_blank" rel="nofollow noopener">- Best Attractions in Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Beresford-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/beresford-new-brunswick/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.hotelplanner.com/Hotels/52933-in-Beresford-NB.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/nb/beresford/news/" target="_blank" rel="nofollow noopener">- Local News for Beresford, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/beresford" target="_blank" rel="nofollow noopener">- Weather in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tourismchaleur.ca/en/stories/top-6-things-to-do-in-beresford-summer-2021" target="_blank" >- Best Attractions in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Beresford-New-Brunswick" target="_blank" >- Best Places to Eat in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/beresford-new-brunswick/shopping/" target="_blank" >- Best Places to Go Shopping in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.hotelplanner.com/Hotels/52933-in-Beresford-NB.html" target="_blank" >- Best Places to Stay in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" >- Best Things to do with the Kids in Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/nb/beresford/news/" target="_blank" >- Local News for Beresford, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/beresford" target="_blank" >- Weather in Beresford, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Plaster Rock, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4413461-Plaster_Rock_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4413461-Plaster_Rock_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Plaster+Rock%2C+NB+E7G" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4413461-Plaster_Rock_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/plaster-rock/" target="_blank" rel="nofollow noopener">- Local News for Plaster Rock, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/plaster-rock" target="_blank" rel="nofollow noopener">- Weather in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4413461-Plaster_Rock_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4413461-Plaster_Rock_New_Brunswick.html" target="_blank" >- Best Places to Eat in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Plaster+Rock%2C+NB+E7G" target="_blank" >- Best Places to Go Shopping in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4413461-Plaster_Rock_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/plaster-rock/" target="_blank" >- Local News for Plaster Rock, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/plaster-rock" target="_blank" >- Weather in Plaster Rock, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

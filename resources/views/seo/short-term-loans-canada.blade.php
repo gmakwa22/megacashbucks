@@ -39,7 +39,7 @@ Competitive Rates
 </h3>
 <p class="text text-justify">
 	There are no restrictions on how you use your short-term loan proceeds. The best manager of your financial situation is you, after all! Most people tend to use their short-term emergency loans to pay unexpected bills, like car repairs, home repairs, appliance repairs or replacements, and so forth. Still others use our loans as a cash flow management tool, to allow them to pay bills on time until their next pay check or government benefits check arrives. Still others like to use a personal loan from <a href="{{$privurl}}" target="_blank" rel="noopener">{{$privname}}</a> to pay for a vacation, buying new home furnishings, or buying holiday presents for their children. Whatever your needs, a loan from Pay Day allows you to manage your finances as you see fit, on your own terms.<br>
-	If you like to see what is the right amount that you should borrow as a short-term loan, take a look at our <a href="/loan-calculator" target="_blank" rel="noopener">payday loan calculator</a>.
+	If you like to see what is the right amount that you should borrow as a short-term loan, take a look at our  payday loan calculator .
 </p>
 <h3 class="small-title" style="color:#b2752d;">
 	Bad Credit is OK at Pay Day

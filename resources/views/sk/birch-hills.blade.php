@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Birch Hills, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g8323164-Activities-Birch_Hills_Saskatchewan.html Hills/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" rel="nofollow noopener">- Best Attractions in Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Birch+Hills%2C+SK+S0J+0G0 Hills-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Birch+Hills+SK Hillslakelouise.com/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Birch_Hills_Landing-Edmonton_AB-site_147196493-1342 Hills.ca/150/Getting-Around-Birch Hills" target="_blank" rel="nofollow noopener">- Public Transportation Options in Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g8323164-Birch_Hills_Saskatchewan-Hotels.html Hillslakelouise.com/accommodation" target="_blank" rel="nofollow noopener">- Best Places to Stay in Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/birch-hills/sk/caves Hills-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/birch-hills/ Hills" target="_blank" rel="nofollow noopener">- Local News for Birch Hills, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/birch-hills Hills" target="_blank" rel="nofollow noopener">- Weather in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g8323164-Activities-Birch_Hills_Saskatchewan.html Hills/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" >- Best Attractions in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Birch+Hills%2C+SK+S0J+0G0 Hills-Saskatchewan" target="_blank" >- Best Places to Eat in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Birch+Hills+SK Hillslakelouise.com/shopping" target="_blank" >- Best Places to Go Shopping in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Birch_Hills_Landing-Edmonton_AB-site_147196493-1342 Hills.ca/150/Getting-Around-Birch Hills" target="_blank" >- Public Transportation Options in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g8323164-Birch_Hills_Saskatchewan-Hotels.html Hillslakelouise.com/accommodation" target="_blank" >- Best Places to Stay in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/birch-hills/sk/caves Hills-with-kids/" target="_blank" >- Best Things to do with the Kids in Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/birch-hills/ Hills" target="_blank" >- Local News for Birch Hills, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/birch-hills Hills" target="_blank" >- Weather in Birch Hills, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

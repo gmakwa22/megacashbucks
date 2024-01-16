@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Olds, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181798-Activities-Olds_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181798-Olds_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://everythingolds.ca/local_listings_category/specialty-shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.olds.ca/accessible-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181798-Olds_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://everythingolds.ca/explore-olds/things-to-do/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/olds-alberta/" target="_blank" rel="nofollow noopener">- Local News for Olds, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/olds" target="_blank" rel="nofollow noopener">- Weather in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181798-Activities-Olds_Alberta.html" target="_blank" >- Best Attractions in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181798-Olds_Alberta.html" target="_blank" >- Best Places to Eat in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://everythingolds.ca/local_listings_category/specialty-shopping/" target="_blank" >- Best Places to Go Shopping in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.olds.ca/accessible-transportation" target="_blank" >- Public Transportation Options in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181798-Olds_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://everythingolds.ca/explore-olds/things-to-do/" target="_blank" >- Best Things to do with the Kids in Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/olds-alberta/" target="_blank" >- Local News for Olds, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/olds" target="_blank" >- Weather in Olds, Alberta</a></li>
 					</ul>
       </div>
      </div>

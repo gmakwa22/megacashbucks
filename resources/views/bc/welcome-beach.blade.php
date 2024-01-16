@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Welcome Beach, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g664811-Activities-Halfmoon_Bay_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g664811-d657299-Rockwater_Secret_Cove_Resort-Halfmoon_Bay_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499146-Activities-c26-Sechelt_Sunshine_Coast_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Welcome_Beach-Greater_Vancouver_BC-site_153399889-145" target="_blank" rel="nofollow noopener">- Public Transportation Options in Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/halfmoon-bay.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/45-things-to-do-with-kids-in-sunshine-coast/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.coastreporter.net/" target="_blank" rel="nofollow noopener">- Local News for Welcome Beach, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/welcome-beach" target="_blank" rel="nofollow noopener">- Weather in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g664811-Activities-Halfmoon_Bay_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Attractions in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g664811-d657299-Rockwater_Secret_Cove_Resort-Halfmoon_Bay_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Places to Eat in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499146-Activities-c26-Sechelt_Sunshine_Coast_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Welcome_Beach-Greater_Vancouver_BC-site_153399889-145" target="_blank" >- Public Transportation Options in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/halfmoon-bay.html" target="_blank" >- Best Places to Stay in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/45-things-to-do-with-kids-in-sunshine-coast/" target="_blank" >- Best Things to do with the Kids in Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.coastreporter.net/" target="_blank" >- Local News for Welcome Beach, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/welcome-beach" target="_blank" >- Weather in Welcome Beach, British Columbia</a></li>
 					</ul>
       </div>
      </div>

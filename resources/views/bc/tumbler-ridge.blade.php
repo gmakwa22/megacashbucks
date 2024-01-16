@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tumbler Ridge, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://tumblerridge.ca/Things-To-Do/Activities" target="_blank" rel="nofollow noopener">- Best Attractions in Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1116737-Tumbler_Ridge_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://investtumblerridge.ca/business-directory/wpbdp_category/retail/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/dawson-creek" target="_blank" rel="nofollow noopener">- Public Transportation Options in Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/tumbler-ridge.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://rachelmatthews.ca/what-to-do-with-kids-in-tumbler-ridge-bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://tumblerridgelines.com/" target="_blank" rel="nofollow noopener">- Local News for Tumbler Ridge, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/tumbler-ridge" target="_blank" rel="nofollow noopener">- Weather in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://tumblerridge.ca/Things-To-Do/Activities" target="_blank" >- Best Attractions in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1116737-Tumbler_Ridge_British_Columbia.html" target="_blank" >- Best Places to Eat in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://investtumblerridge.ca/business-directory/wpbdp_category/retail/" target="_blank" >- Best Places to Go Shopping in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/dawson-creek" target="_blank" >- Public Transportation Options in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/tumbler-ridge.html" target="_blank" >- Best Places to Stay in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://rachelmatthews.ca/what-to-do-with-kids-in-tumbler-ridge-bc" target="_blank" >- Best Things to do with the Kids in Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://tumblerridgelines.com/" target="_blank" >- Local News for Tumbler Ridge, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/tumbler-ridge" target="_blank" >- Weather in Tumbler Ridge, British Columbia</a></li>
 					</ul>
       </div>
      </div>

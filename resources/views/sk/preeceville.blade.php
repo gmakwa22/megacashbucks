@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Preeceville, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7931630-Activities-Preeceville_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Preeceville" target="_blank" rel="nofollow noopener">- Best Places to Eat in Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/preeceville/shops" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Preeceville/Regina" target="_blank" rel="nofollow noopener">- Public Transportation Options in Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.townofpreeceville.ca/accommodations.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.sasktoday.ca/central/preeceville-progress" target="_blank" rel="nofollow noopener">- Local News for Preeceville, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/preeceville" target="_blank" rel="nofollow noopener">- Weather in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7931630-Activities-Preeceville_Saskatchewan.html" target="_blank" >- Best Attractions in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Preeceville" target="_blank" >- Best Places to Eat in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/preeceville/shops" target="_blank" >- Best Places to Go Shopping in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Preeceville/Regina" target="_blank" >- Public Transportation Options in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.townofpreeceville.ca/accommodations.html" target="_blank" >- Best Places to Stay in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.sasktoday.ca/central/preeceville-progress" target="_blank" >- Local News for Preeceville, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/preeceville" target="_blank" >- Weather in Preeceville, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

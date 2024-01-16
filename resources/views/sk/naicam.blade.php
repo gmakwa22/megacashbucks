@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Naicam, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g815489-Activities-Naicam_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Naicam" target="_blank" rel="nofollow noopener">- Best Places to Eat in Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofnaicam.ca/local-government/business-directory/wpbdp_category/retail-shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g815489-Naicam_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/naicam-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Naicam, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/naicam" target="_blank" rel="nofollow noopener">- Weather in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g815489-Activities-Naicam_Saskatchewan.html" target="_blank" >- Best Attractions in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Naicam" target="_blank" >- Best Places to Eat in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofnaicam.ca/local-government/business-directory/wpbdp_category/retail-shopping/" target="_blank" >- Best Places to Go Shopping in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g815489-Naicam_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/naicam-saskatchewan/" target="_blank" >- Local News for Naicam, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/naicam" target="_blank" >- Weather in Naicam, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

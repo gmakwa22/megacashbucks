@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Thamesford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1555522-Thamesford_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Thamesford" target="_blank" rel="nofollow noopener">- Best Places to Eat in Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=grocery&find_loc=Thamesford%2C+ON+N0M" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/London-ON-Canada/Thamesford" target="_blank" rel="nofollow noopener">- Public Transportation Options in Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1555522-Thamesford_Ontario-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/oxford/thamesford/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/thamesford/" target="_blank" rel="nofollow noopener">- Local News for Thamesford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/thamesford" target="_blank" rel="nofollow noopener">- Weather in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1555522-Thamesford_Ontario-Vacations.html" target="_blank" >- Best Attractions in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Thamesford" target="_blank" >- Best Places to Eat in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=grocery&find_loc=Thamesford%2C+ON+N0M" target="_blank" >- Best Places to Go Shopping in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/London-ON-Canada/Thamesford" target="_blank" >- Public Transportation Options in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1555522-Thamesford_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/oxford/thamesford/" target="_blank" >- Best Things to do with the Kids in Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/thamesford/" target="_blank" >- Local News for Thamesford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/thamesford" target="_blank" >- Weather in Thamesford, Ontario</a></li>
 					</ul>
       </div>
      </div>

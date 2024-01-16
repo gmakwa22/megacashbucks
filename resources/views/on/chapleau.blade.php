@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chapleau, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1211849-Activities-Chapleau_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1211849-Chapleau_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tiendeo.ca/Shops/chapleau/grocery" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.chapleau.ca/en/townshipservices/publictransit.asp" target="_blank" rel="nofollow noopener">- Public Transportation Options in Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de169786/chapleau-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1211849-Activities-Chapleau_Northeastern_Ontario_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="https://issuu.com/chapleauexpress" target="_blank" rel="nofollow noopener">- Local News for Chapleau, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chapleau" target="_blank" rel="nofollow noopener">- Weather in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1211849-Activities-Chapleau_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1211849-Chapleau_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tiendeo.ca/Shops/chapleau/grocery" target="_blank" >- Best Places to Go Shopping in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.chapleau.ca/en/townshipservices/publictransit.asp" target="_blank" >- Public Transportation Options in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de169786/chapleau-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1211849-Activities-Chapleau_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://issuu.com/chapleauexpress" target="_blank" >- Local News for Chapleau, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chapleau" target="_blank" >- Weather in Chapleau, Ontario</a></li>
 					</ul>
       </div>
      </div>

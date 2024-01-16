@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about White Rock, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://explorewhiterock.com/things-to-do/" target="_blank" rel="nofollow noopener">- Best Attractions in White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://explorewhiterock.com/eat-drink/fine-dining/" target="_blank" rel="nofollow noopener">- Best Places to Eat in White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://explorewhiterock.com/things-to-do/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.translink.ca/schedules-and-maps/transit-system-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/white-rock.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://explorewhiterock.com/kids-guide-for-white-rock/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.peacearchnews.com/local-news/" target="_blank" rel="nofollow noopener">- Local News for White Rock, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/white-rock" target="_blank" rel="nofollow noopener">- Weather in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://explorewhiterock.com/things-to-do/" target="_blank" >- Best Attractions in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://explorewhiterock.com/eat-drink/fine-dining/" target="_blank" >- Best Places to Eat in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://explorewhiterock.com/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.translink.ca/schedules-and-maps/transit-system-maps" target="_blank" >- Public Transportation Options in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/white-rock.html" target="_blank" >- Best Places to Stay in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://explorewhiterock.com/kids-guide-for-white-rock/" target="_blank" >- Best Things to do with the Kids in White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.peacearchnews.com/local-news/" target="_blank" >- Local News for White Rock, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/white-rock" target="_blank" >- Weather in White Rock, British Columbia</a></li>
 					</ul>
       </div>
      </div>

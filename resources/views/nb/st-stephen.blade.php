@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Stephen, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499185-Activities-St_Stephen_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/st-stephen/" target="_blank" rel="nofollow noopener">- Best Places to Eat in St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Saint+Stephen%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/St-Stephen/New-Brunswick" target="_blank" rel="nofollow noopener">- Public Transportation Options in St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499185-St_Stephen_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499185-Activities-zft11306-St_Stephen_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-stephen/" target="_blank" rel="nofollow noopener">- Local News for St. Stephen, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-35_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499185-Activities-St_Stephen_New_Brunswick.html" target="_blank" >- Best Attractions in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/st-stephen/" target="_blank" >- Best Places to Eat in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Saint+Stephen%2C+NB" target="_blank" >- Best Places to Go Shopping in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/St-Stephen/New-Brunswick" target="_blank" >- Public Transportation Options in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499185-St_Stephen_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499185-Activities-zft11306-St_Stephen_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-stephen/" target="_blank" >- Local News for St. Stephen, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-35_metric_e.html" target="_blank" >- Weather in St. Stephen, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

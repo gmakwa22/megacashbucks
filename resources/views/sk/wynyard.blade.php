@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wynyard, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1131894-Activities-Wynyard_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Wynyard-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.townofwynyard.com/business-category/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.townofwynyard.com/business-category/accommodations/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/wynyard-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Wynyard, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-19_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1131894-Activities-Wynyard_Saskatchewan.html" target="_blank" >- Best Attractions in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Wynyard-Saskatchewan" target="_blank" >- Best Places to Eat in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.townofwynyard.com/business-category/shopping/" target="_blank" >- Best Places to Go Shopping in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.townofwynyard.com/business-category/accommodations/" target="_blank" >- Best Places to Stay in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/wynyard-saskatchewan/" target="_blank" >- Local News for Wynyard, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-19_metric_e.html" target="_blank" >- Weather in Wynyard, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

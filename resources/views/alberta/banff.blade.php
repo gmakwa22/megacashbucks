@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Banff, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.viator.com/Banff/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" rel="nofollow noopener">- Best Attractions in Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-banff-alberta" target="_blank" rel="nofollow noopener">- Best Places to Eat in Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.banfflakelouise.com/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://banff.ca/150/Getting-Around-Banff" target="_blank" rel="nofollow noopener">- Public Transportation Options in Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.banfflakelouise.com/accommodation" target="_blank" rel="nofollow noopener">- Best Places to Stay in Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://flashpackingfamily.com/best-things-to-do-in-banff-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.rmotoday.com/banff" target="_blank" rel="nofollow noopener">- Local News for Banff, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/banff" target="_blank" rel="nofollow noopener">- Weather in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.viator.com/Banff/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" >- Best Attractions in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-banff-alberta" target="_blank" >- Best Places to Eat in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.banfflakelouise.com/shopping" target="_blank" >- Best Places to Go Shopping in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://banff.ca/150/Getting-Around-Banff" target="_blank" >- Public Transportation Options in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.banfflakelouise.com/accommodation" target="_blank" >- Best Places to Stay in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://flashpackingfamily.com/best-things-to-do-in-banff-with-kids/" target="_blank" >- Best Things to do with the Kids in Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.rmotoday.com/banff" target="_blank" >- Local News for Banff, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/banff" target="_blank" >- Weather in Banff, Alberta</a></li>
 					</ul>
       </div>
      </div>

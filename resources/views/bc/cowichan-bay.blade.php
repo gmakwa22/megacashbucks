@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cowichan Bay, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g184844-Activities-Cowichan_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g184844-Cowichan_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cowichanbay.com/businesses/categories/shop/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g184844-Cowichan_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/cowichan-bay-british-columbia" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cowichanvalleycitizen.com/" target="_blank" rel="nofollow noopener">- Local News for Cowichan Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/cowichan-bay" target="_blank" rel="nofollow noopener">- Weather in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g184844-Activities-Cowichan_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g184844-Cowichan_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cowichanbay.com/businesses/categories/shop/" target="_blank" >- Best Places to Go Shopping in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps" target="_blank" >- Public Transportation Options in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g184844-Cowichan_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/cowichan-bay-british-columbia" target="_blank" >- Best Things to do with the Kids in Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cowichanvalleycitizen.com/" target="_blank" >- Local News for Cowichan Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/cowichan-bay" target="_blank" >- Weather in Cowichan Bay, British Columbia</a></li>
 					</ul>
       </div>
      </div>

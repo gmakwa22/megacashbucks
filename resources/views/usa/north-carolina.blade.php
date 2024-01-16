@@ -42,14 +42,14 @@
       <div class="col-lg-6 sm-mt-30">
 			<h3>Helpful information about Illinois</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.attractionsofamerica.com/attractions/illinois.php" target="_blank" rel="nofollow noopener">- Best Attractions in Illinois</a></li>
-		<li class="list-group-item"><a href="https://www.onlyinyourstate.com/illinois/steakhouses-in-il/" target="_blank" rel="nofollow noopener">- Best Steakhouse in Illinois</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28934-Activities-c26-Illinois.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Illinois</a></li>
-		<li class="list-group-item"><a href="https://idot.illinois.gov/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Illinois</a></li>
-		<li class="list-group-item"><a href="https://www.booking.com/region/us/illinois.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Illinois</a></li>
-		<li class="list-group-item"><a href="https://familydestinationsguide.com/fun-things-to-do-in-illinois-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Illinois</a></li>
-		<li class="list-group-item"><a href="https://www.foxnews.com/category/us/us-regions/midwest/illinois" target="_blank" rel="nofollow noopener">- Local News for Illinois</a></li>
-		<li class="list-group-item"><a href="https://www.weather.gov/ilx/" target="_blank" rel="nofollow noopener">- Weather in Illinois</a></li>
+					<li class="list-group-item"><a href="https://www.attractionsofamerica.com/attractions/illinois.php" target="_blank" >- Best Attractions in Illinois</a></li>
+		<li class="list-group-item"><a href="https://www.onlyinyourstate.com/illinois/steakhouses-in-il/" target="_blank" >- Best Steakhouse in Illinois</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28934-Activities-c26-Illinois.html" target="_blank" >- Best Places to Go Shopping in Illinois</a></li>
+		<li class="list-group-item"><a href="https://idot.illinois.gov/" target="_blank" >- Public Transportation Options in Illinois</a></li>
+		<li class="list-group-item"><a href="https://www.booking.com/region/us/illinois.html" target="_blank" >- Best Places to Stay in Illinois</a></li>
+		<li class="list-group-item"><a href="https://familydestinationsguide.com/fun-things-to-do-in-illinois-with-kids/" target="_blank" >- Best Things to do with the Kids in Illinois</a></li>
+		<li class="list-group-item"><a href="https://www.foxnews.com/category/us/us-regions/midwest/illinois" target="_blank" >- Local News for Illinois</a></li>
+		<li class="list-group-item"><a href="https://www.weather.gov/ilx/" target="_blank" >- Weather in Illinois</a></li>
 					</ul>
       </div>
      </div>

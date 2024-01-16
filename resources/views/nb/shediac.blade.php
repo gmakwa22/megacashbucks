@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Shediac, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154961-Activities-Shediac_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Shediac" target="_blank" rel="nofollow noopener">- Best Places to Eat in Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154961-Activities-c26-Shediac_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Shediac" target="_blank" rel="nofollow noopener">- Public Transportation Options in Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/shediac-province-of-new-brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154961-Activities-zft11306-Shediac_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/shediac/" target="_blank" rel="nofollow noopener">- Local News for Shediac, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-17_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154961-Activities-Shediac_New_Brunswick.html" target="_blank" >- Best Attractions in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Shediac" target="_blank" >- Best Places to Eat in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154961-Activities-c26-Shediac_New_Brunswick.html" target="_blank" >- Best Places to Go Shopping in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Shediac" target="_blank" >- Public Transportation Options in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/shediac-province-of-new-brunswick.html" target="_blank" >- Best Places to Stay in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154961-Activities-zft11306-Shediac_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/shediac/" target="_blank" >- Local News for Shediac, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-17_metric_e.html" target="_blank" >- Weather in Shediac, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

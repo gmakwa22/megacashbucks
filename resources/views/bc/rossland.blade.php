@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rossland, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://tourismrossland.com/" target="_blank" rel="nofollow noopener">- Best Attractions in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://tourismrossland.com/category/dining-and-nightlife/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://tourismrossland.com/category/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=46" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="http://tourismrossland.com/category/accommodations/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/rossland/bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.rosslandnews.com/" target="_blank" rel="nofollow noopener">- Local News for Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/rossland" target="_blank" rel="nofollow noopener">- Weather in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://tourismrossland.com/" target="_blank" >- Best Attractions in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://tourismrossland.com/category/dining-and-nightlife/" target="_blank" >- Best Places to Eat in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://tourismrossland.com/category/shopping/" target="_blank" >- Best Places to Go Shopping in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=46" target="_blank" >- Public Transportation Options in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="http://tourismrossland.com/category/accommodations/" target="_blank" >- Best Places to Stay in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/rossland/bc" target="_blank" >- Best Things to do with the Kids in Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.rosslandnews.com/" target="_blank" >- Local News for Rossland, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/rossland" target="_blank" >- Weather in Rossland, British Columbia</a></li>
 					</ul>
       </div>
      </div>

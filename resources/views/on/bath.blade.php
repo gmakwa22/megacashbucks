@@ -53,14 +53,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bath, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1651179-Activities-Bath_Lennox_and_Addington_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1651179-Bath_Lennox_and_Addington_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g1651179-Activities-c26-Bath_Lennox_and_Addington_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.loyalist.ca/en/living-in-loyalist/transit-service.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.trivago.ca/?themeId=1&iPathId=39998&sem_keyword=hotel%20bath&sem_creativeid=486780254122&sem_matchtype=p&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=&sem_param1=&sem_param2=&sem_campaignid=11857607967&sem_adgroupid=114728492865&sem_targetid=kwd-114578804&sem_location=9001551&cipc=sem&cip=1071900386&gclid=EAIaIQobChMI3oD1oaLN8wIVExwrCh1jrQ3AEAAYASAAEgJu8fD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://lilalovesorganics.com/products/organic-oils-bath-bomb-minis-bubblegum-20-pack" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.facebook.com/groups/BathOntarioNews/" target="_blank" rel="nofollow noopener">- Local News for Bath, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/Ontario/Bath" target="_blank" rel="nofollow noopener">- Weather in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1651179-Activities-Bath_Lennox_and_Addington_County_Ontario.html" target="_blank" >- Best Attractions in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1651179-Bath_Lennox_and_Addington_County_Ontario.html" target="_blank" >- Best Places to Eat in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g1651179-Activities-c26-Bath_Lennox_and_Addington_County_Ontario.html" target="_blank" >- Best Places to Go Shopping in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.loyalist.ca/en/living-in-loyalist/transit-service.aspx" target="_blank" >- Public Transportation Options in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.trivago.ca/?themeId=1&iPathId=39998&sem_keyword=hotel%20bath&sem_creativeid=486780254122&sem_matchtype=p&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=&sem_param1=&sem_param2=&sem_campaignid=11857607967&sem_adgroupid=114728492865&sem_targetid=kwd-114578804&sem_location=9001551&cipc=sem&cip=1071900386&gclid=EAIaIQobChMI3oD1oaLN8wIVExwrCh1jrQ3AEAAYASAAEgJu8fD_BwE" target="_blank" >- Best Places to Stay in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://lilalovesorganics.com/products/organic-oils-bath-bomb-minis-bubblegum-20-pack" target="_blank" >- Best Things to do with the Kids in Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/groups/BathOntarioNews/" target="_blank" >- Local News for Bath, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/Ontario/Bath" target="_blank" >- Weather in Bath, Ontario</a></li>
 					</ul>
       </div>
      </div>

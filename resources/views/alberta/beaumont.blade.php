@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Beaumont, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1034759-Beaumont_Alberta-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1034759-Beaumont_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.beaumontchamber.ca/list/ql/shopping-specialty-retail-23" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.beaumont.ab.ca/476/Beaumont-Transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1034759-Beaumont_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.beaumont.ab.ca/235/Children-Families" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.thebeaumontnews.ca/category/news/" target="_blank" rel="nofollow noopener">- Local News for Beaumont, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.accuweather.com/en/ca/beaumont/t4x/weather-forecast/52476" target="_blank" rel="nofollow noopener">- Weather in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1034759-Beaumont_Alberta-Vacations.html" target="_blank" >- Best Attractions in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1034759-Beaumont_Alberta.html" target="_blank" >- Best Places to Eat in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.beaumontchamber.ca/list/ql/shopping-specialty-retail-23" target="_blank" >- Best Places to Go Shopping in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.beaumont.ab.ca/476/Beaumont-Transit" target="_blank" >- Public Transportation Options in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1034759-Beaumont_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.beaumont.ab.ca/235/Children-Families" target="_blank" >- Best Things to do with the Kids in Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.thebeaumontnews.ca/category/news/" target="_blank" >- Local News for Beaumont, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.accuweather.com/en/ca/beaumont/t4x/weather-forecast/52476" target="_blank" >- Weather in Beaumont, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wallaceburg, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499301-Activities-Wallaceburg_Chatham_Kent_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/wallaceburg/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Wallaceburg%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Chatham-ON-Canada/Wallaceburg" target="_blank" rel="nofollow noopener">- Public Transportation Options in Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wallaceburg.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/wallaceburg/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.wallaceburgcourierpress.com/category/news/" target="_blank" rel="nofollow noopener">- Local News for Wallaceburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/wallaceburg" target="_blank" rel="nofollow noopener">- Weather in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499301-Activities-Wallaceburg_Chatham_Kent_Ontario.html" target="_blank" >- Best Attractions in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/wallaceburg/" target="_blank" >- Best Places to Eat in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Wallaceburg%2C+ON" target="_blank" >- Best Places to Go Shopping in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Chatham-ON-Canada/Wallaceburg" target="_blank" >- Public Transportation Options in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wallaceburg.html" target="_blank" >- Best Places to Stay in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/wallaceburg/" target="_blank" >- Best Things to do with the Kids in Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wallaceburgcourierpress.com/category/news/" target="_blank" >- Local News for Wallaceburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/wallaceburg" target="_blank" >- Weather in Wallaceburg, Ontario</a></li>
 					</ul>
       </div>
      </div>

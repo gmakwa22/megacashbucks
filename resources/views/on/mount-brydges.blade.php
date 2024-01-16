@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Mount Brydges, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3149439-Activities-Mount_Brydges_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Mount-Brydges" target="_blank" rel="nofollow noopener">- Best Places to Eat in Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3149439-Activities-c26-Mount_Brydges_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Mount-Brydges/London-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3149439-Mount_Brydges_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/mount-brydges/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/mount-brydges/" target="_blank" rel="nofollow noopener">- Local News for Mount Brydges, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mount-brydges" target="_blank" rel="nofollow noopener">- Weather in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3149439-Activities-Mount_Brydges_Ontario.html" target="_blank" >- Best Attractions in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Mount-Brydges" target="_blank" >- Best Places to Eat in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3149439-Activities-c26-Mount_Brydges_Ontario.html" target="_blank" >- Best Places to Go Shopping in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Mount-Brydges/London-ON-Canada" target="_blank" >- Public Transportation Options in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3149439-Mount_Brydges_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/mount-brydges/" target="_blank" >- Best Things to do with the Kids in Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/mount-brydges/" target="_blank" >- Local News for Mount Brydges, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mount-brydges" target="_blank" >- Weather in Mount Brydges, Ontario</a></li>
 					</ul>
       </div>
      </div>

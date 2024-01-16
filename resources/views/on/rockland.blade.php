@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rockland, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984024-Activities-Rockland_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984024-Rockland_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Clarence-Rockland%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Rockland-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/rockland.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/rockland/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ottawacitizen.com/tag/rockland/" target="_blank" rel="nofollow noopener">- Local News for Rockland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/rockland" target="_blank" rel="nofollow noopener">- Weather in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984024-Activities-Rockland_Ontario.html" target="_blank" >- Best Attractions in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984024-Rockland_Ontario.html" target="_blank" >- Best Places to Eat in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Clarence-Rockland%2C+ON" target="_blank" >- Best Places to Go Shopping in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Rockland-ON-Canada" target="_blank" >- Public Transportation Options in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/rockland.html" target="_blank" >- Best Places to Stay in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/prescott-and-russell/rockland/" target="_blank" >- Best Things to do with the Kids in Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ottawacitizen.com/tag/rockland/" target="_blank" >- Local News for Rockland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/rockland" target="_blank" >- Weather in Rockland, Ontario</a></li>
 					</ul>
       </div>
      </div>

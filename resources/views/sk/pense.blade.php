@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Pense, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g8621753-Pense_Saskatchewan-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8621753-Pense_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.pense.ca/p/local-business-directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g8621753-Pense_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/pense/" target="_blank" rel="nofollow noopener">- Local News for Pense, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/pense" target="_blank" rel="nofollow noopener">- Weather in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g8621753-Pense_Saskatchewan-Vacations.html" target="_blank" >- Best Attractions in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8621753-Pense_Saskatchewan.html" target="_blank" >- Best Places to Eat in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.pense.ca/p/local-business-directory" target="_blank" >- Best Places to Go Shopping in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g8621753-Pense_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/pense/" target="_blank" >- Local News for Pense, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/pense" target="_blank" >- Weather in Pense, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

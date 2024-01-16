@@ -8,7 +8,7 @@
 				<p>Whether it's a car repair, doctors' bills, ODSP Payday Loans, or tuition fees, everyone needs a little help from time to time. A quick cash loan from Mega Cash Bucks gives you easy access to the funds you need.</p>
 				<p>We want to make online loans as hassle-free as possible. Check out our Education Center to get all the details you need, from budgeting tips to financial term definitions.
 			  </p>
-				<p>To learn more about how we differenciate ourselves from other lenders, go see our <a href="/best-lender-loans-canada">comparison chart</a>.</p>
+				<p>To learn more about how we differenciate ourselves from other lenders, go see our comparison chart.</p>
 
 			</div>
 		</div>

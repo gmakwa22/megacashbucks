@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Iroquois Falls, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://www.iroquoisfalls.com/what-to-do" target="_blank" rel="nofollow noopener">- Best Attractions in Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Iroquois-Falls" target="_blank" rel="nofollow noopener">- Best Places to Eat in Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Iroquois+falls/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Hamilton-ON-Canada/Iroquois-Falls" target="_blank" rel="nofollow noopener">- Public Transportation Options in Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/iroquois-falls.en-gb.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.iroquoisfalls.com/recreational-activities-clubs-organizations" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/on/iroquois-falls/news/" target="_blank" rel="nofollow noopener">- Local News for Iroquois Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/iroquois-falls" target="_blank" rel="nofollow noopener">- Weather in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.iroquoisfalls.com/what-to-do" target="_blank" >- Best Attractions in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Iroquois-Falls" target="_blank" >- Best Places to Eat in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Iroquois+falls/80014000.html" target="_blank" >- Best Places to Go Shopping in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Hamilton-ON-Canada/Iroquois-Falls" target="_blank" >- Public Transportation Options in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/iroquois-falls.en-gb.html" target="_blank" >- Best Places to Stay in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.iroquoisfalls.com/recreational-activities-clubs-organizations" target="_blank" >- Best Things to do with the Kids in Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/on/iroquois-falls/news/" target="_blank" >- Local News for Iroquois Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/iroquois-falls" target="_blank" >- Weather in Iroquois Falls, Ontario</a></li>
 					</ul>
       </div>
      </div>

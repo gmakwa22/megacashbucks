@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Delhi, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/top-5-things-to-do-in-delhi-canada-130701" target="_blank" rel="nofollow noopener">- Best Attractions in Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Delhi-Ontario-m9623" target="_blank" rel="nofollow noopener">- Best Places to Eat in Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940855-Activities-c26-Delhi_Norfolk_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.norfolkcounty.ca/transit/schedulesandmaps/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/delhi.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/delhi-ontario" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.norfolktoday.ca/local-news/" target="_blank" rel="nofollow noopener">- Local News for Delhi, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/delhi" target="_blank" rel="nofollow noopener">- Weather in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/top-5-things-to-do-in-delhi-canada-130701" target="_blank" >- Best Attractions in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Delhi-Ontario-m9623" target="_blank" >- Best Places to Eat in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940855-Activities-c26-Delhi_Norfolk_County_Ontario.html" target="_blank" >- Best Places to Go Shopping in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.norfolkcounty.ca/transit/schedulesandmaps/" target="_blank" >- Public Transportation Options in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/delhi.html" target="_blank" >- Best Places to Stay in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/delhi-ontario" target="_blank" >- Best Things to do with the Kids in Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.norfolktoday.ca/local-news/" target="_blank" >- Local News for Delhi, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/delhi" target="_blank" >- Weather in Delhi, Ontario</a></li>
 					</ul>
       </div>
      </div>

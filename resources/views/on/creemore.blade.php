@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Creemore, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ladystravelblog.com/2019/07/22/reasons-to-visit-creemore-and-tops-things-to-do-in-creemore/" target="_blank" rel="nofollow noopener">- Best Attractions in Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/great-location-Creemore-m9642" target="_blank" rel="nofollow noopener">- Best Places to Eat in Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://creemore.com/business/web-category/business/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Creemore" target="_blank" rel="nofollow noopener">- Public Transportation Options in Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/creemore.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/creemore/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://creemore.com/" target="_blank" rel="nofollow noopener">- Local News for Creemore, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/creemore" target="_blank" rel="nofollow noopener">- Weather in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ladystravelblog.com/2019/07/22/reasons-to-visit-creemore-and-tops-things-to-do-in-creemore/" target="_blank" >- Best Attractions in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/great-location-Creemore-m9642" target="_blank" >- Best Places to Eat in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://creemore.com/business/web-category/business/shopping/" target="_blank" >- Best Places to Go Shopping in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Creemore" target="_blank" >- Public Transportation Options in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/creemore.html" target="_blank" >- Best Places to Stay in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/creemore/" target="_blank" >- Best Things to do with the Kids in Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://creemore.com/" target="_blank" >- Local News for Creemore, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/creemore" target="_blank" >- Weather in Creemore, Ontario</a></li>
 					</ul>
       </div>
      </div>

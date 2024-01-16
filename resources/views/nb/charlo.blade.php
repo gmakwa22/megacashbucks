@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Charlo, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g678537-Activities-Charlo_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g678537-Charlo_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Charlo%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.viarail.ca/en/explore-our-destinations/stations/atlantic-canada/charlo" target="_blank" rel="nofollow noopener">- Public Transportation Options in Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de1643467/charlo-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://travelingcanucks.com/2021/07/things-to-do-in-new-brunswick-with-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://local.ca/nb/charlo/news/" target="_blank" rel="nofollow noopener">- Local News for Charlo, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-30_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g678537-Activities-Charlo_New_Brunswick.html" target="_blank" >- Best Attractions in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g678537-Charlo_New_Brunswick.html" target="_blank" >- Best Places to Eat in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Charlo%2C+NB" target="_blank" >- Best Places to Go Shopping in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.viarail.ca/en/explore-our-destinations/stations/atlantic-canada/charlo" target="_blank" >- Public Transportation Options in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de1643467/charlo-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://travelingcanucks.com/2021/07/things-to-do-in-new-brunswick-with-kids/" target="_blank" >- Best Things to do with the Kids in Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://local.ca/nb/charlo/news/" target="_blank" >- Local News for Charlo, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-30_metric_e.html" target="_blank" >- Weather in Charlo, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

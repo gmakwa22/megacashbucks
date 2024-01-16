@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sutton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678574-Activities-Sutton_Georgina_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g678574-Sutton_Georgina_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678574-Activities-c26-Sutton_Georgina_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Sutton-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.travelocity.ca/Sutton-Hotels.d55427.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/community/community-centres/location/ontario/york/sutton-west/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/sutton-ontario/" target="_blank" rel="nofollow noopener">- Local News for Sutton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sutton" target="_blank" rel="nofollow noopener">- Weather in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678574-Activities-Sutton_Georgina_Ontario.html" target="_blank" >- Best Attractions in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g678574-Sutton_Georgina_Ontario.html" target="_blank" >- Best Places to Eat in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g678574-Activities-c26-Sutton_Georgina_Ontario.html" target="_blank" >- Best Places to Go Shopping in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Sutton-ON-Canada" target="_blank" >- Public Transportation Options in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.travelocity.ca/Sutton-Hotels.d55427.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/community/community-centres/location/ontario/york/sutton-west/" target="_blank" >- Best Things to do with the Kids in Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sutton-ontario/" target="_blank" >- Local News for Sutton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sutton" target="_blank" >- Weather in Sutton, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -38,13 +38,13 @@
       <div class="col-lg-6 sm-mt-30">
 				  <h3>Helpful information about Halifax, NS</h3>
           <ul class="list-group">
-						<li class="list-group-item"><a href="https://www.halifax.ca/" target="_blank" rel="nofollow noopener">- Halifax Regional Municipality</a></li>
-						<li class="list-group-item"><a href="https://www.halifaxpubliclibraries.ca/" target="_blank" rel="nofollow noopener">- Libraries in Halifax</a></li>
-						<li class="list-group-item"><a href="https://www.huffingtonpost.ca/2017/01/30/best-restaurants-halifax_n_14253866.html" target="_blank" rel="nofollow noopener">- Best restaurants in Halifax</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154976-zfn5231-Halifax_Halifax_Regional_Municipality_Nova_Scotia-Hotels.html" target="_blank" rel="nofollow noopener">- The best Hotels in Halifax</a></li>
-						<li class="list-group-item"><a href="https://www.globeguide.ca/top-10-things-halifax-nova-scotia/" target="_blank" rel="nofollow noopener">- Best Things to do in Halifax</a></li>
-						<li class="list-group-item"><a href="https://www.halifaxtoday.ca/" target="_blank" rel="nofollow noopener">- News in Halifax</a></li>
-						<li class="list-group-item"><a href="https://weather.com/weather/today/l/44.65,-63.58?par=google" target="_blank" rel="nofollow noopener">- Weather in Halifax</a></li>
+						<li class="list-group-item"><a href="https://www.halifax.ca/" target="_blank" >- Halifax Regional Municipality</a></li>
+						<li class="list-group-item"><a href="https://www.halifaxpubliclibraries.ca/" target="_blank" >- Libraries in Halifax</a></li>
+						<li class="list-group-item"><a href="https://www.huffingtonpost.ca/2017/01/30/best-restaurants-halifax_n_14253866.html" target="_blank" >- Best restaurants in Halifax</a></li>
+						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154976-zfn5231-Halifax_Halifax_Regional_Municipality_Nova_Scotia-Hotels.html" target="_blank" >- The best Hotels in Halifax</a></li>
+						<li class="list-group-item"><a href="https://www.globeguide.ca/top-10-things-halifax-nova-scotia/" target="_blank" >- Best Things to do in Halifax</a></li>
+						<li class="list-group-item"><a href="https://www.halifaxtoday.ca/" target="_blank" >- News in Halifax</a></li>
+						<li class="list-group-item"><a href="https://weather.com/weather/today/l/44.65,-63.58?par=google" target="_blank" >- Weather in Halifax</a></li>
 		 			 </ul>
       </div>
      </div>

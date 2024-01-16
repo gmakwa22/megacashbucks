@@ -53,14 +53,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Beamsville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/regions?gclid=EAIaIQobChMIiLTZ16XN8wIVhRmtBh3bjgv7EAAYAiAAEgJoefD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2158792-Beamsville_Lincoln_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.downtownbenchbeamsville.com/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://lincoln.ca/lincoln-transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?regionId=6292848&locale=en_CA&siteid=4&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&SEMDTL=a111848848862.b1114449647119.g1kwd-27135677669.l1.e1c.m1EAIaIQobChMI5p_llqbN8wIVwT2tBh0o-Q6pEAAYASAAEgLDSfD_BwE.r1d8ad4ad70ff39b8b56fd8da961e6cdc37b66851293ccc40c45d49d788bff3990.c1cOFgKmbfZasGOzmQRsQyUg.j19001551.k1.d1486358341096.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&gclid=EAIaIQobChMI5p_llqbN8wIVwT2tBh0o-Q6pEAAYASAAEgLDSfD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Stay in Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/beamsville/on" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/beamsville/" target="_blank" rel="nofollow noopener">- Local News for Beamsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/beamsville" target="_blank" rel="nofollow noopener">- Weather in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/regions?gclid=EAIaIQobChMIiLTZ16XN8wIVhRmtBh3bjgv7EAAYAiAAEgJoefD_BwE" target="_blank" >- Best Attractions in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2158792-Beamsville_Lincoln_Ontario.html" target="_blank" >- Best Places to Eat in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.downtownbenchbeamsville.com/" target="_blank" >- Best Places to Go Shopping in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://lincoln.ca/lincoln-transit" target="_blank" >- Public Transportation Options in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?regionId=6292848&locale=en_CA&siteid=4&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&SEMDTL=a111848848862.b1114449647119.g1kwd-27135677669.l1.e1c.m1EAIaIQobChMI5p_llqbN8wIVwT2tBh0o-Q6pEAAYASAAEgLDSfD_BwE.r1d8ad4ad70ff39b8b56fd8da961e6cdc37b66851293ccc40c45d49d788bff3990.c1cOFgKmbfZasGOzmQRsQyUg.j19001551.k1.d1486358341096.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&gclid=EAIaIQobChMI5p_llqbN8wIVwT2tBh0o-Q6pEAAYASAAEgLDSfD_BwE" target="_blank" >- Best Places to Stay in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/beamsville/on" target="_blank" >- Best Things to do with the Kids in Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/beamsville/" target="_blank" >- Local News for Beamsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/beamsville" target="_blank" >- Weather in Beamsville, Ontario</a></li>
 					</ul>
       </div>
      </div>

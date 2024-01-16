@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Carnduff, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.facebook.com/places/Things-to-do-in-Carnduff-Saskatchewan/107170789322206/" target="_blank" rel="nofollow noopener">- Best Attractions in Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6026982-Carnduff_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://carnduff.ca/directory" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6026982-Carnduff_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.facebook.com/places/Things-to-do-in-Carnduff-Saskatchewan/107170789322206/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://carnduff.ca/news" target="_blank" rel="nofollow noopener">- Local News for Carnduff, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/carnduff" target="_blank" rel="nofollow noopener">- Weather in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/places/Things-to-do-in-Carnduff-Saskatchewan/107170789322206/" target="_blank" >- Best Attractions in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6026982-Carnduff_Saskatchewan.html" target="_blank" >- Best Places to Eat in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://carnduff.ca/directory" target="_blank" >- Best Places to Go Shopping in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6026982-Carnduff_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/places/Things-to-do-in-Carnduff-Saskatchewan/107170789322206/" target="_blank" >- Best Things to do with the Kids in Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://carnduff.ca/news" target="_blank" >- Local News for Carnduff, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/carnduff" target="_blank" >- Weather in Carnduff, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Morinville, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6657299-Activities-Morinville_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6657299-Morinville_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Morinville%2C+AB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.morinville.ca/en/living-here/roads-lanes-and-sidewalks.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10430022/morinville-alberta-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=kids_activities&find_loc=Morinville%2C+AB" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://morinvillenews.com/" target="_blank" rel="nofollow noopener">- Local News for Morinville, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/morinville" target="_blank" rel="nofollow noopener">- Weather in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6657299-Activities-Morinville_Alberta.html" target="_blank" >- Best Attractions in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6657299-Morinville_Alberta.html" target="_blank" >- Best Places to Eat in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Morinville%2C+AB" target="_blank" >- Best Places to Go Shopping in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.morinville.ca/en/living-here/roads-lanes-and-sidewalks.aspx" target="_blank" >- Public Transportation Options in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10430022/morinville-alberta-hotels-rooms/" target="_blank" >- Best Places to Stay in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=kids_activities&find_loc=Morinville%2C+AB" target="_blank" >- Best Things to do with the Kids in Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://morinvillenews.com/" target="_blank" >- Local News for Morinville, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/morinville" target="_blank" >- Weather in Morinville, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lac la Biche, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671274-Activities-Lac_La_Biche_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g671274-Lac_La_Biche_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://alberta.canadaspots.com/Lac la Biche/shops" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coldshot.ca/Lac la Biche/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181802-Lac la Biche_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://allevents.in/Lac la Biche-ab/kids" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.Lac la Bicheherald.com/category/news/local-news/" target="_blank" rel="nofollow noopener">- Local News for Lac la Biche, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/Lac la Biche" target="_blank" rel="nofollow noopener">- Weather in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671274-Activities-Lac_La_Biche_Alberta.html" target="_blank" >- Best Attractions in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g671274-Lac_La_Biche_Alberta.html" target="_blank" >- Best Places to Eat in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://alberta.canadaspots.com/Lac la Biche/shops" target="_blank" >- Best Places to Go Shopping in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.coldshot.ca/Lac la Biche/" target="_blank" >- Public Transportation Options in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181802-Lac la Biche_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://allevents.in/Lac la Biche-ab/kids" target="_blank" >- Best Things to do with the Kids in Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.Lac la Bicheherald.com/category/news/local-news/" target="_blank" >- Local News for Lac la Biche, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/Lac la Biche" target="_blank" >- Weather in Lac la Biche, Alberta</a></li>
 					</ul>
       </div>
      </div>

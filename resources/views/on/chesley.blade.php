@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chesley, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://explorethebruce.com/explore/summer-in-chesley-ontario/242/" target="_blank" rel="nofollow noopener">- Best Attractions in Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g775285-Chesley_Bruce_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chesley/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Chesley_at_Chester-Toronto_ON-stop_1908186-143" target="_blank" rel="nofollow noopener">- Public Transportation Options in Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de169706/chesley-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/bruce/chesley/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/chesley/" target="_blank" rel="nofollow noopener">- Local News for Chesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chesley" target="_blank" rel="nofollow noopener">- Weather in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://explorethebruce.com/explore/summer-in-chesley-ontario/242/" target="_blank" >- Best Attractions in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g775285-Chesley_Bruce_County_Ontario.html" target="_blank" >- Best Places to Eat in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chesley/80014000.html" target="_blank" >- Best Places to Go Shopping in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Chesley_at_Chester-Toronto_ON-stop_1908186-143" target="_blank" >- Public Transportation Options in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de169706/chesley-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/bruce/chesley/" target="_blank" >- Best Things to do with the Kids in Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/chesley/" target="_blank" >- Local News for Chesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chesley" target="_blank" >- Weather in Chesley, Ontario</a></li>
 					</ul>
       </div>
      </div>

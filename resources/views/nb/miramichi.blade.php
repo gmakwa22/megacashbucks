@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Miramichi, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-Miramichi_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Miramichi" target="_blank" rel="nofollow noopener">- Best Places to Eat in Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-c26-Miramichi_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://miramichitransit.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/miramichi-ca.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-zft11306-Miramichi_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/miramichi/" target="_blank" rel="nofollow noopener">- Local News for Miramichi, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-25_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-Miramichi_New_Brunswick.html" target="_blank" >- Best Attractions in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Miramichi" target="_blank" >- Best Places to Eat in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-c26-Miramichi_New_Brunswick.html" target="_blank" >- Best Places to Go Shopping in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://miramichitransit.ca/" target="_blank" >- Public Transportation Options in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/miramichi-ca.html" target="_blank" >- Best Places to Stay in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499181-Activities-zft11306-Miramichi_New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/miramichi/" target="_blank" >- Local News for Miramichi, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-25_metric_e.html" target="_blank" >- Weather in Miramichi, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

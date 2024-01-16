@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Port Elgin, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitportelgin.ca/things-to-do/attractions/" target="_blank" rel="nofollow noopener">- Best Attractions in Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499289-Port_Elgin_Bruce_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitportelgin.ca/where-to-shop" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Elgin" target="_blank" rel="nofollow noopener">- Public Transportation Options in Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-elgin.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitportelgin.ca/things-to-do/kids-activities/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shorelinebeacon.com/category/news/" target="_blank" rel="nofollow noopener">- Local News for Port Elgin, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-elgin" target="_blank" rel="nofollow noopener">- Weather in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitportelgin.ca/things-to-do/attractions/" target="_blank" >- Best Attractions in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499289-Port_Elgin_Bruce_County_Ontario.html" target="_blank" >- Best Places to Eat in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitportelgin.ca/where-to-shop" target="_blank" >- Best Places to Go Shopping in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Port-Elgin" target="_blank" >- Public Transportation Options in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-elgin.html" target="_blank" >- Best Places to Stay in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitportelgin.ca/things-to-do/kids-activities/" target="_blank" >- Best Things to do with the Kids in Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shorelinebeacon.com/category/news/" target="_blank" >- Local News for Port Elgin, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-elgin" target="_blank" >- Weather in Port Elgin, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Creston, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182195-Activities-Creston_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182195-Creston_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.crestonvalleybc.com/activities/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/creston-valley/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.crestonvalleybc.com/accommodation/hotels-motelsrentals" target="_blank" rel="nofollow noopener">- Best Places to Stay in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.crestonvalleykootenaylakeroute.com/blog/kid-friendly-summer-fun-creston-valley" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.crestonvalleyadvance.ca/" target="_blank" rel="nofollow noopener">- Local News for Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-26_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182195-Activities-Creston_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Attractions in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182195-Creston_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Places to Eat in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.crestonvalleybc.com/activities/shopping" target="_blank" >- Best Places to Go Shopping in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/creston-valley/home" target="_blank" >- Public Transportation Options in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.crestonvalleybc.com/accommodation/hotels-motelsrentals" target="_blank" >- Best Places to Stay in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.crestonvalleykootenaylakeroute.com/blog/kid-friendly-summer-fun-creston-valley" target="_blank" >- Best Things to do with the Kids in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.crestonvalleyadvance.ca/" target="_blank" >- Local News for Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-26_metric_e.html" target="_blank" >- Weather in Creston, British Columbia</a></li>
 					</ul>
       </div>
      </div>

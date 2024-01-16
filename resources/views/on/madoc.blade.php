@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Madoc, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635955-Activities-Madoc_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Madoc" target="_blank" rel="nofollow noopener">- Best Places to Eat in Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635955-Activities-c26-Madoc_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Madoc" target="_blank" rel="nofollow noopener">- Public Transportation Options in Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/madoc.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/madoc/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/madoc/" target="_blank" rel="nofollow noopener">- Local News for Madoc, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/madoc" target="_blank" rel="nofollow noopener">- Weather in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635955-Activities-Madoc_Ontario.html" target="_blank" >- Best Attractions in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Madoc" target="_blank" >- Best Places to Eat in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635955-Activities-c26-Madoc_Ontario.html" target="_blank" >- Best Places to Go Shopping in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Madoc" target="_blank" >- Public Transportation Options in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/madoc.html" target="_blank" >- Best Places to Stay in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/madoc/" target="_blank" >- Best Things to do with the Kids in Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/madoc/" target="_blank" >- Local News for Madoc, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/madoc" target="_blank" >- Weather in Madoc, Ontario</a></li>
 					</ul>
       </div>
      </div>

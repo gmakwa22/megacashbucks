@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tracadie, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g657681-Tracadie_Sheila_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Tracadie-Sheila" target="_blank" rel="nofollow noopener">- Best Places to Eat in Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Tracadie-Sheila%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regional-Municipality-of-Tracadie/New-Brunswick-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g657681-Tracadie_Sheila_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://allevents.in/tracadie-sheila/kids" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/tracadie-sheila-nb/" target="_blank" rel="nofollow noopener">- Local News for Tracadie, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-20_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g657681-Tracadie_Sheila_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Tracadie-Sheila" target="_blank" >- Best Places to Eat in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Tracadie-Sheila%2C+NB" target="_blank" >- Best Places to Go Shopping in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regional-Municipality-of-Tracadie/New-Brunswick-Canada" target="_blank" >- Public Transportation Options in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g657681-Tracadie_Sheila_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://allevents.in/tracadie-sheila/kids" target="_blank" >- Best Things to do with the Kids in Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/tracadie-sheila-nb/" target="_blank" >- Local News for Tracadie, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-20_metric_e.html" target="_blank" >- Weather in Tracadie, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

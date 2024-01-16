@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Unity, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/187/unity" target="_blank" rel="nofollow noopener">- Best Attractions in Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/great-service-Unity-Saskatchewan-m9643" target="_blank" rel="nofollow noopener">- Best Places to Eat in Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-unity-sk/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofunity.com/advantage/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1746143-Unity_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/unity-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Unity, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/unity" target="_blank" rel="nofollow noopener">- Weather in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/187/unity" target="_blank" >- Best Attractions in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/great-service-Unity-Saskatchewan-m9643" target="_blank" >- Best Places to Eat in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-unity-sk/" target="_blank" >- Best Places to Go Shopping in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofunity.com/advantage/transportation.html" target="_blank" >- Public Transportation Options in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1746143-Unity_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/unity-saskatchewan/" target="_blank" >- Local News for Unity, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/unity" target="_blank" >- Weather in Unity, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

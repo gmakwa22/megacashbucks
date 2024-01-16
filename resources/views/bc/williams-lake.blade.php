@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Williams Lake, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154925-Activities-Williams_Lake_Cariboo_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154925-Williams_Lake_Cariboo_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://downtownwilliamslake.com/directory/categories/specialty-shops" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/williams-lake/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/williams-lake.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/williams-lake/bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.wltribune.com/" target="_blank" rel="nofollow noopener">- Local News for Williams Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-76_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154925-Activities-Williams_Lake_Cariboo_British_Columbia.html" target="_blank" >- Best Attractions in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154925-Williams_Lake_Cariboo_British_Columbia.html" target="_blank" >- Best Places to Eat in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://downtownwilliamslake.com/directory/categories/specialty-shops" target="_blank" >- Best Places to Go Shopping in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/williams-lake/home" target="_blank" >- Public Transportation Options in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/williams-lake.html" target="_blank" >- Best Places to Stay in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/williams-lake/bc" target="_blank" >- Best Things to do with the Kids in Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.wltribune.com/" target="_blank" >- Local News for Williams Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-76_metric_e.html" target="_blank" >- Weather in Williams Lake, British Columbia</a></li>
 					</ul>
       </div>
      </div>

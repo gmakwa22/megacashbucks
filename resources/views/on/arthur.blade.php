@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Arthur, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6673879-Activities-Arthur_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6673879-Arthur_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10430100/arthur-ontario-hotels-rooms/?rffrid=sem.hcom.CA.google.003.00.04.s.kwrd%3Dc.433995110110.57526245494.1533330660..dsa-585528634937.9001551...EAIaIQobChMI3ZnemaDK8wIVYQnnCh377wgjEAAYASAAEgLbcPD_BwE.aw.ds&PSRC=G21&gclid=EAIaIQobChMI3ZnemaDK8wIVYQnnCh377wgjEAAYASAAEgLbcPD_BwE" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.Arthur.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11406879/Arthur-Ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="https://pbskids.org/arthur/activities" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="https://kdl.org/online-resources/?field_resource_category_tid=46&gclid=EAIaIQobChMIluL94aHK8wIV2B-tBh1CHASoEAAYASAAEgJ1E_D_BwE" target="_blank" rel="nofollow noopener">- Local News for Arthur, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/arthur" target="_blank" rel="nofollow noopener">- Weather in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6673879-Activities-Arthur_Ontario.html" target="_blank" >- Best Attractions in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6673879-Arthur_Ontario.html" target="_blank" >- Best Places to Eat in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10430100/arthur-ontario-hotels-rooms/?rffrid=sem.hcom.CA.google.003.00.04.s.kwrd%3Dc.433995110110.57526245494.1533330660..dsa-585528634937.9001551...EAIaIQobChMI3ZnemaDK8wIVYQnnCh377wgjEAAYASAAEgLbcPD_BwE.aw.ds&PSRC=G21&gclid=EAIaIQobChMI3ZnemaDK8wIVYQnnCh377wgjEAAYASAAEgLbcPD_BwE" target="_blank" >- Best Places to Go Shopping in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.Arthur.ca/" target="_blank" >- Public Transportation Options in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11406879/Arthur-Ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://pbskids.org/arthur/activities" target="_blank" >- Best Things to do with the Kids in Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://kdl.org/online-resources/?field_resource_category_tid=46&gclid=EAIaIQobChMIluL94aHK8wIV2B-tBh1CHASoEAAYASAAEgJ1E_D_BwE" target="_blank" >- Local News for Arthur, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/arthur" target="_blank" >- Weather in Arthur, Ontario</a></li>
 					</ul>
       </div>
      </div>

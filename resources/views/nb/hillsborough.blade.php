@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hillsborough, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/7-things-to-do-in-hillsborough-that-you-shouldn-t-miss-546081" target="_blank" rel="nofollow noopener">- Best Attractions in Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Hillsborough-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Hillsborough%2C+NB+E4H" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hillsborough-province-of-new-brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/hillsborough-new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hillsborough/" target="_blank" rel="nofollow noopener">- Local News for Hillsborough, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/hillsborough" target="_blank" rel="nofollow noopener">- Weather in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/7-things-to-do-in-hillsborough-that-you-shouldn-t-miss-546081" target="_blank" >- Best Attractions in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Hillsborough-New-Brunswick" target="_blank" >- Best Places to Eat in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Hillsborough%2C+NB+E4H" target="_blank" >- Best Places to Go Shopping in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hillsborough-province-of-new-brunswick.html" target="_blank" >- Best Places to Stay in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/hillsborough-new-brunswick" target="_blank" >- Best Things to do with the Kids in Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hillsborough/" target="_blank" >- Local News for Hillsborough, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/hillsborough" target="_blank" >- Weather in Hillsborough, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kamloops, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismkamloops.com/thingstodo/" target="_blank" rel="nofollow noopener">- Best Attractions in Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismkamloops.com/foodanddrink/restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismkamloops.com/thingstodo/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/kamloops/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismkamloops.com/stay/hotels-motels/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismkamloops.com/thingstodo/familyactivities/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.kamloopsthisweek.com/" target="_blank" rel="nofollow noopener">- Local News for Kamloops, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-45_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkamloops.com/thingstodo/" target="_blank" >- Best Attractions in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkamloops.com/foodanddrink/restaurants/" target="_blank" >- Best Places to Eat in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkamloops.com/thingstodo/shopping/" target="_blank" >- Best Places to Go Shopping in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/kamloops/home" target="_blank" >- Public Transportation Options in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkamloops.com/stay/hotels-motels/" target="_blank" >- Best Places to Stay in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkamloops.com/thingstodo/familyactivities/" target="_blank" >- Best Things to do with the Kids in Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.kamloopsthisweek.com/" target="_blank" >- Local News for Kamloops, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-45_metric_e.html" target="_blank" >- Weather in Kamloops, British Columbia</a></li>
 					</ul>
       </div>
      </div>

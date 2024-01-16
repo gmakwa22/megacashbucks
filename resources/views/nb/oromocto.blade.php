@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Oromocto, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g660789-Activities-Oromocto_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/oromocto/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.oromocto.ca/dining-amp-shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Oromocto/New-Brunswick-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de167829/oromocto-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/8-things-to-do-in-oromocto-that-you-shouldn-t-miss-129319" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/oromocto/" target="_blank" rel="nofollow noopener">- Local News for Oromocto, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-11_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g660789-Activities-Oromocto_New_Brunswick.html" target="_blank" >- Best Attractions in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/nb/oromocto/" target="_blank" >- Best Places to Eat in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.oromocto.ca/dining-amp-shopping" target="_blank" >- Best Places to Go Shopping in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Oromocto/New-Brunswick-Canada" target="_blank" >- Public Transportation Options in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de167829/oromocto-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/8-things-to-do-in-oromocto-that-you-shouldn-t-miss-129319" target="_blank" >- Best Things to do with the Kids in Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/oromocto/" target="_blank" >- Local News for Oromocto, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-11_metric_e.html" target="_blank" >- Weather in Oromocto, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

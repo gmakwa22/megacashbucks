@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about High Level, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499104-Activities-High_Level_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499104-High_Level_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.highlevel.ca/BusinessDirectoryii.aspx" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.highlevel.ca/221/Transportation" target="_blank" rel="nofollow noopener">- Public Transportation Options in High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499104-High_Level_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.highlevel.ca/facilities/facility/details/Supports-to-Early-Learning-and-Child-Car-28" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.highlevel.ca/" target="_blank" rel="nofollow noopener">- Local News for High Level, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/high-level" target="_blank" rel="nofollow noopener">- Weather in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499104-Activities-High_Level_Alberta.html" target="_blank" >- Best Attractions in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499104-High_Level_Alberta.html" target="_blank" >- Best Places to Eat in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highlevel.ca/BusinessDirectoryii.aspx" target="_blank" >- Best Places to Go Shopping in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highlevel.ca/221/Transportation" target="_blank" >- Public Transportation Options in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499104-High_Level_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highlevel.ca/facilities/facility/details/Supports-to-Early-Learning-and-Child-Car-28" target="_blank" >- Best Things to do with the Kids in High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highlevel.ca/" target="_blank" >- Local News for High Level, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/high-level" target="_blank" >- Weather in High Level, Alberta</a></li>
 					</ul>
       </div>
      </div>

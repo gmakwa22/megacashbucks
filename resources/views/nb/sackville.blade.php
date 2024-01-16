@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sackville, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g154959-Activities-Sackville_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154959-Sackville_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Sackville%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/sackville" target="_blank" rel="nofollow noopener">- Public Transportation Options in Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Sackville-Hotels.d9761.Travel-Guide-Hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/sackville/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/sackville-nb/" target="_blank" rel="nofollow noopener">- Local News for Sackville, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-15_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g154959-Activities-Sackville_New_Brunswick.html" target="_blank" >- Best Attractions in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154959-Sackville_New_Brunswick.html" target="_blank" >- Best Places to Eat in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Sackville%2C+NB" target="_blank" >- Best Places to Go Shopping in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://maritimebus.com/en/locations/bus-stops-new-brunswick/sackville" target="_blank" >- Public Transportation Options in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Sackville-Hotels.d9761.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/sackville/nb" target="_blank" >- Best Things to do with the Kids in Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sackville-nb/" target="_blank" >- Local News for Sackville, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/nb-15_metric_e.html" target="_blank" >- Weather in Sackville, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

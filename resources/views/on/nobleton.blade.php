@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Nobleton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1413404-Activities-Nobleton_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1413404-Nobleton_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Nobleton%2C+ON" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Nobleton-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/nobleton-on" target="_blank" rel="nofollow noopener">- Best Places to Stay in Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/york/nobleton/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/nobleton/" target="_blank" rel="nofollow noopener">- Local News for Nobleton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/nobleton" target="_blank" rel="nofollow noopener">- Weather in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1413404-Activities-Nobleton_Ontario.html" target="_blank" >- Best Attractions in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1413404-Nobleton_Ontario.html" target="_blank" >- Best Places to Eat in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Nobleton%2C+ON" target="_blank" >- Best Places to Go Shopping in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Nobleton-ON-Canada" target="_blank" >- Public Transportation Options in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/nobleton-on" target="_blank" >- Best Places to Stay in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/york/nobleton/" target="_blank" >- Best Things to do with the Kids in Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/nobleton/" target="_blank" >- Local News for Nobleton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/nobleton" target="_blank" >- Weather in Nobleton, Ontario</a></li>
 					</ul>
       </div>
      </div>

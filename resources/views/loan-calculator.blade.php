@@ -164,7 +164,7 @@ Our Code of Conduct commits us to aiding you in your goal to <a href="{{url('/re
 </section>
 <section id="beaver-tab" class="dark-blue">
 <div class="container">
-<p class="text-center text citation">There’s a reason  <b><a href="{{url('/why_use_us')}}">{{ $privname }}’s </a></b> customers choose us</p>
+<!-- <p class="text-center text citation">There’s a reason  <b><a href="{{url('/why_use_us')}}">{{ $privname }}’s </a></b> customers choose us</p> -->
 <br><br><br><br>
 </div>
 </section>

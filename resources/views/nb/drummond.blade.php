@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Drummond, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g154956-New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Drummond-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Drummond%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://transitfeeds.com/p/unitrans/301/latest/stop/22255" target="_blank" rel="nofollow noopener">- Public Transportation Options in Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g181731-d1740563-Reviews-Hotel_Motel_Drummond-Drummondville_Quebec.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://daubneysadrift.com/101-things-to-do-with-kids-this-summer-in-new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://atlantic.ctvnews.ca/worksafe-nb-issues-stop-work-order-after-fatal-accident-at-gravel-pit-1.2467327/comments-7.662561/comments-7.662561" target="_blank" rel="nofollow noopener">- Local News for Drummond, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/drummond" target="_blank" rel="nofollow noopener">- Weather in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g154956-New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Drummond-New-Brunswick" target="_blank" >- Best Places to Eat in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Drummond%2C+NB" target="_blank" >- Best Places to Go Shopping in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://transitfeeds.com/p/unitrans/301/latest/stop/22255" target="_blank" >- Public Transportation Options in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g181731-d1740563-Reviews-Hotel_Motel_Drummond-Drummondville_Quebec.html" target="_blank" >- Best Places to Stay in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://daubneysadrift.com/101-things-to-do-with-kids-this-summer-in-new-brunswick" target="_blank" >- Best Things to do with the Kids in Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://atlantic.ctvnews.ca/worksafe-nb-issues-stop-work-order-after-fatal-accident-at-gravel-pit-1.2467327/comments-7.662561/comments-7.662561" target="_blank" >- Local News for Drummond, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/drummond" target="_blank" >- Weather in Drummond, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

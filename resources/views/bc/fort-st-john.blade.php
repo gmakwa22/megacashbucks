@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort St. John, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181786-Activities-Fort_St_John_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181786-Fort_St_John_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Fort+St.+John%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/fort-st-john/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fort-saint-john.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://tourismfortstjohn.ca/what-to-do/for-kids/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.alaskahighwaynews.ca/fort-st-john" target="_blank" rel="nofollow noopener">- Local News for Fort St. John, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-78_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181786-Activities-Fort_St_John_British_Columbia.html" target="_blank" >- Best Attractions in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181786-Fort_St_John_British_Columbia.html" target="_blank" >- Best Places to Eat in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Fort+St.+John%2C+BC" target="_blank" >- Best Places to Go Shopping in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/fort-st-john/home" target="_blank" >- Public Transportation Options in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fort-saint-john.html" target="_blank" >- Best Places to Stay in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://tourismfortstjohn.ca/what-to-do/for-kids/" target="_blank" >- Best Things to do with the Kids in Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.alaskahighwaynews.ca/fort-st-john" target="_blank" >- Local News for Fort St. John, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-78_metric_e.html" target="_blank" >- Weather in Fort St. John, British Columbia</a></li>
 					</ul>
       </div>
      </div>

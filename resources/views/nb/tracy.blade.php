@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tracy, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://trip-suggest.com/canada/new-brunswick/tracy" target="_blank" rel="nofollow noopener">- Best Attractions in Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/restaurant-Tracy-New-Brunswick-t1" target="_blank" rel="nofollow noopener">- Best Places to Eat in Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://nicelocal.ca/new-brunswick/shops/the_tracy_store/reviews/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=1303005&Geo2=PR&Code2=13&SearchText=Tracy&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=1303005&TABID=1&type=0" target="_blank" rel="nofollow noopener">- Public Transportation Options in Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/tracy-canada" target="_blank" rel="nofollow noopener">- Best Places to Stay in Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-zft11306-New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/tracy/" target="_blank" rel="nofollow noopener">- Local News for Tracy, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/tracy" target="_blank" rel="nofollow noopener">- Weather in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://trip-suggest.com/canada/new-brunswick/tracy" target="_blank" >- Best Attractions in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/restaurant-Tracy-New-Brunswick-t1" target="_blank" >- Best Places to Eat in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://nicelocal.ca/new-brunswick/shops/the_tracy_store/reviews/" target="_blank" >- Best Places to Go Shopping in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=1303005&Geo2=PR&Code2=13&SearchText=Tracy&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=1303005&TABID=1&type=0" target="_blank" >- Public Transportation Options in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/tracy-canada" target="_blank" >- Best Places to Stay in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-zft11306-New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/tracy/" target="_blank" >- Local News for Tracy, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/tracy" target="_blank" >- Weather in Tracy, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

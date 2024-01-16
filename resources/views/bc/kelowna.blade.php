@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kelowna, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismkelowna.com/things-to-do/attractions/" target="_blank" rel="nofollow noopener">- Best Attractions in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismkelowna.com/eat-drink/restaurants/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismkelowna.com/things-to-do/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/kelowna/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kelowna.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/35-fun-things-kids-kelowna/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.kelownacapnews.com/" target="_blank" rel="nofollow noopener">- Local News for Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/kelowna" target="_blank" rel="nofollow noopener">- Weather in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkelowna.com/things-to-do/attractions/" target="_blank" >- Best Attractions in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkelowna.com/eat-drink/restaurants/" target="_blank" >- Best Places to Eat in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismkelowna.com/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/kelowna/home" target="_blank" >- Public Transportation Options in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kelowna.html" target="_blank" >- Best Places to Stay in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/35-fun-things-kids-kelowna/" target="_blank" >- Best Things to do with the Kids in Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.kelownacapnews.com/" target="_blank" >- Local News for Kelowna, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/kelowna" target="_blank" >- Weather in Kelowna, British Columbia</a></li>
 					</ul>
       </div>
      </div>

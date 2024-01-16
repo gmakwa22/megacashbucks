@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about McGregor, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2327563-McGregor_Essex_Ontario-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2327563-McGregor_Essex_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Mcgregor/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/London-ON-Canada/MacGregor-Point-Provincial-Park" target="_blank" rel="nofollow noopener">- Public Transportation Options in McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g499289-d3474451-Macgregor_Point_Provincial_Park-Port_Elgin_Bruce_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/essex/mcgregor/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/mcgregor/" target="_blank" rel="nofollow noopener">- Local News for McGregor, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mcgregor" target="_blank" rel="nofollow noopener">- Weather in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g2327563-McGregor_Essex_Ontario-Vacations.html" target="_blank" >- Best Attractions in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2327563-McGregor_Essex_Ontario.html" target="_blank" >- Best Places to Eat in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Mcgregor/80014000.html" target="_blank" >- Best Places to Go Shopping in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/London-ON-Canada/MacGregor-Point-Provincial-Park" target="_blank" >- Public Transportation Options in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g499289-d3474451-Macgregor_Point_Provincial_Park-Port_Elgin_Bruce_County_Ontario.html" target="_blank" >- Best Places to Stay in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/essex/mcgregor/" target="_blank" >- Best Things to do with the Kids in McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/mcgregor/" target="_blank" >- Local News for McGregor, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mcgregor" target="_blank" >- Weather in McGregor, Ontario</a></li>
 					</ul>
       </div>
      </div>

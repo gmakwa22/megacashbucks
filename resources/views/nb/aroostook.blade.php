@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Aroostook, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitaroostook.com/places/" target="_blank" rel="nofollow noopener">- Best Attractions in Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Aroostook" target="_blank" rel="nofollow noopener">- Best Places to Eat in Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://mapsus.net/CA/aroostook-centre-mall-58533" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.airbnb.ca/aroostook-canada/stays" target="_blank" rel="nofollow noopener">- Best Places to Stay in Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/nb/aroostook/news/" target="_blank" rel="nofollow noopener">- Local News for Aroostook, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/aroostook" target="_blank" rel="nofollow noopener">- Weather in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://visitaroostook.com/places/" target="_blank" >- Best Attractions in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Aroostook" target="_blank" >- Best Places to Eat in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://mapsus.net/CA/aroostook-centre-mall-58533" target="_blank" >- Best Places to Go Shopping in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.airbnb.ca/aroostook-canada/stays" target="_blank" >- Best Places to Stay in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/new-brunswick" target="_blank" >- Best Things to do with the Kids in Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/nb/aroostook/news/" target="_blank" >- Local News for Aroostook, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/aroostook" target="_blank" >- Weather in Aroostook, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

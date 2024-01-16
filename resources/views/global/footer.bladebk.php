@@ -27,7 +27,7 @@
 	<div class="col-sm-6 col-md-4 footer-left">
 		<h3>PAYDAY</h3>
 		<ul>
-		<li id="why"><a href="{{ url('/why_use_us' )}}" onClick="ga('send', 'event', 'footer', 'click', 'why use us');">What we offer</a></li>
+		<!-- <li id="why"><a href="{{ url('/why_use_us' )}}" onClick="ga('send', 'event', 'footer', 'click', 'why use us');">What we offer</a></li> -->
 		<li id="how"><a href="{{ url('/agent-list' )}}" onClick="ga('send', 'event', 'footer', 'click', 'how it works');">How it’s done</a></li>
 		<li><a href="/">Apply right now!</a></br></li>
 		</ul>
@@ -44,8 +44,8 @@
 {{--	<div class="col-sm-6 col-md-4 footer-left">
 		<h3>Resources</h3>
 		<ul>
-		<li id="best"><a href="{{url('/best-lender-loans-canada')}}">PayDay vs other lenders</a></li>
-		<li id="budg"><a href="{{ url('/loan-calculator' )}}" onClick="ga('send', 'event', 'footer', 'click', 'Loan Calculator');">Loan Calculator</a></li>
+		<!-- <li id="best"><a href="{{url('/best-lender-loans-canada')}}">PayDay vs other lenders</a></li> -->
+		<!-- <li id="budg"><a href="{{ url('/loan-calculator' )}}" onClick="ga('send', 'event', 'footer', 'click', 'Loan Calculator');">Loan Calculator</a></li> -->
 		<li id="key"><a href="{{ url('/key-terms' )}}" onClick="ga('send', 'event', 'footer', 'click', 'key terms');">Key Terms</a></li>
 		<!-- <li id="aff"><a href="https://blog.icash.ca/" target="_blank" rel="noopener" onClick="ga('send', 'event', 'footer', 'click', 'blog icash');">Blog</a></li> -->
 		</br></ul>

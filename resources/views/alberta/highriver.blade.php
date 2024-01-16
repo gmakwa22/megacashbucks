@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about High River, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499105-Activities-High_River_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499105-High_River_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://highriver.ca/markets-and-shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://highriver.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499105-High_River_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://calgaryplaygroundreview.com/high-river/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.highriveronline.com/news/local-news" target="_blank" rel="nofollow noopener">- Local News for High River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/ab-4_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499105-Activities-High_River_Alberta.html" target="_blank" >- Best Attractions in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499105-High_River_Alberta.html" target="_blank" >- Best Places to Eat in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://highriver.ca/markets-and-shopping/" target="_blank" >- Best Places to Go Shopping in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://highriver.ca/" target="_blank" >- Public Transportation Options in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499105-High_River_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://calgaryplaygroundreview.com/high-river/" target="_blank" >- Best Things to do with the Kids in High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highriveronline.com/news/local-news" target="_blank" >- Local News for High River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/ab-4_metric_e.html" target="_blank" >- Weather in High River, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Guelph, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitguelphwellington.ca/listings/activities" target="_blank" rel="nofollow noopener">- Best Attractions in Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154989-Guelph_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://downtownguelph.com/category/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://guelph.ca/living/getting-around/bus/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848871.b1114449663439.g1aud-1210701017419%3Akwd-307817788546.l1.e1c.m1EAIaIQobChMIqf3Ru8jK8wIVsx-tBh01iQ79EAAYASAAEgL2dvD_BwE.r1ac4048695d22df3994b9645c8833c04de15a44becaeaf6d113180d53fc6e04c5.c17lKa5RzY6C29Z2cH0kgXGQ.j19001551.k1.d1486432351323.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Guelph%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMIqf3Ru8jK8wIVsx-tBh01iQ79EAAYASAAEgL2dvD_BwE&locale=en_CA&regionId=8237&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank" rel="nofollow noopener">- Best Places to Stay in Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://activeparents.ca/10-things-to-do-with-kids-in-guelph/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.guelphtoday.com/" target="_blank" rel="nofollow noopener">- Local News for Guelph, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/guelph" target="_blank" rel="nofollow noopener">- Weather in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitguelphwellington.ca/listings/activities" target="_blank" >- Best Attractions in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154989-Guelph_Ontario.html" target="_blank" >- Best Places to Eat in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://downtownguelph.com/category/shopping/" target="_blank" >- Best Places to Go Shopping in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://guelph.ca/living/getting-around/bus/" target="_blank" >- Public Transportation Options in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848871.b1114449663439.g1aud-1210701017419%3Akwd-307817788546.l1.e1c.m1EAIaIQobChMIqf3Ru8jK8wIVsx-tBh01iQ79EAAYASAAEgL2dvD_BwE.r1ac4048695d22df3994b9645c8833c04de15a44becaeaf6d113180d53fc6e04c5.c17lKa5RzY6C29Z2cH0kgXGQ.j19001551.k1.d1486432351323.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Guelph%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMIqf3Ru8jK8wIVsx-tBh01iQ79EAAYASAAEgL2dvD_BwE&locale=en_CA&regionId=8237&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://activeparents.ca/10-things-to-do-with-kids-in-guelph/" target="_blank" >- Best Things to do with the Kids in Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.guelphtoday.com/" target="_blank" >- Local News for Guelph, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/guelph" target="_blank" >- Weather in Guelph, Ontario</a></li>
 					</ul>
       </div>
      </div>

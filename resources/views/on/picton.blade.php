@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Picton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g183797-Activities-Picton_Prince_Edward_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/picton/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.experiencepicton.com/Shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Picton-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/picton.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g183797-Activities-zft11306-Picton_Prince_Edward_County_Ontario.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.countyweeklynews.ca/category/news/" target="_blank" rel="nofollow noopener">- Local News for Picton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/picton" target="_blank" rel="nofollow noopener">- Weather in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g183797-Activities-Picton_Prince_Edward_County_Ontario.html" target="_blank" >- Best Attractions in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/picton/" target="_blank" >- Best Places to Eat in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.experiencepicton.com/Shopping" target="_blank" >- Best Places to Go Shopping in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Picton-ON-Canada" target="_blank" >- Public Transportation Options in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/picton.html" target="_blank" >- Best Places to Stay in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g183797-Activities-zft11306-Picton_Prince_Edward_County_Ontario.html" target="_blank" >- Best Things to do with the Kids in Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.countyweeklynews.ca/category/news/" target="_blank" >- Local News for Picton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/picton" target="_blank" >- Weather in Picton, Ontario</a></li>
 					</ul>
       </div>
      </div>

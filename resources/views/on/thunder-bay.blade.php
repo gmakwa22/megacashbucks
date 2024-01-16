@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Thunder Bay, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155017-Activities-Thunder_Bay_Thunder_Bay_District_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155017-Thunder_Bay_Thunder_Bay_District_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitthunderbay.com/en/see-and-do/shopping.aspx" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thunderbay.ca/en/city-services/transit.aspx" target="_blank" rel="nofollow noopener">- Public Transportation Options in Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hiexpress.com/hotels/us/en/find-hotels/hotel/list?fromRedirect=true&qSrt=sBR&qIta=99634581&icdv=99634581&qDest=Thunder%20Bay,%20Canada&setPMCookies=true&dp=true&gclid=EAIaIQobChMIvYOD6d7M8wIVghx9Ch1QdwfEEAAYASAAEgKMYfD_BwE&cm_mmc=PDSEA-_-G%7CF-AMER%7CFS-USA%7CH-AMER%7CHS-CAN%7CEX%7CNBI%7CEXM%7CHOTEL-YQTHB&srb_u=1" target="_blank" rel="nofollow noopener">- Best Places to Stay in Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitthunderbay.com/en/see-and-do/family-fun.aspx" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tbnewswatch.com/" target="_blank" rel="nofollow noopener">- Local News for Thunder Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-100_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155017-Activities-Thunder_Bay_Thunder_Bay_District_Ontario.html" target="_blank" >- Best Attractions in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155017-Thunder_Bay_Thunder_Bay_District_Ontario.html" target="_blank" >- Best Places to Eat in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitthunderbay.com/en/see-and-do/shopping.aspx" target="_blank" >- Best Places to Go Shopping in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thunderbay.ca/en/city-services/transit.aspx" target="_blank" >- Public Transportation Options in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hiexpress.com/hotels/us/en/find-hotels/hotel/list?fromRedirect=true&qSrt=sBR&qIta=99634581&icdv=99634581&qDest=Thunder%20Bay,%20Canada&setPMCookies=true&dp=true&gclid=EAIaIQobChMIvYOD6d7M8wIVghx9Ch1QdwfEEAAYASAAEgKMYfD_BwE&cm_mmc=PDSEA-_-G%7CF-AMER%7CFS-USA%7CH-AMER%7CHS-CAN%7CEX%7CNBI%7CEXM%7CHOTEL-YQTHB&srb_u=1" target="_blank" >- Best Places to Stay in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitthunderbay.com/en/see-and-do/family-fun.aspx" target="_blank" >- Best Things to do with the Kids in Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tbnewswatch.com/" target="_blank" >- Local News for Thunder Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-100_metric_e.html" target="_blank" >- Weather in Thunder Bay, Ontario</a></li>
 					</ul>
       </div>
      </div>

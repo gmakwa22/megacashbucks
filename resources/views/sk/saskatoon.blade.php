@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Saskatoon, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/" target="_blank" rel="nofollow noopener">- Best Attractions in Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/saskatoon/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://transit.saskatoon.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155043-Saskatoon_Saskatchewan-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/family-fun/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/saskatoon/" target="_blank" rel="nofollow noopener">- Local News for Saskatoon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-40_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/" target="_blank" >- Best Attractions in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/saskatoon/" target="_blank" >- Best Places to Eat in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://transit.saskatoon.ca/" target="_blank" >- Public Transportation Options in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155043-Saskatoon_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/family-fun/" target="_blank" >- Best Things to do with the Kids in Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/saskatoon/" target="_blank" >- Local News for Saskatoon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-40_metric_e.html" target="_blank" >- Weather in Saskatoon, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

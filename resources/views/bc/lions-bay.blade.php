@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lions Bay, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2004177-Activities-Lions_Bay_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Lions-Bay" target="_blank" rel="nofollow noopener">- Best Places to Eat in Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Lions+Bay%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.lionsbay.ca/community/transit#:~:text=The%20262%20Lions%20Bay%2FCaulfeild,a.m.%20to%206%3A38%20p.m." target="_blank" rel="nofollow noopener">- Public Transportation Options in Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2004177-Lions_Bay_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2004177-Activities-Lions_Bay_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.lionsbay.ca/government/village-news" target="_blank" rel="nofollow noopener">- Local News for Lions Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/lions-bay" target="_blank" rel="nofollow noopener">- Weather in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2004177-Activities-Lions_Bay_British_Columbia.html" target="_blank" >- Best Attractions in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Lions-Bay" target="_blank" >- Best Places to Eat in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Lions+Bay%2C+BC" target="_blank" >- Best Places to Go Shopping in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.lionsbay.ca/community/transit#:~:text=The%20262%20Lions%20Bay%2FCaulfeild,a.m.%20to%206%3A38%20p.m." target="_blank" >- Public Transportation Options in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2004177-Lions_Bay_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2004177-Activities-Lions_Bay_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.lionsbay.ca/government/village-news" target="_blank" >- Local News for Lions Bay, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/lions-bay" target="_blank" >- Weather in Lions Bay, British Columbia</a></li>
 					</ul>
       </div>
      </div>

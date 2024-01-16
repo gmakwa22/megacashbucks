@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tay, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1100108-Activities-Victoria_Harbour_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g6498594-d6914754-Tay_Motel-Waubaushene_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tay.ca/en/doing-business/Business-Directory.asp" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Tay-Toronto_ON-city_138939-143" target="_blank" rel="nofollow noopener">- Public Transportation Options in Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11116570/tay-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tay.ca/en/explore-tay/attractions.asp" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tay.ca/en/News/search.aspx" target="_blank" rel="nofollow noopener">- Local News for Tay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tay" target="_blank" rel="nofollow noopener">- Weather in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1100108-Activities-Victoria_Harbour_Ontario.html" target="_blank" >- Best Attractions in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g6498594-d6914754-Tay_Motel-Waubaushene_Ontario.html" target="_blank" >- Best Places to Eat in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tay.ca/en/doing-business/Business-Directory.asp" target="_blank" >- Best Places to Go Shopping in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Tay-Toronto_ON-city_138939-143" target="_blank" >- Public Transportation Options in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11116570/tay-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tay.ca/en/explore-tay/attractions.asp" target="_blank" >- Best Things to do with the Kids in Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tay.ca/en/News/search.aspx" target="_blank" >- Local News for Tay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tay" target="_blank" >- Weather in Tay, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bourget, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMI8OLSoLrN8wIV-BitBh3TCwcFEAAYASAAEgLQmPD_BwE" target="_blank" rel="nofollow noopener">- Best Attractions in Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.discoverlangleycity.com/food-drink/restaurant-directory?utm_source=Patio&utm_medium=GoogleGrantSearch&utm_campaign=Restaurants&gclid=EAIaIQobChMI7Lvwr7rN8wIVhB-tBh2r2APoEAAYAiAAEgKTm_D_BwE" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Bourget/80014000.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.leducbus.com/commuter-buses/routes-530-and-535" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://experiencemarriott.com/canada?gclid=EAIaIQobChMIhqGl17rN8wIV4Qh9Ch1RsQ1-EAAYAiAAEgK6MvD_BwE&gclsrc=aw.ds" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://simple.church/kids/?gclid=EAIaIQobChMImZbF47rN8wIVyxitBh19QQ9SEAAYASAAEgI9hPD_BwE" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/on/bourget/news/" target="_blank" rel="nofollow noopener">- Local News for Bourget, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bourget" target="_blank" rel="nofollow noopener">- Weather in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ontarioculinary.com/great-taste/?gclid=EAIaIQobChMI8OLSoLrN8wIV-BitBh3TCwcFEAAYASAAEgLQmPD_BwE" target="_blank" >- Best Attractions in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.discoverlangleycity.com/food-drink/restaurant-directory?utm_source=Patio&utm_medium=GoogleGrantSearch&utm_campaign=Restaurants&gclid=EAIaIQobChMI7Lvwr7rN8wIVhB-tBh2r2APoEAAYAiAAEgKTm_D_BwE" target="_blank" >- Best Places to Eat in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Bourget/80014000.html" target="_blank" >- Best Places to Go Shopping in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.leducbus.com/commuter-buses/routes-530-and-535" target="_blank" >- Public Transportation Options in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://experiencemarriott.com/canada?gclid=EAIaIQobChMIhqGl17rN8wIV4Qh9Ch1RsQ1-EAAYAiAAEgK6MvD_BwE&gclsrc=aw.ds" target="_blank" >- Best Places to Stay in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://simple.church/kids/?gclid=EAIaIQobChMImZbF47rN8wIVyxitBh19QQ9SEAAYASAAEgI9hPD_BwE" target="_blank" >- Best Things to do with the Kids in Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/on/bourget/news/" target="_blank" >- Local News for Bourget, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bourget" target="_blank" >- Weather in Bourget, Ontario</a></li>
 					</ul>
       </div>
      </div>

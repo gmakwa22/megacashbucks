@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about New Maryland, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7998485-New_Maryland_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/New-Maryland" target="_blank" rel="nofollow noopener">- Best Places to Eat in New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.vonm.ca/living/village-merchants/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-New_Maryland_Village-Fredericton_NB-site_63831883-3724" target="_blank" rel="nofollow noopener">- Public Transportation Options in New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11116301/new-maryland-new-brunswick-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-zft11306-New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/new-maryland-new-brunswick/" target="_blank" rel="nofollow noopener">- Local News for New Maryland, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/new-maryland" target="_blank" rel="nofollow noopener">- Weather in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7998485-New_Maryland_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/New-Maryland" target="_blank" >- Best Places to Eat in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.vonm.ca/living/village-merchants/" target="_blank" >- Best Places to Go Shopping in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-New_Maryland_Village-Fredericton_NB-site_63831883-3724" target="_blank" >- Public Transportation Options in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de11116301/new-maryland-new-brunswick-hotels-rooms/" target="_blank" >- Best Places to Stay in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-zft11306-New_Brunswick.html" target="_blank" >- Best Things to do with the Kids in New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/new-maryland-new-brunswick/" target="_blank" >- Local News for New Maryland, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/new-maryland" target="_blank" >- Weather in New Maryland, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

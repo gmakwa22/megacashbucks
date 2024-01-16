@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cranbrook, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181788-Activities-Cranbrook_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181788-Cranbrook_Kootenay_Rockies_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://cranbrooktourism.com/things-to-do/shopping" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/cranbrook/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181788-Cranbrook_Kootenay_Rockies_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://cranbrooktourism.com/blog/you-gotta-play-here-kid-friendly-activities-in-cranbrook" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cranbrooktownsman.com/" target="_blank" rel="nofollow noopener">- Local News for Cranbrook, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-77_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181788-Activities-Cranbrook_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Attractions in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181788-Cranbrook_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Places to Eat in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://cranbrooktourism.com/things-to-do/shopping" target="_blank" >- Best Places to Go Shopping in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/cranbrook/home" target="_blank" >- Public Transportation Options in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181788-Cranbrook_Kootenay_Rockies_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://cranbrooktourism.com/blog/you-gotta-play-here-kid-friendly-activities-in-cranbrook" target="_blank" >- Best Things to do with the Kids in Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cranbrooktownsman.com/" target="_blank" >- Local News for Cranbrook, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-77_metric_e.html" target="_blank" >- Weather in Cranbrook, British Columbia</a></li>
 					</ul>
       </div>
      </div>

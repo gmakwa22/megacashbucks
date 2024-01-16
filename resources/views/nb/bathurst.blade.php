@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bathurst, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182154-Activities-Bathurst_New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Bathurst-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://placebathurstmall.com/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Bathurst-NB-Canada/New-Brunswick-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/bathurst.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bathurst/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/bathurst-new-brunswick/" target="_blank" rel="nofollow noopener">- Local News for Bathurst, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/bathurst" target="_blank" rel="nofollow noopener">- Weather in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182154-Activities-Bathurst_New_Brunswick.html" target="_blank" >- Best Attractions in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Bathurst-New-Brunswick" target="_blank" >- Best Places to Eat in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://placebathurstmall.com/" target="_blank" >- Best Places to Go Shopping in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Bathurst-NB-Canada/New-Brunswick-Canada" target="_blank" >- Public Transportation Options in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/bathurst.html" target="_blank" >- Best Places to Stay in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bathurst/nb" target="_blank" >- Best Things to do with the Kids in Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/bathurst-new-brunswick/" target="_blank" >- Local News for Bathurst, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/bathurst" target="_blank" >- Weather in Bathurst, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

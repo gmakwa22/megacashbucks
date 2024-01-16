@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Red Lake, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitsunsetcountry.com/red-lake-ontario-attractions-and-things-to-do" target="_blank" rel="nofollow noopener">- Best Attractions in Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/great-location-Red-Lake-m9642" target="_blank" rel="nofollow noopener">- Best Places to Eat in Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.chukuni.com/article/red-lake-retail-stores-alphabetic-listing-175.asp" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/red_lake_bus_routes.htm" target="_blank" rel="nofollow noopener">- Public Transportation Options in Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/red-lake.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.chukuni.com/youth" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.redlake.ca/web/news.php" target="_blank" rel="nofollow noopener">- Local News for Red Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-104_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitsunsetcountry.com/red-lake-ontario-attractions-and-things-to-do" target="_blank" >- Best Attractions in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/great-location-Red-Lake-m9642" target="_blank" >- Best Places to Eat in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.chukuni.com/article/red-lake-retail-stores-alphabetic-listing-175.asp" target="_blank" >- Best Places to Go Shopping in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/red_lake_bus_routes.htm" target="_blank" >- Public Transportation Options in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/red-lake.html" target="_blank" >- Best Places to Stay in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.chukuni.com/youth" target="_blank" >- Best Things to do with the Kids in Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.redlake.ca/web/news.php" target="_blank" >- Local News for Red Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-104_metric_e.html" target="_blank" >- Weather in Red Lake, Ontario</a></li>
 					</ul>
       </div>
      </div>

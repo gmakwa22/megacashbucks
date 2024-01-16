@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Listowel, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g211855-Activities-Listowel_County_Kerry.html" target="_blank" rel="nofollow noopener">- Best Attractions in Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1900744-Listowel_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g211855-Activities-c26-Listowel_County_Kerry.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kitchener/Listowel-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de1805780/listowel-ontario-hotels-rooms/" target="_blank" rel="nofollow noopener">- Best Places to Stay in Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/listowel/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/listowel/" target="_blank" rel="nofollow noopener">- Local News for Listowel, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/listowel" target="_blank" rel="nofollow noopener">- Weather in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g211855-Activities-Listowel_County_Kerry.html" target="_blank" >- Best Attractions in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1900744-Listowel_Ontario.html" target="_blank" >- Best Places to Eat in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g211855-Activities-c26-Listowel_County_Kerry.html" target="_blank" >- Best Places to Go Shopping in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kitchener/Listowel-ON-Canada" target="_blank" >- Public Transportation Options in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de1805780/listowel-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/listowel/" target="_blank" >- Best Things to do with the Kids in Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/listowel/" target="_blank" >- Local News for Listowel, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/listowel" target="_blank" >- Weather in Listowel, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -70,8 +70,8 @@
             </td>
             <td class="menuLink centerText vide" valign="middle" style="width: 160px;"> </td>
             <td class="menuLink centerText" align="right" valign="middle" style="vertical-align: middle;font-family:'Open Sans Condensed',Arial,Helvetica,sans-serif;color:#ffffff;font-size: 14px;line-height:22px;font-weight:700;letter-spacing:0;text-transform: uppercase;">
-            <a href="{{url('/why_use_us')}}" target="_blank" rel="noopener" style="color:#ffffff;text-decoration:none;" title="Why use us">
-            <span>What We Offer&nbsp;&nbsp;&nbsp; </span></a>
+            <!-- <a href="{{url('/why_use_us')}}" target="_blank" rel="noopener" style="color:#ffffff;text-decoration:none;" title="Why use us">
+            <span>What We Offer&nbsp;&nbsp;&nbsp; </span></a> -->
             </td>
             <td class="menuLink centerText" align="right" valign="middle" style="vertical-align: middle;font-family:'Open Sans Condensed',Arial,Helvetica,sans-serif;color:#ffffff;font-size: 14px;line-height:22px;font-weight: 700;letter-spacing:0;text-transform: uppercase;">
             <a href="{{url('/agent-list')}}" target="_blank" rel="noopener" style="color:#ffffff;text-decoration:none;" title="How it works">

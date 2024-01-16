@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Meductic, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://trip-suggest.com/canada/new-brunswick/meductic" target="_blank" rel="nofollow noopener">- Best Attractions in Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Meductic%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Eat in Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=NB-165%2C+Meductic%2C+NB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/meductic" target="_blank" rel="nofollow noopener">- Best Places to Stay in Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/meductic-nb/" target="_blank" rel="nofollow noopener">- Local News for Meductic, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/meductic" target="_blank" rel="nofollow noopener">- Weather in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://trip-suggest.com/canada/new-brunswick/meductic" target="_blank" >- Best Attractions in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Meductic%2C+NB" target="_blank" >- Best Places to Eat in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=NB-165%2C+Meductic%2C+NB" target="_blank" >- Best Places to Go Shopping in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://hotelandplace.com/hotels/meductic" target="_blank" >- Best Places to Stay in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://pickleplanetmoncton.com/101-ideas-things-to-do-with-kids-summer-new-brunswick/" target="_blank" >- Best Things to do with the Kids in Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/meductic-nb/" target="_blank" >- Local News for Meductic, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/meductic" target="_blank" >- Weather in Meductic, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Salmon Arm, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181773-Activities-Salmon_Arm_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Attractions in Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://shuswaptourism.ca/discover/salmon-arm/dining-listings/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://shuswaptourism.ca/plan/services-and-amenities/retail/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.salmonarm.ca/207/Public-Transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/salmon-arm.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://destinationlesstravel.com/things-to-do-in-salmon-arm-bc/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.saobserver.net/" target="_blank" rel="nofollow noopener">- Local News for Salmon Arm, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-51_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181773-Activities-Salmon_Arm_British_Columbia.html" target="_blank" >- Best Attractions in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://shuswaptourism.ca/discover/salmon-arm/dining-listings/" target="_blank" >- Best Places to Eat in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://shuswaptourism.ca/plan/services-and-amenities/retail/" target="_blank" >- Best Places to Go Shopping in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.salmonarm.ca/207/Public-Transit" target="_blank" >- Public Transportation Options in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/salmon-arm.html" target="_blank" >- Best Places to Stay in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://destinationlesstravel.com/things-to-do-in-salmon-arm-bc/" target="_blank" >- Best Things to do with the Kids in Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.saobserver.net/" target="_blank" >- Local News for Salmon Arm, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-51_metric_e.html" target="_blank" >- Weather in Salmon Arm, British Columbia</a></li>
 					</ul>
       </div>
      </div>

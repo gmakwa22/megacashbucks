@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Saint-Antoine, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g13273198-Saint_Antoine_New_Brunswick-Vacations.html" target="_blank" rel="nofollow noopener">- Best Attractions in Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Saint-Antoine" target="_blank" rel="nofollow noopener">- Best Places to Eat in Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/saint-antoine-new-brunswick/shopping/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Saint-Antoine-NB-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g13273198-Saint_Antoine_New_Brunswick-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saint-antoine-de-kent/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/saint-antoine/" target="_blank" rel="nofollow noopener">- Local News for Saint-Antoine, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/saint-antoine" target="_blank" rel="nofollow noopener">- Weather in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g13273198-Saint_Antoine_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Saint-Antoine" target="_blank" >- Best Places to Eat in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/saint-antoine-new-brunswick/shopping/" target="_blank" >- Best Places to Go Shopping in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Moncton/Saint-Antoine-NB-Canada" target="_blank" >- Public Transportation Options in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g13273198-Saint_Antoine_New_Brunswick-Hotels.html" target="_blank" >- Best Places to Stay in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saint-antoine-de-kent/nb" target="_blank" >- Best Things to do with the Kids in Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/saint-antoine/" target="_blank" >- Local News for Saint-Antoine, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/saint-antoine" target="_blank" >- Weather in Saint-Antoine, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

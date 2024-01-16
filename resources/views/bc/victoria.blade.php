@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Victoria, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismvictoria.com/see-do/activities-attractions/attractions" target="_blank" rel="nofollow noopener">- Best Attractions in Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismvictoria.com/eat-drink/restaurants-cafes" target="_blank" rel="nofollow noopener">- Best Places to Eat in Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tourismvictoria.com/blog/your-downtown-victoria-bc-shopping-guide" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/victoria/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/victoria.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://2traveldads.com/victoria-with-kids-things-to-do/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cheknews.ca/" target="_blank" rel="nofollow noopener">- Local News for Victoria, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-85_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismvictoria.com/see-do/activities-attractions/attractions" target="_blank" >- Best Attractions in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismvictoria.com/eat-drink/restaurants-cafes" target="_blank" >- Best Places to Eat in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tourismvictoria.com/blog/your-downtown-victoria-bc-shopping-guide" target="_blank" >- Best Places to Go Shopping in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/victoria/home" target="_blank" >- Public Transportation Options in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/victoria.html" target="_blank" >- Best Places to Stay in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://2traveldads.com/victoria-with-kids-things-to-do/" target="_blank" >- Best Things to do with the Kids in Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cheknews.ca/" target="_blank" >- Local News for Victoria, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-85_metric_e.html" target="_blank" >- Weather in Victoria, British Columbia</a></li>
 					</ul>
       </div>
      </div>

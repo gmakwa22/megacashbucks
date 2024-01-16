@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rose Valley, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/139/rose-valley" target="_blank" rel="nofollow noopener">- Best Attractions in Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Rose-Valley" target="_blank" rel="nofollow noopener">- Best Places to Eat in Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan-businessdirectory.com/c-healthline_18411%3Cbr%20/c-rose-valley-town-shop_35945" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Rose_Valley_School-Kelowna_BC-site_18565633-2942" target="_blank" rel="nofollow noopener">- Public Transportation Options in Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/listings/1226/rose-valley-hotel" target="_blank" rel="nofollow noopener">- Best Places to Stay in Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rose-valley-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Rose Valley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/rose-valley" target="_blank" rel="nofollow noopener">- Weather in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/139/rose-valley" target="_blank" >- Best Attractions in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Rose-Valley" target="_blank" >- Best Places to Eat in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan-businessdirectory.com/c-healthline_18411%3Cbr%20/c-rose-valley-town-shop_35945" target="_blank" >- Best Places to Go Shopping in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Rose_Valley_School-Kelowna_BC-site_18565633-2942" target="_blank" >- Public Transportation Options in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/listings/1226/rose-valley-hotel" target="_blank" >- Best Places to Stay in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rose-valley-saskatchewan/" target="_blank" >- Local News for Rose Valley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/rose-valley" target="_blank" >- Weather in Rose Valley, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

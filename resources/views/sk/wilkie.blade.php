@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wilkie, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6958994-Activities-Wilkie_Saskatchewan.html" target="_blank" rel="nofollow noopener">- Best Attractions in Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-Wilkie-Saskatchewan" target="_blank" rel="nofollow noopener">- Best Places to Eat in Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofwilkie.com/business/directory.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://Wilkie.ca/150/Getting-Around-Wilkie" target="_blank" rel="nofollow noopener">- Public Transportation Options in Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofwilkie.com/business/directory/f_h.html#hotels" target="_blank" rel="nofollow noopener">- Best Places to Stay in Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/wilkie-saskatchewan/" target="_blank" rel="nofollow noopener">- Local News for Wilkie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/wilkie" target="_blank" rel="nofollow noopener">- Weather in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6958994-Activities-Wilkie_Saskatchewan.html" target="_blank" >- Best Attractions in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-Wilkie-Saskatchewan" target="_blank" >- Best Places to Eat in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofwilkie.com/business/directory.html" target="_blank" >- Best Places to Go Shopping in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://Wilkie.ca/150/Getting-Around-Wilkie" target="_blank" >- Public Transportation Options in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofwilkie.com/business/directory/f_h.html#hotels" target="_blank" >- Best Places to Stay in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/wilkie-saskatchewan/" target="_blank" >- Local News for Wilkie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/wilkie" target="_blank" >- Weather in Wilkie, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

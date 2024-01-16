@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Mitchell, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6849457-Activities-Mitchell_Ontario.html" target="_blank" rel="nofollow noopener">- Best Attractions in Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/breakfast-Mitchell-Ontario-m9619" target="_blank" rel="nofollow noopener">- Best Places to Eat in Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=5878A+Line+34%2C+Mitchell%2C+ON+N0K+1N0" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kitchener/Mitchell-ON-Canada" target="_blank" rel="nofollow noopener">- Public Transportation Options in Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6849457-Mitchell_Ontario-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/mitchell/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mitchelladvocate.com/category/news/local-news/" target="_blank" rel="nofollow noopener">- Local News for Mitchell, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mitchell" target="_blank" rel="nofollow noopener">- Weather in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6849457-Activities-Mitchell_Ontario.html" target="_blank" >- Best Attractions in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/breakfast-Mitchell-Ontario-m9619" target="_blank" >- Best Places to Eat in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=5878A+Line+34%2C+Mitchell%2C+ON+N0K+1N0" target="_blank" >- Best Places to Go Shopping in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kitchener/Mitchell-ON-Canada" target="_blank" >- Public Transportation Options in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6849457-Mitchell_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/mitchell/" target="_blank" >- Best Things to do with the Kids in Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mitchelladvocate.com/category/news/local-news/" target="_blank" >- Local News for Mitchell, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/mitchell" target="_blank" >- Weather in Mitchell, Ontario</a></li>
 					</ul>
       </div>
      </div>

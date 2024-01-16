@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Deseronto, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.deseronto.ca/explore/things-to-see-and-do" target="_blank" rel="nofollow noopener">- Best Attractions in Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Deseronto" target="_blank" rel="nofollow noopener">- Best Places to Eat in Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1889145-Activities-c26-Deseronto_Ontario.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.deseronto.ca/residents/transit" target="_blank" rel="nofollow noopener">- Public Transportation Options in Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/deseronto.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/deseronto/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/deseronto/" target="_blank" rel="nofollow noopener">- Local News for Deseronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/deseronto" target="_blank" rel="nofollow noopener">- Weather in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.deseronto.ca/explore/things-to-see-and-do" target="_blank" >- Best Attractions in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Deseronto" target="_blank" >- Best Places to Eat in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1889145-Activities-c26-Deseronto_Ontario.html" target="_blank" >- Best Places to Go Shopping in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.deseronto.ca/residents/transit" target="_blank" >- Public Transportation Options in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/deseronto.html" target="_blank" >- Best Places to Stay in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/deseronto/" target="_blank" >- Best Things to do with the Kids in Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/deseronto/" target="_blank" >- Local News for Deseronto, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/deseronto" target="_blank" >- Weather in Deseronto, Ontario</a></li>
 					</ul>
       </div>
      </div>

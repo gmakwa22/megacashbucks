@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bertrand, NB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Attractions in Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Bertrand-New-Brunswick" target="_blank" rel="nofollow noopener">- Best Places to Eat in Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-c26-New_Brunswick.html" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" rel="nofollow noopener">- Public Transportation Options in Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g3743245-Bertrand_New_Brunswick-Hotel-Deals.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bertrand/nb" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/nb/bertrand/news/" target="_blank" rel="nofollow noopener">- Local News for Bertrand, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/bertrand" target="_blank" rel="nofollow noopener">- Weather in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-New_Brunswick.html" target="_blank" >- Best Attractions in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Bertrand-New-Brunswick" target="_blank" >- Best Places to Eat in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154956-Activities-c26-New_Brunswick.html" target="_blank" >- Best Places to Go Shopping in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g3743245-Bertrand_New_Brunswick-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/bertrand/nb" target="_blank" >- Best Things to do with the Kids in Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/nb/bertrand/news/" target="_blank" >- Local News for Bertrand, New Brunswick</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/new-brunswick/bertrand" target="_blank" >- Weather in Bertrand, New Brunswick</a></li>
 					</ul>
       </div>
      </div>

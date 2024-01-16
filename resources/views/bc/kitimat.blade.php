@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kitimat, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.kitimat.ca/en/recreation-and-leisure/tourism-and-attractions.aspx" target="_blank" rel="nofollow noopener">- Best Attractions in Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g671271-Kitimat_Kitimat_Stikine_District_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.citycentremall.ca/" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/kitimat/home" target="_blank" rel="nofollow noopener">- Public Transportation Options in Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g671271-Kitimat_Kitimat_Stikine_District_British_Columbia-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4041681-Activities-zft11306-Kitimat_Stikine_District_British_Columbia.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.northernsentinel.com/" target="_blank" rel="nofollow noopener">- Local News for Kitimat, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-30_metric_e.html" target="_blank" rel="nofollow noopener">- Weather in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.kitimat.ca/en/recreation-and-leisure/tourism-and-attractions.aspx" target="_blank" >- Best Attractions in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g671271-Kitimat_Kitimat_Stikine_District_British_Columbia.html" target="_blank" >- Best Places to Eat in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.citycentremall.ca/" target="_blank" >- Best Places to Go Shopping in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/kitimat/home" target="_blank" >- Public Transportation Options in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g671271-Kitimat_Kitimat_Stikine_District_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4041681-Activities-zft11306-Kitimat_Stikine_District_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.northernsentinel.com/" target="_blank" >- Local News for Kitimat, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-30_metric_e.html" target="_blank" >- Weather in Kitimat, British Columbia</a></li>
 					</ul>
       </div>
      </div>

@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about leduc, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181801-Activities-Leduc_Alberta.html" target="_blank" rel="nofollow noopener">- Best Attractions in leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181801-Leduc_Alberta.html" target="_blank" rel="nofollow noopener">- Best Places to Eat in leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Leduc%2C+AB" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.leductransit.ca/" target="_blank" rel="nofollow noopener">- Public Transportation Options in leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181801-Leduc_Alberta-Hotels.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181801-Activities-c56-Leduc_Alberta.html" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.leducrep.com/" target="_blank" rel="nofollow noopener">- Local News for leduc, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/leduc" target="_blank" rel="nofollow noopener">- Weather in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181801-Activities-Leduc_Alberta.html" target="_blank" >- Best Attractions in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181801-Leduc_Alberta.html" target="_blank" >- Best Places to Eat in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Leduc%2C+AB" target="_blank" >- Best Places to Go Shopping in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.leductransit.ca/" target="_blank" >- Public Transportation Options in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181801-Leduc_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181801-Activities-c56-Leduc_Alberta.html" target="_blank" >- Best Things to do with the Kids in leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.leducrep.com/" target="_blank" >- Local News for leduc, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/leduc" target="_blank" >- Weather in leduc, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Miller's Landing, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://bowenislandmuseum.ca/millers-landing/" target="_blank" rel="nofollow noopener">- Best Attractions in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://foodpages.ca/BC/Miller39slanding" target="_blank" rel="nofollow noopener">- Best Places to Eat in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://bowenislandmuseum.ca/millers-landing" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-David_Road-Greater_Vancouver_BC-site_59043971-145" target="_blank" rel="nofollow noopener">- Public Transportation Options in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.airbnb.ca/millers-landing-canada/stays" target="_blank" rel="nofollow noopener">- Best Places to Stay in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://thedognetwork.ca/directory/millers-landing-beach-bowen-island-bc/" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bowenislandundercurrent.com/local-news/ecclestone-why-a-tiny-beach-turned-into-a-great-big-controversy-3889118" target="_blank" rel="nofollow noopener">- Local News for Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.weatherwx.com/forecasts/ca/bc/millers+landing.html" target="_blank" rel="nofollow noopener">- Weather in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://bowenislandmuseum.ca/millers-landing/" target="_blank" >- Best Attractions in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://foodpages.ca/BC/Miller39slanding" target="_blank" >- Best Places to Eat in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://bowenislandmuseum.ca/millers-landing" target="_blank" >- Best Places to Go Shopping in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-David_Road-Greater_Vancouver_BC-site_59043971-145" target="_blank" >- Public Transportation Options in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.airbnb.ca/millers-landing-canada/stays" target="_blank" >- Best Places to Stay in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://thedognetwork.ca/directory/millers-landing-beach-bowen-island-bc/" target="_blank" >- Best Things to do with the Kids in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bowenislandundercurrent.com/local-news/ecclestone-why-a-tiny-beach-turned-into-a-great-big-controversy-3889118" target="_blank" >- Local News for Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.weatherwx.com/forecasts/ca/bc/millers+landing.html" target="_blank" >- Weather in Miller's Landing, British Columbia</a></li>
 					</ul>
       </div>
      </div>

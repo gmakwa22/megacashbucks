@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chilliwack, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-chilliwack-bc-cdn-1-232.htm" target="_blank" rel="nofollow noopener">- Best Attractions in Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/bc/chilliwack/" target="_blank" rel="nofollow noopener">- Best Places to Eat in Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Chilliwack%2C+BC" target="_blank" rel="nofollow noopener">- Best Places to Go Shopping in Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/chilliwack/schedules-and-maps" target="_blank" rel="nofollow noopener">- Public Transportation Options in Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/chilliwack.html" target="_blank" rel="nofollow noopener">- Best Places to Stay in Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/chilliwack/bc" target="_blank" rel="nofollow noopener">- Best Things to do with the Kids in Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theprogress.com/" target="_blank" rel="nofollow noopener">- Local News for Chilliwack, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/chilliwack" target="_blank" rel="nofollow noopener">- Weather in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-chilliwack-bc-cdn-1-232.htm" target="_blank" >- Best Attractions in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/bc/chilliwack/" target="_blank" >- Best Places to Eat in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Chilliwack%2C+BC" target="_blank" >- Best Places to Go Shopping in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/chilliwack/schedules-and-maps" target="_blank" >- Public Transportation Options in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/chilliwack.html" target="_blank" >- Best Places to Stay in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/chilliwack/bc" target="_blank" >- Best Things to do with the Kids in Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theprogress.com/" target="_blank" >- Local News for Chilliwack, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/chilliwack" target="_blank" >- Weather in Chilliwack, British Columbia</a></li>
 					</ul>
       </div>
      </div>

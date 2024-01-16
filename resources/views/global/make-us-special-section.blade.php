@@ -45,9 +45,9 @@
 					<p style="text-align: justify;">Your interest fee is unchanged, whether it’s better for you to pay in 1, 2 or 3 equal repayments.					</p>
 				</div>
 			</div>
-			<div class="col-xs-12 all-about">
+			<!-- <div class="col-xs-12 all-about">
 				<a href="{{url('/why_use_us')}}" class="btn btn-green">Choosing us is the right choice</a>
-			</div>
+			</div> -->
 		</div>
 	</section>
 --}}
