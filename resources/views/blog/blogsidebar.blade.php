@@ -1,5 +1,5 @@
 <br><br>
-<b><a href="/blog">BLOG</a> Topics:</b>
+<!-- <b><a href="/blog">BLOG</a> Topics:</b>
 <br><br>
 - <a href="/blog/canada-child-benefit">Getting a loan while receiving the Canada Child Benefit (CCB).</a><br>
 - <a href="/blog/online-personal-loans">How Safe Are Online Personal Loans?</a><br>
@@ -17,7 +17,7 @@
 - <a href="/blog/Financial-New-Years-Resolutions">Financial New Year’s Resolutions for All!</a><br>
 - <a href="/blog/Alternative-Loans-For-Unprecedented-Times">Alternative Loans for Unprecedented Times</a><br>
 - <a href="/blog/Steps-To-Master-Your-Personal-Finances">5 Steps to Master Your Personal Finances</a><br>
-<br><br>
+<br><br> -->
 
 <div class="sidebar-widget">
    <h6 class="mb-20">Mega Cash Bucks</h6>

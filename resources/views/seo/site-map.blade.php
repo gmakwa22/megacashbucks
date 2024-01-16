@@ -32,7 +32,7 @@
              <li><a href="{{url('/payday-loans-red-deer')}}"><i class="fa fa-map-marker"></i> Red Deer </a></li>
              <li><a href="{{url('/payday-loans-lethbridge')}}"><i class="fa fa-map-marker"></i> Lethbridge </a></li>
              <li><a href="{{url('/payday-loans-airdrie')}}"><i class="fa fa-map-marker"></i> Airdrie </a></li>
-             <li><a href="{{url('/payday-loans-fort-mcmurry')}}"><i class="fa fa-map-marker"></i> Fort McMurry </a></li>
+             <li><a href="{{url('/payday-loans-fort-mcmurray')}}"><i class="fa fa-map-marker"></i> Fort McMurry </a></li>
              <li><a href="{{url('/payday-loans-st-albert')}}"><i class="fa fa-map-marker"></i> St.Albert </a></li>
         </ul>
 
@@ -133,7 +133,7 @@
             <li><a href="{{url('/payday-loan-canada')}}">  Payday Loan</a></li>
             <li><a href="{{url('/loans-on-child-tax')}}">  Loans on Child Tax</a></li>
             <li><a href="{{url('/instant-payday-loans-canada-e-transfer')}}">  E-Transfer Loans</a></li>
-            <li><a href="{{ url('/blog/')}}" >BLOG</a></li>
+            <!-- <li><a href="{{ url('/blog/')}}" >BLOG</a></li> -->
             <li><a href="{{ url('/link-partners')}}" >Link Partners</a></li>
          </ul>
         </li>
