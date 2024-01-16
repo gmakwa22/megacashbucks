@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Strathmore, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181796-Activities-Strathmore_Alberta.html" target="_blank" >- Best Attractions in Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181796-Strathmore_Alberta.html" target="_blank" >- Best Places to Eat in Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/sylvan-lake" target="_blank" >- Best Places to Go Shopping in Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sylvanlake.ca/en/public-services/new-to-sylvan-lake.aspx" target="_blank" >- Public Transportation Options in Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g671559-Sylvan_Lake_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/fun-things-kids-sylvan-lake/" target="_blank" >- Best Things to do with the Kids in Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sylvanlakenews.com/" target="_blank" >- Local News for Strathmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/sylvan-lake" target="_blank" >- Weather in Strathmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181796-Activities-Strathmore_Alberta.html" target="_blank"   >- Best Attractions in Strathmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181796-Strathmore_Alberta.html" target="_blank"   >- Best Places to Eat in Strathmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/sylvan-lake" target="_blank"   >- Best Places to Go Shopping in Strathmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.sylvanlake.ca/en/public-services/new-to-sylvan-lake.aspx" target="_blank"   >- Public Transportation Options in Strathmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g671559-Sylvan_Lake_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Strathmore, Alberta</a></li>
+					<li class="list-group-item">- Best Things to do with the Kids in Strathmore, Alberta</li>
+					<li class="list-group-item"><a href="https://www.sylvanlakenews.com/" target="_blank"   >- Local News for Strathmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/sylvan-lake" target="_blank"   >- Weather in Strathmore, Alberta</a></li>
 					</ul>
       </div>
      </div>

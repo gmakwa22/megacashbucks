@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stevensville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155014-Activities-Stevensville_Fort_Erie_Ontario.html" target="_blank" >- Best Attractions in Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155014-Stevensville_Fort_Erie_Ontario.html" target="_blank" >- Best Places to Eat in Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155014-Activities-c26-Stevensville_Fort_Erie_Ontario.html" target="_blank" >- Best Places to Go Shopping in Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Stevensville-ON-Canada" target="_blank" >- Public Transportation Options in Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155014-Stevensville_Fort_Erie_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/community/location/ontario/niagara/stevensville/" target="_blank" >- Best Things to do with the Kids in Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagarathisweek.com/forterie-on/" target="_blank" >- Local News for Stevensville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stevensville" target="_blank" >- Weather in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155014-Activities-Stevensville_Fort_Erie_Ontario.html" target="_blank"   >- Best Attractions in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155014-Stevensville_Fort_Erie_Ontario.html" target="_blank"   >- Best Places to Eat in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155014-Activities-c26-Stevensville_Fort_Erie_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Stevensville-ON-Canada" target="_blank"   >- Public Transportation Options in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155014-Stevensville_Fort_Erie_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/community/location/ontario/niagara/stevensville/" target="_blank"   >- Best Things to do with the Kids in Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagarathisweek.com/forterie-on/" target="_blank"   >- Local News for Stevensville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stevensville" target="_blank"   >- Weather in Stevensville, Ontario</a></li>
 					</ul>
       </div>
      </div>

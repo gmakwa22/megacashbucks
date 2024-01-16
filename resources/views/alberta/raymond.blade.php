@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Raymond, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5561683-Activities-Raymond_Alberta.html" target="_blank" >- Best Attractions in Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g5561683-Raymond_Alberta.html" target="_blank" >- Best Places to Eat in Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://raymond.ca/" target="_blank" >- Best Places to Go Shopping in Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g5561683-Raymond_Alberta-Vacations.html" target="_blank" >- Public Transportation Options in Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g5561683-d12103279-Raymond_Public_Library-Raymond_Alberta.html" target="_blank" >- Best Places to Stay in Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Raymond,_Alberta" target="_blank" >- Best Things to do with the Kids in Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/raymond-alberta/" target="_blank" >- Local News for Raymond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/raymond" target="_blank" >- Weather in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5561683-Activities-Raymond_Alberta.html" target="_blank"   >- Best Attractions in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g5561683-Raymond_Alberta.html" target="_blank"   >- Best Places to Eat in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://raymond.ca/" target="_blank"   >- Best Places to Go Shopping in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g5561683-Raymond_Alberta-Vacations.html" target="_blank"   >- Public Transportation Options in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g5561683-d12103279-Raymond_Public_Library-Raymond_Alberta.html" target="_blank"   >- Best Places to Stay in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Raymond,_Alberta" target="_blank"   >- Best Things to do with the Kids in Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/raymond-alberta/" target="_blank"   >- Local News for Raymond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/raymond" target="_blank"   >- Weather in Raymond, Alberta</a></li>
 					</ul>
       </div>
      </div>

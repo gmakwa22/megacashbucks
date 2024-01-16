@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Owen Sound, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/explore/Top-10-Attractions.aspx" target="_blank" >- Best Attractions in Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/dine-and-shop/Restaurants.aspx" target="_blank" >- Best Places to Eat in Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/dine-and-shop/shopping-districts.aspx" target="_blank" >- Best Places to Go Shopping in Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Owen-Sound" target="_blank" >- Public Transportation Options in Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/owen-sound.html" target="_blank" >- Best Places to Stay in Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/explore/Family-Activities.aspx" target="_blank" >- Best Things to do with the Kids in Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://getthenews.today/owen-sound" target="_blank" >- Local News for Owen Sound, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/owen-sound" target="_blank" >- Weather in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/explore/Top-10-Attractions.aspx" target="_blank"   >- Best Attractions in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/dine-and-shop/Restaurants.aspx" target="_blank"   >- Best Places to Eat in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://aroundowensound.ca/where-to-shop/downtown/" target="_blank"   >- Best Places to Go Shopping in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Owen-Sound" target="_blank"   >- Public Transportation Options in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/owen-sound.html" target="_blank"   >- Best Places to Stay in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.owensoundtourism.ca/en/explore/Family-Activities.aspx" target="_blank"   >- Best Things to do with the Kids in Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://getthenews.today/owen-sound" target="_blank"   >- Local News for Owen Sound, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/owen-sound" target="_blank"   >- Weather in Owen Sound, Ontario</a></li>
 					</ul>
       </div>
      </div>

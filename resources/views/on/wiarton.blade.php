@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wiarton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitwiarton.ca/things-to-do/attractions/" target="_blank" >- Best Attractions in Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitwiarton.ca/where-to-eat/" target="_blank" >- Best Places to Eat in Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitwiarton.ca/where-to-shop/" target="_blank" >- Best Places to Go Shopping in Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wiarton" target="_blank" >- Public Transportation Options in Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wiarton.html" target="_blank" >- Best Places to Stay in Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitwiarton.ca/things-to-do/kids-activities/" target="_blank" >- Best Things to do with the Kids in Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.wiartonecho.com/" target="_blank" >- Local News for Wiarton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-130_metric_e.html" target="_blank" >- Weather in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitwiarton.ca/things-to-do/attractions/" target="_blank"   >- Best Attractions in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitwiarton.ca/where-to-eat/" target="_blank"   >- Best Places to Eat in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitwiarton.ca/where-to-shop/" target="_blank"   >- Best Places to Go Shopping in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wiarton" target="_blank"   >- Public Transportation Options in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wiarton.html" target="_blank"   >- Best Places to Stay in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitwiarton.ca/things-to-do/kids-activities/" target="_blank"   >- Best Things to do with the Kids in Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/wiarton-ontario/" target="_blank"   >- Local News for Wiarton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-130_metric_e.html" target="_blank"   >- Weather in Wiarton, Ontario</a></li>
 					</ul>
       </div>
      </div>

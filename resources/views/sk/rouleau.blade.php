@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rouleau, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/141/rouleau" target="_blank" >- Best Attractions in Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Rouleau" target="_blank" >- Best Places to Eat in Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofrouleau.com/business.asp" target="_blank" >- Best Places to Go Shopping in Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.sasktoday.ca/north/opinion/the-hotel-in-rouleau-aka-dog-river-4130251" target="_blank" >- Best Places to Stay in Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rouleau/" target="_blank" >- Local News for Rouleau, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/rouleau" target="_blank" >- Weather in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/141/rouleau" target="_blank"   >- Best Attractions in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Rouleau" target="_blank"   >- Best Places to Eat in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofrouleau.com/business.asp" target="_blank"   >- Best Places to Go Shopping in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.sasktoday.ca/north/opinion/the-hotel-in-rouleau-aka-dog-river-4130251" target="_blank"   >- Best Places to Stay in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rouleau/" target="_blank"   >- Local News for Rouleau, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/rouleau" target="_blank"   >- Weather in Rouleau, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

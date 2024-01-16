@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Redvers, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/457/redvers" target="_blank" >- Best Attractions in Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Redvers" target="_blank" >- Best Places to Eat in Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://redvers.ca/redvers-business-listings/" target="_blank" >- Best Places to Go Shopping in Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://redvers.ca/transit/" target="_blank" >- Public Transportation Options in Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/listings/2971/redvers-motor-hotel" target="_blank" >- Best Places to Stay in Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/redvers/" target="_blank" >- Local News for Redvers, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/redvers" target="_blank" >- Weather in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/457/redvers" target="_blank"   >- Best Attractions in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Redvers" target="_blank"   >- Best Places to Eat in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://redvers.ca/redvers-business-listings/" target="_blank"   >- Best Places to Go Shopping in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://redvers.ca/transit/" target="_blank"   >- Public Transportation Options in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/listings/2971/redvers-motor-hotel" target="_blank"   >- Best Places to Stay in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/redvers/" target="_blank"   >- Local News for Redvers, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/redvers" target="_blank"   >- Weather in Redvers, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

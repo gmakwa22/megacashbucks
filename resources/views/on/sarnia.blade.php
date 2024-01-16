@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sarnia, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155011-Activities-Sarnia_Ontario.html" target="_blank" >- Best Attractions in Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155011-Sarnia_Ontario.html" target="_blank" >- Best Places to Eat in Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.lambtonmall.com/" target="_blank" >- Best Places to Go Shopping in Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.sarnia.ca/living-here/getting-around/sarnia-transit/" target="_blank" >- Public Transportation Options in Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sarnia.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IGc2FybmlhSDNYA2gniAEBmAEJuAEXyAEM2AED6AEBiAIBqAIDuAKo8aKLBsACAdICJDJmMWM2YjA1LTMxYTYtNDc0Yi04ZDIxLTFhMGY0NzY2MTBiNNgCBOACAQ;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank" >- Best Places to Stay in Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155011-Activities-zft11306-Sarnia_Ontario.html" target="_blank" >- Best Things to do with the Kids in Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theobserver.ca/category/news/local-news/" target="_blank" >- Local News for Sarnia, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/sarnia" target="_blank" >- Weather in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155011-Activities-Sarnia_Ontario.html" target="_blank"   >- Best Attractions in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155011-Sarnia_Ontario.html" target="_blank"   >- Best Places to Eat in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.lambtonmall.com/" target="_blank"   >- Best Places to Go Shopping in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.sarnia.ca/living-here/getting-around/sarnia-transit/" target="_blank"   >- Public Transportation Options in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sarnia.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IGc2FybmlhSDNYA2gniAEBmAEJuAEXyAEM2AED6AEBiAIBqAIDuAKo8aKLBsACAdICJDJmMWM2YjA1LTMxYTYtNDc0Yi04ZDIxLTFhMGY0NzY2MTBiNNgCBOACAQ;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank"   >- Best Places to Stay in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155011-Activities-zft11306-Sarnia_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sarnia/" target="_blank"   >- Local News for Sarnia, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/sarnia" target="_blank"   >- Weather in Sarnia, Ontario</a></li>
 					</ul>
       </div>
      </div>

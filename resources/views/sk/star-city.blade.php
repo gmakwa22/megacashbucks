@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Star City, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/attractions" target="_blank" >- Best Attractions in Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7736804-Star_City_Saskatchewan.html" target="_blank" >- Best Places to Eat in Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/shopping" target="_blank" >- Best Places to Go Shopping in Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadapages.com/hotels-and-motels-listings-star-city-sk/" target="_blank" >- Best Places to Stay in Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/family-fun/" target="_blank" >- Best Things to do with the Kids in Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/star-city/" target="_blank" >- Local News for Star City, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/star-city" target="_blank" >- Weather in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/attractions" target="_blank"   >- Best Attractions in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7736804-Star_City_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/shopping" target="_blank"   >- Best Places to Go Shopping in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadapages.com/hotels-and-motels-listings-star-city-sk/" target="_blank"   >- Best Places to Stay in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/family-fun/" target="_blank"   >- Best Things to do with the Kids in Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/star-city/" target="_blank"   >- Local News for Star City, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/star-city" target="_blank"   >- Weather in Star City, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

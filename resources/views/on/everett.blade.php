@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Everett, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g15144876-Everett_Adjala_Tosorontio_Ontario-Vacations.html" target="_blank" >- Best Attractions in Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g15144876-Everett_Adjala_Tosorontio_Ontario.html" target="_blank" >- Best Places to Eat in Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Everett/80014000.html" target="_blank" >- Best Places to Go Shopping in Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Alliston" target="_blank" >- Public Transportation Options in Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/alliston.html" target="_blank" >- Best Places to Stay in Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/everett/" target="_blank" >- Best Things to do with the Kids in Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.simcoe.com/alliston-on/" target="_blank" >- Local News for Everett, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/everett" target="_blank" >- Weather in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g15144876-Everett_Adjala_Tosorontio_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g15144876-Everett_Adjala_Tosorontio_Ontario.html" target="_blank"   >- Best Places to Eat in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Everett/80014000.html" target="_blank"   >- Best Places to Go Shopping in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Alliston" target="_blank"   >- Public Transportation Options in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/alliston.html" target="_blank"   >- Best Places to Stay in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/everett/" target="_blank"   >- Best Things to do with the Kids in Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.simcoe.com/alliston-on/" target="_blank"   >- Local News for Everett, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/everett" target="_blank"   >- Weather in Everett, Ontario</a></li>
 					</ul>
       </div>
      </div>

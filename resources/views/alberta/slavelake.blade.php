@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Slave Lake, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182204-Activities-Slave_Lake_Alberta.html" target="_blank" >- Best Attractions in Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182204-Slave_Lake_Alberta.html" target="_blank" >- Best Places to Eat in Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://slavelakeregion.ca/things-to-do/indoor-activities/shopping/" target="_blank" >- Best Places to Go Shopping in Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/slave_lake_bus_routes.htm" target="_blank" >- Public Transportation Options in Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182204-Slave_Lake_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182204-Activities-zft11306-Slave_Lake_Alberta.html" target="_blank" >- Best Things to do with the Kids in Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.slavelake.ca/civicalerts.aspx" target="_blank" >- Local News for Slave Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/slave-lake" target="_blank" >- Weather in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182204-Activities-Slave_Lake_Alberta.html" target="_blank"   >- Best Attractions in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182204-Slave_Lake_Alberta.html" target="_blank"   >- Best Places to Eat in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://slavelakeregion.ca/things-to-do/indoor-activities/shopping/" target="_blank"   >- Best Places to Go Shopping in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/slave_lake_bus_routes.htm" target="_blank"   >- Public Transportation Options in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182204-Slave_Lake_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182204-Activities-zft11306-Slave_Lake_Alberta.html" target="_blank"   >- Best Things to do with the Kids in Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.slavelake.ca/civicalerts.aspx" target="_blank"   >- Local News for Slave Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/slave-lake" target="_blank"   >- Weather in Slave Lake, Alberta</a></li>
 					</ul>
       </div>
      </div>

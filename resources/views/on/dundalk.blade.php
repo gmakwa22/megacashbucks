@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dundalk, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g212094-Activities-Dundalk_County_Louth.html" target="_blank" >- Best Attractions in Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1655671-Dundalk_Grey_County_Ontario.html" target="_blank" >- Best Places to Eat in Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dundalk/80014000.html" target="_blank" >- Best Places to Go Shopping in Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Dundalk-ON-Canada" target="_blank" >- Public Transportation Options in Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1655671-Dundalk_Grey_County_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/grey/dundalk/" target="_blank" >- Best Things to do with the Kids in Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/dundalk/" target="_blank" >- Local News for Dundalk, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dundalk" target="_blank" >- Weather in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g212094-Activities-Dundalk_County_Louth.html" target="_blank"   >- Best Attractions in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1655671-Dundalk_Grey_County_Ontario.html" target="_blank"   >- Best Places to Eat in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dundalk/80014000.html" target="_blank"   >- Best Places to Go Shopping in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Dundalk-ON-Canada" target="_blank"   >- Public Transportation Options in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1655671-Dundalk_Grey_County_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/grey/dundalk/" target="_blank"   >- Best Things to do with the Kids in Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/dundalk/" target="_blank"   >- Local News for Dundalk, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dundalk" target="_blank"   >- Weather in Dundalk, Ontario</a></li>
 					</ul>
       </div>
      </div>

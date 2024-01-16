@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Coaldale, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://stationgroundsalberta.ca/top-4-things-coaldale-alberta/" target="_blank" >- Best Attractions in Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1219432-Coaldale_Alberta.html" target="_blank" >- Best Places to Eat in Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Coaldale%2C+AB" target="_blank" >- Best Places to Go Shopping in Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coaldale.ca/services/town-services" target="_blank" >- Public Transportation Options in Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de1912562/coaldale-alberta-hotels-rooms/" target="_blank" >- Best Places to Stay in Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/coaldale/ab" target="_blank" >- Best Things to do with the Kids in Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/coaldale/" target="_blank" >- Local News for Coaldale, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/coaldale" target="_blank" >- Weather in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://stationgroundsalberta.ca/top-4-things-coaldale-alberta/" target="_blank"   >- Best Attractions in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1219432-Coaldale_Alberta.html" target="_blank"   >- Best Places to Eat in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Coaldale%2C+AB" target="_blank"   >- Best Places to Go Shopping in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.coaldale.ca/services/town-services" target="_blank"   >- Public Transportation Options in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.choicehotels.com/en-ca/alberta/coaldale/hotels" target="_blank"   >- Best Places to Stay in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/coaldale/ab" target="_blank"   >- Best Things to do with the Kids in Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/coaldale/" target="_blank"   >- Local News for Coaldale, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/coaldale" target="_blank"   >- Weather in Coaldale, Alberta</a></li>
 					</ul>
       </div>
      </div>

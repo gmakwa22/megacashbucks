@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Regina Beach, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/356/regina-beach" target="_blank" >- Best Attractions in Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Regina-Beach" target="_blank" >- Best Places to Eat in Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4604593-Activities-c26-Regina_Beach_Saskatchewan.html" target="_blank" >- Best Places to Go Shopping in Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.regina.ca/transportation-roads-parking/transit/" target="_blank" >- Public Transportation Options in Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/regina-beach.html" target="_blank" >- Best Places to Stay in Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4604593-Activities-Regina_Beach_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/regina-beach/" target="_blank" >- Local News for Regina Beach, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/regina-beach" target="_blank" >- Weather in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/356/regina-beach" target="_blank"   >- Best Attractions in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Regina-Beach" target="_blank"   >- Best Places to Eat in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4604593-Activities-c26-Regina_Beach_Saskatchewan.html" target="_blank"   >- Best Places to Go Shopping in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.regina.ca/transportation-roads-parking/transit/" target="_blank"   >- Public Transportation Options in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/regina-beach.html" target="_blank"   >- Best Places to Stay in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4604593-Activities-Regina_Beach_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/regina-beach/" target="_blank"   >- Local News for Regina Beach, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/regina-beach" target="_blank"   >- Weather in Regina Beach, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Claresholm, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499099-Activities-Claresholm_Alberta.html" target="_blank" >- Best Attractions in Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499099-Claresholm_Alberta.html" target="_blank" >- Best Places to Eat in Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="https://claresholmchamber.ca/business-directory/wpbdp_category/shopping-retail/" target="_blank" >- Best Places to Go Shopping in Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.claresholm.ca/residents/community-services/transportation" target="_blank" >- Public Transportation Options in Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499099-Claresholm_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/fort-mcleod/claresholm/" target="_blank" >- Best Things to do with the Kids in Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="https://claresholmlocalpress.ca/" target="_blank" >- Local News for Claresholm, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/claresholm" target="_blank" >- Weather in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499099-Activities-Claresholm_Alberta.html" target="_blank"   >- Best Attractions in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499099-Claresholm_Alberta.html" target="_blank"   >- Best Places to Eat in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.claresholm.ca/business-directory?list=retail" target="_blank"   >- Best Places to Go Shopping in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.claresholm.ca/residents/community-services/transportation" target="_blank"   >- Public Transportation Options in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499099-Claresholm_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/fort-mcleod/claresholm/" target="_blank"   >- Best Things to do with the Kids in Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://claresholmlocalpress.ca/" target="_blank"   >- Local News for Claresholm, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/claresholm" target="_blank"   >- Weather in Claresholm, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Nipawin, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://www.nipawin.com/area-attractions.cfm" target="_blank" >- Best Attractions in Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Nipawin" target="_blank" >- Best Places to Eat in Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.nipawin.com/shopping.cfm" target="_blank" >- Best Places to Go Shopping in Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.nipawin.com/accommodation.cfm" target="_blank" >- Best Places to Stay in Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.nipawin.com/area-attractions.cfm" target="_blank" >- Best Things to do with the Kids in Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.nipawinjournal.com/" target="_blank" >- Local News for Nipawin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-47_metric_e.html" target="_blank" >- Weather in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.nipawin.com/area-attractions.cfm" target="_blank"   >- Best Attractions in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Nipawin" target="_blank"   >- Best Places to Eat in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.nipawin.com/shopping.cfm" target="_blank"   >- Best Places to Go Shopping in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.nipawin.com/accommodation.cfm" target="_blank"   >- Best Places to Stay in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.nipawin.com/area-attractions.cfm" target="_blank"   >- Best Things to do with the Kids in Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.nipawinjournal.com/" target="_blank"   >- Local News for Nipawin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-47_metric_e.html" target="_blank"   >- Weather in Nipawin, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

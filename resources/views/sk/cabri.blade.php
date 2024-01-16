@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cabri, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g19801463-Activities-Cabri_Saskatchewan.html" target="_blank" >- Best Attractions in Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Cabri%2C+SK+S0N+0J0" target="_blank" >- Best Places to Eat in Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Cabri%2C+SK+S0N+0J0" target="_blank" >- Best Places to Go Shopping in Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Ferries/Cabri+SK" target="_blank" >- Public Transportation Options in Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19801463-Cabri_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.sirved.com/restaurants/cabri-saskatchewan-canada/best/kids" target="_blank" >- Best Things to do with the Kids in Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://cabri.ca/news/" target="_blank" >- Local News for Cabri, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/cabri" target="_blank" >- Weather in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g19801463-Activities-Cabri_Saskatchewan.html" target="_blank"   >- Best Attractions in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Cabri%2C+SK+S0N+0J0" target="_blank"   >- Best Places to Eat in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Cabri%2C+SK+S0N+0J0" target="_blank"   >- Best Places to Go Shopping in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Ferries/Cabri+SK" target="_blank"   >- Public Transportation Options in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19801463-Cabri_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.sirved.com/restaurants/cabri-saskatchewan-canada/best/kids" target="_blank"   >- Best Things to do with the Kids in Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://cabri.ca/news/" target="_blank"   >- Local News for Cabri, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/cabri" target="_blank"   >- Weather in Cabri, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

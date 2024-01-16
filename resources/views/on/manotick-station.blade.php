@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Manotick Station, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6778480-Activities-Manotick_Ottawa_Ontario.html" target="_blank" >- Best Attractions in Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6778480-Manotick_Ottawa_Ontario.html" target="_blank" >- Best Places to Eat in Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.oneworldbazaar.ca/local-businesses" target="_blank" >- Best Places to Go Shopping in Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Manotick-Ottawa_ON-site_18988417-422" target="_blank" >- Public Transportation Options in Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g6778480-d11621573-Manotick_Farmer_s_Market-Manotick_Ottawa_Ontario.html" target="_blank" >- Best Places to Stay in Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ottawaroadtrips.com/2021/06/03/best-day-trip-guide-visit-manotick-ontario-ottawa/" target="_blank" >- Best Things to do with the Kids in Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ottawa.citynews.ca/local-news?=&page=1741" target="_blank" >- Local News for Manotick Station, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/manotick-station" target="_blank" >- Weather in Manotick Station, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6778480-Activities-Manotick_Ottawa_Ontario.html" target="_blank"   >- Best Attractions in Manotick Station, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6778480-Manotick_Ottawa_Ontario.html" target="_blank"   >- Best Places to Eat in Manotick Station, Ontario</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Manotick Station, Ontario</li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Manotick-Ottawa_ON-site_18988417-422" target="_blank"   >- Public Transportation Options in Manotick Station, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g6778480-d11621573-Manotick_Farmer_s_Market-Manotick_Ottawa_Ontario.html" target="_blank"   >- Best Places to Stay in Manotick Station, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ottawaroadtrips.com/2021/06/03/best-day-trip-guide-visit-manotick-ontario-ottawa/" target="_blank"   >- Best Things to do with the Kids in Manotick Station, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ottawa.citynews.ca/local-news?=&page=1741" target="_blank"   >- Local News for Manotick Station, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/manotick-station" target="_blank"   >- Weather in Manotick Station, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Turtleford, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/185/turtleford" target="_blank" >- Best Attractions in Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3562167-Turtleford_Saskatchewan.html" target="_blank" >- Best Places to Eat in Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofturtleford.com/community/businesses.html" target="_blank" >- Best Places to Go Shopping in Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g3562167-d3561486-Reviews-Four_Leaf_Inn-Turtleford_Saskatchewan.html" target="_blank" >- Best Places to Stay in Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/turtleford/" target="_blank" >- Local News for Turtleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/turtleford" target="_blank" >- Weather in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/185/turtleford" target="_blank"   >- Best Attractions in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3562167-Turtleford_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofturtleford.com/community/businesses.html" target="_blank"   >- Best Places to Go Shopping in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g3562167-d3561486-Reviews-Four_Leaf_Inn-Turtleford_Saskatchewan.html" target="_blank"   >- Best Places to Stay in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/turtleford/" target="_blank"   >- Local News for Turtleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/turtleford" target="_blank"   >- Weather in Turtleford, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

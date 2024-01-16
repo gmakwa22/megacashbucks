@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Peace River, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182181-Activities-Peace_River_Alberta.html" target="_blank" >- Best Attractions in Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182181-Peace_River_Alberta.html" target="_blank" >- Best Places to Eat in Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182181-Activities-c26-Peace_River_Alberta.html" target="_blank" >- Best Places to Go Shopping in Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://mightypeace.com/" target="_blank" >- Public Transportation Options in Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182181-Peace_River_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.prrecordgazette.com/category/news/local-news/" target="_blank" >- Best Things to do with the Kids in Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.fitzhugh.ca/category/news/" target="_blank" >- Local News for Peace River, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/peace-river" target="_blank" >- Weather in Peace River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182181-Activities-Peace_River_Alberta.html" target="_blank"   >- Best Attractions in Peace River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182181-Peace_River_Alberta.html" target="_blank"   >- Best Places to Eat in Peace River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182181-Activities-c26-Peace_River_Alberta.html" target="_blank"   >- Best Places to Go Shopping in Peace River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://mightypeace.com/" target="_blank"   >- Public Transportation Options in Peace River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182181-Peace_River_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Peace River, Alberta</a></li>
+					<li class="list-group-item">- Best Things to do with the Kids in Peace River, Alberta</li>
+					<li class="list-group-item"><a href="https://www.jasperlocal.com/" target="_blank"   >- Local News for Peace River, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/peace-river" target="_blank"   >- Weather in Peace River, Alberta</a></li>
 					</ul>
       </div>
      </div>

@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chatham, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181757-Activities-Chatham_Chatham_Kent_Ontario.html" target="_blank" >- Best Attractions in Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181757-Chatham_Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Eat in Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g11825303-Activities-c26-Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Go Shopping in Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.chatham-kent.ca/transit/Pages/default.aspx" target="_blank" >- Public Transportation Options in Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=chatham-5PGjU6TdCnCjsrbdGxcMXgS525624660416%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-3045835577%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=dae5fc4d723ce836729958e278fb03d6;city=-562473;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g11825303-Activities-zft11306-Chatham_Kent_Ontario.html" target="_blank" >- Best Things to do with the Kids in Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.chathamdailynews.ca/" target="_blank" >- Local News for Chatham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chatham" target="_blank" >- Weather in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181757-Activities-Chatham_Chatham_Kent_Ontario.html" target="_blank"   >- Best Attractions in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181757-Chatham_Chatham_Kent_Ontario.html" target="_blank"   >- Best Places to Eat in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g11825303-Activities-c26-Chatham_Kent_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.chatham-kent.ca/transit/Pages/default.aspx" target="_blank"   >- Public Transportation Options in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=chatham-5PGjU6TdCnCjsrbdGxcMXgS525624660416%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-3045835577%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=dae5fc4d723ce836729958e278fb03d6;city=-562473;redirected=1;redirected_from_city=1;source=city&" target="_blank"   >- Best Places to Stay in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g11825303-Activities-zft11306-Chatham_Kent_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://chathamvoice.com/" target="_blank"   >- Local News for Chatham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chatham" target="_blank"   >- Weather in Chatham, Ontario</a></li>
 					</ul>
       </div>
      </div>

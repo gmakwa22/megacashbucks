@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Grand Coulee, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g58497-Activities-Grand_Coulee_Washington.html" target="_blank" >- Best Attractions in Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://heyrestaurants.ca/Saskatchewan/Grand_Coulee/" target="_blank" >- Best Places to Eat in Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Grand+Coulee+SK" target="_blank" >- Best Places to Go Shopping in Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g58497-Grand_Coulee_Washington-Hotels.html" target="_blank" >- Best Places to Stay in Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://regina.ctvnews.ca/motorcyclist-hurt-in-crash-near-grand-coulee-1.1801867/comments-7.511508/comments-7.511508/7.511508" target="_blank" >- Local News for Grand Coulee, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.accuweather.com/en/ca/grand-coulee/s0g/weather-forecast/1366370" target="_blank" >- Weather in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g58497-Activities-Grand_Coulee_Washington.html" target="_blank"   >- Best Attractions in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://heyrestaurants.ca/Saskatchewan/Grand_Coulee/" target="_blank"   >- Best Places to Eat in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Grocery+Stores/Grand+Coulee+SK" target="_blank"   >- Best Places to Go Shopping in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g58497-Grand_Coulee_Washington-Hotels.html" target="_blank"   >- Best Places to Stay in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://regina.ctvnews.ca/motorcyclist-hurt-in-crash-near-grand-coulee-1.1801867/comments-7.511508/comments-7.511508/7.511508" target="_blank"   >- Local News for Grand Coulee, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.accuweather.com/en/ca/grand-coulee/s0g/weather-forecast/1366370" target="_blank"   >- Weather in Grand Coulee, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Magrath, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6706661-Activities-Magrath_Alberta.html" target="_blank" >- Best Attractions in Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.magrath.ca/places-to-eat" target="_blank" >- Best Places to Eat in Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.magrathchamber.com/we-shop-in-magrath.html" target="_blank" >- Best Places to Go Shopping in Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/Magrath+Alberta/80020000.html" target="_blank" >- Public Transportation Options in Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g6706661-Magrath_Alberta-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.weerkids.net/magrath.html" target="_blank" >- Best Things to do with the Kids in Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/magrath/" target="_blank" >- Local News for Magrath, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/magrath" target="_blank" >- Weather in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6706661-Activities-Magrath_Alberta.html" target="_blank"   >- Best Attractions in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.magrath.ca/places-to-eat" target="_blank"   >- Best Places to Eat in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.magrathchamber.com/we-shop-in-magrath.html" target="_blank"   >- Best Places to Go Shopping in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/Magrath+Alberta/80020000.html" target="_blank"   >- Public Transportation Options in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g6706661-Magrath_Alberta-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.weerkids.net/magrath.html" target="_blank"   >- Best Things to do with the Kids in Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/magrath/" target="_blank"   >- Local News for Magrath, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/magrath" target="_blank"   >- Weather in Magrath, Alberta</a></li>
 					</ul>
       </div>
      </div>

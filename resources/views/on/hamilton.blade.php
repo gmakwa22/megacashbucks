@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hamilton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://tourismhamilton.com/bucketlist" target="_blank" >- Best Attractions in Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154990-Hamilton_Ontario.html" target="_blank" >- Best Places to Eat in Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154990-Activities-c26-Hamilton_Ontario.html" target="_blank" >- Best Places to Go Shopping in Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hamilton.ca/hsr-bus-schedules-fares/" target="_blank" >- Public Transportation Options in Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848862.b1114449649599.g1aud-1210701017419%3Akwd-156020570.l1.e1c.m1EAIaIQobChMIz6z1ksrK8wIVBQutBh2sDwl4EAAYASAAEgKMHfD_BwE.r1d76cce87f36039bfe04f14a1856dae8c61e9e9a4c530d3f921f49734f1752dff.c1SYut10AHwCk8_ldjKi7BWQ.j19001551.k1.d1486363845965.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Hamilton%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMIz6z1ksrK8wIVBQutBh2sDwl4EAAYASAAEgKMHfD_BwE&locale=en_CA&regionId=6057867&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154990-Activities-zft11306-Hamilton_Ontario.html" target="_blank" >- Best Things to do with the Kids in Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thespec.com/" target="_blank" >- Local News for Hamilton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hamilton" target="_blank" >- Weather in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://tourismhamilton.com/bucketlist" target="_blank"   >- Best Attractions in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154990-Hamilton_Ontario.html" target="_blank"   >- Best Places to Eat in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154990-Activities-c26-Hamilton_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hamilton.ca/hsr-bus-schedules-fares/" target="_blank"   >- Public Transportation Options in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848862.b1114449649599.g1aud-1210701017419%3Akwd-156020570.l1.e1c.m1EAIaIQobChMIz6z1ksrK8wIVBQutBh2sDwl4EAAYASAAEgKMHfD_BwE.r1d76cce87f36039bfe04f14a1856dae8c61e9e9a4c530d3f921f49734f1752dff.c1SYut10AHwCk8_ldjKi7BWQ.j19001551.k1.d1486363845965.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Hamilton%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMIz6z1ksrK8wIVBQutBh2sDwl4EAAYASAAEgKMHfD_BwE&locale=en_CA&regionId=6057867&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank"   >- Best Places to Stay in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154990-Activities-zft11306-Hamilton_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thespec.com/" target="_blank"   >- Local News for Hamilton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hamilton" target="_blank"   >- Weather in Hamilton, Ontario</a></li>
 					</ul>
       </div>
      </div>

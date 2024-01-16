@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Chalk River, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940808-Activities-Chalk_River_Laurentian_Hills_Ontario.html" target="_blank" >- Best Attractions in Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Chalk-River" target="_blank" >- Best Places to Eat in Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chalk+River/80014000.html" target="_blank" >- Best Places to Go Shopping in Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/chalk+river/90016003.html" target="_blank" >- Public Transportation Options in Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g940808-Chalk_River_Laurentian_Hills_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/chalk-river/on" target="_blank" >- Best Things to do with the Kids in Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/chalk-river/" target="_blank" >- Local News for Chalk River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chalk-river" target="_blank" >- Weather in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940808-Activities-Chalk_River_Laurentian_Hills_Ontario.html" target="_blank"   >- Best Attractions in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Chalk-River" target="_blank"   >- Best Places to Eat in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Chalk+River/80014000.html" target="_blank"   >- Best Places to Go Shopping in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/chalk+river/90016003.html" target="_blank"   >- Public Transportation Options in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g940808-Chalk_River_Laurentian_Hills_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/chalk-river/on" target="_blank"   >- Best Things to do with the Kids in Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/chalk-river/" target="_blank"   >- Local News for Chalk River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/chalk-river" target="_blank"   >- Weather in Chalk River, Ontario</a></li>
 					</ul>
       </div>
      </div>

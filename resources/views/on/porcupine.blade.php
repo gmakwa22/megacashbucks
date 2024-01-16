@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Porcupine, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://www.tourismtimmins.com/events/attractions-2/" target="_blank" >- Best Attractions in Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g678571-South_Porcupine_Timmins_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/porcupine/porcupine-mall" target="_blank" >- Best Places to Go Shopping in Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.timmins.ca/our_services/timmins_transit/maps_schedules/16_s_porcupine_porcupine" target="_blank" >- Public Transportation Options in Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10430552/south-porcupine-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tourismtimmins.com/events/attractions-2/" target="_blank" >- Best Things to do with the Kids in Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.timminstoday.com/" target="_blank" >- Local News for Porcupine, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/porcupine" target="_blank" >- Weather in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tourismtimmins.com/events/attractions-2/" target="_blank"   >- Best Attractions in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g678571-South_Porcupine_Timmins_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/porcupine/porcupine-mall" target="_blank"   >- Best Places to Go Shopping in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.timmins.ca/our_services/timmins_transit/maps_schedules/16_s_porcupine_porcupine" target="_blank"   >- Public Transportation Options in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/south-porcupine-on" target="_blank"   >- Best Places to Stay in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tourismtimmins.com/events/attractions-2/" target="_blank"   >- Best Things to do with the Kids in Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/opp-south-porcupine/" target="_blank"   >- Local News for Porcupine, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/porcupine" target="_blank"   >- Weather in Porcupine, Ontario</a></li>
 					</ul>
       </div>
      </div>

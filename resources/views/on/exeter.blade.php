@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Exeter, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1999610-Activities-Exeter_Huron_County_Ontario.html" target="_blank" >- Best Attractions in Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Exeter-Ontario-m9623" target="_blank" >- Best Places to Eat in Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.experienceexeter.ca/explore-exeter/business-directory/" target="_blank" >- Best Places to Go Shopping in Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.sarnia.ca/inter-community-bus-lambton-shores/" target="_blank" >- Public Transportation Options in Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1999610-Exeter_Huron_County_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/huron/exeter/" target="_blank" >- Best Things to do with the Kids in Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.exetertoday.ca/local-news/" target="_blank" >- Local News for Exeter, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/exeter" target="_blank" >- Weather in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1999610-Activities-Exeter_Huron_County_Ontario.html" target="_blank"   >- Best Attractions in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Exeter-Ontario-m9623" target="_blank"   >- Best Places to Eat in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.experienceexeter.ca/explore-exeter/business-directory/" target="_blank"   >- Best Places to Go Shopping in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.southhuron.ca/en/services/transportation-services.aspx" target="_blank"   >- Public Transportation Options in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1999610-Exeter_Huron_County_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/huron/exeter/" target="_blank"   >- Best Things to do with the Kids in Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.exetertoday.ca/local-news/" target="_blank"   >- Local News for Exeter, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/exeter" target="_blank"   >- Weather in Exeter, Ontario</a></li>
 					</ul>
       </div>
      </div>

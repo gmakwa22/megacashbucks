@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hearst, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.hearst.ca/en/visitors/100-things-to-do-in-hearst/" target="_blank" >- Best Attractions in Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g667817-Hearst_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hearst.ca/en/residents/shopping/" target="_blank" >- Best Places to Go Shopping in Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Brampton/Hearst" target="_blank" >- Public Transportation Options in Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hearst.html" target="_blank" >- Best Places to Stay in Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hearst.ca/en/visitors/100-things-to-do-in-hearst/" target="_blank" >- Best Things to do with the Kids in Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hearst.ca/en/news/" target="_blank" >- Local News for Hearst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hearst" target="_blank" >- Weather in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/ontario/wilderness-region/hearst.html" target="_blank"   >- Best Attractions in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g667817-Hearst_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hearst.ca/en/residents/shopping/" target="_blank"   >- Best Places to Go Shopping in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Brampton/Hearst" target="_blank"   >- Public Transportation Options in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hearst.html" target="_blank"   >- Best Places to Stay in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/ontario/wilderness-region/hearst/activities.html" target="_blank"   >- Best Things to do with the Kids in Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hearst.ca/en/news/" target="_blank"   >- Local News for Hearst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hearst" target="_blank"   >- Weather in Hearst, Ontario</a></li>
 					</ul>
       </div>
      </div>

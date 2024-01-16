@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Barrhead, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670338-Activities-Barrhead_Alberta.html" target="_blank" >- Best Attractions in Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g670338-Barrhead_Alberta.html" target="_blank" >- Best Places to Eat in Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Barrhead%2C+AB" target="_blank" >- Best Places to Go Shopping in Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://countybarrhead.ab.ca/p/transportation" target="_blank" >- Public Transportation Options in Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g670338-Barrhead_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/athabasca/Barrhead/" target="_blank" >- Best Things to do with the Kids in Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/barrhead/ab" target="_blank" >- Local News for Barrhead, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/barrhead" target="_blank" >- Weather in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670338-Activities-Barrhead_Alberta.html" target="_blank"   >- Best Attractions in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g670338-Barrhead_Alberta.html" target="_blank"   >- Best Places to Eat in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Barrhead%2C+AB" target="_blank"   >- Best Places to Go Shopping in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://countybarrhead.ab.ca/p/transportation" target="_blank"   >- Public Transportation Options in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g670338-Barrhead_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/athabasca/Barrhead/" target="_blank"   >- Best Things to do with the Kids in Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/barrhead/ab" target="_blank"   >- Local News for Barrhead, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/barrhead" target="_blank"   >- Weather in Barrhead, Alberta</a></li>
 					</ul>
       </div>
      </div>

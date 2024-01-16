@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Barrys Bay, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismOntario.com/community/5/Barrys Bay#sort=relevancy" target="_blank" >- Best Attractions in Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g635952-Barry_s_Bay_Ontario.html" target="_blank" >- Best Places to Eat in Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Barry%27s+Bay%2C+ON" target="_blank" >- Best Places to Go Shopping in Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Barrys-Bay" target="_blank" >- Public Transportation Options in Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=barrys-bay-TNFYAf2qtz8hj16F3LZckAS151879119836%3Apl%3Ata%3Ap12%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-12761123290%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=d2dcdcae4fc8748f235161bd9a869efa;city=-560697;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/barrys-bay/on/kids-fun" target="_blank" >- Best Things to do with the Kids in Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mybarrysbaynow.com/news/" target="_blank" >- Local News for Barrys Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-133_metric_e.html" target="_blank" >- Weather in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tourismOntario.com/community/5/Barrys Bay#sort=relevancy" target="_blank"   >- Best Attractions in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g635952-Barry_s_Bay_Ontario.html" target="_blank"   >- Best Places to Eat in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Barry%27s+Bay%2C+ON" target="_blank"   >- Best Places to Go Shopping in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Barrys-Bay" target="_blank"   >- Public Transportation Options in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=barrys-bay-TNFYAf2qtz8hj16F3LZckAS151879119836%3Apl%3Ata%3Ap12%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-12761123290%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=d2dcdcae4fc8748f235161bd9a869efa;city=-560697;redirected=1;redirected_from_city=1;source=city&" target="_blank"   >- Best Places to Stay in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/barrys-bay/on/kids-fun" target="_blank"   >- Best Things to do with the Kids in Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mybarrysbaynow.com/news/" target="_blank"   >- Local News for Barrys Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-133_metric_e.html" target="_blank"   >- Weather in Barrys Bay, Ontario</a></li>
 					</ul>
       </div>
      </div>

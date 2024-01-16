@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fergus, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1049419-Activities-Fergus_Centre_Wellington_Ontario.html" target="_blank" >- Best Attractions in Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/fergus/" target="_blank" >- Best Places to Eat in Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1049419-Activities-c26-Fergus_Centre_Wellington_Ontario.html" target="_blank" >- Best Places to Go Shopping in Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Fergus" target="_blank" >- Public Transportation Options in Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fergus.html" target="_blank" >- Best Places to Stay in Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/wellington/fergus/" target="_blank" >- Best Things to do with the Kids in Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.elorafergustoday.com/" target="_blank" >- Local News for Fergus, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/fergus" target="_blank" >- Weather in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1049419-Activities-Fergus_Centre_Wellington_Ontario.html" target="_blank"   >- Best Attractions in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/fergus/" target="_blank"   >- Best Places to Eat in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1049419-Activities-c26-Fergus_Centre_Wellington_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Fergus" target="_blank"   >- Public Transportation Options in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fergus.html" target="_blank"   >- Best Places to Stay in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/wellington/fergus/" target="_blank"   >- Best Things to do with the Kids in Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wellingtonadvertiser.com/" target="_blank"   >- Local News for Fergus, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/fergus" target="_blank"   >- Weather in Fergus, Ontario</a></li>
 					</ul>
       </div>
      </div>

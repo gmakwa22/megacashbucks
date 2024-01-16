@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kanata, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g11964688-Activities-Kanata_Ottawa_Ontario.html" target="_blank" >- Best Attractions in Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g11964688-Kanata_Ottawa_Ontario.html" target="_blank" >- Best Places to Eat in Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/kanata" target="_blank" >- Best Places to Go Shopping in Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Kanata" target="_blank" >- Public Transportation Options in Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/district/ca/ottawa/kanata.html" target="_blank" >- Best Places to Stay in Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/ottawa/kanata/" target="_blank" >- Best Things to do with the Kids in Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ottawa.ctvnews.ca/news/latest-news" target="_blank" >- Local News for Kanata, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kanata" target="_blank" >- Weather in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g11964688-Activities-Kanata_Ottawa_Ontario.html" target="_blank"   >- Best Attractions in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g11964688-Kanata_Ottawa_Ontario.html" target="_blank"   >- Best Places to Eat in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/kanata" target="_blank"   >- Best Places to Go Shopping in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Kanata" target="_blank"   >- Public Transportation Options in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/district/ca/ottawa/kanata.html" target="_blank"   >- Best Places to Stay in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/ottawa/kanata/" target="_blank"   >- Best Things to do with the Kids in Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ottawa.ctvnews.ca/news/latest-news" target="_blank"   >- Local News for Kanata, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kanata" target="_blank"   >- Weather in Kanata, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Clinton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984026-Activities-Clinton_Huron_County_Ontario.html" target="_blank" >- Best Attractions in Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984026-Clinton_Huron_County_Ontario.html" target="_blank" >- Best Places to Eat in Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Clinton%2C+BC+V0K+1K0" target="_blank" >- Best Places to Go Shopping in Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/ashcroft-cache-creek-clinton/schedules-and-maps/route-overview?route=1" target="_blank" >- Public Transportation Options in Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/clinton.html" target="_blank" >- Best Places to Stay in Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/clinton-ontario" target="_blank" >- Best Things to do with the Kids in Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.clintonnewsrecord.com/category/news/local-news/" target="_blank" >- Local News for Clinton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/clinton" target="_blank" >- Weather in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984026-Activities-Clinton_Huron_County_Ontario.html" target="_blank"   >- Best Attractions in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984026-Clinton_Huron_County_Ontario.html" target="_blank"   >- Best Places to Eat in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Clinton%2C+BC+V0K+1K0" target="_blank"   >- Best Places to Go Shopping in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/ashcroft-cache-creek-clinton/schedules-and-maps/route-overview?route=1" target="_blank"   >- Public Transportation Options in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/clinton.html" target="_blank"   >- Best Places to Stay in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/clinton-ontario" target="_blank"   >- Best Things to do with the Kids in Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/clinton-ontario/" target="_blank"   >- Local News for Clinton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/clinton" target="_blank"   >- Weather in Clinton, Ontario</a></li>
 					</ul>
       </div>
      </div>

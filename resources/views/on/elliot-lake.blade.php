@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Elliot Lake, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.elliotlake.ca/en/recreation-and-culture/attractions.aspx" target="_blank" >- Best Attractions in Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.elliotlake.ca/en/recreation-and-culture/dining-and-food.aspx" target="_blank" >- Best Places to Eat in Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Elliot+Lake%2C+ON" target="_blank" >- Best Places to Go Shopping in Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.elliotlake.ca/en/our-community/transit-schedule.aspx" target="_blank" >- Public Transportation Options in Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g796997-Elliot_Lake_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/algoma/elliot-lake/" target="_blank" >- Best Things to do with the Kids in Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.elliotlaketoday.com/" target="_blank" >- Local News for Elliot Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/elliot-lake" target="_blank" >- Weather in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.elliotlake.ca/en/recreation-and-culture/attractions.aspx" target="_blank"   >- Best Attractions in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.elliotlake.ca/en/recreation-and-culture/dining-and-food.aspx" target="_blank"   >- Best Places to Eat in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Elliot+Lake%2C+ON" target="_blank"   >- Best Places to Go Shopping in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.elliotlake.ca/en/our-community/transit-schedule.aspx" target="_blank"   >- Public Transportation Options in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g796997-Elliot_Lake_Northeastern_Ontario_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/algoma/elliot-lake/" target="_blank"   >- Best Things to do with the Kids in Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/elliot-lake/" target="_blank"   >- Local News for Elliot Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/elliot-lake" target="_blank"   >- Weather in Elliot Lake, Ontario</a></li>
 					</ul>
       </div>
      </div>

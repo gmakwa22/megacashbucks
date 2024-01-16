@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Seaforth, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635709-Activities-Seaforth_Huron_County_Ontario.html" target="_blank" >- Best Attractions in Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/seaforth/" target="_blank" >- Best Places to Eat in Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopseaforth.ca/" target="_blank" >- Best Places to Go Shopping in Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Seaforth-ON-Canada/Barrie" target="_blank" >- Public Transportation Options in Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g635709-d7076209-Seaforth_and_Area_Museum-Seaforth_Huron_County_Ontario.html" target="_blank" >- Best Places to Stay in Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/huron/goderich/" target="_blank" >- Best Things to do with the Kids in Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.seaforthhuronexpositor.com/category/news/local-news/" target="_blank" >- Local News for Seaforth, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/seaforth" target="_blank" >- Weather in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635709-Activities-Seaforth_Huron_County_Ontario.html" target="_blank"   >- Best Attractions in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/seaforth/" target="_blank"   >- Best Places to Eat in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopseaforth.ca/" target="_blank"   >- Best Places to Go Shopping in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Seaforth-ON-Canada/Barrie" target="_blank"   >- Public Transportation Options in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g635709-d7076209-Seaforth_and_Area_Museum-Seaforth_Huron_County_Ontario.html" target="_blank"   >- Best Places to Stay in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/huron/goderich/" target="_blank"   >- Best Things to do with the Kids in Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/seaforth-ontario/" target="_blank"   >- Local News for Seaforth, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/seaforth" target="_blank"   >- Weather in Seaforth, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Windsor, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155021-Activities-Windsor_Ontario.html" target="_blank" >- Best Attractions in Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/windsor/" target="_blank" >- Best Places to Eat in Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155021-Activities-c26-Windsor_Ontario.html" target="_blank" >- Best Places to Go Shopping in Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.citywindsor.ca/residents/transitwindsor" target="_blank" >- Public Transportation Options in Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/windsor.html" target="_blank" >- Best Places to Stay in Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155021-Activities-zft11306-Windsor_Ontario.html" target="_blank" >- Best Things to do with the Kids in Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://windsorstar.com/category/news/" target="_blank" >- Local News for Winchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/windsor" target="_blank" >- Weather in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155021-Activities-Windsor_Ontario.html" target="_blank"   >- Best Attractions in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/windsor/" target="_blank"   >- Best Places to Eat in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155021-Activities-c26-Windsor_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.citywindsor.ca/residents/transitwindsor" target="_blank"   >- Public Transportation Options in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/windsor.html" target="_blank"   >- Best Places to Stay in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155021-Activities-zft11306-Windsor_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/winchester?iframe=true&preview=true/" target="_blank"   >- Local News for Winchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/windsor" target="_blank"   >- Weather in Winchester, Ontario</a></li>
 					</ul>
       </div>
      </div>

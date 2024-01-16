@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stoughton, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3347605-Activities-Stoughton_Saskatchewan.html" target="_blank" >- Best Attractions in Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Stoughton-Saskatchewan" target="_blank" >- Best Places to Eat in Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://stoughtonsk.ca/business-directory/" target="_blank" >- Best Places to Go Shopping in Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3347605-Stoughton_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/family-fun/" target="_blank" >- Best Things to do with the Kids in Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/stoughton-saskatchewan/" target="_blank" >- Local News for Stoughton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/stoughton" target="_blank" >- Weather in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3347605-Activities-Stoughton_Saskatchewan.html" target="_blank"   >- Best Attractions in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Stoughton-Saskatchewan" target="_blank"   >- Best Places to Eat in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://stoughtonsk.ca/business-directory/" target="_blank"   >- Best Places to Go Shopping in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3347605-Stoughton_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatoon.com/things-to-do/family-fun/" target="_blank"   >- Best Things to do with the Kids in Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/stoughton-saskatchewan/" target="_blank"   >- Local News for Stoughton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/stoughton" target="_blank"   >- Weather in Stoughton, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

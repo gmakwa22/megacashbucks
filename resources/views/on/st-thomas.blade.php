@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Thomas, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182172-Activities-Saint_Thomas_Ontario.html" target="_blank" >- Best Attractions in St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182172-Saint_Thomas_Ontario.html" target="_blank" >- Best Places to Eat in St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.railwaycitytourism.com/downtown-shopping.html" target="_blank" >- Best Places to Go Shopping in St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.stthomas.ca/living_here/transit_system" target="_blank" >- Public Transportation Options in St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182172-Saint_Thomas_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.railwaycitytourism.com/family-fun.html" target="_blank" >- Best Things to do with the Kids in St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.stthomastoday.ca/local-news/" target="_blank" >- Local News for St. Thomas, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/st-thomas" target="_blank" >- Weather in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182172-Activities-Saint_Thomas_Ontario.html" target="_blank"   >- Best Attractions in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182172-Saint_Thomas_Ontario.html" target="_blank"   >- Best Places to Eat in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.railwaycitytourism.com/downtown-shopping.html" target="_blank"   >- Best Places to Go Shopping in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.stthomas.ca/living_here/transit_system" target="_blank"   >- Public Transportation Options in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182172-Saint_Thomas_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.railwaycitytourism.com/family-fun.html" target="_blank"   >- Best Things to do with the Kids in St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.stthomastoday.ca/local-news/" target="_blank"   >- Local News for St. Thomas, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/st-thomas" target="_blank"   >- Weather in St. Thomas, Ontario</a></li>
 					</ul>
       </div>
      </div>

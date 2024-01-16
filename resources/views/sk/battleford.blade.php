@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Battleford, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499387-Activities-North_Battleford_Saskatchewan.html" target="_blank" >- Best Attractions in Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499387-North_Battleford_Saskatchewan.html" target="_blank" >- Best Places to Eat in Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=North+Battleford%2C+SK" target="_blank" >- Best Places to Go Shopping in Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cityofnb.ca/resident_services/public_transportation.html" target="_blank" >- Public Transportation Options in Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499387-North_Battleford_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499387-Activities-zft11306-North_Battleford_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.sasktoday.ca/north/battlefords-news-optimist" target="_blank" >- Local News for Battleford, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/north-battleford" target="_blank" >- Weather in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499387-Activities-North_Battleford_Saskatchewan.html" target="_blank"   >- Best Attractions in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499387-North_Battleford_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=North+Battleford%2C+SK" target="_blank"   >- Best Places to Go Shopping in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cityofnb.ca/resident_services/public_transportation.html" target="_blank"   >- Public Transportation Options in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499387-North_Battleford_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499387-Activities-zft11306-North_Battleford_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.sasktoday.ca/north/battlefords-news-optimist" target="_blank"   >- Local News for Battleford, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/north-battleford" target="_blank"   >- Weather in Battleford, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

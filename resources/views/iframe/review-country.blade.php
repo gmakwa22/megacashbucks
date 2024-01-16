@@ -48,9 +48,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">4 days ago</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">done super fast</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">they do it by etransfer, mine was automatically deposited within 10 minutes of comple...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Nadia Quill</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">done super fast</div></a>
+<a href="#" target="_blank" ><div class="text">they do it by etransfer, mine was automatically deposited within 10 minutes of comple...</div></a>
+<a href="#" target="_blank" ><div class="name">Nadia Quill</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -78,9 +78,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">16 March</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">I needed money for groceries and I…</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">I needed money for groceries and I decided to try PayDay. I found filling out the form...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Donald Dragomatz</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">I needed money for groceries and I…</div></a>
+<a href="#" target="_blank" ><div class="text">I needed money for groceries and I decided to try PayDay. I found filling out the form...</div></a>
+<a href="#" target="_blank" ><div class="name">Donald Dragomatz</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -108,9 +108,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">11 March</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Awesome possum</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">I was very sceptical about about PayDay st first. But after only taking 5 minutes to f...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">David</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Awesome possum</div></a>
+<a href="#" target="_blank" ><div class="text">I was very sceptical about about PayDay st first. But after only taking 5 minutes to f...</div></a>
+<a href="#" target="_blank" ><div class="name">David</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -138,9 +138,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">7 March</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Quick and easy</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Quick and easy. Excellent service.</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Karen Thornton</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Quick and easy</div></a>
+<a href="#" target="_blank" ><div class="text">Quick and easy. Excellent service.</div></a>
+<a href="#" target="_blank" ><div class="name">Karen Thornton</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -168,9 +168,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">2 March</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Easy honest and respectful staff</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Easy honest and respectful staff. Highly Recommended!</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Sam s</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Easy honest and respectful staff</div></a>
+<a href="#" target="_blank" ><div class="text">Easy honest and respectful staff. Highly Recommended!</div></a>
+<a href="#" target="_blank" ><div class="name">Sam s</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -198,9 +198,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">26 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Good company.</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Good company.</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Brad Gunn</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Good company.</div></a>
+<a href="#" target="_blank" ><div class="text">Good company.</div></a>
+<a href="#" target="_blank" ><div class="name">Brad Gunn</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -228,9 +228,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">22 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">This was so simple easy to use</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">This was so simple easy to use. I would recommend it to everyone.</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">jason zimmer</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">This was so simple easy to use</div></a>
+<a href="#" target="_blank" ><div class="text">This was so simple easy to use. I would recommend it to everyone.</div></a>
+<a href="#" target="_blank" ><div class="name">jason zimmer</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -258,9 +258,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">21 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">So easy and quick to apply!</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">So easy and quick to apply and get your loan! I've never had a problem applying or re...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Casper L.</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">So easy and quick to apply!</div></a>
+<a href="#" target="_blank" ><div class="text">So easy and quick to apply and get your loan! I've never had a problem applying or re...</div></a>
+<a href="#" target="_blank" ><div class="name">Casper L.</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -288,9 +288,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">11 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Very easy process and prompt service</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Very easy process and very prompt turnaround for receiving funds, as well as great re...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Peter Daniels</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Very easy process and prompt service</div></a>
+<a href="#" target="_blank" ><div class="text">Very easy process and very prompt turnaround for receiving funds, as well as great re...</div></a>
+<a href="#" target="_blank" ><div class="name">Peter Daniels</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -318,9 +318,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">7 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">I applied with child tax and disability…</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">I applied with child tax and disability and I was denied. It was also hard to fill ou...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Rhonda</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">I applied with child tax and disability…</div></a>
+<a href="#" target="_blank" ><div class="text">I applied with child tax and disability and I was denied. It was also hard to fill ou...</div></a>
+<a href="#" target="_blank" ><div class="name">Rhonda</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -348,9 +348,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">4 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">BEST ONE YET</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Fast, no hassles  and  I am thrilled! Thank you PayDay!!</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Dawn Gooch</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">BEST ONE YET</div></a>
+<a href="#" target="_blank" ><div class="text">Fast, no hassles  and  I am thrilled! Thank you PayDay!!</div></a>
+<a href="#" target="_blank" ><div class="name">Dawn Gooch</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -378,9 +378,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">2 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Amazingly quick and super easy wow</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Amazingly quick and super easy wow! This has got to be the best loan place I’ve used</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Lexi </div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Amazingly quick and super easy wow</div></a>
+<a href="#" target="_blank" ><div class="text">Amazingly quick and super easy wow! This has got to be the best loan place I’ve used</div></a>
+<a href="#" target="_blank" ><div class="name">Lexi </div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -408,9 +408,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">1 February</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">PayDay staff really help and there…thx PayDay you do your job excellent</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">PayDay staff really help and there response time back to me, well i would say right aw...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Alan Murray Berberich</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">PayDay staff really help and there…thx PayDay you do your job excellent</div></a>
+<a href="#" target="_blank" ><div class="text">PayDay staff really help and there response time back to me, well i would say right aw...</div></a>
+<a href="#" target="_blank" ><div class="name">Alan Murray Berberich</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -438,9 +438,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">23 January</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Quick and Easy cash when you need it! First time user!!!</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">I think this is a great service! I heard about it on the radio yesterday, applied yes...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">Angel Par</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
+<a href="#" target="_blank" ><div class="header">Quick and Easy cash when you need it! First time user!!!</div></a>
+<a href="#" target="_blank" ><div class="text">I think this is a great service! I heard about it on the radio yesterday, applied yes...</div></a>
+<a href="#" target="_blank" ><div class="name">Angel Par</div></a></div><div class="tp-widget-review" style="width: 254.75px;"><div class="tp-widget-stars"><div class=""><div class="tp-stars tp-stars--5">
   <div style="position: relative; height: 0; width: 100%; padding: 0; padding-bottom: 18.326693227091635%;">
     
   <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
@@ -468,9 +468,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   </div>
 </div></div></div>
 <div class="date">22 January</div>
-<a href="#" target="_blank" rel="nofollow"><div class="header">Thank you I Cash for the loan I was…</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="text">Thank you I Cash for the loan I was very happy and impressed I was for sure I was goi...</div></a>
-<a href="#" target="_blank" rel="nofollow"><div class="name">margie Vielle</div></a></div></div>
+<a href="#" target="_blank" ><div class="header">Thank you I Cash for the loan I was…</div></a>
+<a href="#" target="_blank" ><div class="text">Thank you I Cash for the loan I was very happy and impressed I was for sure I was goi...</div></a>
+<a href="#" target="_blank" ><div class="name">margie Vielle</div></a></div></div>
             </div>
             <div id="review-arrow-left" class="tp-widget-review-prev icon-angle-left" style="display: none;">
                 <div class="arrow">&nbsp;</div>

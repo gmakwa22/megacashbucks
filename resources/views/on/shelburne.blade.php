@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Shelburne, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.shelburne.ca/en/explore-and-play/visit-shelburne.aspx" target="_blank" >- Best Attractions in Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Shelburne-Ontario-m9623" target="_blank" >- Best Places to Eat in Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shelburne.ca/en/doing-business-here/retail-directory.aspx" target="_blank" >- Best Places to Go Shopping in Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Shelburne-ON-Canada" target="_blank" >- Public Transportation Options in Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/shelburne.html" target="_blank" >- Best Places to Stay in Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/dufferin/shelburne/" target="_blank" >- Best Things to do with the Kids in Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="http://shelburnefreepress.ca/" target="_blank" >- Local News for Shelburne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/shelburne" target="_blank" >- Weather in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shelburne.ca/en/explore-and-play/visit-shelburne.aspx" target="_blank"   >- Best Attractions in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Shelburne-Ontario-m9623" target="_blank"   >- Best Places to Eat in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shelburne.ca/en/doing-business-here/retail-directory.aspx" target="_blank"   >- Best Places to Go Shopping in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Shelburne-ON-Canada" target="_blank"   >- Public Transportation Options in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/shelburne.html" target="_blank"   >- Best Places to Stay in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/dufferin/shelburne/" target="_blank"   >- Best Things to do with the Kids in Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="http://shelburnefreepress.ca/" target="_blank"   >- Local News for Shelburne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/shelburne" target="_blank"   >- Weather in Shelburne, Ontario</a></li>
 					</ul>
       </div>
      </div>

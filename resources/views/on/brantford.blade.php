@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Brantford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154983-Activities-Brantford_Ontario.html" target="_blank" >- Best Attractions in Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154983-Brantford_Ontario.html" target="_blank" >- Best Places to Eat in Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/arts-cultural-experiences/shopping?gclid=EAIaIQobChMI3rX3sb_K8wIVYj2tBh2FNggzEAAYASAAEgJ4ovD_BwE" target="_blank" >- Best Places to Go Shopping in Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.brantford.ca/en/transportation/brantford-transit.aspx" target="_blank" >- Public Transportation Options in Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=brantford-mgq1iu2CJXG9rGzFi7w0FQS392865643840%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-186257976%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=dae5fc4d723ce836729958e278fb03d6;city=-561588;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://citykidz.ca/?gclid=EAIaIQobChMIx9Hf8b_K8wIVnwqtBh2STwjqEAAYASAAEgI8SfD_BwE" target="_blank" >- Best Things to do with the Kids in Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.brantfordexpositor.ca/category/news/local-news/" target="_blank" >- Local News for Brantford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brantford" target="_blank" >- Weather in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154983-Activities-Brantford_Ontario.html" target="_blank"   >- Best Attractions in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154983-Brantford_Ontario.html" target="_blank"   >- Best Places to Eat in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/things-to-do/arts-cultural-experiences/shopping?gclid=EAIaIQobChMI3rX3sb_K8wIVYj2tBh2FNggzEAAYASAAEgJ4ovD_BwE" target="_blank"   >- Best Places to Go Shopping in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.brantford.ca/en/transportation/brantford-transit.aspx" target="_blank"   >- Public Transportation Options in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=brantford-mgq1iu2CJXG9rGzFi7w0FQS392865643840%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-186257976%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=dae5fc4d723ce836729958e278fb03d6;city=-561588;redirected=1;redirected_from_city=1;source=city&" target="_blank"   >- Best Places to Stay in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://citykidz.ca/?gclid=EAIaIQobChMIx9Hf8b_K8wIVnwqtBh2STwjqEAAYASAAEgI8SfD_BwE" target="_blank"   >- Best Things to do with the Kids in Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/brantford/" target="_blank"   >- Local News for Brantford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brantford" target="_blank"   >- Weather in Brantford, Ontario</a></li>
 					</ul>
       </div>
      </div>

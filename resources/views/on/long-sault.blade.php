@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Long Sault, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g644378-Activities-Long_Sault_Ontario.html" target="_blank" >- Best Attractions in Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g644378-Long_Sault_Ontario.html" target="_blank" >- Best Places to Eat in Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=ON-138%2C+Long+Sault%2C+ON+K0C+1P0" target="_blank" >- Best Places to Go Shopping in Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.cornwall.ca/en/live-here/transit-routes.aspx" target="_blank" >- Public Transportation Options in Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/long-sault-parkway.html" target="_blank" >- Best Places to Stay in Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g644378-Activities-zft11306-Long_Sault_Ontario.html" target="_blank" >- Best Things to do with the Kids in Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://cornwallfreenews.com/tag/long-sault-2/" target="_blank" >- Local News for Long Sault, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/long-sault" target="_blank" >- Weather in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g644378-Activities-Long_Sault_Ontario.html" target="_blank"   >- Best Attractions in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g644378-Long_Sault_Ontario.html" target="_blank"   >- Best Places to Eat in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=ON-138%2C+Long+Sault%2C+ON+K0C+1P0" target="_blank"   >- Best Places to Go Shopping in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.cornwall.ca/en/live-here/transit-routes.aspx" target="_blank"   >- Public Transportation Options in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/long-sault-parkway.html" target="_blank"   >- Best Places to Stay in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g644378-Activities-zft11306-Long_Sault_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://cornwallfreenews.com/tag/long-sault-2/" target="_blank"   >- Local News for Long Sault, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/long-sault" target="_blank"   >- Weather in Long Sault, Ontario</a></li>
 					</ul>
       </div>
      </div>

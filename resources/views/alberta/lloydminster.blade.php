@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about lloydminster, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182152-Activities-Lloydminster_Alberta.html" target="_blank" >- Best Attractions in lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182152-Lloydminster_Alberta.html" target="_blank" >- Best Places to Eat in lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Lloydminster%2C+AB" target="_blank" >- Best Places to Go Shopping in lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.lloydminster.ca/en/living-in-lloydminster/transportation.aspx" target="_blank" >- Public Transportation Options in lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=lloydminster-wrVM41NywJt9IVBzpWLTrgS392664050109%3Apl%3Ata%3Ap115%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-4648240084%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=b515e3f781e019b3df1a697071b19db0;city=-568143;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.triphobo.com/places/lloydminster-canada/things-to-do" target="_blank" >- Best Things to do with the Kids in lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.lloydminster.ca/Modules/news/en" target="_blank" >- Local News for lloydminster, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/lloydminster" target="_blank" >- Weather in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182152-Activities-Lloydminster_Alberta.html" target="_blank"   >- Best Attractions in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182152-Lloydminster_Alberta.html" target="_blank"   >- Best Places to Eat in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Lloydminster%2C+AB" target="_blank"   >- Best Places to Go Shopping in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.lloydminster.ca/en/living-in-lloydminster/transportation.aspx" target="_blank"   >- Public Transportation Options in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=lloydminster-wrVM41NywJt9IVBzpWLTrgS392664050109%3Apl%3Ata%3Ap115%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-4648240084%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=b515e3f781e019b3df1a697071b19db0;city=-568143;redirected=1;redirected_from_city=1;source=city&" target="_blank"   >- Best Places to Stay in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.triphobo.com/places/lloydminster-canada/things-to-do" target="_blank"   >- Best Things to do with the Kids in lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.lloydminster.ca/Modules/news/en" target="_blank"   >- Local News for lloydminster, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/lloydminster" target="_blank"   >- Weather in lloydminster, Alberta</a></li>
 					</ul>
       </div>
      </div>

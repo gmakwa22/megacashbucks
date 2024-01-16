@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Metcalfe, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g20357252-Adelaide_Metcalfe_Ontario-Vacations.html" target="_blank" >- Best Attractions in Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.zomato.com/ottawa/metcalfe-restaurants" target="_blank" >- Best Places to Eat in Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Metcalfe/80014000.html" target="_blank" >- Best Places to Go Shopping in Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Metcalfe-ON-Canada" target="_blank" >- Public Transportation Options in Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154979-d679995-Metcalfe_Farmers_Market-Ontario.html" target="_blank" >- Best Places to Stay in Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/ottawa/metcalfe/" target="_blank" >- Best Things to do with the Kids in Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://local.ca/on/metcalfe/news/" target="_blank" >- Local News for Metcalfe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/metcalfe" target="_blank" >- Weather in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g20357252-Adelaide_Metcalfe_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.zomato.com/ottawa/metcalfe-restaurants" target="_blank"   >- Best Places to Eat in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Metcalfe/80014000.html" target="_blank"   >- Best Places to Go Shopping in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Metcalfe-ON-Canada" target="_blank"   >- Public Transportation Options in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154979-d679995-Metcalfe_Farmers_Market-Ontario.html" target="_blank"   >- Best Places to Stay in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/ottawa/metcalfe/" target="_blank"   >- Best Things to do with the Kids in Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://local.ca/on/metcalfe/news/" target="_blank"   >- Local News for Metcalfe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/metcalfe" target="_blank"   >- Weather in Metcalfe, Ontario</a></li>
 					</ul>
       </div>
      </div>

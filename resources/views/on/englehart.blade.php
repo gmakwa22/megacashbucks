@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Englehart, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.trip.com/travel-guide/englehart-17588/" target="_blank" >- Best Attractions in Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Englehart" target="_blank" >- Best Places to Eat in Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.englehart.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Englehart" target="_blank" >- Public Transportation Options in Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/englehart.html" target="_blank" >- Best Places to Stay in Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1113387-Activities-Englehart_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/englehart/" target="_blank" >- Local News for Englehart, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/englehart" target="_blank" >- Weather in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.trip.com/travel-guide/englehart-17588/" target="_blank"   >- Best Attractions in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Englehart" target="_blank"   >- Best Places to Eat in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.englehart.ca/p/business-directory" target="_blank"   >- Best Places to Go Shopping in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Englehart" target="_blank"   >- Public Transportation Options in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/englehart.html" target="_blank"   >- Best Places to Stay in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1113387-Activities-Englehart_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/englehart/" target="_blank"   >- Local News for Englehart, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/englehart" target="_blank"   >- Weather in Englehart, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wellesley, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g668089-Wellesley_Region_of_Waterloo_Ontario-Vacations.html" target="_blank" >- Best Attractions in Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Wellesley-Ontario" target="_blank" >- Best Places to Eat in Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155019-Activities-c26-zfn15622789-Toronto_Ontario.html" target="_blank" >- Best Places to Go Shopping in Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wellesley-ON-Canada" target="_blank" >- Public Transportation Options in Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/wellesley-subway-station.html" target="_blank" >- Best Places to Stay in Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/waterloo/wellesley/" target="_blank" >- Best Things to do with the Kids in Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.wellesley.ca/Modules/News/Search.aspx?feedid=6c1e4e1c-d1ff-4d9f-9e34-dc97804b29ea" target="_blank" >- Local News for Wellesley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/wellesley" target="_blank" >- Weather in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g668089-Wellesley_Region_of_Waterloo_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Wellesley-Ontario" target="_blank"   >- Best Places to Eat in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155019-Activities-c26-zfn15622789-Toronto_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wellesley-ON-Canada" target="_blank"   >- Public Transportation Options in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/wellesley-subway-station.html" target="_blank"   >- Best Places to Stay in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/waterloo/wellesley/" target="_blank"   >- Best Things to do with the Kids in Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wellesley.ca/Modules/News/Search.aspx?feedid=6c1e4e1c-d1ff-4d9f-9e34-dc97804b29ea" target="_blank"   >- Local News for Wellesley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/wellesley" target="_blank"   >- Weather in Wellesley, Ontario</a></li>
 					</ul>
       </div>
      </div>

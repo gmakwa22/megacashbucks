@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dresden, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2717676-Activities-Dresden_Chatham_Kent_Ontario.html" target="_blank" >- Best Attractions in Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://dresden.ca/places/category/restaurants/" target="_blank" >- Best Places to Eat in Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dresden/80014000.html" target="_blank" >- Best Places to Go Shopping in Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Dresden-Chatham_Kent_ON-site_153804288-6121" target="_blank" >- Public Transportation Options in Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2717676-Dresden_Chatham_Kent_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/dresden/" target="_blank" >- Best Things to do with the Kids in Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/dresden/" target="_blank" >- Local News for Dresden, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dresden" target="_blank" >- Weather in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2717676-Activities-Dresden_Chatham_Kent_Ontario.html" target="_blank"   >- Best Attractions in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://dresden.ca/places/category/restaurants/" target="_blank"   >- Best Places to Eat in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dresden/80014000.html" target="_blank"   >- Best Places to Go Shopping in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Dresden-Chatham_Kent_ON-site_153804288-6121" target="_blank"   >- Public Transportation Options in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g2717676-Dresden_Chatham_Kent_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/dresden/" target="_blank"   >- Best Things to do with the Kids in Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/dresden/" target="_blank"   >- Local News for Dresden, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dresden" target="_blank"   >- Weather in Dresden, Ontario</a></li>
 					</ul>
       </div>
      </div>

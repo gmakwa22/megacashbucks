@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Oxbow, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3750050-Activities-Oxbow_Saskatchewan.html" target="_blank" >- Best Attractions in Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.oxbow.ca/p/where-to-eat" target="_blank" >- Best Places to Eat in Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.oxbow.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.oxbow.ca/p/hotels" target="_blank" >- Best Places to Stay in Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/oxbow/" target="_blank" >- Local News for Oxbow, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-10_metric_e.html" target="_blank" >- Weather in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3750050-Activities-Oxbow_Saskatchewan.html" target="_blank"   >- Best Attractions in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.oxbow.ca/p/where-to-eat" target="_blank"   >- Best Places to Eat in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.oxbow.ca/p/business-directory" target="_blank"   >- Best Places to Go Shopping in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.oxbow.ca/p/hotels" target="_blank"   >- Best Places to Stay in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/oxbow/" target="_blank"   >- Local News for Oxbow, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-10_metric_e.html" target="_blank"   >- Weather in Oxbow, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

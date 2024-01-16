@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Timmins, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155018-Activities-Timmins_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Timmins" target="_blank" >- Best Places to Eat in Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/timmins/timmins-square" target="_blank" >- Best Places to Go Shopping in Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.timmins.ca/our_services/timmins_transit/maps_schedules" target="_blank" >- Public Transportation Options in Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/timmins.html" target="_blank" >- Best Places to Stay in Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/cochrane/timmins/" target="_blank" >- Best Things to do with the Kids in Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.timminstoday.com/" target="_blank" >- Local News for Timmins, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-127_metric_e.html" target="_blank" >- Weather in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155018-Activities-Timmins_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Timmins" target="_blank"   >- Best Places to Eat in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/timmins/timmins-square" target="_blank"   >- Best Places to Go Shopping in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.timmins.ca/our_services/timmins_transit/maps_schedules" target="_blank"   >- Public Transportation Options in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/timmins.html" target="_blank"   >- Best Places to Stay in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/cochrane/timmins/" target="_blank"   >- Best Things to do with the Kids in Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/opp-south-porcupine/" target="_blank"   >- Local News for Timmins, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-127_metric_e.html" target="_blank"   >- Weather in Timmins, Ontario</a></li>
 					</ul>
       </div>
      </div>

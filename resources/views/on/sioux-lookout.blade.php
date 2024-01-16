@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sioux Lookout, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitsunsetcountry.com/sioux-lookout-attractions-and-things-to-do" target="_blank" >- Best Attractions in Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/breakfast-Sioux-Lookout-m9619" target="_blank" >- Best Places to Eat in Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://siouxlookout.com/places/category/retail-wholesale/" target="_blank" >- Best Places to Go Shopping in Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kenora/Sioux-Lookout" target="_blank" >- Public Transportation Options in Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g660794-Sioux_Lookout_Kenora_District_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://siouxlookout.com/things-to-do/" target="_blank" >- Best Things to do with the Kids in Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.siouxlookout.ca/en/News/search.aspx" target="_blank" >- Local News for Sioux Lookout, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-135_metric_e.html" target="_blank" >- Weather in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitsunsetcountry.com/sioux-lookout-attractions-and-things-to-do" target="_blank"   >- Best Attractions in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/breakfast-Sioux-Lookout-m9619" target="_blank"   >- Best Places to Eat in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://siouxlookout.com/places/category/retail-wholesale/" target="_blank"   >- Best Places to Go Shopping in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kenora/Sioux-Lookout" target="_blank"   >- Public Transportation Options in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g660794-Sioux_Lookout_Kenora_District_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://siouxlookout.com/things-to-do/" target="_blank"   >- Best Things to do with the Kids in Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.siouxlookout.ca/en/News/search.aspx" target="_blank"   >- Local News for Sioux Lookout, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-135_metric_e.html" target="_blank"   >- Weather in Sioux Lookout, Ontario</a></li>
 					</ul>
       </div>
      </div>

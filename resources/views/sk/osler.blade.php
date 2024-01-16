@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Osler, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://townofosler.com/p/our-town" target="_blank" >- Best Attractions in Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Osler-Restaurant-Osler" target="_blank" >- Best Places to Eat in Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofosler.com/p/business-directory" target="_blank" >- Best Places to Go Shopping in Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Osler" target="_blank" >- Public Transportation Options in Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19140969-Osler_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.mykiddypark.com/en/localisation/free-play-parks-at-osler-saskatchewan-canada" target="_blank" >- Best Things to do with the Kids in Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/osler-saskatchewan" target="_blank" >- Local News for Osler, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/osler" target="_blank" >- Weather in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofosler.com/p/our-town" target="_blank"   >- Best Attractions in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Osler-Restaurant-Osler" target="_blank"   >- Best Places to Eat in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofosler.com/p/business-directory" target="_blank"   >- Best Places to Go Shopping in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Osler" target="_blank"   >- Public Transportation Options in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19140969-Osler_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.mykiddypark.com/en/localisation/free-play-parks-at-osler-saskatchewan-canada" target="_blank"   >- Best Things to do with the Kids in Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/osler-saskatchewan" target="_blank"   >- Local News for Osler, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/osler" target="_blank"   >- Weather in Osler, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

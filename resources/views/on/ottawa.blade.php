@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ottawa, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155004-Activities-c42-Ottawa_Ontario.html" target="_blank" >- Best Attractions in Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/ottawa/" target="_blank" >- Best Places to Eat in Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155004-Activities-c26-Ottawa_Ontario.html" target="_blank" >- Best Places to Go Shopping in Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.octranspo.com/" target="_blank" >- Public Transportation Options in Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/ottawa.html" target="_blank" >- Best Places to Stay in Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155004-Activities-zft11306-Ottawa_Ontario.html" target="_blank" >- Best Things to do with the Kids in Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/ottawa/" target="_blank" >- Local News for Ottawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ottawa" target="_blank" >- Weather in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155004-Activities-c42-Ottawa_Ontario.html" target="_blank"   >- Best Attractions in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/ottawa/" target="_blank"   >- Best Places to Eat in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155004-Activities-c26-Ottawa_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.octranspo.com/" target="_blank"   >- Public Transportation Options in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/ottawa.html" target="_blank"   >- Best Places to Stay in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155004-Activities-zft11306-Ottawa_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/ottawa/" target="_blank"   >- Local News for Ottawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ottawa" target="_blank"   >- Weather in Ottawa, Ontario</a></li>
 					</ul>
       </div>
      </div>

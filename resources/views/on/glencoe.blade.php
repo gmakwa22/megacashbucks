@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Glencoe, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g3956417-Glencoe_Ontario-Vacations.html" target="_blank" >- Best Attractions in Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Glencoe-Ontario" target="_blank" >- Best Places to Eat in Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://glencoe-on.findstorenearme.ca/store/" target="_blank" >- Best Places to Go Shopping in Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.wanderu.com/en-ca/train/ca-on/glencoe/ca-on/toronto/" target="_blank" >- Public Transportation Options in Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g3956417-Glencoe_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/glencoe/" target="_blank" >- Best Things to do with the Kids in Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/glencoe/" target="_blank" >- Local News for Glencoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/glencoe" target="_blank" >- Weather in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g3956417-Glencoe_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Glencoe-Ontario" target="_blank"   >- Best Places to Eat in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://glencoe-on.findstorenearme.ca/store/" target="_blank"   >- Best Places to Go Shopping in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wanderu.com/en-ca/train/ca-on/glencoe/ca-on/toronto/" target="_blank"   >- Public Transportation Options in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g3956417-Glencoe_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/glencoe/" target="_blank"   >- Best Things to do with the Kids in Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/glencoe/" target="_blank"   >- Local News for Glencoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/glencoe" target="_blank"   >- Weather in Glencoe, Ontario</a></li>
 					</ul>
       </div>
      </div>

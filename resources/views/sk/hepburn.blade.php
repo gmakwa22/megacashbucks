@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hepburn, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/84/hepburn" target="_blank" >- Best Attractions in Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Hepburn-Saskatchewan-m9623" target="_blank" >- Best Places to Eat in Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://hepburn.ca/doing_business/business_directory.html" target="_blank" >- Best Places to Go Shopping in Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g8323151-Hepburn_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/saskatchewan/prince-albert/hepburn/" target="_blank" >- Best Things to do with the Kids in Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hepburn-saskatchewan/" target="_blank" >- Local News for Hepburn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/hepburn" target="_blank" >- Weather in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/84/hepburn" target="_blank"   >- Best Attractions in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Hepburn-Saskatchewan-m9623" target="_blank"   >- Best Places to Eat in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://hepburn.ca/doing_business/business_directory.html" target="_blank"   >- Best Places to Go Shopping in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g8323151-Hepburn_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/saskatchewan/prince-albert/hepburn/" target="_blank"   >- Best Things to do with the Kids in Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hepburn-saskatchewan/" target="_blank"   >- Local News for Hepburn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/hepburn" target="_blank"   >- Weather in Hepburn, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

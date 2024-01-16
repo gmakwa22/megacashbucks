@@ -7,7 +7,7 @@
 			<div class="col-xs-12">
 				<p class="title">Ayr Ontario</p>
 				<h2 class="small-title">Ayr’s Best PayDay Loans</h2>
-				<p class="text text-justify">We know that things happen in life and sometimes you need extra money for unexpected expenses. If you need the car or computer repaired, emergency dental work or last-minute tuition fees, what do you do? Borrow from family? That can be complicated. Apply for a line of credit? But that can take too long. You need a solution now. A post-dated check? That can be tricky. How about a cleaner, faster, easier solution than any of those options? Our payday loan in ayr can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
+				<p class="text text-justify">We know that things happen in life and sometimes you need extra money for unexpected expenses. If you need the car or computer repaired, emergency dental work or last-minute tuition fees, what do you do? Borrow from family? That can be complicated. Apply for a line of credit? But that can take too long. You need a solution now. A post-dated check? That can be tricky. How about a cleaner, faster, easier solution than any of those options? Our payday loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
 				<p class="text text-justify">Plus, we use the industry’s state-of-the-art encryption technology to ensure that your personal application information is rock solid safe. Also, the application is as simple as can be. The days of standing in line at some storefront location, with all your documents piled in your lap, waiting for your number to be called, are over at {{$privname}}. Ours is a completely streamlined, easy to use, secure, online process. The whole thing can be done from the comfort of your couch, all in one day. Once approved, and you sign the electronic contract, your funds are just 5 minutes away from being in your bank account. </p>
 				<p class="text text-justify">So, if you’re looking for a short-term loan, with a trusted, direct lender, {{$privname}} is the company for you. Our Code of Conduct is drawn from industry best practices, ensuring a transparent and responsible lending process wherever you are, in Ayr or across Ontario.</p>
 				<p class="text text-justify">We appreciate the encouraging response to our innovative loan business model from our clients in Ayr. Look forward to more great short-term loan opportunities as we work to make your financial life easier and happier.
@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ayr, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.northdumfries.ca/en/living-here/attractions-and-scenic-waterways.aspx?_mid_=26025" target="_blank" >- Best Attractions in Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1175390-Ayr_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Places to Eat in Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/ayr/80014000.html" target="_blank" >- Best Places to Go Shopping in Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Ayr-ON-Canada" target="_blank" >- Public Transportation Options in Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/gb/ayr.html?aid=306395;label=ayr-pehIELSwEFRS3yIXS3igEgS392865642388:pl:ta:p140:p2:ac:ap:neg:fi:tikwd-141070379:lp9001551:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gclid=EAIaIQobChMI5-HgpqvK8wIVKj6tBh0BeQEJEAAYASAAEgKymPD_BwE" target="_blank" >- Best Places to Stay in Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/waterloo/ayr/" target="_blank" >- Best Things to do with the Kids in Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.ayrnews.ca/" target="_blank" >- Local News for Ayr, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/ayr" target="_blank" >- Weather in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.northdumfries.ca/en/living-here/attractions-and-scenic-waterways.aspx?_mid_=26025" target="_blank"   >- Best Attractions in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1175390-Ayr_Region_of_Waterloo_Ontario.html" target="_blank"   >- Best Places to Eat in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/ayr/80014000.html" target="_blank"   >- Best Places to Go Shopping in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Ayr-ON-Canada" target="_blank"   >- Public Transportation Options in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/gb/ayr.html?aid=306395;label=ayr-pehIELSwEFRS3yIXS3igEgS392865642388:pl:ta:p140:p2:ac:ap:neg:fi:tikwd-141070379:lp9001551:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gclid=EAIaIQobChMI5-HgpqvK8wIVKj6tBh0BeQEJEAAYASAAEgKymPD_BwE" target="_blank"   >- Best Places to Stay in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/waterloo/ayr/" target="_blank"   >- Best Things to do with the Kids in Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.ayrnews.ca/" target="_blank"   >- Local News for Ayr, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/ayr" target="_blank"   >- Weather in Ayr, Ontario</a></li>
 					</ul>
       </div>
      </div>

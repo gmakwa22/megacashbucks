@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Alexandria, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2648295-Activities-Alexandria_Ontario.html" target="_blank" >- Best Attractions in Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2648295-Alexandria_Ontario.html" target="_blank" >- Best Places to Eat in Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Alexandria/80014000.html" target="_blank" >- Best Places to Go Shopping in Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/alexandria_bus_routes.htm" target="_blank" >- Public Transportation Options in Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11406879/Alexandria-Ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiS-tqSs8jzAhVDHzQIHdDMC2sQFnoECAMQAQ&url=http%3A%2F%2Fwww.tripbuzz.com%2Fthings-to-do-with-kids%2Falexandria-ontario&usg=AOvVaw1gBQmXdvreKf0sNKHutg-h" target="_blank" >- Best Things to do with the Kids in Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQhvmqs8jzAhUrITQIHS6cAKwQFnoECAUQAQ&url=https%3A%2F%2Flocal.ca%2Fon%2Falexandria%2Fnews%2F&usg=AOvVaw0jGJwAmeUYRpJpxC1yPMoO" target="_blank" >- Local News for Alexandria, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXwZnCs8jzAhU0CjQIHQOaCgYQFnoECAUQAQ&url=https%3A%2F%2Fwww.theweathernetwork.com%2Fca%2Fweather%2Fontario%2Falexandria&usg=AOvVaw0sRkJJz7YOyp7_N-Amd-l-" target="_blank" >- Weather in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2648295-Activities-Alexandria_Ontario.html" target="_blank"   >- Best Attractions in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2648295-Alexandria_Ontario.html" target="_blank"   >- Best Places to Eat in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Alexandria/80014000.html" target="_blank"   >- Best Places to Go Shopping in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/alexandria_bus_routes.htm" target="_blank"   >- Public Transportation Options in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/ontario/alexandria/" target="_blank"   >- Best Places to Stay in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiS-tqSs8jzAhVDHzQIHdDMC2sQFnoECAMQAQ&url=http%3A%2F%2Fwww.tripbuzz.com%2Fthings-to-do-with-kids%2Falexandria-ontario&usg=AOvVaw1gBQmXdvreKf0sNKHutg-h" target="_blank"   >- Best Things to do with the Kids in Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQhvmqs8jzAhUrITQIHS6cAKwQFnoECAUQAQ&url=https%3A%2F%2Flocal.ca%2Fon%2Falexandria%2Fnews%2F&usg=AOvVaw0jGJwAmeUYRpJpxC1yPMoO" target="_blank"   >- Local News for Alexandria, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXwZnCs8jzAhU0CjQIHQOaCgYQFnoECAUQAQ&url=https%3A%2F%2Fwww.theweathernetwork.com%2Fca%2Fweather%2Fontario%2Falexandria&usg=AOvVaw0sRkJJz7YOyp7_N-Amd-l-" target="_blank"   >- Weather in Alexandria, Ontario</a></li>
 					</ul>
       </div>
      </div>

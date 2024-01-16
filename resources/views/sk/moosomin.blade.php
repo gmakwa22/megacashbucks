@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Moosomin, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1075733-Activities-Moosomin_Saskatchewan.html" target="_blank" >- Best Attractions in Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Moosomin" target="_blank" >- Best Places to Eat in Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Moosomin%2C+SK+S0G+3N0" target="_blank" >- Best Places to Go Shopping in Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.moosomin.com/town-information/towninformation-transportation.php" target="_blank" >- Public Transportation Options in Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/moosomin.html" target="_blank" >- Best Places to Stay in Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/moosomin-saskatchewan/" target="_blank" >- Local News for Moosomin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-9_metric_e.html" target="_blank" >- Weather in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1075733-Activities-Moosomin_Saskatchewan.html" target="_blank"   >- Best Attractions in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Moosomin" target="_blank"   >- Best Places to Eat in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Moosomin%2C+SK+S0G+3N0" target="_blank"   >- Best Places to Go Shopping in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.moosomin.com/town-information/towninformation-transportation.php" target="_blank"   >- Public Transportation Options in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/moosomin.html" target="_blank"   >- Best Places to Stay in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/moosomin-saskatchewan/" target="_blank"   >- Local News for Moosomin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-9_metric_e.html" target="_blank"   >- Weather in Moosomin, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

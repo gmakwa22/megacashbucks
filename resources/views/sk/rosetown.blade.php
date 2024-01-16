@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rosetown, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.rosetown.ca/231/Rosetown-Attractions" target="_blank" >- Best Attractions in Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g677779-Rosetown_Saskatchewan.html" target="_blank" >- Best Places to Eat in Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rosetown.ca/BusinessDirectoryii.aspx" target="_blank" >- Best Places to Go Shopping in Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/saskatchewan/SK/rosetown_bus_routes.htm" target="_blank" >- Public Transportation Options in Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g677779-Rosetown_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/saskatchewan/rosetown/" target="_blank" >- Best Things to do with the Kids in Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/rosetown/" target="_blank" >- Local News for Rosetown, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-23_metric_e.html" target="_blank" >- Weather in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rosetown.ca/231/Rosetown-Attractions" target="_blank"   >- Best Attractions in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g677779-Rosetown_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rosetown.ca/BusinessDirectoryii.aspx" target="_blank"   >- Best Places to Go Shopping in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/saskatchewan/SK/rosetown_bus_routes.htm" target="_blank"   >- Public Transportation Options in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g677779-Rosetown_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/saskatchewan/rosetown/" target="_blank"   >- Best Things to do with the Kids in Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/rosetown/" target="_blank"   >- Local News for Rosetown, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-23_metric_e.html" target="_blank"   >- Weather in Rosetown, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kemptville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499268-Activities-Kemptville_North_Grenville_Ontario.html" target="_blank" >- Best Attractions in Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/outdoor-Kemptville-m9640" target="_blank" >- Best Places to Eat in Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499268-Activities-c26-Kemptville_North_Grenville_Ontario.html" target="_blank" >- Best Places to Go Shopping in Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Kemptville" target="_blank" >- Public Transportation Options in Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kemptville.html" target="_blank" >- Best Places to Stay in Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/leeds-and-grenville/kemptville/" target="_blank" >- Best Things to do with the Kids in Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mykemptvillenow.com/" target="_blank" >- Local News for Kemptville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kemptville" target="_blank" >- Weather in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499268-Activities-Kemptville_North_Grenville_Ontario.html" target="_blank"   >- Best Attractions in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/outdoor-Kemptville-m9640" target="_blank"   >- Best Places to Eat in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499268-Activities-c26-Kemptville_North_Grenville_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Kemptville" target="_blank"   >- Public Transportation Options in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kemptville.html" target="_blank"   >- Best Places to Stay in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/leeds-and-grenville/kemptville/" target="_blank"   >- Best Things to do with the Kids in Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mykemptvillenow.com/" target="_blank"   >- Local News for Kemptville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/kemptville" target="_blank"   >- Weather in Kemptville, Ontario</a></li>
 					</ul>
       </div>
      </div>

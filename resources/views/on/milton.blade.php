@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Milton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499275-Activities-Milton_Ontario.html" target="_blank" >- Best Attractions in Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499275-Milton_Ontario.html" target="_blank" >- Best Places to Eat in Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Milton%2C+ON" target="_blank" >- Best Places to Go Shopping in Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.milton.ca/en/living-in-milton/schedules-and-maps.aspx" target="_blank" >- Public Transportation Options in Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/milton.html" target="_blank" >- Best Places to Stay in Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499275-Activities-zft11306-Milton_Ontario.html" target="_blank" >- Best Things to do with the Kids in Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.insidehalton.com/milton-on/" target="_blank" >- Local News for Milton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/milton" target="_blank" >- Weather in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499275-Activities-Milton_Ontario.html" target="_blank"   >- Best Attractions in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499275-Milton_Ontario.html" target="_blank"   >- Best Places to Eat in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Milton%2C+ON" target="_blank"   >- Best Places to Go Shopping in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.milton.ca/en/living-in-milton/schedules-and-maps.aspx" target="_blank"   >- Public Transportation Options in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/milton.html" target="_blank"   >- Best Places to Stay in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499275-Activities-zft11306-Milton_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.insidehalton.com/milton-on/" target="_blank"   >- Local News for Milton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/milton" target="_blank"   >- Weather in Milton, Ontario</a></li>
 					</ul>
       </div>
      </div>

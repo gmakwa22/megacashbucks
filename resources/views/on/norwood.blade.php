@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Norwood, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1900746-Norwood_Ontario-Vacations.html" target="_blank" >- Best Attractions in Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Norwood-Ontario" target="_blank" >- Best Places to Eat in Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://heyshops.ca/Asphodel-Norwood/" target="_blank" >- Best Places to Go Shopping in Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Norwood-ON-Canada" target="_blank" >- Public Transportation Options in Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/norwood.html" target="_blank" >- Best Places to Stay in Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1900746-Norwood_Ontario-Vacations.html" target="_blank" >- Best Things to do with the Kids in Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/asphodel-norwood/" target="_blank" >- Local News for Norwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/norwood" target="_blank" >- Weather in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1900746-Norwood_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Norwood-Ontario" target="_blank"   >- Best Places to Eat in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://heyshops.ca/Asphodel-Norwood/" target="_blank"   >- Best Places to Go Shopping in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Norwood-ON-Canada" target="_blank"   >- Public Transportation Options in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/norwood.html" target="_blank"   >- Best Places to Stay in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1900746-Norwood_Ontario-Vacations.html" target="_blank"   >- Best Things to do with the Kids in Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/asphodel-norwood/" target="_blank"   >- Local News for Norwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/norwood" target="_blank"   >- Weather in Norwood, Ontario</a></li>
 					</ul>
       </div>
      </div>

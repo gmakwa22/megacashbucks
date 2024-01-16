@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Delisle, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/254/delisle" target="_blank" >- Best Attractions in Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Delisle" target="_blank" >- Best Places to Eat in Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofdelisle.com/business-directory" target="_blank" >- Best Places to Go Shopping in Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7377411-Delisle_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7377411-Delisle_Saskatchewan-Vacations.html" target="_blank" >- Best Things to do with the Kids in Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/delisle/" target="_blank" >- Local News for Delisle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/delisle" target="_blank" >- Weather in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/254/delisle" target="_blank"   >- Best Attractions in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Delisle" target="_blank"   >- Best Places to Eat in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofdelisle.com/business-directory" target="_blank"   >- Best Places to Go Shopping in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7377411-Delisle_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g7377411-Delisle_Saskatchewan-Vacations.html" target="_blank"   >- Best Things to do with the Kids in Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/delisle/" target="_blank"   >- Local News for Delisle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/delisle" target="_blank"   >- Weather in Delisle, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

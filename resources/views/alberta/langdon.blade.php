@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Langdon, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g3930573-Langdon_Alberta-Vacations.html" target="_blank" >- Best Attractions in Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3930573-Langdon_Alberta.html" target="_blank" >- Best Places to Eat in Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.langdonchamber.ca/directory/" target="_blank" >- Best Places to Go Shopping in Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Calgary/Langdon-AB-Canada" target="_blank" >- Public Transportation Options in Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.hotelplanner.com/Hotels/51233-in-Langdon-AB.html" target="_blank" >- Best Places to Stay in Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Langdon,_Alberta" target="_blank" >- Best Things to do with the Kids in Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/langdon-alberta/" target="_blank" >- Local News for Langdon, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/langdon" target="_blank" >- Weather in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g3930573-Langdon_Alberta-Vacations.html" target="_blank"   >- Best Attractions in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3930573-Langdon_Alberta.html" target="_blank"   >- Best Places to Eat in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.langdonchamber.ca/directory/" target="_blank"   >- Best Places to Go Shopping in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Calgary/Langdon-AB-Canada" target="_blank"   >- Public Transportation Options in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.hotelplanner.com/Hotels/51233-in-Langdon-AB.html" target="_blank"   >- Best Places to Stay in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Langdon,_Alberta" target="_blank"   >- Best Things to do with the Kids in Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/langdon-alberta/" target="_blank"   >- Local News for Langdon, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/langdon" target="_blank"   >- Weather in Langdon, Alberta</a></li>
 					</ul>
       </div>
      </div>

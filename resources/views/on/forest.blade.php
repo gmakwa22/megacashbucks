@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Forest, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g609116-Activities-Forest_Lambton_Shores_Ontario.html" target="_blank" >- Best Attractions in Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g609116-Forest_Lambton_Shores_Ontario.html" target="_blank" >- Best Places to Eat in Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="https://shopforest.ca/business-directory" target="_blank" >- Best Places to Go Shopping in Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="https://huronshoresareatransit.ca/schedules/" target="_blank" >- Public Transportation Options in Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g609116-Forest_Lambton_Shores_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/forest-ontario" target="_blank" >- Best Things to do with the Kids in Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/forest-ontario/" target="_blank" >- Local News for Forest, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/forest" target="_blank" >- Weather in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g609116-Activities-Forest_Lambton_Shores_Ontario.html" target="_blank"   >- Best Attractions in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g609116-Forest_Lambton_Shores_Ontario.html" target="_blank"   >- Best Places to Eat in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://shopforest.ca/business-directory" target="_blank"   >- Best Places to Go Shopping in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://huronshoresareatransit.ca/schedules/" target="_blank"   >- Public Transportation Options in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g609116-Forest_Lambton_Shores_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/forest-ontario" target="_blank"   >- Best Things to do with the Kids in Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/forest-ontario/" target="_blank"   >- Local News for Forest, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/forest" target="_blank"   >- Weather in Forest, Ontario</a></li>
 					</ul>
       </div>
      </div>

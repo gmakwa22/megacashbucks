@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Gravelbourg, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1747683-Activities-Gravelbourg_Saskatchewan.html" target="_blank" >- Best Attractions in Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Gravelbourg" target="_blank" >- Best Places to Eat in Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/72/gravelbourg" target="_blank" >- Best Places to Go Shopping in Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.gravelbourg.ca/visitors/accommodations" target="_blank" >- Best Places to Stay in Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1747683-Activities-Gravelbourg_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/gravelbourg/" target="_blank" >- Local News for Gravelbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/gravelbourg" target="_blank" >- Weather in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1747683-Activities-Gravelbourg_Saskatchewan.html" target="_blank"   >- Best Attractions in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Gravelbourg" target="_blank"   >- Best Places to Eat in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/72/gravelbourg" target="_blank"   >- Best Places to Go Shopping in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.gravelbourg.ca/visitors/accommodations" target="_blank"   >- Best Places to Stay in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1747683-Activities-Gravelbourg_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/gravelbourg/" target="_blank"   >- Local News for Gravelbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/gravelbourg" target="_blank"   >- Weather in Gravelbourg, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

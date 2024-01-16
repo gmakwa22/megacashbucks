@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Strasbourg, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4541527-Activities-Strasbourg_Saskatchewan.html" target="_blank" >- Best Attractions in Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Strasbourg-Saskatchewan" target="_blank" >- Best Places to Eat in Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofstrasbourg.ca/business-directory/" target="_blank" >- Best Places to Go Shopping in Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Strasbourg/Regina" target="_blank" >- Public Transportation Options in Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/strasbourg/" target="_blank" >- Best Places to Stay in Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4541527-Activities-Strasbourg_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/strasbourg-saskatchewan/" target="_blank" >- Local News for Strasbourg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/strasbourg" target="_blank" >- Weather in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4541527-Activities-Strasbourg_Saskatchewan.html" target="_blank"   >- Best Attractions in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Strasbourg-Saskatchewan" target="_blank"   >- Best Places to Eat in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofstrasbourg.ca/business-directory/" target="_blank"   >- Best Places to Go Shopping in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Strasbourg/Regina" target="_blank"   >- Public Transportation Options in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/saskatchewan/strasbourg/" target="_blank"   >- Best Places to Stay in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4541527-Activities-Strasbourg_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/strasbourg-saskatchewan/" target="_blank"   >- Local News for Strasbourg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/strasbourg" target="_blank"   >- Weather in Strasbourg, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

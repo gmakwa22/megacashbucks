@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Frankford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1900749-Activities-Frankford_Quinte_West_Ontario.html" target="_blank" >- Best Attractions in Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1900749-Frankford_Quinte_West_Ontario.html" target="_blank" >- Best Places to Eat in Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://heyvintage.ca/Frankford/Frankford_Ontario_Canada/" target="_blank" >- Best Places to Go Shopping in Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Belleville-ON-Canada/Frankford-ON-Canada" target="_blank" >- Public Transportation Options in Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1900749-Frankford_Quinte_West_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/ontario/hastings/frankford/" target="_blank" >- Best Things to do with the Kids in Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/frankford/" target="_blank" >- Local News for Frankford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/frankford" target="_blank" >- Weather in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1900749-Activities-Frankford_Quinte_West_Ontario.html" target="_blank"   >- Best Attractions in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1900749-Frankford_Quinte_West_Ontario.html" target="_blank"   >- Best Places to Eat in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://heyvintage.ca/Frankford/Frankford_Ontario_Canada/" target="_blank"   >- Best Places to Go Shopping in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Belleville-ON-Canada/Frankford-ON-Canada" target="_blank"   >- Public Transportation Options in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1900749-Frankford_Quinte_West_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/ontario/hastings/frankford/" target="_blank"   >- Best Things to do with the Kids in Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/frankford/" target="_blank"   >- Local News for Frankford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/frankford" target="_blank"   >- Weather in Frankford, Ontario</a></li>
 					</ul>
       </div>
      </div>

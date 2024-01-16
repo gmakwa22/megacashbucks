@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sudbury, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155016-Activities-Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155016-Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://discoversudbury.ca/shopping/" target="_blank" >- Best Places to Go Shopping in Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/" target="_blank" >- Public Transportation Options in Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sudbury.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IHc3VkYnVyeUgzWANoJ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCt4WjiwbAAgHSAiRiZTQ5YmUwYy01YWZiLTQxNDAtYTgyNC0yMzRhYjcxZDhmMzjYAgTgAgE;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank" >- Best Places to Stay in Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155016-Activities-zft11306-Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.sudbury.com/" target="_blank" >- Local News for Sudbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/sudbury" target="_blank" >- Weather in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155016-Activities-Sudbury_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155016-Sudbury_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://discoversudbury.ca/shopping/" target="_blank"   >- Best Places to Go Shopping in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/" target="_blank"   >- Public Transportation Options in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sudbury.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IHc3VkYnVyeUgzWANoJ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCt4WjiwbAAgHSAiRiZTQ5YmUwYy01YWZiLTQxNDAtYTgyNC0yMzRhYjcxZDhmMzjYAgTgAgE;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank"   >- Best Places to Stay in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155016-Activities-zft11306-Sudbury_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.cbc.ca/news/canada/sudbury" target="_blank"   >- Local News for Sudbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/sudbury" target="_blank"   >- Weather in Sudbury, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Elmvale, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3248384-Activities-Elmvale_Springwater_Ontario.html" target="_blank" >- Best Attractions in Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Elmvale" target="_blank" >- Best Places to Eat in Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopelmvale.com/" target="_blank" >- Best Places to Go Shopping in Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Elmvale" target="_blank" >- Public Transportation Options in Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/elmvale.html" target="_blank" >- Best Places to Stay in Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3248384-Activities-zft11306-Elmvale_Springwater_Ontario.html" target="_blank" >- Best Things to do with the Kids in Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/elmvale/" target="_blank" >- Local News for Elmvale, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/elmvale" target="_blank" >- Weather in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3248384-Activities-Elmvale_Springwater_Ontario.html" target="_blank"   >- Best Attractions in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Elmvale" target="_blank"   >- Best Places to Eat in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopelmvale.com/" target="_blank"   >- Best Places to Go Shopping in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Elmvale" target="_blank"   >- Public Transportation Options in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/elmvale.html" target="_blank"   >- Best Places to Stay in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3248384-Activities-zft11306-Elmvale_Springwater_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/elmvale/" target="_blank"   >- Local News for Elmvale, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/elmvale" target="_blank"   >- Weather in Elmvale, Ontario</a></li>
 					</ul>
       </div>
      </div>

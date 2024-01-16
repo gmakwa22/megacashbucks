@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Black Diamond, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1526392-Activities-Black_Diamond_Alberta.html" target="_blank" >- Best Attractions in Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1526392-Black_Diamond_Alberta.html" target="_blank" >- Best Places to Eat in Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1526392-Activities-c26-Black_Diamond_Alberta.html" target="_blank" >- Best Places to Go Shopping in Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.town.blackdiamond.ab.ca/198/Transportation" target="_blank" >- Public Transportation Options in Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1526392-d3320836-Reviews-Black_Diamond_Hotel-Black_Diamond_Alberta.html" target="_blank" >- Best Places to Stay in Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://calgaryplaygroundreview.com/things-kids-turner-valley-black-diamond-longview-cool-little-towns/" target="_blank" >- Best Things to do with the Kids in Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.town.blackdiamond.ab.ca/civicalerts" target="_blank" >- Local News for Black Diamond, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/black-diamond" target="_blank" >- Weather in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1526392-Activities-Black_Diamond_Alberta.html" target="_blank"   >- Best Attractions in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1526392-Black_Diamond_Alberta.html" target="_blank"   >- Best Places to Eat in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1526392-Activities-c26-Black_Diamond_Alberta.html" target="_blank"   >- Best Places to Go Shopping in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.town.blackdiamond.ab.ca/198/Transportation" target="_blank"   >- Public Transportation Options in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1526392-d3320836-Reviews-Black_Diamond_Hotel-Black_Diamond_Alberta.html" target="_blank"   >- Best Places to Stay in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://calgaryplaygroundreview.com/things-kids-turner-valley-black-diamond-longview-cool-little-towns/" target="_blank"   >- Best Things to do with the Kids in Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.town.blackdiamond.ab.ca/civicalerts" target="_blank"   >- Local News for Black Diamond, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/black-diamond" target="_blank"   >- Weather in Black Diamond, Alberta</a></li>
 					</ul>
       </div>
      </div>

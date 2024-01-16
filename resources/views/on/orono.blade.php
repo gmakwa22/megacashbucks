@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Orono, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/9-things-to-do-in-orono-that-you-shouldn-t-miss-841587" target="_blank" >- Best Attractions in Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Orono%2C+ON+L0B+1M0" target="_blank" >- Best Places to Eat in Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitorono.com/business/" target="_blank" >- Best Places to Go Shopping in Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto-Airport-YYZ/Orono-ON-Canada" target="_blank" >- Public Transportation Options in Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/orono.html" target="_blank" >- Best Places to Stay in Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1069200-Activities-zft11306-Orono_Ontario.html" target="_blank" >- Best Things to do with the Kids in Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.oronoweeklytimes.com/" target="_blank" >- Local News for Orono, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/orono" target="_blank" >- Weather in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/9-things-to-do-in-orono-that-you-shouldn-t-miss-841587" target="_blank"   >- Best Attractions in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Orono%2C+ON+L0B+1M0" target="_blank"   >- Best Places to Eat in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitorono.com/business/" target="_blank"   >- Best Places to Go Shopping in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto-Airport-YYZ/Orono-ON-Canada" target="_blank"   >- Public Transportation Options in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/orono.html" target="_blank"   >- Best Places to Stay in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1069200-Activities-zft11306-Orono_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.oronoweeklytimes.com/" target="_blank"   >- Local News for Orono, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/orono" target="_blank"   >- Weather in Orono, Ontario</a></li>
 					</ul>
       </div>
      </div>

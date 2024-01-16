@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wawa, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.wawa.cc/en/things-to-do/experience-wawa.aspx" target="_blank" >- Best Attractions in Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Wawa" target="_blank" >- Best Places to Eat in Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182156-Activities-c26-Wawa_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Go Shopping in Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ontario-Canada/Wawa-ON-Canada" target="_blank" >- Public Transportation Options in Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wawa.html" target="_blank" >- Best Places to Stay in Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182156-Activities-zft11306-Wawa_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://wawa-news.com/" target="_blank" >- Local News for Wawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-138_metric_e.html" target="_blank" >- Weather in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wawa.cc/en/things-to-do/experience-wawa.aspx" target="_blank"   >- Best Attractions in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Wawa" target="_blank"   >- Best Places to Eat in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182156-Activities-c26-Wawa_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ontario-Canada/Wawa-ON-Canada" target="_blank"   >- Public Transportation Options in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wawa.html" target="_blank"   >- Best Places to Stay in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182156-Activities-zft11306-Wawa_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://wawa-news.com/" target="_blank"   >- Local News for Wawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-138_metric_e.html" target="_blank"   >- Weather in Wawa, Ontario</a></li>
 					</ul>
       </div>
      </div>

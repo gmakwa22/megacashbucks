@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fleming, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7791114-Activities-Fleming_Saskatchewan.html" target="_blank" >- Best Attractions in Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Fleming" target="_blank" >- Best Places to Eat in Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/56/fleming" target="_blank" >- Best Places to Go Shopping in Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.roadonmap.com/ca/how-to-get-to/Fleming,saskatchewan" target="_blank" >- Public Transportation Options in Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7791114-Fleming_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/fleming-sask/" target="_blank" >- Local News for Fleming, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/fleming" target="_blank" >- Weather in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7791114-Activities-Fleming_Saskatchewan.html" target="_blank"   >- Best Attractions in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Fleming" target="_blank"   >- Best Places to Eat in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/56/fleming" target="_blank"   >- Best Places to Go Shopping in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.roadonmap.com/ca/how-to-get-to/Fleming,saskatchewan" target="_blank"   >- Public Transportation Options in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7791114-Fleming_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/fleming-sask/" target="_blank"   >- Local News for Fleming, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/fleming" target="_blank"   >- Weather in Fleming, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

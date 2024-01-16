@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lindsay, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g660799-Activities-Lindsay_Kawartha_Lakes_Ontario.html" target="_blank" >- Best Attractions in Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Lindsay" target="_blank" >- Best Places to Eat in Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.lindsaydowntown.ca/directory-category/retail" target="_blank" >- Best Places to Go Shopping in Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Lindsay-ON-Canada" target="_blank" >- Public Transportation Options in Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/lindsay.html" target="_blank" >- Best Places to Stay in Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g660799-Activities-zft11306-Lindsay_Kawartha_Lakes_Ontario.html" target="_blank" >- Best Things to do with the Kids in Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/lindsay/" target="_blank" >- Local News for Lindsay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/lindsay" target="_blank" >- Weather in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g660799-Activities-Lindsay_Kawartha_Lakes_Ontario.html" target="_blank"   >- Best Attractions in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Lindsay" target="_blank"   >- Best Places to Eat in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.lindsaydowntown.ca/directory-category/retail" target="_blank"   >- Best Places to Go Shopping in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Lindsay-ON-Canada" target="_blank"   >- Public Transportation Options in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/lindsay.html" target="_blank"   >- Best Places to Stay in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g660799-Activities-zft11306-Lindsay_Kawartha_Lakes_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/lindsay/" target="_blank"   >- Local News for Lindsay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/lindsay" target="_blank"   >- Weather in Lindsay, Ontario</a></li>
 					</ul>
       </div>
      </div>

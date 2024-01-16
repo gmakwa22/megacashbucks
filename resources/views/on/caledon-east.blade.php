@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Caledon, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.rom.on.ca/en?gclid=EAIaIQobChMIicDLmMnN8wIVUw6RCh2sKwW4EAAYAyAAEgLj6vD_BwE" target="_blank" >- Best Attractions in Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g671618-Caledon_Ontario.html" target="_blank" >- Best Places to Eat in Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-c26-Caledon_Ontario.html" target="_blank" >- Best Places to Go Shopping in Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.caledon.ca/en/news/public-transit-coming-to-caledon-bolton-line.aspx" target="_blank" >- Public Transportation Options in Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitcaledon.ca/en/tourism/Where-to-Stay.asp" target="_blank" >- Best Places to Stay in Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-zft11306-Caledon_Ontario.html" target="_blank" >- Best Things to do with the Kids in Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.caledonenterprise.com/caledon-on-news/" target="_blank" >- Local News for Caledon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/caledon" target="_blank" >- Weather in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rom.on.ca/en?gclid=EAIaIQobChMIicDLmMnN8wIVUw6RCh2sKwW4EAAYAyAAEgLj6vD_BwE" target="_blank"   >- Best Attractions in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g671618-Caledon_Ontario.html" target="_blank"   >- Best Places to Eat in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-c26-Caledon_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.caledon.ca/en/news/public-transit-coming-to-caledon-bolton-line.aspx" target="_blank"   >- Public Transportation Options in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitcaledon.ca/experience-categories/places-to-stay" target="_blank"   >- Best Places to Stay in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-zft11306-Caledon_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.caledonenterprise.com/caledon-on-news/" target="_blank"   >- Local News for Caledon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/caledon" target="_blank"   >- Weather in Caledon, Ontario</a></li>
 					</ul>
       </div>
      </div>

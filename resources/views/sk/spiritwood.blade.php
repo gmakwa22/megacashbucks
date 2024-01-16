@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Spiritwood, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/163/spiritwood" target="_blank" >- Best Attractions in Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Spiritwood" target="_blank" >- Best Places to Eat in Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofspiritwood.ca/business-directory/" target="_blank" >- Best Places to Go Shopping in Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.spiritwoodcarltoninn.ca/" target="_blank" >- Best Places to Stay in Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/163/spiritwood" target="_blank" >- Best Things to do with the Kids in Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/spiritwood/" target="_blank" >- Local News for Spiritwood, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-25_metric_e.html" target="_blank" >- Weather in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/163/spiritwood" target="_blank"   >- Best Attractions in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Spiritwood" target="_blank"   >- Best Places to Eat in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofspiritwood.ca/business-directory/" target="_blank"   >- Best Places to Go Shopping in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.spiritwoodcarltoninn.ca/" target="_blank"   >- Best Places to Stay in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/163/spiritwood" target="_blank"   >- Best Things to do with the Kids in Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/spiritwood/" target="_blank"   >- Local News for Spiritwood, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-25_metric_e.html" target="_blank"   >- Weather in Spiritwood, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

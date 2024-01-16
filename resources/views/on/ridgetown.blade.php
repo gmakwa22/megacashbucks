@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ridgetown, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499293-Activities-Ridgetown_Chatham_Kent_Ontario.html" target="_blank" >- Best Attractions in Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499293-Ridgetown_Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Eat in Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ridgetown.com/businesses/retailers/" target="_blank" >- Best Places to Go Shopping in Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Ridgetown" target="_blank" >- Public Transportation Options in Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/ridgetown.html" target="_blank" >- Best Places to Stay in Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/ridgetown/" target="_blank" >- Best Things to do with the Kids in Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/ridgetown/" target="_blank" >- Local News for Ridgetown, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ridgetown" target="_blank" >- Weather in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499293-Activities-Ridgetown_Chatham_Kent_Ontario.html" target="_blank"   >- Best Attractions in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499293-Ridgetown_Chatham_Kent_Ontario.html" target="_blank"   >- Best Places to Eat in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ridgetown.com/businesses/retailers/" target="_blank"   >- Best Places to Go Shopping in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Ridgetown" target="_blank"   >- Public Transportation Options in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/ridgetown.html" target="_blank"   >- Best Places to Stay in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/ridgetown/" target="_blank"   >- Best Things to do with the Kids in Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/ridgetown/" target="_blank"   >- Local News for Ridgetown, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ridgetown" target="_blank"   >- Weather in Ridgetown, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Blaine Lake, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/49/blaine-lake#sort=relevancy Lake/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" >- Best Attractions in Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Blaine+Lake%2C+SK+S0J+0J0 Lake-Saskatchewan" target="_blank" >- Best Places to Eat in Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://blainelake.ca/business/directory/ Lakelakelouise.com/shopping" target="_blank" >- Best Places to Go Shopping in Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Blaine-Lake/Saskatoon Lake.ca/150/Getting-Around-Blaine Lake" target="_blank" >- Public Transportation Options in Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Blaine-Lake-Hotels.d3000391500.Travel-Guide-Hotels Lakelakelouise.com/accommodation" target="_blank" >- Best Places to Stay in Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/blaine-lake/sk Lake-with-kids/" target="_blank" >- Best Things to do with the Kids in Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/blaine-lake/ Lake" target="_blank" >- Local News for Blaine Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/saskatchewan/blaine-lake Lake" target="_blank" >- Weather in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/49/blaine-lake#sort=relevancy Lake/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank"   >- Best Attractions in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Blaine+Lake%2C+SK+S0J+0J0 Lake-Saskatchewan" target="_blank"   >- Best Places to Eat in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://blainelake.ca/business/directory/ Lakelakelouise.com/shopping" target="_blank"   >- Best Places to Go Shopping in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Blaine-Lake/Saskatoon Lake.ca/150/Getting-Around-Blaine Lake" target="_blank"   >- Public Transportation Options in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Blaine-Lake-Hotels.d3000391500.Travel-Guide-Hotels Lakelakelouise.com/accommodation" target="_blank"   >- Best Places to Stay in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/blaine-lake/sk Lake-with-kids/" target="_blank"   >- Best Things to do with the Kids in Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/blaine-lake/ Lake" target="_blank"   >- Local News for Blaine Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/saskatchewan/blaine-lake Lake" target="_blank"   >- Weather in Blaine Lake, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

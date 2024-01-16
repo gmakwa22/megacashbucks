@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Oshawa, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155003-Activities-Oshawa_Ontario.html" target="_blank" >- Best Attractions in Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155003-Oshawa_Ontario.html" target="_blank" >- Best Places to Eat in Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155003-Activities-c26-Oshawa_Ontario.html" target="_blank" >- Best Places to Go Shopping in Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.oshawa.ca/residents/public-transit.asp" target="_blank" >- Public Transportation Options in Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155003-Oshawa_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155003-Activities-zft11306-Oshawa_Ontario.html" target="_blank" >- Best Things to do with the Kids in Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.durhamregion.com/" target="_blank" >- Local News for Oshawa, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/oshawa" target="_blank" >- Weather in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155003-Activities-Oshawa_Ontario.html" target="_blank"   >- Best Attractions in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155003-Oshawa_Ontario.html" target="_blank"   >- Best Places to Eat in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155003-Activities-c26-Oshawa_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.oshawa.ca/en/transportation-parking/transit.aspx" target="_blank"   >- Public Transportation Options in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155003-Oshawa_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155003-Activities-zft11306-Oshawa_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.durhamregion.com/" target="_blank"   >- Local News for Oshawa, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/oshawa" target="_blank"   >- Weather in Oshawa, Ontario</a></li>
 					</ul>
       </div>
      </div>

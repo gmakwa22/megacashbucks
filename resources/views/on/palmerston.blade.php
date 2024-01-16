@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Palmerston, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499282-Activities-Palmerston_Minto_Ontario.html" target="_blank" >- Best Attractions in Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499282-Palmerston_Minto_Ontario.html" target="_blank" >- Best Places to Eat in Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Palmerston%2C+ON+N0G+2P0" target="_blank" >- Best Places to Go Shopping in Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Palmerston-ON-Canada" target="_blank" >- Public Transportation Options in Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/palmerston.html" target="_blank" >- Best Places to Stay in Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/wellington/palmerston/" target="_blank" >- Best Things to do with the Kids in Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/palmerston/" target="_blank" >- Local News for Palmerston, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/palmerston" target="_blank" >- Weather in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499282-Activities-Palmerston_Minto_Ontario.html" target="_blank"   >- Best Attractions in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499282-Palmerston_Minto_Ontario.html" target="_blank"   >- Best Places to Eat in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Palmerston%2C+ON+N0G+2P0" target="_blank"   >- Best Places to Go Shopping in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Palmerston-ON-Canada" target="_blank"   >- Public Transportation Options in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/palmerston.html" target="_blank"   >- Best Places to Stay in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/wellington/palmerston/" target="_blank"   >- Best Things to do with the Kids in Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/palmerston/" target="_blank"   >- Local News for Palmerston, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/palmerston" target="_blank"   >- Weather in Palmerston, Ontario</a></li>
 					</ul>
       </div>
      </div>

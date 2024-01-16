@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Yellow Grass, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/attractions" target="_blank" >- Best Attractions in Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Yellow-Grass" target="_blank" >- Best Places to Eat in Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/shopping" target="_blank" >- Best Places to Go Shopping in Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://heyhotels.ca/Saskatchewan/Yellow_Grass/" target="_blank" >- Best Places to Stay in Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/yellow-grass-saskatchewan/" target="_blank" >- Local News for Yellow Grass, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/yellow-grass" target="_blank" >- Weather in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/attractions" target="_blank"   >- Best Attractions in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Yellow-Grass" target="_blank"   >- Best Places to Eat in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/shopping" target="_blank"   >- Best Places to Go Shopping in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://heyhotels.ca/Saskatchewan/Yellow_Grass/" target="_blank"   >- Best Places to Stay in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/yellow-grass-saskatchewan/" target="_blank"   >- Local News for Yellow Grass, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/yellow-grass" target="_blank"   >- Weather in Yellow Grass, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

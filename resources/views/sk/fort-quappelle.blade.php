@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort Qu'Appelle, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g662325-Activities-Fort_Qu_Appelle_Saskatchewan.html" target="_blank" >- Best Attractions in Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Fort-QuAppelle" target="_blank" >- Best Places to Eat in Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g662325-Activities-c26-Fort_Qu_Appelle_Saskatchewan.html" target="_blank" >- Best Places to Go Shopping in Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Fort-Qu-Appelle" target="_blank" >- Public Transportation Options in Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g662325-d4504766-Fort_Qu_Appelle_Museum-Fort_Qu_Appelle_Saskatchewan.html" target="_blank" >- Best Places to Stay in Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g662325-Activities-Fort_Qu_Appelle_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/fort-quappelle/" target="_blank" >- Local News for Fort Qu'Appelle, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-5_metric_e.html" target="_blank" >- Weather in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g662325-Activities-Fort_Qu_Appelle_Saskatchewan.html" target="_blank"   >- Best Attractions in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Fort-QuAppelle" target="_blank"   >- Best Places to Eat in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g662325-Activities-c26-Fort_Qu_Appelle_Saskatchewan.html" target="_blank"   >- Best Places to Go Shopping in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Fort-Qu-Appelle" target="_blank"   >- Public Transportation Options in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g662325-d4504766-Fort_Qu_Appelle_Museum-Fort_Qu_Appelle_Saskatchewan.html" target="_blank"   >- Best Places to Stay in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g662325-Activities-Fort_Qu_Appelle_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/fort-quappelle/" target="_blank"   >- Local News for Fort Qu'Appelle, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-5_metric_e.html" target="_blank"   >- Weather in Fort Qu'Appelle, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

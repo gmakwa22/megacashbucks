@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sunderland, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4434561-Activities-Sunderland_Ontario.html" target="_blank" >- Best Attractions in Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Sunderland-Ontario" target="_blank" >- Best Places to Eat in Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Sunderland%2C+ON" target="_blank" >- Best Places to Go Shopping in Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Sunderland-ON-Canada/Barrie" target="_blank" >- Public Transportation Options in Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g4434561-d10159399-Sunderland_Town_Hall-Sunderland_Ontario.html" target="_blank" >- Best Places to Stay in Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/health-and-fitness/yoga/location/ontario/durham/sunderland/" target="_blank" >- Best Things to do with the Kids in Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/sunderland/" target="_blank" >- Local News for Sunderland, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sunderland" target="_blank" >- Weather in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4434561-Activities-Sunderland_Ontario.html" target="_blank"   >- Best Attractions in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Sunderland-Ontario" target="_blank"   >- Best Places to Eat in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://m.yelp.com/search?find_desc=Shopping&find_loc=Sunderland%2C+ON" target="_blank"   >- Best Places to Go Shopping in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Sunderland-ON-Canada/Barrie" target="_blank"   >- Public Transportation Options in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g4434561-d10159399-Sunderland_Town_Hall-Sunderland_Ontario.html" target="_blank"   >- Best Places to Stay in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/health-and-fitness/yoga/location/ontario/durham/sunderland/" target="_blank"   >- Best Things to do with the Kids in Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sunderland/" target="_blank"   >- Local News for Sunderland, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sunderland" target="_blank"   >- Weather in Sunderland, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Marmora, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://marmoraandlake.ca/attractions" target="_blank" >- Best Attractions in Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1006570-Marmora_Ontario.html" target="_blank" >- Best Places to Eat in Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1006570-Activities-c26-Marmora_Ontario.html" target="_blank" >- Best Places to Go Shopping in Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Marmora-ON-Canada" target="_blank" >- Public Transportation Options in Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/marmora.html" target="_blank" >- Best Places to Stay in Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/marmora/" target="_blank" >- Best Things to do with the Kids in Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/marmora/" target="_blank" >- Local News for Marmora, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/marmora" target="_blank" >- Weather in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://marmoraandlake.ca/attractions" target="_blank"   >- Best Attractions in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1006570-Marmora_Ontario.html" target="_blank"   >- Best Places to Eat in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1006570-Activities-c26-Marmora_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Marmora-ON-Canada" target="_blank"   >- Public Transportation Options in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/marmora.html" target="_blank"   >- Best Places to Stay in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/marmora/" target="_blank"   >- Best Things to do with the Kids in Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/marmora/" target="_blank"   >- Local News for Marmora, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/marmora" target="_blank"   >- Weather in Marmora, Ontario</a></li>
 					</ul>
       </div>
      </div>

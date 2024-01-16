@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Watrous, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499390-Activities-Watrous_Saskatchewan.html" target="_blank" >- Best Attractions in Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499390-Watrous_Saskatchewan.html" target="_blank" >- Best Places to Eat in Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499390-Activities-c26-Watrous_Saskatchewan.html" target="_blank" >- Best Places to Go Shopping in Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499390-Watrous_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/watrous/" target="_blank" >- Local News for Watrous, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-49_metric_e.html" target="_blank" >- Weather in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499390-Activities-Watrous_Saskatchewan.html" target="_blank"   >- Best Attractions in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499390-Watrous_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499390-Activities-c26-Watrous_Saskatchewan.html" target="_blank"   >- Best Places to Go Shopping in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499390-Watrous_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/watrous/" target="_blank"   >- Local News for Watrous, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-49_metric_e.html" target="_blank"   >- Weather in Watrous, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

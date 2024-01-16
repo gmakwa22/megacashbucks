@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Marys, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.discoverstmarys.ca/en/index.aspx" target="_blank" >- Best Attractions in St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/lunch-Saint-Marys-Ontario-m9622" target="_blank" >- Best Places to Eat in St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.discoverstmarys.ca/en/shop-and-dine/shopping.aspx" target="_blank" >- Best Places to Go Shopping in St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/St-Marys-ON-Canada/London-ON-Canada" target="_blank" >- Public Transportation Options in St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.discoverstmarys.ca/en/plan-your-stay/accommodations.aspx" target="_blank" >- Best Places to Stay in St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/st-marys/" target="_blank" >- Best Things to do with the Kids in St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://stmarysindy.com/" target="_blank" >- Local News for St. Marys, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/st-marys" target="_blank" >- Weather in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.discoverstmarys.ca/en/index.aspx" target="_blank"   >- Best Attractions in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/lunch-Saint-Marys-Ontario-m9622" target="_blank"   >- Best Places to Eat in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.discoverstmarys.ca/en/shop-and-dine/shopping.aspx" target="_blank"   >- Best Places to Go Shopping in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/St-Marys-ON-Canada/London-ON-Canada" target="_blank"   >- Public Transportation Options in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.discoverstmarys.ca/en/plan-your-stay/accommodations.aspx" target="_blank"   >- Best Places to Stay in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/perth/st-marys/" target="_blank"   >- Best Things to do with the Kids in St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://stmarysindy.com/" target="_blank"   >- Local News for St. Marys, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/st-marys" target="_blank"   >- Weather in St. Marys, Ontario</a></li>
 					</ul>
       </div>
      </div>

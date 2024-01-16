@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Powassan, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940860-Activities-Powassan_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940860-Powassan_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.powassan.net/BusinessDirectory.aspx" target="_blank" >- Best Places to Go Shopping in Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Powassan" target="_blank" >- Public Transportation Options in Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g940860-Powassan_Northeastern_Ontario_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/parry-sound/powassan/" target="_blank" >- Best Things to do with the Kids in Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.powassan.net/News.aspx" target="_blank" >- Local News for Powassan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/powassan" target="_blank" >- Weather in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g940860-Activities-Powassan_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g940860-Powassan_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.powassan.net/BusinessDirectory.aspx" target="_blank"   >- Best Places to Go Shopping in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Powassan" target="_blank"   >- Public Transportation Options in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g940860-Powassan_Northeastern_Ontario_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/parry-sound/powassan/" target="_blank"   >- Best Things to do with the Kids in Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.powassan.net/News.aspx" target="_blank"   >- Local News for Powassan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/powassan" target="_blank"   >- Weather in Powassan, Ontario</a></li>
 					</ul>
       </div>
      </div>

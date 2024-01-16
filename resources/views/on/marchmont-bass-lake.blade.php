@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Marchmont Bass Lake, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank" >- Best Attractions in Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank" >- Best Places to Eat in Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Bass+Lake/80014000.html" target="_blank" >- Best Places to Go Shopping in Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Bass-Lake-Provincial-Park" target="_blank" >- Public Transportation Options in Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank" >- Best Places to Stay in Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank" >- Best Things to do with the Kids in Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://barrie.ctvnews.ca/mobile/church-group-counting-on-residents-to-help-feed-the-hungry-1.1520882/comments-7.450754/comments-7.450754" target="_blank" >- Local News for Marchmont Bass Lake, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bass-lake-provincial-park" target="_blank" >- Weather in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank"   >- Best Attractions in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank"   >- Best Places to Eat in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Bass+Lake/80014000.html" target="_blank"   >- Best Places to Go Shopping in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Bass-Lake-Provincial-Park" target="_blank"   >- Public Transportation Options in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank"   >- Best Places to Stay in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g182145-d4091445-Bass_Lake_Provincial_Park-Orillia_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://barrie.ctvnews.ca/mobile/church-group-counting-on-residents-to-help-feed-the-hungry-1.1520882/comments-7.450754/comments-7.450754" target="_blank"   >- Local News for Marchmont Bass Lake, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bass-lake-provincial-park" target="_blank"   >- Weather in Marchmont Bass Lake, Ontario</a></li>
 					</ul>
       </div>
      </div>

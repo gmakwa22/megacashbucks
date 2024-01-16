@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort Frances, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://fortfrances.ca/experience/attractions" target="_blank" >- Best Attractions in Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://fortfrances.ca/experience/dining-accommodations/dining-options" target="_blank" >- Best Places to Eat in Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499259-Activities-c26-Fort_Frances_Ontario.html" target="_blank" >- Best Places to Go Shopping in Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Fort-Frances" target="_blank" >- Public Transportation Options in Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499259-Fort_Frances_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/fort-frances-ontario" target="_blank" >- Best Things to do with the Kids in Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://fftimes.com/" target="_blank" >- Local News for Fort Frances, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-159_metric_e.html" target="_blank" >- Weather in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://fortfrances.ca/experience/attractions" target="_blank"   >- Best Attractions in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://fortfrances.ca/experience/dining-accommodations/dining-options" target="_blank"   >- Best Places to Eat in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499259-Activities-c26-Fort_Frances_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Fort-Frances" target="_blank"   >- Public Transportation Options in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499259-Fort_Frances_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/fort-frances-ontario" target="_blank"   >- Best Things to do with the Kids in Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://fftimes.com/" target="_blank"   >- Local News for Fort Frances, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-159_metric_e.html" target="_blank"   >- Weather in Fort Frances, Ontario</a></li>
 					</ul>
       </div>
      </div>

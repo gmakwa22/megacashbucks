@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Atikokan, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499473-Activities-Atikokan_Ontario.html" target="_blank" >- Best Attractions in Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499473-Atikokan_Ontario.html" target="_blank" >- Best Places to Eat in Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499473-Activities-c26-Atikokan_Ontario.html" target="_blank" >- Best Places to Go Shopping in Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/atikokan_bus_routes.htm" target="_blank" >- Public Transportation Options in Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499473-Atikokan_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://kidsportcanada.ca/ontario/atikokan/" target="_blank" >- Best Things to do with the Kids in Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tbnewswatch.com/around-the-region/atikokan" target="_blank" >- Local News for Atikokan, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-148_metric_e.html" target="_blank" >- Weather in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499473-Activities-Atikokan_Ontario.html" target="_blank"   >- Best Attractions in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499473-Atikokan_Ontario.html" target="_blank"   >- Best Places to Eat in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499473-Activities-c26-Atikokan_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/ontario/ON/atikokan_bus_routes.htm" target="_blank"   >- Public Transportation Options in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499473-Atikokan_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://kidsportcanada.ca/ontario/atikokan/" target="_blank"   >- Best Things to do with the Kids in Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tbnewswatch.com/around-the-region/atikokan" target="_blank"   >- Local News for Atikokan, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-148_metric_e.html" target="_blank"   >- Weather in Atikokan, Ontario</a></li>
 					</ul>
       </div>
      </div>

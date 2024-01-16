@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Smiths Falls, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181738-Activities-Smiths_Falls_Ontario.html" target="_blank" >- Best Attractions in Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/smiths-falls/" target="_blank" >- Best Places to Eat in Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181738-Activities-c26-Smiths_Falls_Ontario.html" target="_blank" >- Best Places to Go Shopping in Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Smiths-Falls" target="_blank" >- Public Transportation Options in Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/smiths-falls.html" target="_blank" >- Best Places to Stay in Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://wanderingwagars.com/what-to-do-in-smiths-falls-ontario/" target="_blank" >- Best Things to do with the Kids in Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.insideottawavalley.com/smithsfalls-on/" target="_blank" >- Local News for Smiths Falls, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-106_metric_e.html" target="_blank" >- Weather in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181738-Activities-Smiths_Falls_Ontario.html" target="_blank"   >- Best Attractions in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/smiths-falls/" target="_blank"   >- Best Places to Eat in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181738-Activities-c26-Smiths_Falls_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Smiths-Falls" target="_blank"   >- Public Transportation Options in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/smiths-falls.html" target="_blank"   >- Best Places to Stay in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://wanderingwagars.com/what-to-do-in-smiths-falls-ontario/" target="_blank"   >- Best Things to do with the Kids in Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.insideottawavalley.com/smithsfalls-on/" target="_blank"   >- Local News for Smiths Falls, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-106_metric_e.html" target="_blank"   >- Weather in Smiths Falls, Ontario</a></li>
 					</ul>
       </div>
      </div>

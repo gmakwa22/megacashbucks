@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Luseland, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.townofluseland.com/attractions.html" target="_blank" >- Best Attractions in Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Luseland" target="_blank" >- Best Places to Eat in Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.townofluseland.com/business-directory.html" target="_blank" >- Best Places to Go Shopping in Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4758264-Luseland_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/luseland/" target="_blank" >- Local News for Luseland, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/luseland" target="_blank" >- Weather in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofluseland.com/attractions.html" target="_blank"   >- Best Attractions in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Luseland" target="_blank"   >- Best Places to Eat in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.townofluseland.com/business-directory.html" target="_blank"   >- Best Places to Go Shopping in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4758264-Luseland_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/luseland/" target="_blank"   >- Local News for Luseland, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/luseland" target="_blank"   >- Weather in Luseland, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

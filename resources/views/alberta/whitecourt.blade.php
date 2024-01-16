@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Whitecourt, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182203-Activities-Whitecourt_Alberta.html" target="_blank" >- Best Attractions in Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182203-Whitecourt_Alberta.html" target="_blank" >- Best Places to Eat in Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.whitecourtchamber.com/member-directory/retail/" target="_blank" >- Best Places to Go Shopping in Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.whitecourt.ca/Services/Whitecourt-Transit" target="_blank" >- Public Transportation Options in Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Whitecourt-Hotels.d6139547.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Whitecourt" target="_blank" >- Best Things to do with the Kids in Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.whitecourtstar.com/category/news/" target="_blank" >- Local News for Whitecourt, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/whitecourt" target="_blank" >- Weather in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182203-Activities-Whitecourt_Alberta.html" target="_blank"   >- Best Attractions in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182203-Whitecourt_Alberta.html" target="_blank"   >- Best Places to Eat in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.whitecourtchamber.com/member-directory/retail/" target="_blank"   >- Best Places to Go Shopping in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.whitecourt.ca/Services/Whitecourt-Transit" target="_blank"   >- Public Transportation Options in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/alberta/whitecourt/" target="_blank"   >- Best Places to Stay in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Whitecourt" target="_blank"   >- Best Things to do with the Kids in Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/whitecourt/" target="_blank"   >- Local News for Whitecourt, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/alberta/whitecourt" target="_blank"   >- Weather in Whitecourt, Alberta</a></li>
 					</ul>
       </div>
      </div>

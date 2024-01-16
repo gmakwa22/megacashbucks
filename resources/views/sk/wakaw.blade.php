@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wakaw, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/196/wakaw" target="_blank" >- Best Attractions in Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Wakaw" target="_blank" >- Best Places to Eat in Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/wakaw/shops" target="_blank" >- Best Places to Go Shopping in Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.wakawlodge.com/" target="_blank" >- Best Places to Stay in Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/wakaw/sk" target="_blank" >- Best Things to do with the Kids in Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/wakaw/" target="_blank" >- Local News for Wakaw, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/wakaw" target="_blank" >- Weather in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/196/wakaw" target="_blank"   >- Best Attractions in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Wakaw" target="_blank"   >- Best Places to Eat in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/wakaw/shops" target="_blank"   >- Best Places to Go Shopping in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.wakawlodge.com/" target="_blank"   >- Best Places to Stay in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/wakaw/sk" target="_blank"   >- Best Things to do with the Kids in Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/wakaw/" target="_blank"   >- Local News for Wakaw, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/wakaw" target="_blank"   >- Weather in Wakaw, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

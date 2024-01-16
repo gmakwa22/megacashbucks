@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Shaunavon, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834927-Activities-Shaunavon_Saskatchewan.html" target="_blank" >- Best Attractions in Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Shaunavon" target="_blank" >- Best Places to Eat in Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.shaunavon.com/directories/businesses/" target="_blank" >- Best Places to Go Shopping in Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3834927-Shaunavon_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834927-Activities-Shaunavon_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/shaunavon/" target="_blank" >- Local News for Shaunavon, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-11_metric_e.html" target="_blank" >- Weather in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834927-Activities-Shaunavon_Saskatchewan.html" target="_blank"   >- Best Attractions in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Shaunavon" target="_blank"   >- Best Places to Eat in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.shaunavon.com/directories/businesses/" target="_blank"   >- Best Places to Go Shopping in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3834927-Shaunavon_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834927-Activities-Shaunavon_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/shaunavon/" target="_blank"   >- Local News for Shaunavon, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-11_metric_e.html" target="_blank"   >- Weather in Shaunavon, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ponoka, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.ponoka.ca/visiting/events-and-attractions" target="_blank" >- Best Attractions in Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g660790-Ponoka_Alberta.html" target="_blank" >- Best Places to Eat in Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/ponoka-2166/ponoka-plaza" target="_blank" >- Best Places to Go Shopping in Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/ponoka_bus_routes.htm" target="_blank" >- Public Transportation Options in Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g660790-Ponoka_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Ponoka,_Alberta" target="_blank" >- Best Things to do with the Kids in Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.ponokanews.com/local-news/" target="_blank" >- Local News for Ponoka, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/ponoka" target="_blank" >- Weather in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.ponoka.ca/p/local-attractions-" target="_blank"   >- Best Attractions in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g660790-Ponoka_Alberta.html" target="_blank"   >- Best Places to Eat in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/ponoka-2166/ponoka-plaza" target="_blank"   >- Best Places to Go Shopping in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/ponoka_bus_routes.htm" target="_blank"   >- Public Transportation Options in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g660790-Ponoka_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Ponoka,_Alberta" target="_blank"   >- Best Things to do with the Kids in Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.ponokanews.com/local-news/" target="_blank"   >- Local News for Ponoka, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/ponoka" target="_blank"   >- Weather in Ponoka, Alberta</a></li>
 					</ul>
       </div>
      </div>

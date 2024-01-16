@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Porcupine Plain, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3930614-Activities-Porcupine_Plain_Saskatchewan.html" target="_blank" >- Best Attractions in Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Porcupine-Plain" target="_blank" >- Best Places to Eat in Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/porcupine-plain" target="_blank" >- Best Places to Go Shopping in Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Porcupine-Plain" target="_blank" >- Public Transportation Options in Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://porcupineplain.com/visitors/accommodations/" target="_blank" >- Best Places to Stay in Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/porcupine-plain/sk" target="_blank" >- Best Things to do with the Kids in Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://porcupineplain.com/category/news/" target="_blank" >- Local News for Porcupine Plain, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/porcupine-plain" target="_blank" >- Weather in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3930614-Activities-Porcupine_Plain_Saskatchewan.html" target="_blank"   >- Best Attractions in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Porcupine-Plain" target="_blank"   >- Best Places to Eat in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/porcupine-plain" target="_blank"   >- Best Places to Go Shopping in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Porcupine-Plain" target="_blank"   >- Public Transportation Options in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://porcupineplain.com/visitors/accommodations/" target="_blank"   >- Best Places to Stay in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/porcupine-plain/sk" target="_blank"   >- Best Things to do with the Kids in Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://porcupineplain.com/category/news/" target="_blank"   >- Local News for Porcupine Plain, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/porcupine-plain" target="_blank"   >- Weather in Porcupine Plain, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

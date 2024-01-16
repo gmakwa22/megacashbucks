@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Southampton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitsouthampton.ca/things-to-do/attractions/" target="_blank" >- Best Attractions in Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499296-Southampton_Bruce_County_Ontario.html" target="_blank" >- Best Places to Eat in Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitsouthampton.ca/where-to-shop" target="_blank" >- Best Places to Go Shopping in Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Southampton-ON-Canada" target="_blank" >- Public Transportation Options in Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/southampton.en-gb.html" target="_blank" >- Best Places to Stay in Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/bruce/southampton/" target="_blank" >- Best Things to do with the Kids in Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/southampton/" target="_blank" >- Local News for Southampton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/southampton" target="_blank" >- Weather in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitsouthampton.ca/things-to-do/attractions/" target="_blank"   >- Best Attractions in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499296-Southampton_Bruce_County_Ontario.html" target="_blank"   >- Best Places to Eat in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitsouthampton.ca/where-to-shop" target="_blank"   >- Best Places to Go Shopping in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Southampton-ON-Canada" target="_blank"   >- Public Transportation Options in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/southampton.en-gb.html" target="_blank"   >- Best Places to Stay in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/bruce/southampton/" target="_blank"   >- Best Things to do with the Kids in Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/southampton/" target="_blank"   >- Local News for Southampton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/southampton" target="_blank"   >- Weather in Southampton, Ontario</a></li>
 					</ul>
       </div>
      </div>

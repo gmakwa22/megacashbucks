@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Jarvis, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834923-Activities-Jarvis_Haldimand_Ontario.html" target="_blank" >- Best Attractions in Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3834923-Jarvis_Haldimand_Ontario.html" target="_blank" >- Best Places to Eat in Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834923-Activities-c26-Jarvis_Haldimand_Ontario.html" target="_blank" >- Best Places to Go Shopping in Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.simcoe.ca/Transit/Pages/Routes-Schedule.aspx" target="_blank" >- Public Transportation Options in Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3834923-Jarvis_Haldimand_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/haldimand-norfolk/jarvis/" target="_blank" >- Best Things to do with the Kids in Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/jarvis-ontario/" target="_blank" >- Local News for Jarvis, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/jarvis" target="_blank" >- Weather in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834923-Activities-Jarvis_Haldimand_Ontario.html" target="_blank"   >- Best Attractions in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3834923-Jarvis_Haldimand_Ontario.html" target="_blank"   >- Best Places to Eat in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3834923-Activities-c26-Jarvis_Haldimand_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.simcoe.ca/Transit/Pages/Routes-Schedule.aspx" target="_blank"   >- Public Transportation Options in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3834923-Jarvis_Haldimand_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/haldimand-norfolk/jarvis/" target="_blank"   >- Best Things to do with the Kids in Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/jarvis-ontario/" target="_blank"   >- Local News for Jarvis, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/jarvis" target="_blank"   >- Weather in Jarvis, Ontario</a></li>
 					</ul>
       </div>
      </div>

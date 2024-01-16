@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Maple Creek, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/291/maple-creek" target="_blank" >- Best Attractions in Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Maple-Creek" target="_blank" >- Best Places to Eat in Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.maplecreek.ca/business_development/business_directory.html" target="_blank" >- Best Places to Go Shopping in Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Maple-Creek/Regina" target="_blank" >- Public Transportation Options in Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.maplecreek.ca/parks_recreation_culture/accommodations.html" target="_blank" >- Best Places to Stay in Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/maple-creek/sk" target="_blank" >- Best Things to do with the Kids in Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.maplecreeknews.com/" target="_blank" >- Local News for Maple Creek, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-16_metric_e.html" target="_blank" >- Weather in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/291/maple-creek" target="_blank"   >- Best Attractions in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Maple-Creek" target="_blank"   >- Best Places to Eat in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.maplecreek.ca/business_development/business_directory.html" target="_blank"   >- Best Places to Go Shopping in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Maple-Creek/Regina" target="_blank"   >- Public Transportation Options in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.maplecreek.ca/parks_recreation_culture/accommodations.html" target="_blank"   >- Best Places to Stay in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/maple-creek/sk" target="_blank"   >- Best Things to do with the Kids in Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.maplecreeknews.com/" target="_blank"   >- Local News for Maple Creek, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-16_metric_e.html" target="_blank"   >- Weather in Maple Creek, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

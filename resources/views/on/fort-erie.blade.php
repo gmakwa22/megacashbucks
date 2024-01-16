@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort Erie, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154988-Activities-Fort_Erie_Ontario.html" target="_blank" >- Best Attractions in Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/fort-erie/" target="_blank" >- Best Places to Eat in Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154988-Activities-c26-Fort_Erie_Ontario.html" target="_blank" >- Best Places to Go Shopping in Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Welland/Fort-Erie" target="_blank" >- Public Transportation Options in Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fort-erie.html" target="_blank" >- Best Places to Stay in Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/niagara/fort-erie/" target="_blank" >- Best Things to do with the Kids in Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagarathisweek.com/forterie-on/" target="_blank" >- Local News for Fort Erie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/fort-erie" target="_blank" >- Weather in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154988-Activities-Fort_Erie_Ontario.html" target="_blank"   >- Best Attractions in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/fort-erie/" target="_blank"   >- Best Places to Eat in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154988-Activities-c26-Fort_Erie_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Welland/Fort-Erie" target="_blank"   >- Public Transportation Options in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fort-erie.html" target="_blank"   >- Best Places to Stay in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/niagara/fort-erie/" target="_blank"   >- Best Things to do with the Kids in Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagarathisweek.com/forterie-on/" target="_blank"   >- Local News for Fort Erie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/fort-erie" target="_blank"   >- Weather in Fort Erie, Ontario</a></li>
 					</ul>
       </div>
      </div>

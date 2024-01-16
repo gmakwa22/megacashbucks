@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Macklin, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/279/macklin" target="_blank" >- Best Attractions in Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Macklin" target="_blank" >- Best Places to Eat in Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/macklin/shopping/" target="_blank" >- Best Places to Go Shopping in Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Macklin/Saskatchewan" target="_blank" >- Public Transportation Options in Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7018512-Macklin_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/279/macklin" target="_blank" >- Best Things to do with the Kids in Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/macklin-saskatchewan/" target="_blank" >- Local News for Macklin, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/macklin" target="_blank" >- Weather in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/279/macklin" target="_blank"   >- Best Attractions in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Macklin" target="_blank"   >- Best Places to Eat in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/macklin/shopping/" target="_blank"   >- Best Places to Go Shopping in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Macklin/Saskatchewan" target="_blank"   >- Public Transportation Options in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g7018512-Macklin_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/279/macklin" target="_blank"   >- Best Things to do with the Kids in Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/macklin-saskatchewan/" target="_blank"   >- Local News for Macklin, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/macklin" target="_blank"   >- Weather in Macklin, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rocky Mountain House, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.todocanada.ca/things-around-rocky-mountain-house/" target="_blank" >- Best Attractions in Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499108-Rocky_Mountain_House_Clearwater_County_Alberta.html" target="_blank" >- Best Places to Eat in Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499108-Activities-c26-t144-Rocky_Mountain_House_Clearwater_County_Alberta.html" target="_blank" >- Best Places to Go Shopping in Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/rocky_mountain_house_bus_routes.htm" target="_blank" >- Public Transportation Options in Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499108-Rocky_Mountain_House_Clearwater_County_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/rocky-mountain-house/ab" target="_blank" >- Best Things to do with the Kids in Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="https://rdnewsnow.com/rocky-mountain-house/" target="_blank" >- Local News for Rocky Mountain House, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/rocky-mountain-house" target="_blank" >- Weather in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/alberta/rocky-mountain-house.html" target="_blank"   >- Best Attractions in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499108-Rocky_Mountain_House_Clearwater_County_Alberta.html" target="_blank"   >- Best Places to Eat in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499108-Activities-c26-t144-Rocky_Mountain_House_Clearwater_County_Alberta.html" target="_blank"   >- Best Places to Go Shopping in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/rocky_mountain_house_bus_routes.htm" target="_blank"   >- Public Transportation Options in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499108-Rocky_Mountain_House_Clearwater_County_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/rocky-mountain-house/ab" target="_blank"   >- Best Things to do with the Kids in Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://rdnewsnow.com/rocky-mountain-house/" target="_blank"   >- Local News for Rocky Mountain House, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/rocky-mountain-house" target="_blank"   >- Weather in Rocky Mountain House, Alberta</a></li>
 					</ul>
       </div>
      </div>

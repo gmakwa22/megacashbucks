@@ -6,7 +6,7 @@
 		<div class="container">
 			<div class="col-xs-12">
 				<p class="title">Dorchester Ontario</p>
-				<h2 class="small-title">Dorchester’s Best PayDay Loans</h2>
+				<h1 class="small-title">Dorchester’s Best PayDay Loans</h1>
 				<p class="text text-justify">We offer you a Online Payday Loans in Dorchester Ontario that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>
 				<p class="text text-justify">We know that things happen in life and sometimes you need extra money for unexpected expenses. If you need the car or computer repaired, emergency dental work or last-minute tuition fees, what do you do? Borrow from family? That can be complicated. Apply for a line of credit? But that can take too long. You need a solution now. A post-dated check? That can be tricky. How about a cleaner, faster, easier solution than any of those options? Our payday loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
 				<p class="text text-justify">Plus, we use the industry’s state-of-the-art encryption technology to ensure that your personal application information is rock solid safe. Also, the application is as simple as can be. The days of standing in line at some storefront location, with all your documents piled in your lap, waiting for your number to be called, are over at {{$privname}}. Ours is a completely streamlined, easy to use, secure, online process. The whole thing can be done from the comfort of your couch, all in one day. Once approved, and you sign the electronic contract, your funds are just 5 minutes away from being in your bank account. </p>
@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dorchester, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g8611952-Activities-Dorchester_London_Ontario.html" target="_blank" >- Best Attractions in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8611952-Dorchester_London_Ontario.html" target="_blank" >- Best Places to Eat in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dorchester/80014000.html" target="_blank" >- Best Places to Go Shopping in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.niagararegion.ca/transit/stop.aspx?id=1&routeID=10" target="_blank" >- Public Transportation Options in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/north-dorchester-community-centre-arena.html" target="_blank" >- Best Places to Stay in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/dorchester/" target="_blank" >- Best Things to do with the Kids in Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dorchester/" target="_blank" >- Local News for Dorchester, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dorchester" target="_blank" >- Weather in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g8611952-Activities-Dorchester_London_Ontario.html" target="_blank"   >- Best Attractions in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8611952-Dorchester_London_Ontario.html" target="_blank"   >- Best Places to Eat in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Dorchester/80014000.html" target="_blank"   >- Best Places to Go Shopping in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.niagararegion.ca/transit/stop.aspx?id=1&routeID=10" target="_blank"   >- Public Transportation Options in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/landmark/ca/north-dorchester-community-centre-arena.html" target="_blank"   >- Best Places to Stay in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/dorchester/" target="_blank"   >- Best Things to do with the Kids in Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dorchester/" target="_blank"   >- Local News for Dorchester, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dorchester" target="_blank"   >- Weather in Dorchester, Ontario</a></li>
 					</ul>
       </div>
      </div>

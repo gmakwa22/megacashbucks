@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Collingwood, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-collingwood-ontario-cdn-1-272.htm" target="_blank" >- Best Attractions in Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/collingwood/" target="_blank" >- Best Places to Eat in Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://mycollingwood.ca/business-listings/retail-shopping" target="_blank" >- Best Places to Go Shopping in Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.collingwood.ca/town-services/public-transit" target="_blank" >- Public Transportation Options in Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/collingwood.html" target="_blank" >- Best Places to Stay in Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181754-Activities-zft11306-Collingwood_Ontario.html" target="_blank" >- Best Things to do with the Kids in Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.collingwoodtoday.ca/" target="_blank" >- Local News for Collingwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/collingwood" target="_blank" >- Weather in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-collingwood-ontario-cdn-1-272.htm" target="_blank"   >- Best Attractions in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/collingwood/" target="_blank"   >- Best Places to Eat in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://mycollingwood.ca/business-listings/retail-shopping" target="_blank"   >- Best Places to Go Shopping in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.collingwood.ca/town-services/public-transit" target="_blank"   >- Public Transportation Options in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/collingwood.html" target="_blank"   >- Best Places to Stay in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181754-Activities-zft11306-Collingwood_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/collingwood/" target="_blank"   >- Local News for Collingwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/collingwood" target="_blank"   >- Weather in Collingwood, Ontario</a></li>
 					</ul>
       </div>
      </div>

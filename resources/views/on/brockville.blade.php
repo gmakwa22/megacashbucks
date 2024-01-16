@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Brockville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181758-Activities-Brockville_Ontario.html" target="_blank" >- Best Attractions in Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181758-Brockville_Ontario.html" target="_blank" >- Best Places to Eat in Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.downtownbrockville.com/shop/category/brockville-shopping/47" target="_blank" >- Best Places to Go Shopping in Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://brockville.com/transit" target="_blank" >- Public Transportation Options in Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181758-Brockville_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://citykidz.ca/?gclid=EAIaIQobChMI55XLwcbN8wIVyxmtBh3U9Qw3EAAYASAAEgJP6PD_BwE" target="_blank" >- Best Things to do with the Kids in Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.haventoronto.ca/single-post/ten-top-hikes-in-ontario?gclid=EAIaIQobChMIuM-3zsbN8wIVLxmtBh3bqwfrEAAYASAAEgL5mvD_BwE" target="_blank" >- Local News for Brockville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brockville" target="_blank" >- Weather in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181758-Activities-Brockville_Ontario.html" target="_blank"   >- Best Attractions in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181758-Brockville_Ontario.html" target="_blank"   >- Best Places to Eat in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.downtownbrockville.com/shop/category/brockville-shopping/47" target="_blank"   >- Best Places to Go Shopping in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://brockville.com/transit" target="_blank"   >- Public Transportation Options in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181758-Brockville_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://citykidz.ca/?gclid=EAIaIQobChMI55XLwcbN8wIVyxmtBh3U9Qw3EAAYASAAEgJP6PD_BwE" target="_blank"   >- Best Things to do with the Kids in Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.haventoronto.ca/single-post/ten-top-hikes-in-ontario?gclid=EAIaIQobChMIuM-3zsbN8wIVLxmtBh3bqwfrEAAYASAAEgL5mvD_BwE" target="_blank"   >- Local News for Brockville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brockville" target="_blank"   >- Weather in Brockville, Ontario</a></li>
 					</ul>
       </div>
      </div>

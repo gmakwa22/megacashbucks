@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Watson, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/203/watson" target="_blank" >- Best Attractions in Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Watson-Saskatchewan" target="_blank" >- Best Places to Eat in Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/watson-saskatchewan/shopping/" target="_blank" >- Best Places to Go Shopping in Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://hotelandplace.com/hotel/watson-motor-inn" target="_blank" >- Best Places to Stay in Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/watson-saskatchewan/" target="_blank" >- Local News for Watson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/watson" target="_blank" >- Weather in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/203/watson" target="_blank"   >- Best Attractions in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Watson-Saskatchewan" target="_blank"   >- Best Places to Eat in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/watson-saskatchewan/shopping/" target="_blank"   >- Best Places to Go Shopping in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://hotelandplace.com/hotel/watson-motor-inn" target="_blank"   >- Best Places to Stay in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/watson-saskatchewan/" target="_blank"   >- Local News for Watson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/watson" target="_blank"   >- Weather in Watson, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

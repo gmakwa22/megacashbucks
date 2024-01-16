@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ituna, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/93/ituna" target="_blank" >- Best Attractions in Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Ituna" target="_blank" >- Best Places to Eat in Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ituna.ca/business-directory/" target="_blank" >- Best Places to Go Shopping in Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ituna/Regina" target="_blank" >- Public Transportation Options in Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3930613-Ituna_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/93/ituna" target="_blank" >- Best Things to do with the Kids in Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/ituna/" target="_blank" >- Local News for Ituna, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/ituna" target="_blank" >- Weather in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/93/ituna" target="_blank"   >- Best Attractions in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Ituna" target="_blank"   >- Best Places to Eat in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ituna.ca/business-directory/" target="_blank"   >- Best Places to Go Shopping in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ituna/Regina" target="_blank"   >- Public Transportation Options in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g3930613-Ituna_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/93/ituna" target="_blank"   >- Best Things to do with the Kids in Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/ituna/" target="_blank"   >- Local News for Ituna, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/ituna" target="_blank"   >- Weather in Ituna, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

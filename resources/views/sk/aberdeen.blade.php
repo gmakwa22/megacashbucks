@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Aberdeen, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/5/aberdeen#sort=relevancy" target="_blank" >- Best Attractions in Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Aberdeen-Saskatchewan" target="_blank" >- Best Places to Eat in Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.aberdeencentre.com/en/shopping.php?type=shopping" target="_blank" >- Best Places to Go Shopping in Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.aberdeen.ca/" target="_blank" >- Public Transportation Options in Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de11406879/aberdeen-saskatchewan-hotels-rooms/" target="_blank" >- Best Places to Stay in Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/saskatchewan/prince-albert/aberdeen/" target="_blank" >- Best Things to do with the Kids in Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/aberdeen-saskatchewan/" target="_blank" >- Local News for Aberdeen, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/aberdeen" target="_blank" >- Weather in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/5/aberdeen#sort=relevancy" target="_blank"   >- Best Attractions in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Aberdeen-Saskatchewan" target="_blank"   >- Best Places to Eat in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.aberdeencentre.com/en/shopping.php?type=shopping" target="_blank"   >- Best Places to Go Shopping in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.aberdeen.ca/" target="_blank"   >- Public Transportation Options in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Hotels/Aberdeen+SK" target="_blank"   >- Best Places to Stay in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/saskatchewan/prince-albert/aberdeen/" target="_blank"   >- Best Things to do with the Kids in Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/aberdeen-saskatchewan/" target="_blank"   >- Local News for Aberdeen, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/aberdeen" target="_blank"   >- Weather in Aberdeen, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

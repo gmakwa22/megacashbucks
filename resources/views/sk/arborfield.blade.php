@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Arborfield, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.trip.com/travel-guide/destination/arborfield-1591739/" target="_blank" >- Best Attractions in Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Arborfield%2C+SK+S0E+0A0" target="_blank" >- Best Places to Eat in Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cylex-canada.ca/arborfield/shopping/" target="_blank" >- Best Places to Go Shopping in Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Saskatchewan/Arborfield/90016003.html" target="_blank" >- Public Transportation Options in Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10414464/arborfield-saskatchewan-hotels-rooms/" target="_blank" >- Best Places to Stay in Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/arborfield/sk" target="_blank" >- Best Things to do with the Kids in Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/sk/arborfield/news/" target="_blank" >- Local News for Arborfield, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/arborfield" target="_blank" >- Weather in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.trip.com/travel-guide/destination/arborfield-1591739/" target="_blank"   >- Best Attractions in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Arborfield%2C+SK+S0E+0A0" target="_blank"   >- Best Places to Eat in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cylex-canada.ca/arborfield/shopping/" target="_blank"   >- Best Places to Go Shopping in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Saskatchewan/Arborfield/90016003.html" target="_blank"   >- Public Transportation Options in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de10414464/arborfield-saskatchewan-hotels-rooms/" target="_blank"   >- Best Places to Stay in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/arborfield/sk" target="_blank"   >- Best Things to do with the Kids in Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.local.ca/sk/arborfield/news/" target="_blank"   >- Local News for Arborfield, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/arborfield" target="_blank"   >- Weather in Arborfield, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Gravenhurst, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182189-Activities-Gravenhurst_Muskoka_District_Ontario.html" target="_blank" >- Best Attractions in Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.gravenhurstchamber.com/experience-gravenhurst/eat/" target="_blank" >- Best Places to Eat in Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182189-Activities-c26-Gravenhurst_Muskoka_District_Ontario.html" target="_blank" >- Best Places to Go Shopping in Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Gravenhurst" target="_blank" >- Public Transportation Options in Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/gravenhurst.html" target="_blank" >- Best Places to Stay in Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/gravenhurst/on" target="_blank" >- Best Things to do with the Kids in Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.muskokaregion.com/gravenhurst-on/" target="_blank" >- Local News for Gravenhurst, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/gravenhurst" target="_blank" >- Weather in Gravenhurst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182189-Activities-Gravenhurst_Muskoka_District_Ontario.html" target="_blank"   >- Best Attractions in Gravenhurst, Ontario</a></li>
+					<li class="list-group-item">- Best Places to Eat in Gravenhurst, Ontario</li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182189-Activities-c26-Gravenhurst_Muskoka_District_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Gravenhurst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Gravenhurst" target="_blank"   >- Public Transportation Options in Gravenhurst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/gravenhurst.html" target="_blank"   >- Best Places to Stay in Gravenhurst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/gravenhurst/on" target="_blank"   >- Best Things to do with the Kids in Gravenhurst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.muskokaregion.com/gravenhurst-on/" target="_blank"   >- Local News for Gravenhurst, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/gravenhurst" target="_blank"   >- Weather in Gravenhurst, Ontario</a></li>
 					</ul>
       </div>
      </div>

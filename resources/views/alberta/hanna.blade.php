@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hanna, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181802-Activities-Hanna_Alberta.html" target="_blank" >- Best Attractions in Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181802-Hanna_Alberta.html" target="_blank" >- Best Places to Eat in Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Hanna%2C+AB+T0J" target="_blank" >- Best Places to Go Shopping in Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/hanna_bus_routes.htm" target="_blank" >- Public Transportation Options in Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181802-Hanna_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="https://allevents.in/hanna-ab/kids" target="_blank" >- Best Things to do with the Kids in Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.hannaherald.com/category/news/local-news/" target="_blank" >- Local News for Hanna, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/hanna" target="_blank" >- Weather in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181802-Activities-Hanna_Alberta.html" target="_blank"   >- Best Attractions in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181802-Hanna_Alberta.html" target="_blank"   >- Best Places to Eat in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Hanna%2C+AB+T0J" target="_blank"   >- Best Places to Go Shopping in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/hanna_bus_routes.htm" target="_blank"   >- Public Transportation Options in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181802-Hanna_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://allevents.in/hanna-ab/kids" target="_blank"   >- Best Things to do with the Kids in Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.hannaherald.com/category/news/local-news/" target="_blank"   >- Local News for Hanna, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/hanna" target="_blank"   >- Weather in Hanna, Alberta</a></li>
 					</ul>
       </div>
      </div>

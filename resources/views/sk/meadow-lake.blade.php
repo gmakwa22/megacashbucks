@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Meadow Lake, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499385-Activities-Meadow_Lake_Saskatchewan.html" target="_blank" >- Best Attractions in Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Meadow-Lake" target="_blank" >- Best Places to Eat in Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.facebook.com/places/Shopping-Retail-in-Meadow-Lake-Saskatchewan/105499186149662/200600219953504/" target="_blank" >- Best Places to Go Shopping in Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Meadow-Lake/Saskatoon" target="_blank" >- Public Transportation Options in Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499385-Meadow_Lake_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/meadow-lake/sk" target="_blank" >- Best Things to do with the Kids in Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/meadow-lake/" target="_blank" >- Local News for Meadow Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-22_metric_e.html" target="_blank" >- Weather in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499385-Activities-Meadow_Lake_Saskatchewan.html" target="_blank"   >- Best Attractions in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Meadow-Lake" target="_blank"   >- Best Places to Eat in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/places/Shopping-Retail-in-Meadow-Lake-Saskatchewan/105499186149662/200600219953504/" target="_blank"   >- Best Places to Go Shopping in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Meadow-Lake/Saskatoon" target="_blank"   >- Public Transportation Options in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499385-Meadow_Lake_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/meadow-lake/sk" target="_blank"   >- Best Things to do with the Kids in Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/meadow-lake/" target="_blank"   >- Local News for Meadow Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-22_metric_e.html" target="_blank"   >- Weather in Meadow Lake, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

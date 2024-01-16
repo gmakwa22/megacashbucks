@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Peterborough, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155008-Activities-Peterborough_Ontario.html" target="_blank" >- Best Attractions in Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155008-Peterborough_Ontario.html" target="_blank" >- Best Places to Eat in Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://thekawarthas.ca/explore/shopping/" target="_blank" >- Best Places to Go Shopping in Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.peterborough.ca/en/city-services/routes-and-schedules.aspx" target="_blank" >- Public Transportation Options in Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/peterborough.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IMcGV0ZXJib3JvdWdoSDNYA2gniAEBmAEJuAEXyAEM2AED6AEBiAIBqAIDuALS7KKLBsACAdICJDJmYWU3M2I4LTJjYmItNDMxNi1hNGU0LTRjYWVlMzFkY2Y5NNgCBOACAQ;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank" >- Best Places to Stay in Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155008-Activities-zft11306-Peterborough_Ontario.html" target="_blank" >- Best Things to do with the Kids in Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thepeterboroughexaminer.com/" target="_blank" >- Local News for Peterborough, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-121_metric_e.html" target="_blank" >- Weather in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155008-Activities-Peterborough_Ontario.html" target="_blank"   >- Best Attractions in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155008-Peterborough_Ontario.html" target="_blank"   >- Best Places to Eat in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://thekawarthas.ca/explore/shopping/" target="_blank"   >- Best Places to Go Shopping in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.peterborough.ca/en/city-services/routes-and-schedules.aspx" target="_blank"   >- Public Transportation Options in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/peterborough.en-gb.html?aid=356980;label=gog235jc-1DCAMoJ0IMcGV0ZXJib3JvdWdoSDNYA2gniAEBmAEJuAEXyAEM2AED6AEBiAIBqAIDuALS7KKLBsACAdICJDJmYWU3M2I4LTJjYmItNDMxNi1hNGU0LTRjYWVlMzFkY2Y5NNgCBOACAQ;sid=dae5fc4d723ce836729958e278fb03d6;inac=0&keep_landing=1&" target="_blank"   >- Best Places to Stay in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155008-Activities-zft11306-Peterborough_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thepeterboroughexaminer.com/" target="_blank"   >- Local News for Peterborough, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-121_metric_e.html" target="_blank"   >- Weather in Peterborough, Ontario</a></li>
 					</ul>
       </div>
      </div>

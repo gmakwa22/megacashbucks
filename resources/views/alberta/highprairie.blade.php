@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about High Prairie, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.highprairie.ca/p/tourism" target="_blank" >- Best Attractions in High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1380891-High_Prairie_Alberta.html" target="_blank" >- Best Places to Eat in High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.highprairie.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coldshot.ca/highprairie/" target="_blank" >- Public Transportation Options in High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1380891-High_Prairie_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/High_Prairie" target="_blank" >- Best Things to do with the Kids in High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.southpeacenews.com/" target="_blank" >- Local News for High Prairie, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/high-prairie" target="_blank" >- Weather in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highprairie.ca/p/tourism" target="_blank"   >- Best Attractions in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1380891-High_Prairie_Alberta.html" target="_blank"   >- Best Places to Eat in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.highprairie.ca/p/business-directory" target="_blank"   >- Best Places to Go Shopping in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.coldshot.ca/highprairie/" target="_blank"   >- Public Transportation Options in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1380891-High_Prairie_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/High_Prairie" target="_blank"   >- Best Things to do with the Kids in High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.southpeacenews.com/" target="_blank"   >- Local News for High Prairie, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/high-prairie" target="_blank"   >- Weather in High Prairie, Alberta</a></li>
 					</ul>
       </div>
      </div>

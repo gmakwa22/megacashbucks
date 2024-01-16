@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Radisson, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/353/radisson" target="_blank" >- Best Attractions in Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Radisson" target="_blank" >- Best Places to Eat in Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/radisson" target="_blank" >- Best Places to Go Shopping in Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Radisson-SK-Canada/Saskatoon" target="_blank" >- Public Transportation Options in Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1027254-d1026021-Reviews-Midway_Motel-Radisson_Saskatchewan.html" target="_blank" >- Best Places to Stay in Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/radisson-saskatchewan/" target="_blank" >- Local News for Radisson, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/radisson" target="_blank" >- Weather in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/353/radisson" target="_blank"   >- Best Attractions in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Radisson" target="_blank"   >- Best Places to Eat in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/stores-brands/co-op/saskatchewan/radisson" target="_blank"   >- Best Places to Go Shopping in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Radisson-SK-Canada/Saskatoon" target="_blank"   >- Public Transportation Options in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1027254-d1026021-Reviews-Midway_Motel-Radisson_Saskatchewan.html" target="_blank"   >- Best Places to Stay in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155038-Activities-zft11306-Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/radisson-saskatchewan/" target="_blank"   >- Local News for Radisson, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/radisson" target="_blank"   >- Weather in Radisson, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

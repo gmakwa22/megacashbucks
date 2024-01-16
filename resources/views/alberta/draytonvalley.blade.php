@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Drayton Valley, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499102-Activities-Drayton_Valley_Alberta.html" target="_blank" >- Best Attractions in Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499102-Drayton_Valley_Alberta.html" target="_blank" >- Best Places to Eat in Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499102-Activities-c26-Drayton_Valley_Alberta.html" target="_blank" >- Best Places to Go Shopping in Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Bus+%26+Coach+Rental+%26+Charter/Drayton+Valley+AB" target="_blank" >- Public Transportation Options in Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499102-Drayton_Valley_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/drayton-valley-alberta" target="_blank" >- Best Things to do with the Kids in Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.draytonvalleywesternreview.com/category/news/local-news/" target="_blank" >- Local News for Drayton Valley, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/drayton-valley" target="_blank" >- Weather in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499102-Activities-Drayton_Valley_Alberta.html" target="_blank"   >- Best Attractions in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499102-Drayton_Valley_Alberta.html" target="_blank"   >- Best Places to Eat in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499102-Activities-c26-Drayton_Valley_Alberta.html" target="_blank"   >- Best Places to Go Shopping in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Bus+%26+Coach+Rental+%26+Charter/Drayton+Valley+AB" target="_blank"   >- Public Transportation Options in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499102-Drayton_Valley_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/drayton-valley-alberta" target="_blank"   >- Best Things to do with the Kids in Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/drayton-valley/" target="_blank"   >- Local News for Drayton Valley, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/drayton-valley" target="_blank"   >- Weather in Drayton Valley, Alberta</a></li>
 					</ul>
       </div>
      </div>

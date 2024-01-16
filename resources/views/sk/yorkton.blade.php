@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Yorkton, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182213-Activities-Yorkton_Saskatchewan.html" target="_blank" >- Best Attractions in Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Yorkton" target="_blank" >- Best Places to Eat in Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://tourismyorkton.com/retailers" target="_blank" >- Best Places to Go Shopping in Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182213-Yorkton_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/yorkton/" target="_blank" >- Local News for Yorkton, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-33_metric_e.html" target="_blank" >- Weather in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182213-Activities-Yorkton_Saskatchewan.html" target="_blank"   >- Best Attractions in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Yorkton" target="_blank"   >- Best Places to Eat in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://tourismyorkton.com/retailers" target="_blank"   >- Best Places to Go Shopping in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182213-Yorkton_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/yorkton/" target="_blank"   >- Local News for Yorkton, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-33_metric_e.html" target="_blank"   >- Weather in Yorkton, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

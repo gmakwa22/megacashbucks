@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stirling, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1568673-Activities-Stirling_Ontario.html" target="_blank" >- Best Attractions in Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Stirling-Ontario" target="_blank" >- Best Places to Eat in Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g1568673-Activities-c26-Stirling_Ontario.html" target="_blank" >- Best Places to Go Shopping in Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.stirling-rawdon.com/wp-content/uploads/2019/02/Central-Hastings-Public-Transit-Information-Schedule.pdf" target="_blank" >- Public Transportation Options in Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1568673-d3476418-Reviews-Stirling_Rawdon_Bed_Breakfast-Stirling_Ontario.html" target="_blank" >- Best Places to Stay in Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/stirling/" target="_blank" >- Best Things to do with the Kids in Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.communitypress.ca/category/news/local-news/" target="_blank" >- Local News for Stirling, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stirling" target="_blank" >- Weather in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1568673-Activities-Stirling_Ontario.html" target="_blank"   >- Best Attractions in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Stirling-Ontario" target="_blank"   >- Best Places to Eat in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g1568673-Activities-c26-Stirling_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.stirling-rawdon.com/wp-content/uploads/2019/02/Central-Hastings-Public-Transit-Information-Schedule.pdf" target="_blank"   >- Public Transportation Options in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1568673-d3476418-Reviews-Stirling_Rawdon_Bed_Breakfast-Stirling_Ontario.html" target="_blank"   >- Best Places to Stay in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/hastings/stirling/" target="_blank"   >- Best Things to do with the Kids in Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/stirling-rawdon/" target="_blank"   >- Local News for Stirling, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stirling" target="_blank"   >- Weather in Stirling, Ontario</a></li>
 					</ul>
       </div>
      </div>

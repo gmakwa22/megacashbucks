@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Shellbrook, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3347607-Activities-Shellbrook_Saskatchewan.html" target="_blank" >- Best Attractions in Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Shellbrook" target="_blank" >- Best Places to Eat in Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofshellbrook.ca/p/business-directory" target="_blank" >- Best Places to Go Shopping in Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://townofshellbrook.ca/p/transportation" target="_blank" >- Public Transportation Options in Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://shellbrookmotel.com/" target="_blank" >- Best Places to Stay in Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/shellbrook-saskatchewan/" target="_blank" >- Local News for Shellbrook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/shellbrook" target="_blank" >- Weather in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3347607-Activities-Shellbrook_Saskatchewan.html" target="_blank"   >- Best Attractions in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Shellbrook" target="_blank"   >- Best Places to Eat in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofshellbrook.ca/p/business-directory" target="_blank"   >- Best Places to Go Shopping in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://townofshellbrook.ca/p/transportation" target="_blank"   >- Public Transportation Options in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://shellbrookmotel.com/" target="_blank"   >- Best Places to Stay in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/shellbrook-saskatchewan/" target="_blank"   >- Local News for Shellbrook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/shellbrook" target="_blank"   >- Weather in Shellbrook, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

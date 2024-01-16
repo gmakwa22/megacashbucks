@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rockwood, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499294-Activities-Rockwood_Ontario.html" target="_blank" >- Best Attractions in Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499294-Rockwood_Ontario.html" target="_blank" >- Best Places to Eat in Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.get.on.ca/explore-and-play/explore-downtown-rockwood" target="_blank" >- Best Places to Go Shopping in Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Rockwood-Conservation-Area" target="_blank" >- Public Transportation Options in Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/rockwood.html" target="_blank" >- Best Places to Stay in Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/wellington/rockwood/" target="_blank" >- Best Things to do with the Kids in Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.wellingtonadvertiser.com/tag/rockwood/" target="_blank" >- Local News for Rockwood, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/rockwood" target="_blank" >- Weather in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499294-Activities-Rockwood_Ontario.html" target="_blank"   >- Best Attractions in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499294-Rockwood_Ontario.html" target="_blank"   >- Best Places to Eat in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.get.on.ca/explore-and-play/explore-downtown-rockwood" target="_blank"   >- Best Places to Go Shopping in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Rockwood-Conservation-Area" target="_blank"   >- Public Transportation Options in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/rockwood.html" target="_blank"   >- Best Places to Stay in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/wellington/rockwood/" target="_blank"   >- Best Things to do with the Kids in Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.wellingtonadvertiser.com/tag/rockwood/" target="_blank"   >- Local News for Rockwood, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/rockwood" target="_blank"   >- Weather in Rockwood, Ontario</a></li>
 					</ul>
       </div>
      </div>

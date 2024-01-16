@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sault Ste. Marie, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155012-Activities-Sault_Ste_Marie_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155012-Sault_Ste_Marie_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.saultstemarie.com/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://saultstemarie.ca/City-Hall/City-Departments/Community-Development-Enterprise-Services/Community-Services/Transit.aspx" target="_blank" >- Public Transportation Options in Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155012-Sault_Ste_Marie_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155012-Activities-zft11306-Sault_Ste_Marie_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.saultstar.com/category/news/local-news/" target="_blank" >- Local News for Sault Ste. Marie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sault-ste-marie" target="_blank" >- Weather in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155012-Activities-Sault_Ste_Marie_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155012-Sault_Ste_Marie_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.saultstemarie.com/things-to-do/shopping/" target="_blank"   >- Best Places to Go Shopping in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://saultstemarie.ca/City-Hall/City-Departments/Community-Development-Enterprise-Services/Community-Services/Transit.aspx" target="_blank"   >- Public Transportation Options in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155012-Sault_Ste_Marie_Northeastern_Ontario_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155012-Activities-zft11306-Sault_Ste_Marie_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sault-ste-marie/" target="_blank"   >- Local News for Sault Ste. Marie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/sault-ste-marie" target="_blank"   >- Weather in Sault Ste. Marie, Ontario</a></li>
 					</ul>
       </div>
      </div>

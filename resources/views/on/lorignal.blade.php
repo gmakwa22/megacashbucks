@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about L'Original, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2076080-Activities-L_Orignal_Hawkesbury_Ontario.html" target="_blank" >- Best Attractions in L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/LOrignal" target="_blank" >- Best Places to Eat in L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://heyshops.ca/Ontario/L'Orignal/" target="_blank" >- Best Places to Go Shopping in L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Montreal/Hawkesbury" target="_blank" >- Public Transportation Options in L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g2076080-d19117240-L_Orignal_Moose_Statue-L_Orignal_Hawkesbury_Ontario.html" target="_blank" >- Best Places to Stay in L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://lorignal.com/en/home/" target="_blank" >- Best Things to do with the Kids in L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://local.ca/on/lorignal/news/" target="_blank" >- Local News for L'Original, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/lorignal" target="_blank" >- Weather in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2076080-Activities-L_Orignal_Hawkesbury_Ontario.html" target="_blank"   >- Best Attractions in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/LOrignal" target="_blank"   >- Best Places to Eat in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://heyshops.ca/Ontario/L'Orignal/" target="_blank"   >- Best Places to Go Shopping in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Montreal/Hawkesbury" target="_blank"   >- Public Transportation Options in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g2076080-d19117240-L_Orignal_Moose_Statue-L_Orignal_Hawkesbury_Ontario.html" target="_blank"   >- Best Places to Stay in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://lorignal.com/en/home/" target="_blank"   >- Best Things to do with the Kids in L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://local.ca/on/lorignal/news/" target="_blank"   >- Local News for L'Original, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/lorignal" target="_blank"   >- Weather in L'Original, Ontario</a></li>
 					</ul>
       </div>
      </div>

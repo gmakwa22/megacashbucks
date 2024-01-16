@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Constance Bay, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.canpages.ca/business/ON/constance-bay/tourist-attractions/6761-873800.html" target="_blank" >- Best Attractions in Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://constancebay.ca/index.php/directory-category/restaurants/" target="_blank" >- Best Places to Eat in Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://constancebay.ca/index.php/directory-category/stores/" target="_blank" >- Best Places to Go Shopping in Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Constance-Bay/Ottawa" target="_blank" >- Public Transportation Options in Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.html?aid=346900&latitude=45.4750068000001&longitude=-76.0906927999999" target="_blank" >- Best Places to Stay in Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canpages.ca/business/ON/constance-bay/tourist-attractions/6761-873800.html" target="_blank" >- Best Things to do with the Kids in Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/constance-bay/" target="_blank" >- Local News for Constance Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/constance-bay" target="_blank" >- Weather in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canpages.ca/business/ON/constance-bay/tourist-attractions/6761-873800.html" target="_blank"   >- Best Attractions in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://constancebay.ca/index.php/directory-category/restaurants/" target="_blank"   >- Best Places to Eat in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://constancebay.ca/index.php/directory-category/stores/" target="_blank"   >- Best Places to Go Shopping in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Constance-Bay/Ottawa" target="_blank"   >- Public Transportation Options in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.html?aid=346900&latitude=45.4750068000001&longitude=-76.0906927999999" target="_blank"   >- Best Places to Stay in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canpages.ca/business/ON/constance-bay/tourist-attractions/6761-873800.html" target="_blank"   >- Best Things to do with the Kids in Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/constance-bay/" target="_blank"   >- Local News for Constance Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/constance-bay" target="_blank"   >- Weather in Constance Bay, Ontario</a></li>
 					</ul>
       </div>
      </div>

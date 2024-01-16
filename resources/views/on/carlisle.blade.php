@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Carlisle, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3205099-Activities-Waterdown_Hamilton_Ontario.html" target="_blank" >- Best Attractions in Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/ShowUserReviews-g154990-d3963500-r562958579-Cascata_Bistro-Hamilton_Ontario.html" target="_blank" >- Best Places to Eat in Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Carlisle/80014000.html" target="_blank" >- Best Places to Go Shopping in Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps" target="_blank" >- Public Transportation Options in Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154990-d14135068-Carlisle_Golf_Club-Hamilton_Ontario.html" target="_blank" >- Best Places to Stay in Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://tourismhamilton.com/8-family-things-to-do" target="_blank" >- Best Things to do with the Kids in Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://local.ca/on/carlisle/news/" target="_blank" >- Local News for Carlisle, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/carlisle" target="_blank" >- Weather in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3205099-Activities-Waterdown_Hamilton_Ontario.html" target="_blank"   >- Best Attractions in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/ShowUserReviews-g154990-d3963500-r562958579-Cascata_Bistro-Hamilton_Ontario.html" target="_blank"   >- Best Places to Eat in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Carlisle/80014000.html" target="_blank"   >- Best Places to Go Shopping in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps" target="_blank"   >- Public Transportation Options in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154990-d14135068-Carlisle_Golf_Club-Hamilton_Ontario.html" target="_blank"   >- Best Places to Stay in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://tourismhamilton.com/8-family-things-to-do" target="_blank"   >- Best Things to do with the Kids in Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://local.ca/on/carlisle/news/" target="_blank"   >- Local News for Carlisle, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/carlisle" target="_blank"   >- Weather in Carlisle, Ontario</a></li>
 					</ul>
       </div>
      </div>

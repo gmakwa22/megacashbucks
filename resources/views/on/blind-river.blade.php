@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Blind River, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/search/node?keys=tours&gclid=EAIaIQobChMI14zSqrXN8wIVLxmtBh3bqwfrEAAYASAAEgLp8vD_BwE" target="_blank" >- Best Attractions in Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g795943-Blind_River_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.craftontarioshop.com/?gclid=EAIaIQobChMIsfjdwrXN8wIVhXwrCh0dRQ4QEAAYAiAAEgLUDfD_BwE" target="_blank" >- Best Places to Go Shopping in Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ontarionorthland.ca/en/station/blind-river" target="_blank" >- Public Transportation Options in Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=blind-river-V8jXbB5Isk3KR_sR0UCaUQS544246947071%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-17444690290%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=d2dcdcae4fc8748f235161bd9a869efa;city=-561368;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/blind-river/on" target="_blank" >- Best Things to do with the Kids in Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tvo.org/newsletters?gclid=EAIaIQobChMInsWdlLbN8wIVhB-tBh2r2APoEAAYASAAEgJb_fD_BwE" target="_blank" >- Local News for Blind River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/blind-river" target="_blank" >- Weather in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/search/node?keys=tours&gclid=EAIaIQobChMI14zSqrXN8wIVLxmtBh3bqwfrEAAYASAAEgLp8vD_BwE" target="_blank"   >- Best Attractions in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g795943-Blind_River_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.craftontarioshop.com/?gclid=EAIaIQobChMIsfjdwrXN8wIVhXwrCh0dRQ4QEAAYAiAAEgLUDfD_BwE" target="_blank"   >- Best Places to Go Shopping in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ontarionorthland.ca/en/station/blind-river" target="_blank"   >- Public Transportation Options in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=blind-river-V8jXbB5Isk3KR_sR0UCaUQS544246947071%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-17444690290%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=d2dcdcae4fc8748f235161bd9a869efa;city=-561368;redirected=1;redirected_from_city=1;source=city&" target="_blank"   >- Best Places to Stay in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/blind-river/on" target="_blank"   >- Best Things to do with the Kids in Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tvo.org/newsletters?gclid=EAIaIQobChMInsWdlLbN8wIVhB-tBh2r2APoEAAYASAAEgJb_fD_BwE" target="_blank"   >- Local News for Blind River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/blind-river" target="_blank"   >- Weather in Blind River, Ontario</a></li>
 					</ul>
       </div>
      </div>

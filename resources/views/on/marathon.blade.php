@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Marathon, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181746-Activities-Marathon_Thunder_Bay_District_Ontario.html" target="_blank" >- Best Attractions in Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/fast-food-Marathon-Ontario-t11" target="_blank" >- Best Places to Eat in Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.marathon.ca/en/business-and-development/business-directory.aspx" target="_blank" >- Best Places to Go Shopping in Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Marathon-ON-Canada/Sault-Ste-Marie" target="_blank" >- Public Transportation Options in Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181746-Marathon_Thunder_Bay_District_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g181746-Activities-zft11306-Marathon_Thunder_Bay_District_Ontario.html" target="_blank" >- Best Things to do with the Kids in Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.marathon.ca/modules/news/en" target="_blank" >- Local News for Marathon, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/marathon" target="_blank" >- Weather in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181746-Activities-Marathon_Thunder_Bay_District_Ontario.html" target="_blank"   >- Best Attractions in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/fast-food-Marathon-Ontario-t11" target="_blank"   >- Best Places to Eat in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.marathon.ca/en/business-and-development/business-directory.aspx" target="_blank"   >- Best Places to Go Shopping in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Marathon-ON-Canada/Sault-Ste-Marie" target="_blank"   >- Public Transportation Options in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181746-Marathon_Thunder_Bay_District_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g181746-Activities-zft11306-Marathon_Thunder_Bay_District_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.marathon.ca/modules/news/en" target="_blank"   >- Local News for Marathon, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/marathon" target="_blank"   >- Weather in Marathon, Ontario</a></li>
 					</ul>
       </div>
      </div>

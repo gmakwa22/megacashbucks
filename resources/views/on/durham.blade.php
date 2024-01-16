@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Durham, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g850574-Activities-Durham_Grey_County_Ontario.html" target="_blank" >- Best Attractions in Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Durham-Ontario" target="_blank" >- Best Places to Eat in Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.durham.ca/en/tourism/shopping-and-lifestyle.aspx" target="_blank" >- Best Places to Go Shopping in Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="http://durhamregiontransit.com/" target="_blank" >- Public Transportation Options in Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/region/ca/durham.html" target="_blank" >- Best Places to Stay in Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/durham-ontario" target="_blank" >- Best Things to do with the Kids in Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.durhamregion.com/" target="_blank" >- Local News for Durham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/durham" target="_blank" >- Weather in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g850574-Activities-Durham_Grey_County_Ontario.html" target="_blank"   >- Best Attractions in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Durham-Ontario" target="_blank"   >- Best Places to Eat in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.durham.ca/en/tourism/shopping-and-lifestyle.aspx" target="_blank"   >- Best Places to Go Shopping in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="http://durhamregiontransit.com/" target="_blank"   >- Public Transportation Options in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/region/ca/durham.html" target="_blank"   >- Best Places to Stay in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/durham-ontario" target="_blank"   >- Best Things to do with the Kids in Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.durhamregion.com/" target="_blank"   >- Local News for Durham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/durham" target="_blank"   >- Weather in Durham, Ontario</a></li>
 					</ul>
       </div>
      </div>

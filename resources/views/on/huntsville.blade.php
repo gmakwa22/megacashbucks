@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Huntsville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181752-Activities-Huntsville_Muskoka_District_Ontario.html" target="_blank" >- Best Attractions in Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Huntsville-Ontario-m9623" target="_blank" >- Best Places to Eat in Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.downtownhuntsvilleadventures.ca/shop" target="_blank" >- Best Places to Go Shopping in Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.huntsville.ca/en/roads-sidewalks-and-transit/transit.aspx" target="_blank" >- Public Transportation Options in Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/huntsville.html" target="_blank" >- Best Places to Stay in Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/muskoka/huntsville/" target="_blank" >- Best Things to do with the Kids in Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/huntsville/" target="_blank" >- Local News for Huntsville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-88_metric_e.html" target="_blank" >- Weather in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181752-Activities-Huntsville_Muskoka_District_Ontario.html" target="_blank"   >- Best Attractions in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Huntsville-Ontario-m9623" target="_blank"   >- Best Places to Eat in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.downtownhuntsvilleadventures.ca/shop" target="_blank"   >- Best Places to Go Shopping in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.huntsville.ca/en/roads-sidewalks-and-transit/transit.aspx" target="_blank"   >- Public Transportation Options in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/huntsville.html" target="_blank"   >- Best Places to Stay in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/muskoka/huntsville/" target="_blank"   >- Best Things to do with the Kids in Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/huntsville/" target="_blank"   >- Local News for Huntsville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-88_metric_e.html" target="_blank"   >- Weather in Huntsville, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Simcoe, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181739-Activities-Simcoe_Norfolk_County_Ontario.html" target="_blank" >- Best Attractions in Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/simcoe/" target="_blank" >- Best Places to Eat in Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.simcoetowncentre.com/stores" target="_blank" >- Best Places to Go Shopping in Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Hamilton-ON-Canada/Simcoe" target="_blank" >- Public Transportation Options in Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181739-Simcoe_Norfolk_County_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6654037-Activities-zft11306-Norfolk_County_Ontario.html" target="_blank" >- Best Things to do with the Kids in Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.simcoereformer.ca/category/news/local-news/" target="_blank" >- Local News for Simcoe, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-161_metric_e.html" target="_blank" >- Weather in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181739-Activities-Simcoe_Norfolk_County_Ontario.html" target="_blank"   >- Best Attractions in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/simcoe/" target="_blank"   >- Best Places to Eat in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.simcoetowncentre.com/stores" target="_blank"   >- Best Places to Go Shopping in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Hamilton-ON-Canada/Simcoe" target="_blank"   >- Public Transportation Options in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181739-Simcoe_Norfolk_County_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6654037-Activities-zft11306-Norfolk_County_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/simcoe-ontario/" target="_blank"   >- Local News for Simcoe, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-161_metric_e.html" target="_blank"   >- Weather in Simcoe, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wyoming, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4162098-Wyoming_Ontario-Vacations.html" target="_blank" >- Best Attractions in Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/best-restaurant-collections-Plympton-Wyoming" target="_blank" >- Best Places to Eat in Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=Wyoming%2C+ON+N0N+1T0" target="_blank" >- Best Places to Go Shopping in Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://huronshoresareatransit.ca/schedules/" target="_blank" >- Public Transportation Options in Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g15815385-Plympton_Wyoming_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/lambton/wyoming/" target="_blank" >- Best Things to do with the Kids in Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/plympton-wyoming/" target="_blank" >- Local News for Wyoming, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/wyoming" target="_blank" >- Weather in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4162098-Wyoming_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/best-restaurant-collections-Plympton-Wyoming" target="_blank"   >- Best Places to Eat in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=Wyoming%2C+ON+N0N+1T0" target="_blank"   >- Best Places to Go Shopping in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://huronshoresareatransit.ca/schedules/" target="_blank"   >- Public Transportation Options in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g15815385-Plympton_Wyoming_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/lambton/wyoming/" target="_blank"   >- Best Things to do with the Kids in Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/plympton-wyoming/" target="_blank"   >- Local News for Wyoming, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/wyoming" target="_blank"   >- Weather in Wyoming, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wingham, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g529045-Activities-Wingham_New_South_Wales.html" target="_blank" >- Best Attractions in Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Wingham-Ontario" target="_blank" >- Best Places to Eat in Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Wingham%2C+ON+N0G+2W0" target="_blank" >- Best Places to Go Shopping in Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wingham-ON-Canada" target="_blank" >- Public Transportation Options in Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1600460-Wingham_Huron_County_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/huron/wingham/" target="_blank" >- Best Things to do with the Kids in Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/wingham-2/" target="_blank" >- Local News for Wingham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-110_metric_e.html" target="_blank" >- Weather in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g529045-Activities-Wingham_New_South_Wales.html" target="_blank"   >- Best Attractions in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Wingham-Ontario" target="_blank"   >- Best Places to Eat in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Wingham%2C+ON+N0G+2W0" target="_blank"   >- Best Places to Go Shopping in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wingham-ON-Canada" target="_blank"   >- Public Transportation Options in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1600460-Wingham_Huron_County_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/huron/wingham/" target="_blank"   >- Best Things to do with the Kids in Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/wingham-2/" target="_blank"   >- Local News for Wingham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-110_metric_e.html" target="_blank"   >- Weather in Wingham, Ontario</a></li>
 					</ul>
       </div>
      </div>

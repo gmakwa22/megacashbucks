@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Port Hope, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499290-Activities-Port_Hope_Ontario.html" target="_blank" >- Best Attractions in Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-hope/" target="_blank" >- Best Places to Eat in Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitporthope.ca/en/things-to-do/shopping.aspx" target="_blank" >- Best Places to Go Shopping in Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.porthope.ca/en/living-here/transit.aspx" target="_blank" >- Public Transportation Options in Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-hope.html" target="_blank" >- Best Places to Stay in Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitporthope.ca/en/things-to-do/family-fun.aspx" target="_blank" >- Best Things to do with the Kids in Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.northumberlandnews.com/porthope-on-news/" target="_blank" >- Local News for Port Hope, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-hope" target="_blank" >- Weather in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499290-Activities-Port_Hope_Ontario.html" target="_blank"   >- Best Attractions in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-hope/" target="_blank"   >- Best Places to Eat in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitporthope.ca/en/things-to-do/shopping.aspx" target="_blank"   >- Best Places to Go Shopping in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.porthope.ca/en/living-here/transit.aspx" target="_blank"   >- Public Transportation Options in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-hope.html" target="_blank"   >- Best Places to Stay in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitporthope.ca/en/things-to-do/family-fun.aspx" target="_blank"   >- Best Things to do with the Kids in Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.northumberlandnews.com/porthope-on-news/" target="_blank"   >- Local News for Port Hope, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/port-hope" target="_blank"   >- Weather in Port Hope, Ontario</a></li>
 					</ul>
       </div>
      </div>

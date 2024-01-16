@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Belleville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://sheringhamlighthouse.org/welcome/?gclid=EAIaIQobChMIoJrzobrK8wIV5R-tBh1ZnwxpEAAYASAAEgIbmfD_BwE" target="_blank" >- Best Attractions in Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154981-zfp58-Belleville_Ontario.html" target="_blank" >- Best Places to Eat in Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.quintemall.com/stores" target="_blank" >- Best Places to Go Shopping in Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.belleville.ca/en/walk-ride-and-drive/transit.aspx" target="_blank" >- Public Transportation Options in Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=belleville-Vc2hHm7pD07Y2loN9GMdPgS528846145619%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-303817938%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=dae5fc4d723ce836729958e278fb03d6;city=-560986;redirected=1;redirected_from_city=1;source=city&" target="_blank" >- Best Places to Stay in Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://kidsontrack.org/" target="_blank" >- Best Things to do with the Kids in Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.haventoronto.ca/single-post/homeless-in-the-summer?gclid=EAIaIQobChMIwebRhLvK8wIVxBrnCh1GGgdWEAAYAiAAEgLolfD_BwE" target="_blank" >- Local News for Belleville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/belleville" target="_blank" >- Weather in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://ultimateontario.com/things-to-do-in-belleville-ontario/" target="_blank"   >- Best Attractions in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154981-zfp58-Belleville_Ontario.html" target="_blank"   >- Best Places to Eat in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.quintemall.com/stores" target="_blank"   >- Best Places to Go Shopping in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.belleville.ca/en/walk-ride-and-drive/transit.aspx" target="_blank"   >- Public Transportation Options in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/searchresults.en-gb.html?aid=306395;label=belleville-Vc2hHm7pD07Y2loN9GMdPgS528846145619%3Apl%3Ata%3Ap15%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666995%3Akwd-303817938%3Alp9001551%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=dae5fc4d723ce836729958e278fb03d6;city=-560986;redirected=1;redirected_from_city=1;source=city&" target="_blank"   >- Best Places to Stay in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://kidsontrack.org/" target="_blank"   >- Best Things to do with the Kids in Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.haventoronto.ca/single-post/homeless-in-the-summer?gclid=EAIaIQobChMIwebRhLvK8wIVxBrnCh1GGgdWEAAYAiAAEgLolfD_BwE" target="_blank"   >- Local News for Belleville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/belleville" target="_blank"   >- Weather in Belleville, Ontario</a></li>
 					</ul>
       </div>
      </div>

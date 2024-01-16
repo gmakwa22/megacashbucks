@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Grand Bend, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635953-Activities-Grand_Bend_Lambton_Shores_Ontario.html" target="_blank" >- Best Attractions in Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g635953-Grand_Bend_Lambton_Shores_Ontario.html" target="_blank" >- Best Places to Eat in Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635953-Activities-c26-Grand_Bend_Lambton_Shores_Ontario.html" target="_blank" >- Best Places to Go Shopping in Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Grand-Bend" target="_blank" >- Public Transportation Options in Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/grand-bend.html" target="_blank" >- Best Places to Stay in Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/9-things-to-do-good-for-kids-in-grand-bend-that-you-shouldn-t-miss-540823" target="_blank" >- Best Things to do with the Kids in Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.lakeshoreadvance.com/category/news/local-news/" target="_blank" >- Local News for Grand Bend, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/grand-bend" target="_blank" >- Weather in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635953-Activities-Grand_Bend_Lambton_Shores_Ontario.html" target="_blank"   >- Best Attractions in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g635953-Grand_Bend_Lambton_Shores_Ontario.html" target="_blank"   >- Best Places to Eat in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635953-Activities-c26-Grand_Bend_Lambton_Shores_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Grand-Bend" target="_blank"   >- Public Transportation Options in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/grand-bend.html" target="_blank"   >- Best Places to Stay in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/9-things-to-do-good-for-kids-in-grand-bend-that-you-shouldn-t-miss-540823" target="_blank"   >- Best Things to do with the Kids in Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/grand-bend/" target="_blank"   >- Local News for Grand Bend, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/grand-bend" target="_blank"   >- Weather in Grand Bend, Ontario</a></li>
 					</ul>
       </div>
      </div>

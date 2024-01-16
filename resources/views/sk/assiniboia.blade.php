@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Assiniboia, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/498/assiniboia#sort=relevancy" target="_blank" >- Best Attractions in Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g680204-Assiniboia_Saskatchewan.html" target="_blank" >- Best Places to Eat in Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Assiniboia%2C+SK+S0H+0B0" target="_blank" >- Best Places to Go Shopping in Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/saskatchewan/SK/assiniboia_bus_routes.htm" target="_blank" >- Public Transportation Options in Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de169046/assiniboia-saskatchewan-hotels-rooms/" target="_blank" >- Best Places to Stay in Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.assiniboia.net/recreation/programming/summer_activities.html" target="_blank" >- Best Things to do with the Kids in Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/assiniboia/" target="_blank" >- Local News for Assiniboia, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/assiniboia" target="_blank" >- Weather in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/498/assiniboia#sort=relevancy" target="_blank"   >- Best Attractions in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g680204-Assiniboia_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Assiniboia%2C+SK+S0H+0B0" target="_blank"   >- Best Places to Go Shopping in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/saskatchewan/SK/assiniboia_bus_routes.htm" target="_blank"   >- Public Transportation Options in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de169046/assiniboia-saskatchewan-hotels-rooms/" target="_blank"   >- Best Places to Stay in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.assiniboia.net/recreation/programming/summer_activities.html" target="_blank"   >- Best Things to do with the Kids in Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/assiniboia/" target="_blank"   >- Local News for Assiniboia, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/assiniboia" target="_blank"   >- Weather in Assiniboia, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

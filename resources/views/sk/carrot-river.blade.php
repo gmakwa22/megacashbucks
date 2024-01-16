@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Carrot River, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3680081-Activities-Carrot_River_Saskatchewan.html" target="_blank" >- Best Attractions in Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Carrot-River" target="_blank" >- Best Places to Eat in Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g3680081-Activities-c26-Carrot_River_Saskatchewan.html" target="_blank" >- Best Places to Go Shopping in Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Carrot-River-Hotels.d3000435583.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/carrot-river/sk" target="_blank" >- Best Things to do with the Kids in Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://local.ca/sk/carrot-river/news/" target="_blank" >- Local News for Carrot River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/carrot-river" target="_blank" >- Weather in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3680081-Activities-Carrot_River_Saskatchewan.html" target="_blank"   >- Best Attractions in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Carrot-River" target="_blank"   >- Best Places to Eat in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g3680081-Activities-c26-Carrot_River_Saskatchewan.html" target="_blank"   >- Best Places to Go Shopping in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Carrot-River-Hotels.d3000435583.Travel-Guide-Hotels" target="_blank"   >- Best Places to Stay in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/carrot-river/sk" target="_blank"   >- Best Things to do with the Kids in Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://local.ca/sk/carrot-river/news/" target="_blank"   >- Local News for Carrot River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/carrot-river" target="_blank"   >- Weather in Carrot River, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

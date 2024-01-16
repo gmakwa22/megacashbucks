@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Beaverlodge, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1028538-Activities-Beaverlodge_Alberta.html" target="_blank" >- Best Attractions in Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1028538-Beaverlodge_Alberta.html" target="_blank" >- Best Places to Eat in Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://alberta.canadaspots.com/beaverlodge/shops" target="_blank" >- Best Places to Go Shopping in Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coldshot.ca/beaverlodge/" target="_blank" >- Public Transportation Options in Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181802-Beaverlodge_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://allevents.in/Beaverlodge-ab/kids" target="_blank" >- Best Things to do with the Kids in Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.Beaverlodgeherald.com/category/news/local-news/" target="_blank" >- Local News for Beaverlodge, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/Beaverlodge" target="_blank" >- Weather in Beaverlodge, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1028538-Activities-Beaverlodge_Alberta.html" target="_blank"   >- Best Attractions in Beaverlodge, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1028538-Beaverlodge_Alberta.html" target="_blank"   >- Best Places to Eat in Beaverlodge, Alberta</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Beaverlodge, Alberta</li>
+					<li class="list-group-item"><a href="https://www.coldshot.ca/beaverlodge/" target="_blank"   >- Public Transportation Options in Beaverlodge, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181802-Beaverlodge_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Beaverlodge, Alberta</a></li>
+					<li class="list-group-item"><a href="https://allevents.in/Beaverlodge-ab/kids" target="_blank"   >- Best Things to do with the Kids in Beaverlodge, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.Beaverlodgeherald.com/category/news/local-news/" target="_blank"   >- Local News for Beaverlodge, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/Beaverlodge" target="_blank"   >- Weather in Beaverlodge, Alberta</a></li>
 					</ul>
       </div>
      </div>

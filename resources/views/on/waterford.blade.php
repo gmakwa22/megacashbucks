@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Waterford, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/the-10-best-things-to-do-in-waterford-norfolk-county-692938" target="_blank" >- Best Attractions in Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Waterford-Ontario" target="_blank" >- Best Places to Eat in Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947965-Activities-c26-Waterford_Norfolk_County_Ontario.html" target="_blank" >- Best Places to Go Shopping in Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kingston-ON-Canada/Waterford-ON-Canada" target="_blank" >- Public Transportation Options in Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/waterford.html" target="_blank" >- Best Places to Stay in Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/haldimand-norfolk/waterford/" target="_blank" >- Best Things to do with the Kids in Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/waterford/" target="_blank" >- Local News for Waterford, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/waterford" target="_blank" >- Weather in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/the-10-best-things-to-do-in-waterford-norfolk-county-692938" target="_blank"   >- Best Attractions in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Waterford-Ontario" target="_blank"   >- Best Places to Eat in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947965-Activities-c26-Waterford_Norfolk_County_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kingston-ON-Canada/Waterford-ON-Canada" target="_blank"   >- Public Transportation Options in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/waterford.html" target="_blank"   >- Best Places to Stay in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/haldimand-norfolk/waterford/" target="_blank"   >- Best Things to do with the Kids in Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/waterford/" target="_blank"   >- Local News for Waterford, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/waterford" target="_blank"   >- Weather in Waterford, Ontario</a></li>
 					</ul>
       </div>
      </div>

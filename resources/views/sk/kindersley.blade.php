@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kindersley, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181728-Activities-Kindersley_Saskatchewan.html" target="_blank" >- Best Attractions in Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/kindersley/" target="_blank" >- Best Places to Eat in Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.kindersley.ca/tourism/places-to-shop/" target="_blank" >- Best Places to Go Shopping in Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kindersley/Saskatoon" target="_blank" >- Public Transportation Options in Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181728-Kindersley_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.kindersley.ca/tourism/tourism-kindersley/" target="_blank" >- Best Things to do with the Kids in Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.kindersley.ca/latest-news/" target="_blank" >- Local News for Kindersley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-21_metric_e.html" target="_blank" >- Weather in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181728-Activities-Kindersley_Saskatchewan.html" target="_blank"   >- Best Attractions in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/kindersley/" target="_blank"   >- Best Places to Eat in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.kindersley.ca/tourism/places-to-shop/" target="_blank"   >- Best Places to Go Shopping in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Kindersley/Saskatoon" target="_blank"   >- Public Transportation Options in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181728-Kindersley_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.kindersley.ca/tourism/tourism-kindersley/" target="_blank"   >- Best Things to do with the Kids in Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.kindersley.ca/latest-news/" target="_blank"   >- Local News for Kindersley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-21_metric_e.html" target="_blank"   >- Weather in Kindersley, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

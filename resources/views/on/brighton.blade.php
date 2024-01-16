@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Brighton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g780921-Activities-Brighton_Ontario.html" target="_blank" >- Best Attractions in Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g780921-Brighton_Ontario.html" target="_blank" >- Best Places to Eat in Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g780921-Activities-c26-Brighton_Ontario.html" target="_blank" >- Best Places to Go Shopping in Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.brighton.ca/en/doing-business/transportation.aspx" target="_blank" >- Public Transportation Options in Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.candlewoodsuites.com/hotels/us/en/find-hotels/hotel/list?fromRedirect=true&qSrt=sBR&qIta=99634581&icdv=99634581&qDest=Brighton,%20CO,%20United%20States&setPMCookies=true&dp=true&gclid=EAIaIQobChMIxez9mcTN8wIVSQqRCh0yKg4eEAAYASAAEgJA8_D_BwE&cm_mmc=PDSEA-_-G%7CF-AMER%7CFS-USA%7CH-AMER%7CHS-USA%7CCW%7CNBI%7CEXM%7CHOTEL-DENBN&srb_u=1" target="_blank" >- Best Places to Stay in Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g780921-Activities-zft11306-Brighton_Ontario.html" target="_blank" >- Best Things to do with the Kids in Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.brightontoday.ca/local-news/" target="_blank" >- Local News for Brighton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brighton" target="_blank" >- Weather in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g780921-Activities-Brighton_Ontario.html" target="_blank"   >- Best Attractions in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g780921-Brighton_Ontario.html" target="_blank"   >- Best Places to Eat in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g780921-Activities-c26-Brighton_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.brighton.ca/en/doing-business/transportation.aspx" target="_blank"   >- Public Transportation Options in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.candlewoodsuites.com/hotels/us/en/find-hotels/hotel/list?fromRedirect=true&qSrt=sBR&qIta=99634581&icdv=99634581&qDest=Brighton,%20CO,%20United%20States&setPMCookies=true&dp=true&gclid=EAIaIQobChMIxez9mcTN8wIVSQqRCh0yKg4eEAAYASAAEgJA8_D_BwE&cm_mmc=PDSEA-_-G%7CF-AMER%7CFS-USA%7CH-AMER%7CHS-USA%7CCW%7CNBI%7CEXM%7CHOTEL-DENBN&srb_u=1" target="_blank"   >- Best Places to Stay in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g780921-Activities-zft11306-Brighton_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.brightontoday.ca/local-news/" target="_blank"   >- Local News for Brighton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brighton" target="_blank"   >- Weather in Brighton, Ontario</a></li>
 					</ul>
       </div>
      </div>

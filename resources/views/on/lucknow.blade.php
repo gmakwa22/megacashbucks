@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Lucknow, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitlucknow.ca/things-to-do/" target="_blank" >- Best Attractions in Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitlucknow.ca/where-to-eat/" target="_blank" >- Best Places to Eat in Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitlucknow.ca/where-to-shop/" target="_blank" >- Best Places to Go Shopping in Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Lucknow-ON-Canada" target="_blank" >- Public Transportation Options in Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1023994-Lucknow_Bruce_County_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitlucknow.ca/things-to-do/kids-family-activities/" target="_blank" >- Best Things to do with the Kids in Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.lucknowsentinel.com/category/news/" target="_blank" >- Local News for Lucknow, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/lucknow" target="_blank" >- Weather in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitlucknow.ca/things-to-do/" target="_blank"   >- Best Attractions in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitlucknow.ca/where-to-eat/" target="_blank"   >- Best Places to Eat in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitlucknow.ca/where-to-shop/" target="_blank"   >- Best Places to Go Shopping in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Lucknow-ON-Canada" target="_blank"   >- Public Transportation Options in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1023994-Lucknow_Bruce_County_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitlucknow.ca/things-to-do/kids-family-activities/" target="_blank"   >- Best Things to do with the Kids in Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/lucknow/" target="_blank"   >- Local News for Lucknow, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/lucknow" target="_blank"   >- Weather in Lucknow, Ontario</a></li>
 					</ul>
       </div>
      </div>

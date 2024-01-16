@@ -8,7 +8,7 @@
 				<p class="title">Deep River Ontario</p>
 				<h2 class="small-title">Deep River’s Best PayDay Loans</h2>
 				<p class="text text-justify">We know that things happen in life and sometimes you need Cash Money in Deep River Ontario for unexpected expenses.</p>
-				<p class="text text-justify">We know that things happen in life and sometimes you need extra money for unexpected expenses. If you need the car or computer repaired, emergency dental work or last-minute tuition fees, what do you do? Borrow from family? That can be complicated. Apply for a line of credit? But that can take too long. You need a solution now. A post-dated check? That can be tricky. How about a cleaner, faster, easier solution than any of those options? Our payday loan in deep-river can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
+				<p class="text text-justify">We know that things happen in life and sometimes you need extra money for unexpected expenses. If you need the car or computer repaired, emergency dental work or last-minute tuition fees, what do you do? Borrow from family? That can be complicated. Apply for a line of credit? But that can take too long. You need a solution now. A post-dated check? That can be tricky. How about a cleaner, faster, easier solution than any of those options? Our payday loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
 				<p class="text text-justify">Plus, we use the industry’s state-of-the-art encryption technology to ensure that your personal application information is rock solid safe. Also, the application is as simple as can be. The days of standing in line at some storefront location, with all your documents piled in your lap, waiting for your number to be called, are over at {{$privname}}. Ours is a completely streamlined, easy to use, secure, online process. The whole thing can be done from the comfort of your couch, all in one day. Once approved, and you sign the electronic contract, your funds are just 5 minutes away from being in your bank account. </p>
 				<p class="text text-justify">So, if you’re looking for a short-term loan, with a trusted, direct lender, {{$privname}} is the company for you. Our Code of Conduct is drawn from industry best practices, ensuring a transparent and responsible lending process wherever you are, in Deep River or across Ontario.</p>
 				<p class="text text-justify">We appreciate the encouraging response to our innovative loan business model from our clients in Deep River. Look forward to more great short-term loan opportunities as we work to make your financial life easier and happier.
@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Deep River, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.deepriver.ca/visitors/attractions/" target="_blank" >- Best Attractions in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Deep-River-Ontario" target="_blank" >- Best Places to Eat in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.deepriver.ca/business-directory/Retail/" target="_blank" >- Best Places to Go Shopping in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ontario-Canada/Deep-River-ON-Canada" target="_blank" >- Public Transportation Options in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/deep-river.html" target="_blank" >- Best Places to Stay in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/deep-river/on" target="_blank" >- Best Things to do with the Kids in Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/deep-river-ontario/" target="_blank" >- Local News for Deep River, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/deep-river" target="_blank" >- Weather in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.deepriver.ca/visitors/attractions/" target="_blank"   >- Best Attractions in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Deep-River-Ontario" target="_blank"   >- Best Places to Eat in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.deepriver.ca/business-directory/Retail/" target="_blank"   >- Best Places to Go Shopping in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ontario-Canada/Deep-River-ON-Canada" target="_blank"   >- Public Transportation Options in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/deep-river.html" target="_blank"   >- Best Places to Stay in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/deep-river/on" target="_blank"   >- Best Things to do with the Kids in Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/deep-river-ontario/" target="_blank"   >- Local News for Deep River, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/deep-river" target="_blank"   >- Weather in Deep River, Ontario</a></li>
 					</ul>
       </div>
      </div>

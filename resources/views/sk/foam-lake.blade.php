@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Foam Lake, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7726132-Activities-Foam_Lake_Saskatchewan.html" target="_blank" >- Best Attractions in Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Foam-Lake" target="_blank" >- Best Places to Eat in Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://foamlake.com/doing-business/business-directory/" target="_blank" >- Best Places to Go Shopping in Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://foamlake.com/town-services/transportation/" target="_blank" >- Public Transportation Options in Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7726132-Foam_Lake_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7726132-Activities-Foam_Lake_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/foam-lake/" target="_blank" >- Local News for Foam Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/foam-lake" target="_blank" >- Weather in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7726132-Activities-Foam_Lake_Saskatchewan.html" target="_blank"   >- Best Attractions in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Foam-Lake" target="_blank"   >- Best Places to Eat in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://foamlake.com/doing-business/business-directory/" target="_blank"   >- Best Places to Go Shopping in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://foamlake.com/town-services/transportation/" target="_blank"   >- Public Transportation Options in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7726132-Foam_Lake_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7726132-Activities-Foam_Lake_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/foam-lake/" target="_blank"   >- Local News for Foam Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/foam-lake" target="_blank"   >- Weather in Foam Lake, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

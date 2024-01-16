@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Leamington, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154994-Activities-Leamington_Ontario.html" target="_blank" >- Best Attractions in Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/leamington/" target="_blank" >- Best Places to Eat in Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154994-Activities-c26-Leamington_Ontario.html" target="_blank" >- Best Places to Go Shopping in Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.leamington.ca/en/our-community/busservice.aspx" target="_blank" >- Public Transportation Options in Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/leamington.html" target="_blank" >- Best Places to Stay in Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154994-Activities-zft11306-Leamington_Ontario.html" target="_blank" >- Best Things to do with the Kids in Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/leamington/" target="_blank" >- Local News for Leamington, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/leamington" target="_blank" >- Weather in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154994-Activities-Leamington_Ontario.html" target="_blank"   >- Best Attractions in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/leamington/" target="_blank"   >- Best Places to Eat in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154994-Activities-c26-Leamington_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.leamington.ca/en/our-community/busservice.aspx" target="_blank"   >- Public Transportation Options in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/leamington.html" target="_blank"   >- Best Places to Stay in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154994-Activities-zft11306-Leamington_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/leamington/" target="_blank"   >- Local News for Leamington, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/leamington" target="_blank"   >- Weather in Leamington, Ontario</a></li>
 					</ul>
       </div>
      </div>

@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cayuga, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2044824-Activities-Cayuga_Haldimand_Ontario.html" target="_blank" >- Best Attractions in Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2044824-Cayuga_Haldimand_Ontario.html" target="_blank" >- Best Places to Eat in Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Cayuga%2C+ON" target="_blank" >- Best Places to Go Shopping in Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Cayuga_Court-Toronto_ON-street_4347582-143" target="_blank" >- Public Transportation Options in Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/cayuga.html" target="_blank" >- Best Places to Stay in Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2044824-Activities-zft11306-Cayuga_Haldimand_Ontario.html" target="_blank" >- Best Things to do with the Kids in Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.sachem.ca/haldimand-news/" target="_blank" >- Local News for Cayuga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/cayuga" target="_blank" >- Weather in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2044824-Activities-Cayuga_Haldimand_Ontario.html" target="_blank"   >- Best Attractions in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2044824-Cayuga_Haldimand_Ontario.html" target="_blank"   >- Best Places to Eat in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Cayuga%2C+ON" target="_blank"   >- Best Places to Go Shopping in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Cayuga_Court-Toronto_ON-street_4347582-143" target="_blank"   >- Public Transportation Options in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/cayuga.html" target="_blank"   >- Best Places to Stay in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2044824-Activities-zft11306-Cayuga_Haldimand_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.sachem.ca/haldimand-news/" target="_blank"   >- Local News for Cayuga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/cayuga" target="_blank"   >- Weather in Cayuga, Ontario</a></li>
 					</ul>
       </div>
      </div>

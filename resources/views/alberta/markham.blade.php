@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 <h3>Helpful information about Markham, ONTARIO</h3>
 			<ul class="list-group">
-				<li class="list-group-item"><a href="https://www.markham.ca/wps/portal/home" target="_blank" rel="noopener nofollow">- City of Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://www.markham.ca/wps/portal/home/arts/markham-public-library" target="_blank" rel="noopener nofollow">- Libraries in Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Markham_Ontario-Markham_ON-efsite_4d549ba516a6b60c13cf41f8-143" target="_blank" rel="noopener nofollow">- Public Transit in Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181720-Markham_Ontario.html" target="_blank" rel="noopener nofollow">- Best restaurants in Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181720-Markham_Ontario-Hotels.html" target="_blank" rel="noopener nofollow">- The 10 best Hotels in Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://www.thecrazytourist.com/15-best-things-markham-ontario-canada/" target="_blank" rel="noopener nofollow">- 15 Best Things to Do in Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://www.yorkregion.com/markham-on/" target="_blank" rel="noopener nofollow">- News in Markham, Ontario</a></li>
-				<li class="list-group-item"><a href="https://weather.com/weather/today/l/43.86,-79.34" target="_blank" rel="noopener nofollow">- Weather in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.markham.ca/wps/portal/home" target="_blank" rel="noopener ">- City of Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.markham.ca/wps/portal/home/arts/markham-public-library" target="_blank" rel="noopener ">- Libraries in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Markham_Ontario-Markham_ON-efsite_4d549ba516a6b60c13cf41f8-143" target="_blank" rel="noopener ">- Public Transit in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181720-Markham_Ontario.html" target="_blank" rel="noopener ">- Best restaurants in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181720-Markham_Ontario-Hotels.html" target="_blank" rel="noopener ">- The 10 best Hotels in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.thecrazytourist.com/15-best-things-markham-ontario-canada/" target="_blank" rel="noopener ">- 15 Best Things to Do in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.yorkregion.com/markham-on/" target="_blank" rel="noopener ">- News in Markham, Ontario</a></li>
+				<li class="list-group-item"><a href="https://weather.com/weather/today/l/43.86,-79.34" target="_blank" rel="noopener ">- Weather in Markham, Ontario</a></li>
 				</ul>
       </div>
      </div>

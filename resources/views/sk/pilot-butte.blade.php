@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Pilot Butte, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g776252-Activities-Pilot_Butte_Saskatchewan.html" target="_blank" >- Best Attractions in Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Pilot-Butte" target="_blank" >- Best Places to Eat in Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://pilotbutte.ca/community/business-directory/" target="_blank" >- Best Places to Go Shopping in Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Pilot-Butte" target="_blank" >- Public Transportation Options in Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g776252-Pilot_Butte_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.chatterblock.com/resources/pilot-butte-saskatchewan-c2799/" target="_blank" >- Best Things to do with the Kids in Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://pilotbutte.ca/" target="_blank" >- Local News for Pilot Butte, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/pilot-buttes" target="_blank" >- Weather in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g776252-Activities-Pilot_Butte_Saskatchewan.html" target="_blank"   >- Best Attractions in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Pilot-Butte" target="_blank"   >- Best Places to Eat in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://pilotbutte.ca/community/business-directory/" target="_blank"   >- Best Places to Go Shopping in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Pilot-Butte" target="_blank"   >- Public Transportation Options in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g776252-Pilot_Butte_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.chatterblock.com/resources/pilot-butte-saskatchewan-c2799/" target="_blank"   >- Best Things to do with the Kids in Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://pilotbutte.ca/" target="_blank"   >- Local News for Pilot Butte, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/pilot-buttes" target="_blank"   >- Weather in Pilot Butte, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

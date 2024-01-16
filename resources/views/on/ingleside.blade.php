@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Ingleside, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670912-Activities-Ingleside_Ontario.html" target="_blank" >- Best Attractions in Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Ingleside-Ontario" target="_blank" >- Best Places to Eat in Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Ingleside+Ontario/80014000.html" target="_blank" >- Best Places to Go Shopping in Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Ingleside_Colonia-Corpus_Christi_TX-site_61640142-3471" target="_blank" >- Public Transportation Options in Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g670912-Ingleside_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670912-Activities-zft11306-Ingleside_Ontario.html" target="_blank" >- Best Things to do with the Kids in Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://cornwallfreenews.com/tag/ingleside-2/" target="_blank" >- Local News for Ingleside, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ingleside" target="_blank" >- Weather in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670912-Activities-Ingleside_Ontario.html" target="_blank"   >- Best Attractions in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Ingleside-Ontario" target="_blank"   >- Best Places to Eat in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Ingleside+Ontario/80014000.html" target="_blank"   >- Best Places to Go Shopping in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Ingleside_Colonia-Corpus_Christi_TX-site_61640142-3471" target="_blank"   >- Public Transportation Options in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g670912-Ingleside_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g670912-Activities-zft11306-Ingleside_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://cornwallfreenews.com/tag/ingleside-2/" target="_blank"   >- Local News for Ingleside, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/ingleside" target="_blank"   >- Weather in Ingleside, Ontario</a></li>
 					</ul>
       </div>
      </div>

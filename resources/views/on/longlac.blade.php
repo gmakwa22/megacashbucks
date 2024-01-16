@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Longlac, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1600457-Longlac_Thunder_Bay_District_Ontario-Vacations.html" target="_blank" >- Best Attractions in Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Longlac" target="_blank" >- Best Places to Eat in Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Department+Stores/Longlac+ON" target="_blank" >- Best Places to Go Shopping in Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Longlac/Ontario-Canada" target="_blank" >- Public Transportation Options in Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1600457-Longlac_Thunder_Bay_District_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="http://academickids.com/encyclopedia/index.php/Longlac%2C_Ontario" target="_blank" >- Best Things to do with the Kids in Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="https://local.ca/on/longlac/news/" target="_blank" >- Local News for Longlac, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/longlac" target="_blank" >- Weather in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.1000towns.ca/longlac-ontario/" target="_blank"   >- Best Attractions in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Longlac" target="_blank"   >- Best Places to Eat in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Department+Stores/Longlac+ON" target="_blank"   >- Best Places to Go Shopping in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Longlac/Ontario-Canada" target="_blank"   >- Public Transportation Options in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1600457-Longlac_Thunder_Bay_District_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="http://academickids.com/encyclopedia/index.php/Longlac%2C_Ontario" target="_blank"   >- Best Things to do with the Kids in Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://local.ca/on/longlac/news/" target="_blank"   >- Local News for Longlac, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/longlac" target="_blank"   >- Weather in Longlac, Ontario</a></li>
 					</ul>
       </div>
      </div>

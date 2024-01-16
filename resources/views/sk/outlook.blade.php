@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Outlook, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/sightseeing.html" target="_blank" >- Best Attractions in Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/dining.html" target="_blank" >- Best Places to Eat in Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/shopping.html" target="_blank" >- Best Places to Go Shopping in Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Outlook" target="_blank" >- Public Transportation Options in Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/accommodation.html" target="_blank" >- Best Places to Stay in Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/fun-things-kids-summer-saskatoon/" target="_blank" >- Best Things to do with the Kids in Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.sasktoday.ca/central/outlook" target="_blank" >- Local News for Outlook, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-37_metric_e.html" target="_blank" >- Weather in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/sightseeing.html" target="_blank"   >- Best Attractions in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/dining.html" target="_blank"   >- Best Places to Eat in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/shopping.html" target="_blank"   >- Best Places to Go Shopping in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Regina/Outlook" target="_blank"   >- Public Transportation Options in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofoutlook.ca/visitors/accommodation.html" target="_blank"   >- Best Places to Stay in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.todocanada.ca/fun-things-kids-summer-saskatoon/" target="_blank"   >- Best Things to do with the Kids in Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.sasktoday.ca/central/outlook" target="_blank"   >- Local News for Outlook, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-37_metric_e.html" target="_blank"   >- Weather in Outlook, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

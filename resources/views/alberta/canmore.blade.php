@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Canmore, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181727-Activities-Canmore_Kananaskis_Country_Alberta.html" target="_blank" >- Best Attractions in Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181727-Canmore_Kananaskis_Country_Alberta.html" target="_blank" >- Best Places to Eat in Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://canmorealberta.com/things-to-do/shopping" target="_blank" >- Best Places to Go Shopping in Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://canmore.ca/residents/getting-around/roam-bus-service" target="_blank" >- Public Transportation Options in Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181727-Canmore_Kananaskis_Country_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181727-Activities-zft11306-Canmore_Kananaskis_Country_Alberta.html" target="_blank" >- Best Things to do with the Kids in Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/canmore/" target="_blank" >- Local News for Canmore, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/canmore" target="_blank" >- Weather in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181727-Activities-Canmore_Kananaskis_Country_Alberta.html" target="_blank"   >- Best Attractions in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181727-Canmore_Kananaskis_Country_Alberta.html" target="_blank"   >- Best Places to Eat in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://canmorealberta.com/things-to-do/shopping" target="_blank"   >- Best Places to Go Shopping in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canmore.ca/your-community/parking-transportation-and-roads/roam" target="_blank"   >- Public Transportation Options in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181727-Canmore_Kananaskis_Country_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181727-Activities-zft11306-Canmore_Kananaskis_Country_Alberta.html" target="_blank"   >- Best Things to do with the Kids in Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/canmore/" target="_blank"   >- Local News for Canmore, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/canmore" target="_blank"   >- Weather in Canmore, Alberta</a></li>
 					</ul>
       </div>
      </div>

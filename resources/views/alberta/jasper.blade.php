@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Jasper, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.jasper.travel/things-to-do/" target="_blank" >- Best Attractions in Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154918-Jasper_Jasper_National_Park_Alberta.html" target="_blank" >- Best Places to Eat in Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.jasper.travel/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.jasper.travel/getting-here/" target="_blank" >- Public Transportation Options in Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154918-Jasper_Jasper_National_Park_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.raisingedmonton.com/10-summer-activities-to-do-with-your-young-kids-in-jasper/" target="_blank" >- Best Things to do with the Kids in Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.fitzhugh.ca/category/news/" target="_blank" >- Local News for Jasper, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/jasper" target="_blank" >- Weather in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.jasper.travel/things-to-do/" target="_blank"   >- Best Attractions in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154918-Jasper_Jasper_National_Park_Alberta.html" target="_blank"   >- Best Places to Eat in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.jasper.travel/things-to-do/shopping/" target="_blank"   >- Best Places to Go Shopping in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.jasper.travel/getting-here/" target="_blank"   >- Public Transportation Options in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154918-Jasper_Jasper_National_Park_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.raisingedmonton.com/10-summer-activities-to-do-with-your-young-kids-in-jasper/" target="_blank"   >- Best Things to do with the Kids in Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.jasperlocal.com/" target="_blank"   >- Local News for Jasper, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/jasper" target="_blank"   >- Weather in Jasper, Alberta</a></li>
 					</ul>
       </div>
      </div>

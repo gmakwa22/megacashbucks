@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Brussels, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.visitparksvillequalicumbeach.com/blog/daytrips-to-comox-valley-port-alberni-nanaimo-attractions/?gclid=EAIaIQobChMIrPHgv8fN8wIV_DytBh05PwZeEAAYBCAAEgI-y_D_BwE" target="_blank" >- Best Attractions in Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8651388-Brussels_Huron_County_Ontario.html" target="_blank" >- Best Places to Eat in Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.craftontarioshop.com/?gclid=EAIaIQobChMI4NXN2cfN8wIVYh-tBh0zzgOMEAAYAyAAEgJm_PD_BwE" target="_blank" >- Best Places to Go Shopping in Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Brussels-ON-Canada" target="_blank" >- Public Transportation Options in Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="https://staycanada.ca/ontario/brussels/" target="_blank" >- Best Places to Stay in Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="http://academickids.com/encyclopedia/index.php/Brussels%2C_Ontario" target="_blank" >- Best Things to do with the Kids in Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/brussels-ontario/" target="_blank" >- Local News for Brussels, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brussels" target="_blank" >- Weather in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitparksvillequalicumbeach.com/blog/daytrips-to-comox-valley-port-alberni-nanaimo-attractions/?gclid=EAIaIQobChMIrPHgv8fN8wIV_DytBh05PwZeEAAYBCAAEgI-y_D_BwE" target="_blank"   >- Best Attractions in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g8651388-Brussels_Huron_County_Ontario.html" target="_blank"   >- Best Places to Eat in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.craftontarioshop.com/?gclid=EAIaIQobChMI4NXN2cfN8wIVYh-tBh0zzgOMEAAYAyAAEgJm_PD_BwE" target="_blank"   >- Best Places to Go Shopping in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Brussels-ON-Canada" target="_blank"   >- Public Transportation Options in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/ontario/brussels/" target="_blank"   >- Best Places to Stay in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="http://academickids.com/encyclopedia/index.php/Brussels%2C_Ontario" target="_blank"   >- Best Things to do with the Kids in Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/brussels-ontario/" target="_blank"   >- Local News for Brussels, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/brussels" target="_blank"   >- Weather in Brussels, Ontario</a></li>
 					</ul>
       </div>
      </div>

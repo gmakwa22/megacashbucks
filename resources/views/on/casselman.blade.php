@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Casselman, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3744059-Activities-Casselman_Ontario.html" target="_blank" >- Best Attractions in Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Casselman" target="_blank" >- Best Places to Eat in Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Casselman/80014000.html" target="_blank" >- Best Places to Go Shopping in Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="http://en.casselman.ca/services/transportation" target="_blank" >- Public Transportation Options in Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/casselman.html" target="_blank" >- Best Places to Stay in Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.triphobo.com/places/casselman-canada/things-to-do/family-and-kids" target="_blank" >- Best Things to do with the Kids in Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.glengarrynews.ca/taxonomy/term/516" target="_blank" >- Local News for Casselman, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/casselman" target="_blank" >- Weather in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g3744059-Activities-Casselman_Ontario.html" target="_blank"   >- Best Attractions in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Casselman" target="_blank"   >- Best Places to Eat in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Ontario/Casselman/80014000.html" target="_blank"   >- Best Places to Go Shopping in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="http://en.casselman.ca/services/transportation" target="_blank"   >- Public Transportation Options in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/casselman.html" target="_blank"   >- Best Places to Stay in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.triphobo.com/places/casselman-canada/things-to-do/family-and-kids" target="_blank"   >- Best Things to do with the Kids in Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.glengarrynews.ca/taxonomy/term/516" target="_blank"   >- Local News for Casselman, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/casselman" target="_blank"   >- Weather in Casselman, Ontario</a></li>
 					</ul>
       </div>
      </div>

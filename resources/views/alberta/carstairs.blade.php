@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Carstairs, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1598761-Activities-Carstairs_Alberta.html" target="_blank" >- Best Attractions in Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1598761-Carstairs_Alberta.html" target="_blank" >- Best Places to Eat in Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1598761-Activities-c26-Carstairs_Alberta.html" target="_blank" >- Best Places to Go Shopping in Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/carstairs_bus_routes.htm" target="_blank" >- Public Transportation Options in Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g1598761-d10714300-Carstairs_Heritage_Centre-Carstairs_Alberta.html" target="_blank" >- Best Places to Stay in Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Carstairs,_Alberta" target="_blank" >- Best Things to do with the Kids in Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.mountainviewtoday.ca/carstairs-news" target="_blank" >- Local News for Carstairs, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/carstairs" target="_blank" >- Weather in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1598761-Activities-Carstairs_Alberta.html" target="_blank"   >- Best Attractions in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1598761-Carstairs_Alberta.html" target="_blank"   >- Best Places to Eat in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1598761-Activities-c26-Carstairs_Alberta.html" target="_blank"   >- Best Places to Go Shopping in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/carstairs_bus_routes.htm" target="_blank"   >- Public Transportation Options in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g1598761-d10714300-Carstairs_Heritage_Centre-Carstairs_Alberta.html" target="_blank"   >- Best Places to Stay in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Carstairs,_Alberta" target="_blank"   >- Best Things to do with the Kids in Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/carstairs/" target="_blank"   >- Local News for Carstairs, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/carstairs" target="_blank"   >- Weather in Carstairs, Alberta</a></li>
 					</ul>
       </div>
      </div>

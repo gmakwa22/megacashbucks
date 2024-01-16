@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dundurn, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/262/dundurn" target="_blank" >- Best Attractions in Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-Dundurn-Saskatchewan" target="_blank" >- Best Places to Eat in Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofdundurn.ca/localbusinesses/" target="_blank" >- Best Places to Go Shopping in Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon-Airport-YXE/Dundurn" target="_blank" >- Public Transportation Options in Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1131904-Dundurn_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/saskatchewan/saskatoon/dundurn/" target="_blank" >- Best Things to do with the Kids in Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dundurn-saskatchewan/" target="_blank" >- Local News for Dundurn, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/dundurn" target="_blank" >- Weather in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/262/dundurn" target="_blank"   >- Best Attractions in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-Dundurn-Saskatchewan" target="_blank"   >- Best Places to Eat in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofdundurn.ca/localbusinesses/" target="_blank"   >- Best Places to Go Shopping in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon-Airport-YXE/Dundurn" target="_blank"   >- Public Transportation Options in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1131904-Dundurn_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/saskatchewan/saskatoon/dundurn/" target="_blank"   >- Best Things to do with the Kids in Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dundurn-saskatchewan/" target="_blank"   >- Local News for Dundurn, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/dundurn" target="_blank"   >- Weather in Dundurn, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

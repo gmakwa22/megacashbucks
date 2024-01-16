@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tilbury, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984023-Activities-Tilbury_Chatham_Kent_Ontario.html" target="_blank" >- Best Attractions in Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984023-Tilbury_Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Eat in Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984023-Activities-c26-Tilbury_Chatham_Kent_Ontario.html" target="_blank" >- Best Places to Go Shopping in Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Tilbury-ON-Canada" target="_blank" >- Public Transportation Options in Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10381055/tilbury-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/tilbury/" target="_blank" >- Best Things to do with the Kids in Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/tilbury/" target="_blank" >- Local News for Tilbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tilbury" target="_blank" >- Weather in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984023-Activities-Tilbury_Chatham_Kent_Ontario.html" target="_blank"   >- Best Attractions in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984023-Tilbury_Chatham_Kent_Ontario.html" target="_blank"   >- Best Places to Eat in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984023-Activities-c26-Tilbury_Chatham_Kent_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Tilbury-ON-Canada" target="_blank"   >- Public Transportation Options in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/ontario/tilbury/" target="_blank"   >- Best Places to Stay in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/chatham-kent/tilbury/" target="_blank"   >- Best Things to do with the Kids in Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/tilbury/" target="_blank"   >- Local News for Tilbury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tilbury" target="_blank"   >- Weather in Tilbury, Ontario</a></li>
 					</ul>
       </div>
      </div>

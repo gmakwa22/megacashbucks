@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Paisley, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://visitpaisley.ca/things-to-do/attractions/" target="_blank" >- Best Attractions in Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitpaisley.ca/where-to-eat/dining/" target="_blank" >- Best Places to Eat in Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://visitpaisley.ca/where-to-shop/downtown/" target="_blank" >- Best Places to Go Shopping in Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Paisley-ON-Canada" target="_blank" >- Public Transportation Options in Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10405845/paisley-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2086962-Activities-Paisley_Bruce_County_Ontario.html" target="_blank" >- Best Things to do with the Kids in Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/paisley/" target="_blank" >- Local News for Paisley, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/paisley" target="_blank" >- Weather in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitpaisley.ca/things-to-do/attractions/" target="_blank"   >- Best Attractions in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitpaisley.ca/where-to-eat/dining/" target="_blank"   >- Best Places to Eat in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://visitpaisley.ca/where-to-shop/downtown/" target="_blank"   >- Best Places to Go Shopping in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Paisley-ON-Canada" target="_blank"   >- Public Transportation Options in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/ontario/paisley/hotels.php" target="_blank"   >- Best Places to Stay in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2086962-Activities-Paisley_Bruce_County_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/paisley/" target="_blank"   >- Local News for Paisley, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/paisley" target="_blank"   >- Weather in Paisley, Ontario</a></li>
 					</ul>
       </div>
      </div>

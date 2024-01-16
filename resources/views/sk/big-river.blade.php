@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Big River, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4877414-Big_River_Saskatchewan-Vacations.html River/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" >- Best Attractions in Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4877414-Big_River_Saskatchewan.html River-Saskatchewan" target="_blank" >- Best Places to Eat in Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Saskatchewan/Big+River/80014000.html Riverlakelouise.com/shopping" target="_blank" >- Best Places to Go Shopping in Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Public+Transit+Service/Big+River+SK River.ca/150/Getting-Around-Big River" target="_blank" >- Public Transportation Options in Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g4877414-d4787976-Reviews-Timberland_Motel-Big_River_Saskatchewan.html Riverlakelouise.com/accommodation" target="_blank" >- Best Places to Stay in Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://kidsportcanada.ca/saskatchewan/big-river/ River-with-kids/" target="_blank" >- Best Things to do with the Kids in Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/big-river-rcmp/ River" target="_blank" >- Local News for Big River, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/big-river River" target="_blank" >- Weather in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g4877414-Big_River_Saskatchewan-Vacations.html River/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank"   >- Best Attractions in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4877414-Big_River_Saskatchewan.html River-Saskatchewan" target="_blank"   >- Best Places to Eat in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Saskatchewan/Big+River/80014000.html Riverlakelouise.com/shopping" target="_blank"   >- Best Places to Go Shopping in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Public+Transit+Service/Big+River+SK River.ca/150/Getting-Around-Big River" target="_blank"   >- Public Transportation Options in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g4877414-d4787976-Reviews-Timberland_Motel-Big_River_Saskatchewan.html Riverlakelouise.com/accommodation" target="_blank"   >- Best Places to Stay in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://kidsportcanada.ca/saskatchewan/big-river/ River-with-kids/" target="_blank"   >- Best Things to do with the Kids in Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/big-river-rcmp/ River" target="_blank"   >- Local News for Big River, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/big-river River" target="_blank"   >- Weather in Big River, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

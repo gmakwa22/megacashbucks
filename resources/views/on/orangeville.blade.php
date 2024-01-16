@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Orangeville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.orangeville.ca/en/tourism-and-attractions/tourism-and-attractions.aspx" target="_blank" >- Best Attractions in Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/orangeville/" target="_blank" >- Best Places to Eat in Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://downtownorangeville.ca/" target="_blank" >- Best Places to Go Shopping in Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.orangeville.ca/en/living-here/transit.aspx" target="_blank" >- Public Transportation Options in Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/orangeville.html" target="_blank" >- Best Places to Stay in Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/dufferin/orangeville/" target="_blank" >- Best Things to do with the Kids in Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.orangeville.com/" target="_blank" >- Local News for Orangeville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/orangeville" target="_blank" >- Weather in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.orangeville.ca/en/tourism-and-attractions/tourism-and-attractions.aspx" target="_blank"   >- Best Attractions in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/orangeville/" target="_blank"   >- Best Places to Eat in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://downtownorangeville.ca/" target="_blank"   >- Best Places to Go Shopping in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.orangeville.ca/en/living-here/transit.aspx" target="_blank"   >- Public Transportation Options in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/orangeville.html" target="_blank"   >- Best Places to Stay in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/dufferin/orangeville/" target="_blank"   >- Best Things to do with the Kids in Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.orangeville.com/" target="_blank"   >- Local News for Orangeville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/orangeville" target="_blank"   >- Weather in Orangeville, Ontario</a></li>
 					</ul>
       </div>
      </div>

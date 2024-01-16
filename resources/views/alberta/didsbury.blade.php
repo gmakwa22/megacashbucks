@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Didsbury, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g499101-Didsbury_Alberta-Vacations.html" target="_blank" >- Best Attractions in Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499101-Didsbury_Alberta.html" target="_blank" >- Best Places to Eat in Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Didsbury%2C+AB+T0M+0W0" target="_blank" >- Best Places to Go Shopping in Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.didsbury.ca/p/getting-around" target="_blank" >- Public Transportation Options in Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g499101-d1602467-Reviews-Didsbury_Country_Inn-Didsbury_Alberta.html" target="_blank" >- Best Places to Stay in Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de167064/didsbury-alberta-hotels-rooms/" target="_blank" >- Best Things to do with the Kids in Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.mountainviewtoday.ca/didsbury-news" target="_blank" >- Local News for Didsbury, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/monthly/alberta/didsbury" target="_blank" >- Weather in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g499101-Didsbury_Alberta-Vacations.html" target="_blank"   >- Best Attractions in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499101-Didsbury_Alberta.html" target="_blank"   >- Best Places to Eat in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Didsbury%2C+AB+T0M+0W0" target="_blank"   >- Best Places to Go Shopping in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.didsbury.ca/p/getting-around" target="_blank"   >- Public Transportation Options in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g499101-d1602467-Reviews-Didsbury_Country_Inn-Didsbury_Alberta.html" target="_blank"   >- Best Places to Stay in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://ca.hotels.com/de167064/didsbury-alberta-hotels-rooms/" target="_blank"   >- Best Things to do with the Kids in Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.mountainviewtoday.ca/didsbury-news" target="_blank"   >- Local News for Didsbury, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/monthly/alberta/didsbury" target="_blank"   >- Weather in Didsbury, Alberta</a></li>
 					</ul>
       </div>
      </div>

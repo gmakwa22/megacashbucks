@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hudson Bay, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/87/hudson-bay" target="_blank" >- Best Attractions in Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/hudson-bay-saskatchewan/restaurants/" target="_blank" >- Best Places to Eat in Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://townofhudsonbay.com/business-directory/" target="_blank" >- Best Places to Go Shopping in Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Hudson-Bay-Park" target="_blank" >- Public Transportation Options in Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g3750037-Hudson_Bay_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hudson-bay-saskatchewan/" target="_blank" >- Local News for Hudson Bay, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-17_metric_e.html" target="_blank" >- Weather in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/87/hudson-bay" target="_blank"   >- Best Attractions in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/hudson-bay-saskatchewan/restaurants/" target="_blank"   >- Best Places to Eat in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://townofhudsonbay.com/business-directory/" target="_blank"   >- Best Places to Go Shopping in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Saskatoon/Hudson-Bay-Park" target="_blank"   >- Public Transportation Options in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g3750037-Hudson_Bay_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hudson-bay-saskatchewan/" target="_blank"   >- Local News for Hudson Bay, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-17_metric_e.html" target="_blank"   >- Weather in Hudson Bay, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

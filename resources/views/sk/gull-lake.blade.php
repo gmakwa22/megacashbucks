@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Gull Lake, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6914891-Activities-Gull_Lake_Saskatchewan.html" target="_blank" >- Best Attractions in Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Gull-Lake" target="_blank" >- Best Places to Eat in Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.com/search?cflt=shopping&find_loc=Gull+Lake%2C+SK" target="_blank" >- Best Places to Go Shopping in Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://gulllakesk.ca/transportation/" target="_blank" >- Public Transportation Options in Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/gull-lake.html" target="_blank" >- Best Places to Stay in Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/gull-lake/" target="_blank" >- Local News for Gull Lake, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/gull-lake" target="_blank" >- Weather in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6914891-Activities-Gull_Lake_Saskatchewan.html" target="_blank"   >- Best Attractions in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Gull-Lake" target="_blank"   >- Best Places to Eat in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.com/search?cflt=shopping&find_loc=Gull+Lake%2C+SK" target="_blank"   >- Best Places to Go Shopping in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://gulllakesk.ca/transportation/" target="_blank"   >- Public Transportation Options in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/gull-lake.html" target="_blank"   >- Best Places to Stay in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/gull-lake/" target="_blank"   >- Local News for Gull Lake, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/gull-lake" target="_blank"   >- Weather in Gull Lake, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

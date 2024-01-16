@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Paris, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155006-Activities-Paris_Ontario.html" target="_blank" >- Best Attractions in Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155006-Paris_Ontario.html" target="_blank" >- Best Places to Eat in Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155006-Activities-c26-Paris_Ontario.html" target="_blank" >- Best Places to Go Shopping in Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Hamilton-ON-Canada/Paris-ON-Canada" target="_blank" >- Public Transportation Options in Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/paris.html" target="_blank" >- Best Places to Stay in Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g155006-Activities-zft11306-Paris_Ontario.html" target="_blank" >- Best Things to do with the Kids in Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.parisstaronline.com/category/news/" target="_blank" >- Local News for Paris, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/paris" target="_blank" >- Weather in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155006-Activities-Paris_Ontario.html" target="_blank"   >- Best Attractions in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155006-Paris_Ontario.html" target="_blank"   >- Best Places to Eat in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155006-Activities-c26-Paris_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Hamilton-ON-Canada/Paris-ON-Canada" target="_blank"   >- Public Transportation Options in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/paris.html" target="_blank"   >- Best Places to Stay in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g155006-Activities-zft11306-Paris_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/paris-ontario/" target="_blank"   >- Local News for Paris, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/paris" target="_blank"   >- Weather in Paris, Ontario</a></li>
 					</ul>
       </div>
      </div>

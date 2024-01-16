@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Bowmanville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.clarington.net/en/recreation-and-tourism/tourism.aspx" target="_blank" >- Best Attractions in Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499253-Bowmanville_Ontario.html" target="_blank" >- Best Places to Eat in Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499253-Activities-c26-Bowmanville_Ontario.html" target="_blank" >- Best Places to Go Shopping in Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.durhamregiontransit.com/en/index.aspx" target="_blank" >- Public Transportation Options in Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848880.b1114449693959.g1aud-1210701017419%3Akwd-184864536.l1.e1c.m1EAIaIQobChMI-v-S473K8wIVAQh9Ch3FbAn3EAAYAiAAEgKUrfD_BwE.r153b756e0d03280e8e48b8f605a488458620f60d49a1717ef29bdafe2dc5756dc.c1_7xxcdI_nVYl3vkCo3k5Eg.j19001551.k1.d1486360350853.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Bowmanville%2C%20Clarington%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMI-v-S473K8wIVAQh9Ch3FbAn3EAAYAiAAEgKUrfD_BwE&locale=en_CA&regionId=180697&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://rockwellmuseum.org/visit/bring-your-family/?gclid=EAIaIQobChMIhoP8-r3K8wIVcwnnCh2PnQJhEAAYAiAAEgLC5_D_BwE" target="_blank" >- Best Things to do with the Kids in Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.durhamregion.com/clarington-on-news/" target="_blank" >- Local News for Bowmanville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bowmanville" target="_blank" >- Weather in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.clarington.net/en/recreation-and-tourism/tourism.aspx" target="_blank"   >- Best Attractions in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499253-Bowmanville_Ontario.html" target="_blank"   >- Best Places to Eat in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499253-Activities-c26-Bowmanville_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.durhamregiontransit.com/en/index.aspx" target="_blank"   >- Public Transportation Options in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848880.b1114449693959.g1aud-1210701017419%3Akwd-184864536.l1.e1c.m1EAIaIQobChMI-v-S473K8wIVAQh9Ch3FbAn3EAAYAiAAEgKUrfD_BwE.r153b756e0d03280e8e48b8f605a488458620f60d49a1717ef29bdafe2dc5756dc.c1_7xxcdI_nVYl3vkCo3k5Eg.j19001551.k1.d1486360350853.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Bowmanville%2C%20Clarington%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMI-v-S473K8wIVAQh9Ch3FbAn3EAAYAiAAEgKUrfD_BwE&locale=en_CA&regionId=180697&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank"   >- Best Places to Stay in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.clarington.net/en/recreation-and-tourism/family-fun.aspx" target="_blank"   >- Best Things to do with the Kids in Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.durhamregion.com/clarington-on-news/" target="_blank"   >- Local News for Bowmanville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/bowmanville" target="_blank"   >- Weather in Bowmanville, Ontario</a></li>
 					</ul>
       </div>
      </div>

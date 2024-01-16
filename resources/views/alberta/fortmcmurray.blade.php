@@ -41,14 +41,14 @@ $random = rand(1,3);
 			<div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Fort McMurry, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.whatsoninfortmcmurray.com/attractions-places-to-visit/" target="_blank">- Best Attractions in Fort McMurray, Alberta</a></li>
-					<li class=" list-group-item"><a href="http://www.fortmcmurraytourism.com/things-to-do/restaurants" target="_blank">- Best Places to Eat in Fort McMurray, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.fortmcmurraytourism.com/things-to-do/shopping" target="_blank">- Best Places to Go Shopping in Fort McMurray, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.fortmcmurraytourism.com/transportation/public-transportation" target="_blank">- Public Transportation Options in Fort McMurray, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fort-mcmurray.en-gb.html" target="_blank">- Best Places to Stay in Fort McMurray, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.nickkembel.com/things-to-do-in-fort-mcmurray-alberta/" target="_blank">- Best Things to do in Fort McMurray, Alberta</a></li>
-					<li class="list-group-item"><a href="https://srd.web.alberta.ca/fort-mcmurray-area-update/" target="_blank">- Local News for Fort McMurray, Alberta</a></li>
-					<li class="list-group-item"><a href="https://weather.com/weather/today/l/56.73,-111.38?par=google" target="_blank">- Weather in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.nickkembel.com/things-to-do-in-fort-mcmurray-alberta/" target="_blank"   >- Best Attractions in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.fortmcmurraytourism.com/things-to-do/restaurants" target="_blank"   >- Best Places to Eat in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.fortmcmurraytourism.com/things-to-do/shopping" target="_blank"   >- Best Places to Go Shopping in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.fortmcmurraytourism.com/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/fort-mcmurray.en-gb.html" target="_blank"   >- Best Places to Stay in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/fort-mcmurray/" target="_blank"   >- Best Things to do with the Kids in Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/fort-mcmurray/" target="_blank"   >- Local News for Fort McMurray, Alberta</a></li>
+					<li class="list-group-item"><a href="https://weather.com/weather/today/l/56.73,-111.38?par=google" target="_blank"   >- Weather in Fort McMurray, Alberta</a></li>
 				</ul>
 			</div>
 		</div>

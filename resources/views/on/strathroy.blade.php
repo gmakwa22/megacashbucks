@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Strathroy, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984012-Activities-Strathroy_Ontario.html" target="_blank" >- Best Attractions in Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Strathroy" target="_blank" >- Best Places to Eat in Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.downtownstrathroy.ca/" target="_blank" >- Best Places to Go Shopping in Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://middlesexcentre.on.ca/services/residents/transit" target="_blank" >- Public Transportation Options in Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/strathroy.html" target="_blank" >- Best Places to Stay in Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/strathroy/" target="_blank" >- Best Things to do with the Kids in Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.strathroytoday.ca/local-news/" target="_blank" >- Local News for Strathroy, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/strathroy" target="_blank" >- Weather in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984012-Activities-Strathroy_Ontario.html" target="_blank"   >- Best Attractions in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Strathroy" target="_blank"   >- Best Places to Eat in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.downtownstrathroy.ca/" target="_blank"   >- Best Places to Go Shopping in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://middlesexcentre.on.ca/services/residents/transit" target="_blank"   >- Public Transportation Options in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/strathroy.html" target="_blank"   >- Best Places to Stay in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/strathroy/" target="_blank"   >- Best Things to do with the Kids in Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.strathroytoday.ca/local-news/" target="_blank"   >- Local News for Strathroy, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/strathroy" target="_blank"   >- Weather in Strathroy, Ontario</a></li>
 					</ul>
       </div>
      </div>

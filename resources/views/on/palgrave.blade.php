@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Palgrave, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-Caledon_Ontario.html" target="_blank" >- Best Attractions in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g671618-d212064-Albion_Hills_Conservation_Park-Caledon_Ontario.html" target="_blank" >- Best Places to Eat in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-palgrave-on/" target="_blank" >- Best Places to Go Shopping in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Palgrave-ON-Canada" target="_blank" >- Public Transportation Options in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g671618-d20950005-PALGRAVE_VARIETY_AND_LCBO_Caledon_Ontario-Caledon_Ontario.html" target="_blank" >- Best Places to Stay in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/peel/palgrave/" target="_blank" >- Best Things to do with the Kids in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/palgrave-ontario/" target="_blank" >- Local News for Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/palgrave" target="_blank" >- Weather in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-Caledon_Ontario.html" target="_blank"   >- Best Attractions in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g671618-d212064-Albion_Hills_Conservation_Park-Caledon_Ontario.html" target="_blank"   >- Best Places to Eat in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-palgrave-on/" target="_blank"   >- Best Places to Go Shopping in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Palgrave-ON-Canada" target="_blank"   >- Public Transportation Options in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g671618-d20950005-PALGRAVE_VARIETY_AND_LCBO_Caledon_Ontario-Caledon_Ontario.html" target="_blank"   >- Best Places to Stay in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/peel/palgrave/" target="_blank"   >- Best Things to do with the Kids in Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/palgrave-ontario/" target="_blank"   >- Local News for Palgrave, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/palgrave" target="_blank"   >- Weather in Palgrave, Ontario</a></li>
 					</ul>
       </div>
      </div>

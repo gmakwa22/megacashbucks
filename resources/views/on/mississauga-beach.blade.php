@@ -50,14 +50,14 @@
 			<div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Mississauga Beach, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154996-Activities-Mississauga_Ontario.html" target="_blank" >- Best Attractions in Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/mississauga/" target="_blank" >- Best Places to Eat in Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154996-Activities-c26-t143-Mississauga_Ontario.html" target="_blank" >- Best Places to Go Shopping in Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mississauga.ca/miway-transit/" target="_blank" >- Public Transportation Options in Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/mississauga.html" target="_blank" >- Best Places to Stay in Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154996-Activities-zft11306-Mississauga_Ontario.html" target="_blank" >- Best Things to do with the Kids in Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.mississauga.ca/" target="_blank" >- Local News for Mississauga, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/mississauga-beach" target="_blank" >- Weather in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154996-Activities-Mississauga_Ontario.html" target="_blank"   >- Best Attractions in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/mississauga/" target="_blank"   >- Best Places to Eat in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154996-Activities-c26-t143-Mississauga_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mississauga.ca/miway-transit/" target="_blank"   >- Public Transportation Options in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/mississauga.html" target="_blank"   >- Best Places to Stay in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154996-Activities-zft11306-Mississauga_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.mississauga.ca/" target="_blank"   >- Local News for Mississauga, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/mississauga-beach" target="_blank"   >- Weather in Mississauga, Ontario</a></li>
 					</ul>
       </div>
      </div>

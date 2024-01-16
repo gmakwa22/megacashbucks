@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Oro Station Hawkestone, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g23282493-Hawkestone_Oro_Medonte_Ontario-Vacations.html" target="_blank" >- Best Attractions in Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Hawkestone" target="_blank" >- Best Places to Eat in Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadianplanet.net/hawkestone/retail+stores" target="_blank" >- Best Places to Go Shopping in Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto-Airport-YYZ/Hawkestone" target="_blank" >- Public Transportation Options in Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hawkestone.html" target="_blank" >- Best Places to Stay in Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.orillialakecountry.ca/family-activities/" target="_blank" >- Best Things to do with the Kids in Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hawkestone/" target="_blank" >- Local News for Oro Station Hawkestone, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hawkestone" target="_blank" >- Weather in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g23282493-Hawkestone_Oro_Medonte_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Hawkestone" target="_blank"   >- Best Places to Eat in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.instacart.ca/grocery-delivery/on/near-me-in-oro-medonte-on" target="_blank"   >- Best Places to Go Shopping in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto-Airport-YYZ/Hawkestone" target="_blank"   >- Public Transportation Options in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hawkestone.html" target="_blank"   >- Best Places to Stay in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.orillialakecountry.ca/family-activities/" target="_blank"   >- Best Things to do with the Kids in Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hawkestone/" target="_blank"   >- Local News for Oro Station Hawkestone, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hawkestone" target="_blank"   >- Weather in Oro Station Hawkestone, Ontario</a></li>
 					</ul>
       </div>
      </div>

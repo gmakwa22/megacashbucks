@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Welland–Pelham, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947968-Activities-Pelham_Ontario.html" target="_blank" >- Best Attractions in Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g947968-Pelham_Ontario.html" target="_blank" >- Best Places to Eat in Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947968-Activities-c26-Pelham_Ontario.html" target="_blank" >- Best Places to Go Shopping in Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.pelham.ca/en/transit-and-roads/transit.aspx" target="_blank" >- Public Transportation Options in Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848877.b1114449675719.g1kwd-58142692172.l1.e1c.m1EAIaIQobChMIlIqRpJDN8wIVjh6tBh2yDwwyEAAYBCAAEgKVLPD_BwE.r163ede62126c354765566f16b0acbdc43a922ee71543ea16b5829d75e7d8c78b6.c1LraVYSlgkGNFSiSR8B_tXA.j19001551.k1.d1486358338630.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Pelham%2C%20Ontario%2C%20Canada&endDate=2021-10-30&gclid=EAIaIQobChMIlIqRpJDN8wIVjh6tBh2yDwwyEAAYBCAAEgKVLPD_BwE&locale=en_CA&regionId=6349868&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-29&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.pelham.ca/en/recreation-and-leisure/children-and-youth-activities.aspx" target="_blank" >- Best Things to do with the Kids in Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://thevoiceofpelham.ca/" target="_blank" >- Local News for Welland–Pelham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/pelham" target="_blank" >- Weather in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947968-Activities-Pelham_Ontario.html" target="_blank"   >- Best Attractions in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g947968-Pelham_Ontario.html" target="_blank"   >- Best Places to Eat in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947968-Activities-c26-Pelham_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.pelham.ca/en/transit-and-roads/transit.aspx" target="_blank"   >- Public Transportation Options in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848877.b1114449675719.g1kwd-58142692172.l1.e1c.m1EAIaIQobChMIlIqRpJDN8wIVjh6tBh2yDwwyEAAYBCAAEgKVLPD_BwE.r163ede62126c354765566f16b0acbdc43a922ee71543ea16b5829d75e7d8c78b6.c1LraVYSlgkGNFSiSR8B_tXA.j19001551.k1.d1486358338630.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Pelham%2C%20Ontario%2C%20Canada&endDate=2021-10-30&gclid=EAIaIQobChMIlIqRpJDN8wIVjh6tBh2yDwwyEAAYBCAAEgKVLPD_BwE&locale=en_CA&regionId=6349868&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-29&theme=&useRewards=false&userIntent=" target="_blank"   >- Best Places to Stay in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.pelham.ca/en/recreation-and-leisure/children-and-youth-activities.aspx" target="_blank"   >- Best Things to do with the Kids in Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/welland/" target="_blank"   >- Local News for Welland–Pelham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/pelham" target="_blank"   >- Weather in Welland–Pelham, Ontario</a></li>
 					</ul>
       </div>
      </div>

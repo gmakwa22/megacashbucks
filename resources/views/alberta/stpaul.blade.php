@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Paul, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.todocanada.ca/10-things-to-do-on-your-trip-to-st-paul-alberta/" target="_blank" >- Best Attractions in St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181797-Stettler_Alberta.html" target="_blank" >- Best Places to Eat in St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Stettler%2C+AB+T0C" target="_blank" >- Best Places to Go Shopping in St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.stettler.net/the-town/departments/transportation" target="_blank" >- Public Transportation Options in St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181797-Stettler_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Stettler,_Alberta" target="_blank" >- Best Things to do with the Kids in St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.stettlerindependent.com/" target="_blank" >- Local News for St. Paul, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/stettler" target="_blank" >- Weather in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://goeastofedmonton.com/communities/st-paul-county/" target="_blank"   >- Best Attractions in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181797-Stettler_Alberta.html" target="_blank"   >- Best Places to Eat in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Stettler%2C+AB+T0C" target="_blank"   >- Best Places to Go Shopping in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.stettler.net/the-town/departments/transportation" target="_blank"   >- Public Transportation Options in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181797-Stettler_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Stettler,_Alberta" target="_blank"   >- Best Things to do with the Kids in St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.stettlerindependent.com/" target="_blank"   >- Local News for St. Paul, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/stettler" target="_blank"   >- Weather in St. Paul, Alberta</a></li>
 					</ul>
       </div>
      </div>

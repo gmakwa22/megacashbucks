@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Leader, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/456/leader" target="_blank" >- Best Attractions in Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1746139-Leader_Saskatchewan.html" target="_blank" >- Best Places to Eat in Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/leader/shops" target="_blank" >- Best Places to Go Shopping in Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1746139-d6406781-Reviews-Leader_Inn-Leader_Saskatchewan.html" target="_blank" >- Best Places to Stay in Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/456/leader" target="_blank" >- Best Things to do with the Kids in Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://local.ca/sk/leader/news/" target="_blank" >- Local News for Leader, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-52_metric_e.html" target="_blank" >- Weather in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/456/leader" target="_blank"   >- Best Attractions in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1746139-Leader_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://saskatchewan.canadaspots.com/leader/shops" target="_blank"   >- Best Places to Go Shopping in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotel_Review-g1746139-d6406781-Reviews-Leader_Inn-Leader_Saskatchewan.html" target="_blank"   >- Best Places to Stay in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/456/leader" target="_blank"   >- Best Things to do with the Kids in Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://local.ca/sk/leader/news/" target="_blank"   >- Local News for Leader, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-52_metric_e.html" target="_blank"   >- Weather in Leader, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cobalt, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1116703-Activities-Cobalt_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Cobalt" target="_blank" >- Best Places to Eat in Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1116703-Activities-c26-Cobalt_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Go Shopping in Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.busbud.com/en-ca/on-11b/s/29297" target="_blank" >- Public Transportation Options in Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1116703-Cobalt_Temiskaming_Shores_Northeastern_Ontario_Ontario-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/cobalt/on" target="_blank" >- Best Things to do with the Kids in Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://cobalt.ca/articles/news/" target="_blank" >- Local News for Cobalt, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/cobalt" target="_blank" >- Weather in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1116703-Activities-Cobalt_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Cobalt" target="_blank"   >- Best Places to Eat in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1116703-Activities-c26-Cobalt_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.busbud.com/en-ca/on-11b/s/29297" target="_blank"   >- Public Transportation Options in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g1116703-Cobalt_Temiskaming_Shores_Northeastern_Ontario_Ontario-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/cobalt/on" target="_blank"   >- Best Things to do with the Kids in Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://cobalt.ca/articles/news/" target="_blank"   >- Local News for Cobalt, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/cobalt" target="_blank"   >- Weather in Cobalt, Ontario</a></li>
 					</ul>
       </div>
      </div>

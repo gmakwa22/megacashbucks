@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Humboldt, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/405/humboldt" target="_blank" >- Best Attractions in Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Humboldt-Saskatchewan" target="_blank" >- Best Places to Eat in Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.discoverhumboldt.com/features/business-directory/shopping/all" target="_blank" >- Best Places to Go Shopping in Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Humboldt-SK-Canada/Regina" target="_blank" >- Public Transportation Options in Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1131906-Humboldt_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1131906-Activities-Humboldt_Saskatchewan.html" target="_blank" >- Best Things to do with the Kids in Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.discoverhumboldt.com/news/local-news" target="_blank" >- Local News for Humboldt, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-6_metric_e.html" target="_blank" >- Weather in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/405/humboldt" target="_blank"   >- Best Attractions in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Humboldt-Saskatchewan" target="_blank"   >- Best Places to Eat in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.discoverhumboldt.com/features/business-directory/shopping/all" target="_blank"   >- Best Places to Go Shopping in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Humboldt-SK-Canada/Regina" target="_blank"   >- Public Transportation Options in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1131906-Humboldt_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1131906-Activities-Humboldt_Saskatchewan.html" target="_blank"   >- Best Things to do with the Kids in Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.discoverhumboldt.com/news/local-news" target="_blank"   >- Local News for Humboldt, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-6_metric_e.html" target="_blank"   >- Weather in Humboldt, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

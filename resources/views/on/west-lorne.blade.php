@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about West Lorne, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g6726088-West_Lorne_Ontario-Vacations.html" target="_blank" >- Best Attractions in West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6726088-West_Lorne_Ontario.html" target="_blank" >- Best Places to Eat in West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://heyshops.ca/ON_NL/West_Lorne/" target="_blank" >- Best Places to Go Shopping in West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/West-Lorne" target="_blank" >- Public Transportation Options in West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6726088-West_Lorne_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g6726088-Activities-West_Lorne_Ontario.html" target="_blank" >- Best Things to do with the Kids in West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/west-lorne/" target="_blank" >- Local News for West Lorne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/west-lorne" target="_blank" >- Weather in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g6726088-West_Lorne_Ontario-Vacations.html" target="_blank"   >- Best Attractions in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g6726088-West_Lorne_Ontario.html" target="_blank"   >- Best Places to Eat in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://heyshops.ca/ON_NL/West_Lorne/" target="_blank"   >- Best Places to Go Shopping in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/West-Lorne" target="_blank"   >- Public Transportation Options in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g6726088-West_Lorne_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g6726088-Activities-West_Lorne_Ontario.html" target="_blank"   >- Best Things to do with the Kids in West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/west-lorne/" target="_blank"   >- Local News for West Lorne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/west-lorne" target="_blank"   >- Weather in West Lorne, Ontario</a></li>
 					</ul>
       </div>
      </div>

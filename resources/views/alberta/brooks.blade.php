@@ -42,14 +42,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Brooks, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181806-Activities-Brooks_Alberta.html" target="_blank" >- Best Attractions in Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181806-Brooks_Alberta.html" target="_blank" >- Best Places to Eat in Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.southernalberta.com/city-pages-category.asp?busCatID=17&CityID=64" target="_blank" >- Best Places to Go Shopping in Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.brooks.ca/649/Transportation" target="_blank" >- Public Transportation Options in Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181806-Brooks_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181806-Activities-zft11306-Brooks_Alberta.html" target="_blank" >- Best Things to do with the Kids in Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://brooksbulletin.com/category/news/local-news/" target="_blank" >- Local News for Brooks, Alberta</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/ab-58_metric_e.html" target="_blank" >- Weather in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181806-Activities-Brooks_Alberta.html" target="_blank"   >- Best Attractions in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181806-Brooks_Alberta.html" target="_blank"   >- Best Places to Eat in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.southernalberta.com/city-pages-category.asp?busCatID=17&CityID=64" target="_blank"   >- Best Places to Go Shopping in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.brooks.ca/649/Transportation" target="_blank"   >- Public Transportation Options in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181806-Brooks_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181806-Activities-zft11306-Brooks_Alberta.html" target="_blank"   >- Best Things to do with the Kids in Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://brooksbulletin.com/category/news/local-news/" target="_blank"   >- Local News for Brooks, Alberta</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/ab-58_metric_e.html" target="_blank"   >- Weather in Brooks, Alberta</a></li>
 					</ul>
       </div>
      </div>

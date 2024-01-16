@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wasaga Beach, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g316030-Activities-Wasaga_Beach_Ontario.html" target="_blank" >- Best Attractions in Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/wasaga-beach/" target="_blank" >- Best Places to Eat in Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g316030-Activities-c26-Wasaga_Beach_Ontario.html" target="_blank" >- Best Places to Go Shopping in Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wasaga-Beach" target="_blank" >- Public Transportation Options in Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wasaga-beach.html" target="_blank" >- Best Places to Stay in Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/wasaga-beach/" target="_blank" >- Best Things to do with the Kids in Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/wasaga-beach/" target="_blank" >- Local News for Wasaga Beach, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/36-hour-weather-forecast/ontario/wasaga-beach" target="_blank" >- Weather in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g316030-Activities-Wasaga_Beach_Ontario.html" target="_blank"   >- Best Attractions in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/wasaga-beach/" target="_blank"   >- Best Places to Eat in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g316030-Activities-c26-Wasaga_Beach_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Wasaga-Beach" target="_blank"   >- Public Transportation Options in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/wasaga-beach.html" target="_blank"   >- Best Places to Stay in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/wasaga-beach/" target="_blank"   >- Best Things to do with the Kids in Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/wasaga-beach/" target="_blank"   >- Local News for Wasaga Beach, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/36-hour-weather-forecast/ontario/wasaga-beach" target="_blank"   >- Weather in Wasaga Beach, Ontario</a></li>
 					</ul>
       </div>
      </div>

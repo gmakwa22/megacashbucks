@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Prince Albert, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155041-Activities-Prince_Albert_Saskatchewan.html" target="_blank" >- Best Attractions in Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/prince-albert/" target="_blank" >- Best Places to Eat in Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://business.princealbertchamber.com/list/ql/shopping-specialty-retail-23" target="_blank" >- Best Places to Go Shopping in Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.citypa.ca/en/parking-streets-and-transportation/transit.aspx" target="_blank" >- Public Transportation Options in Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155041-Prince_Albert_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://panow.com/news-prince-albert/" target="_blank" >- Local News for Prince Albert, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-27_metric_e.html" target="_blank" >- Weather in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155041-Activities-Prince_Albert_Saskatchewan.html" target="_blank"   >- Best Attractions in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/sk/prince-albert/" target="_blank"   >- Best Places to Eat in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://business.princealbertchamber.com/list/ql/shopping-specialty-retail-23" target="_blank"   >- Best Places to Go Shopping in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.citypa.ca/en/parking-streets-and-transportation/transit.aspx" target="_blank"   >- Public Transportation Options in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155041-Prince_Albert_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://panow.com/news-prince-albert/" target="_blank"   >- Local News for Prince Albert, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/sk-27_metric_e.html" target="_blank"   >- Weather in Prince Albert, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

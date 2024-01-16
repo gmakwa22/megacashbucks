@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Essex, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.todocanada.ca/50-things-summer-windsor-essex-county/" target="_blank" >- Best Attractions in Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Essex-Ontario-m9623" target="_blank" >- Best Places to Eat in Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984015-Activities-c26-Essex_Ontario.html" target="_blank" >- Best Places to Go Shopping in Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tourismessex.ca/en/stay/transportation.aspx" target="_blank" >- Public Transportation Options in Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/essex.html" target="_blank" >- Best Places to Stay in Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://windsorite.ca/2019/08/how-to-plan-a-weekend-of-family-fun-in-windsor-essex/" target="_blank" >- Best Things to do with the Kids in Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.essexfreepress.com/" target="_blank" >- Local News for Essex, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/essex" target="_blank" >- Weather in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.dayoutwiththekids.co.uk/things-to-do/east/essex/colchester" target="_blank"   >- Best Attractions in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Essex-Ontario-m9623" target="_blank"   >- Best Places to Eat in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g984015-Activities-c26-Essex_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tourismessex.ca/en/stay/transportation.aspx" target="_blank"   >- Public Transportation Options in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/essex.html" target="_blank"   >- Best Places to Stay in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://windsorite.ca/2019/08/how-to-plan-a-weekend-of-family-fun-in-windsor-essex/" target="_blank"   >- Best Things to do with the Kids in Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.essexfreepress.com/" target="_blank"   >- Local News for Essex, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/essex" target="_blank"   >- Weather in Essex, Ontario</a></li>
 					</ul>
       </div>
      </div>

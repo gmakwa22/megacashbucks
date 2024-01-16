@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tavistock, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1027098-Tavistock_Ontario-Vacations.html" target="_blank" >- Best Attractions in Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Tavistock-Ontario" target="_blank" >- Best Places to Eat in Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=Tavistock%2C+ON+N3A+2X3" target="_blank" >- Best Places to Go Shopping in Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Tavistock-ON-Canada" target="_blank" >- Public Transportation Options in Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.travelocity.ca/Tavistock-Hotels.d6289665.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/oxford/tavistock/" target="_blank" >- Best Things to do with the Kids in Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/tavistock/" target="_blank" >- Local News for Tavistock, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tavistock" target="_blank" >- Weather in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g1027098-Tavistock_Ontario-Vacations.html" target="_blank"   >- Best Attractions in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Tavistock-Ontario" target="_blank"   >- Best Places to Eat in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?find_desc=Shopping&find_loc=Tavistock%2C+ON+N3A+2X3" target="_blank"   >- Best Places to Go Shopping in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Tavistock-ON-Canada" target="_blank"   >- Public Transportation Options in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.reservations.com/Hotels/tavistock-on" target="_blank"   >- Best Places to Stay in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/oxford/tavistock/" target="_blank"   >- Best Things to do with the Kids in Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/tavistock/" target="_blank"   >- Local News for Tavistock, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tavistock" target="_blank"   >- Weather in Tavistock, Ontario</a></li>
 					</ul>
       </div>
      </div>

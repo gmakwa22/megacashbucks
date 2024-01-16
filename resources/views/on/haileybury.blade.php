@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Haileybury, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4288040-Activities-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4288040-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4288040-Activities-c26-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Go Shopping in Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Haileybury-ON-Canada" target="_blank" >- Public Transportation Options in Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/haileybury.html" target="_blank" >- Best Places to Stay in Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4288040-Activities-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Things to do with the Kids in Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/haileybury/" target="_blank" >- Local News for Haileybury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/haileybury" target="_blank" >- Weather in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4288040-Activities-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4288040-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4288040-Activities-c26-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Haileybury-ON-Canada" target="_blank"   >- Public Transportation Options in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/haileybury.html" target="_blank"   >- Best Places to Stay in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4288040-Activities-Haileybury_Temiskaming_Shores_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/haileybury/" target="_blank"   >- Local News for Haileybury, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/haileybury" target="_blank"   >- Weather in Haileybury, Ontario</a></li>
 					</ul>
       </div>
      </div>

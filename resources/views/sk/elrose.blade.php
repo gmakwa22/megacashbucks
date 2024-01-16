@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Elrose, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://elrose.ca/recreation-culture/" target="_blank" >- Best Attractions in Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Elrose" target="_blank" >- Best Places to Eat in Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/elrose-saskatchewan/shopping/" target="_blank" >- Best Places to Go Shopping in Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19802480-Elrose_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/271/elrose" target="_blank" >- Best Things to do with the Kids in Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/elrose/" target="_blank" >- Local News for Elrose, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/elrose" target="_blank" >- Weather in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://elrose.ca/recreation-culture/" target="_blank"   >- Best Attractions in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Elrose" target="_blank"   >- Best Places to Eat in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/elrose-saskatchewan/shopping/" target="_blank"   >- Best Places to Go Shopping in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19802480-Elrose_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/271/elrose" target="_blank"   >- Best Things to do with the Kids in Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/elrose/" target="_blank"   >- Local News for Elrose, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/elrose" target="_blank"   >- Weather in Elrose, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

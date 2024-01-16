@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Beaverton, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://onculturedays.ca/suns-out-fun-art-activities-and-tours-to-enjoy-across-the-province/?gclid=EAIaIQobChMItNHci6jN8wIV4gl9Ch1x5Q9_EAAYAyAAEgJ0cvD_BwE" target="_blank" >- Best Attractions in Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2292114-Beaverton_Ontario.html" target="_blank" >- Best Places to Eat in Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2292114-Activities-c26-Beaverton_Ontario.html" target="_blank" >- Best Places to Go Shopping in Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.townshipofbrock.ca/en/resident-services/transportation-and-transit.aspx" target="_blank" >- Public Transportation Options in Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848901.b1114449645719.g1kwd-42841395189.l1.e1c.m1EAIaIQobChMI18ravajN8wIVExwrCh0M7gAtEAAYAiAAEgJ0xPD_BwE.r1bda519e147257db41514bcb655803908f00d19a59a539ad5d45186ba860a350d.c1d61yx0vOqW04wEYOZ_LfTw.j19001551.k1.d1486358353105.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Beaverton%2C%20Brock%2C%20Ontario%2C%20Canada&endDate=2021-10-30&gclid=EAIaIQobChMI18ravajN8wIVExwrCh0M7gAtEAAYAiAAEgJ0xPD_BwE&locale=en_CA&regionId=58578&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-29&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/beaverton-ontario" target="_blank" >- Best Things to do with the Kids in Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/beaverton/" target="_blank" >- Local News for Beaverton, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/beaverton" target="_blank" >- Weather in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://onculturedays.ca/suns-out-fun-art-activities-and-tours-to-enjoy-across-the-province/?gclid=EAIaIQobChMItNHci6jN8wIV4gl9Ch1x5Q9_EAAYAyAAEgJ0cvD_BwE" target="_blank"   >- Best Attractions in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2292114-Beaverton_Ontario.html" target="_blank"   >- Best Places to Eat in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2292114-Activities-c26-Beaverton_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.townshipofbrock.ca/en/resident-services/transportation-and-transit.aspx" target="_blank"   >- Public Transportation Options in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848901.b1114449645719.g1kwd-42841395189.l1.e1c.m1EAIaIQobChMI18ravajN8wIVExwrCh0M7gAtEAAYAiAAEgJ0xPD_BwE.r1bda519e147257db41514bcb655803908f00d19a59a539ad5d45186ba860a350d.c1d61yx0vOqW04wEYOZ_LfTw.j19001551.k1.d1486358353105.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Beaverton%2C%20Brock%2C%20Ontario%2C%20Canada&endDate=2021-10-30&gclid=EAIaIQobChMI18ravajN8wIVExwrCh0M7gAtEAAYAiAAEgJ0xPD_BwE&locale=en_CA&regionId=58578&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-29&theme=&useRewards=false&userIntent=" target="_blank"   >- Best Places to Stay in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/beaverton-ontario" target="_blank"   >- Best Things to do with the Kids in Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/beaverton/" target="_blank"   >- Local News for Beaverton, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/beaverton" target="_blank"   >- Weather in Beaverton, Ontario</a></li>
 					</ul>
       </div>
      </div>

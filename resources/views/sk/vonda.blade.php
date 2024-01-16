@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Vonda, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/saskatchewan-cdn-sk-sk.htm" target="_blank" >- Best Attractions in Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Vonda" target="_blank" >- Best Places to Eat in Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/shopping" target="_blank" >- Best Places to Go Shopping in Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155038-Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/vonda-saskatchewan/" target="_blank" >- Local News for Vonda, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/vonda" target="_blank" >- Weather in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/saskatchewan-cdn-sk-sk.htm" target="_blank"   >- Best Attractions in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Vonda" target="_blank"   >- Best Places to Eat in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/things-to-do/shopping" target="_blank"   >- Best Places to Go Shopping in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155038-Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/vonda-saskatchewan/" target="_blank"   >- Local News for Vonda, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/vonda" target="_blank"   >- Weather in Vonda, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

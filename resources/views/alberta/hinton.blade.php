@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hinton, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181726-Activities-Hinton_Yellowhead_County_Alberta.html" target="_blank" >- Best Attractions in Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181726-Hinton_Yellowhead_County_Alberta.html" target="_blank" >- Best Places to Eat in Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="https://parkswestmall.com/store-directory/" target="_blank" >- Best Places to Go Shopping in Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.hinton.ca/259/Transportation-Transit" target="_blank" >- Public Transportation Options in Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181726-Hinton_Yellowhead_County_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/hinton-alberta" target="_blank" >- Best Things to do with the Kids in Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.hinton.ca/688/News-Events" target="_blank" >- Local News for Hinton, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/hinton" target="_blank" >- Weather in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181726-Activities-Hinton_Yellowhead_County_Alberta.html" target="_blank"   >- Best Attractions in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181726-Hinton_Yellowhead_County_Alberta.html" target="_blank"   >- Best Places to Eat in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://parkswestmall.com/store-directory/" target="_blank"   >- Best Places to Go Shopping in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.hinton.ca/259/Transportation-Transit" target="_blank"   >- Public Transportation Options in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181726-Hinton_Yellowhead_County_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/hinton-alberta" target="_blank"   >- Best Things to do with the Kids in Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.hinton.ca/688/News-Events" target="_blank"   >- Local News for Hinton, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/hinton" target="_blank"   >- Weather in Hinton, Alberta</a></li>
 					</ul>
       </div>
      </div>

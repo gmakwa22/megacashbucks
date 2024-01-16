@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cupar, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/249/cupar" target="_blank" >- Best Attractions in Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Cupar-Saskatchewan" target="_blank" >- Best Places to Eat in Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/cupar-saskatchewan/shopping-other/" target="_blank" >- Best Places to Go Shopping in Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7644810-Cupar_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/cupar-saskatchewan/" target="_blank" >- Local News for Cupar, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/cupar" target="_blank" >- Weather in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/249/cupar" target="_blank"   >- Best Attractions in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Cupar-Saskatchewan" target="_blank"   >- Best Places to Eat in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/cupar-saskatchewan/shopping-other/" target="_blank"   >- Best Places to Go Shopping in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g7644810-Cupar_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/cupar-saskatchewan/" target="_blank"   >- Local News for Cupar, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/cupar" target="_blank"   >- Weather in Cupar, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

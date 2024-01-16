@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hanley, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g19722611-Hanley_Saskatchewan-Vacations.html" target="_blank" >- Best Attractions in Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g19722611-Hanley_Saskatchewan.html" target="_blank" >- Best Places to Eat in Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/hanley-saskatchewan/shopping/" target="_blank" >- Best Places to Go Shopping in Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.cybo.com/CA/hanley-saskatchewan/buses-and-trains/" target="_blank" >- Public Transportation Options in Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19722611-Hanley_Saskatchewan-Hotels.html" target="_blank" >- Best Places to Stay in Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hanley-saskatchewan/" target="_blank" >- Local News for Hanley, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/hanley" target="_blank" >- Weather in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Tourism-g19722611-Hanley_Saskatchewan-Vacations.html" target="_blank"   >- Best Attractions in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g19722611-Hanley_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/hanley-saskatchewan/shopping/" target="_blank"   >- Best Places to Go Shopping in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.cybo.com/CA/hanley-saskatchewan/buses-and-trains/" target="_blank"   >- Public Transportation Options in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g19722611-Hanley_Saskatchewan-Hotels.html" target="_blank"   >- Best Places to Stay in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hanley-saskatchewan/" target="_blank"   >- Local News for Hanley, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/hanley" target="_blank"   >- Weather in Hanley, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

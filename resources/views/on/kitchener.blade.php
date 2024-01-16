@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Kitchener, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181747-Activities-Kitchener_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Attractions in Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/kitchener/" target="_blank" >- Best Places to Eat in Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g181747-Activities-c26-Kitchener_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Places to Go Shopping in Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.kitchener.ca/en/roads-and-cycling/public-transit.aspx" target="_blank" >- Public Transportation Options in Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kitchener.html" target="_blank" >- Best Places to Stay in Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181747-Activities-zft11306-Kitchener_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Things to do with the Kids in Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/kitchener/" target="_blank" >- Local News for Kitchener, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/kitchener" target="_blank" >- Weather in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181747-Activities-Kitchener_Region_of_Waterloo_Ontario.html" target="_blank"   >- Best Attractions in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/kitchener/" target="_blank"   >- Best Places to Eat in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g181747-Activities-c26-Kitchener_Region_of_Waterloo_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.kitchener.ca/en/roads-and-cycling/public-transit.aspx" target="_blank"   >- Public Transportation Options in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kitchener.html" target="_blank"   >- Best Places to Stay in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181747-Activities-zft11306-Kitchener_Region_of_Waterloo_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/kitchener/" target="_blank"   >- Local News for Kitchener, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/kitchener" target="_blank"   >- Weather in Kitchener, Ontario</a></li>
 					</ul>
       </div>
      </div>

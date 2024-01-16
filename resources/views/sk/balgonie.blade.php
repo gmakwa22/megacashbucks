@@ -47,14 +47,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Balgonie, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2337517-Activities-Balgonie_Saskatchewan.html" target="_blank" >- Best Attractions in Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2337517-Balgonie_Saskatchewan.html" target="_blank" >- Best Places to Eat in Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=convenience&find_loc=Balgonie%2C+SK+S0G+0E0" target="_blank" >- Best Places to Go Shopping in Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Bus+%26+Coach+Lines/Balgonie+SK" target="_blank" >- Public Transportation Options in Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g2337517-Balgonie_Saskatchewan-Hotel-Deals.html" target="_blank" >- Best Places to Stay in Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/balgonie/sk/kids-fun?page_num=1" target="_blank" >- Best Things to do with the Kids in Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/balgonie/" target="_blank" >- Local News for Balgonie, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/balgonie" target="_blank" >- Weather in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2337517-Activities-Balgonie_Saskatchewan.html" target="_blank"   >- Best Attractions in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2337517-Balgonie_Saskatchewan.html" target="_blank"   >- Best Places to Eat in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=convenience&find_loc=Balgonie%2C+SK+S0G+0E0" target="_blank"   >- Best Places to Go Shopping in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Bus+%26+Coach+Lines/Balgonie+SK" target="_blank"   >- Public Transportation Options in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/SmartDeals-g2337517-Balgonie_Saskatchewan-Hotel-Deals.html" target="_blank"   >- Best Places to Stay in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/balgonie/sk/kids-fun?page_num=1" target="_blank"   >- Best Things to do with the Kids in Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/balgonie/" target="_blank"   >- Local News for Balgonie, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/balgonie" target="_blank"   >- Weather in Balgonie, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

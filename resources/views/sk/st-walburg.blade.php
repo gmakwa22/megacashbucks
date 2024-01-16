@@ -45,14 +45,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about St. Walburg, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/166/st-walburg" target="_blank" >- Best Attractions in St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Saint-Walburg" target="_blank" >- Best Places to Eat in St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="http://stwalburg.ca/directory/" target="_blank" >- Best Places to Go Shopping in St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank" >- Public Transportation Options in St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.stwalburginn.com/" target="_blank" >- Best Places to Stay in St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank" >- Best Things to do with the Kids in St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-walburg/" target="_blank" >- Local News for St. Walburg, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/st-walburg" target="_blank" >- Weather in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.tourismsaskatchewan.com/community/166/st-walburg" target="_blank"   >- Best Attractions in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Saint-Walburg" target="_blank"   >- Best Places to Eat in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="http://stwalburg.ca/directory/" target="_blank"   >- Best Places to Go Shopping in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.saskatchewan.ca/residents/transportation/public-transportation" target="_blank"   >- Public Transportation Options in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.stwalburginn.com/" target="_blank"   >- Best Places to Stay in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/saskatchewan" target="_blank"   >- Best Things to do with the Kids in St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/st-walburg/" target="_blank"   >- Local News for St. Walburg, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/saskatchewan/st-walburg" target="_blank"   >- Weather in St. Walburg, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

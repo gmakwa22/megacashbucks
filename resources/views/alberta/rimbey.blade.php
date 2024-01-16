@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Rimbey, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g616299-Activities-Rimbey_Alberta.html" target="_blank" >- Best Attractions in Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g616299-Rimbey_Alberta.html" target="_blank" >- Best Places to Eat in Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/Rimbey/80014000.html" target="_blank" >- Best Places to Go Shopping in Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/Rimbey/80020000.html" target="_blank" >- Public Transportation Options in Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g616299-Rimbey_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/red-deer/rimbey/" target="_blank" >- Best Things to do with the Kids in Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.rimbeyreview.com/" target="_blank" >- Local News for Rimbey, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/rimbey" target="_blank" >- Weather in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g616299-Activities-Rimbey_Alberta.html" target="_blank"   >- Best Attractions in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g616299-Rimbey_Alberta.html" target="_blank"   >- Best Places to Eat in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/Rimbey/80014000.html" target="_blank"   >- Best Places to Go Shopping in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yellowpages.ca/locations/Alberta/Rimbey/80020000.html" target="_blank"   >- Public Transportation Options in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g616299-Rimbey_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/red-deer/rimbey/" target="_blank"   >- Best Things to do with the Kids in Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.rimbeyreview.com/" target="_blank"   >- Local News for Rimbey, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/rimbey" target="_blank"   >- Weather in Rimbey, Alberta</a></li>
 					</ul>
       </div>
      </div>

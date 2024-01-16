@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Factory Island, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635956-Activities-Moose_Factory_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://heyrestaurants.ca/Ontario/Moose_Factory/" target="_blank" >- Best Places to Eat in Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.facebook.com/Northernmoosefactory/" target="_blank" >- Best Places to Go Shopping in Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Moose-Factory" target="_blank" >- Public Transportation Options in Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g635956-c3-zff17-Moose_Factory_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://kids.kiddle.co/Moose_Factory" target="_blank" >- Best Things to do with the Kids in Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.moosecree.com/news/" target="_blank" >- Local News for Factory Island, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/moose-factory" target="_blank" >- Weather in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g635956-Activities-Moose_Factory_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://heyrestaurants.ca/Ontario/Moose_Factory/" target="_blank"   >- Best Places to Eat in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.facebook.com/Northernmoosefactory/" target="_blank"   >- Best Places to Go Shopping in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Moose-Factory" target="_blank"   >- Public Transportation Options in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g635956-c3-zff17-Moose_Factory_Northeastern_Ontario_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://kids.kiddle.co/Moose_Factory" target="_blank"   >- Best Things to do with the Kids in Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.moosecree.com/news/" target="_blank"   >- Local News for Factory Island, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/moose-factory" target="_blank"   >- Weather in Factory Island, Ontario</a></li>
 					</ul>
       </div>
      </div>

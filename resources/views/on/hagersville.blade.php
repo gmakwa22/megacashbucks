@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hagersville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4581335-Activities-Hagersville_Haldimand_Ontario.html" target="_blank" >- Best Attractions in Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Hagersville-m9623" target="_blank" >- Best Places to Eat in Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4581335-Activities-c26-Hagersville_Haldimand_Ontario.html" target="_blank" >- Best Places to Go Shopping in Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Hagersville-ON-Canada" target="_blank" >- Public Transportation Options in Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4581335-Hagersville_Haldimand_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/ontario/haldimand-norfolk/hagersville/" target="_blank" >- Best Things to do with the Kids in Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/hagersville/" target="_blank" >- Local News for Hagersville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hagersville" target="_blank" >- Weather in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4581335-Activities-Hagersville_Haldimand_Ontario.html" target="_blank"   >- Best Attractions in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/dinner-Hagersville-m9623" target="_blank"   >- Best Places to Eat in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4581335-Activities-c26-Hagersville_Haldimand_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Hagersville-ON-Canada" target="_blank"   >- Public Transportation Options in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4581335-Hagersville_Haldimand_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/entertainment/location/ontario/haldimand-norfolk/hagersville/" target="_blank"   >- Best Things to do with the Kids in Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/hagersville/" target="_blank"   >- Local News for Hagersville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/hagersville" target="_blank"   >- Weather in Hagersville, Ontario</a></li>
 					</ul>
       </div>
      </div>

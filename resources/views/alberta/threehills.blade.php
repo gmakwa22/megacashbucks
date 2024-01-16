@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Three Hills, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499113-Activities-Three_Hills_Alberta.html" target="_blank" >- Best Attractions in Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499113-Three_Hills_Alberta.html" target="_blank" >- Best Places to Eat in Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Three+Hills%2C+AB+T0M+2A0" target="_blank" >- Best Places to Go Shopping in Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="http://www.threehills.ca/main.aspx?parentCode=B199A985-CF62-4BAF-8A3B-9CEE859A0C1F" target="_blank" >- Public Transportation Options in Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499113-Three_Hills_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/strathmore/three-hills/" target="_blank" >- Best Things to do with the Kids in Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.threehillscapital.com/news" target="_blank" >- Local News for Three Hills, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/three-hills" target="_blank" >- Weather in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499113-Activities-Three_Hills_Alberta.html" target="_blank"   >- Best Attractions in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499113-Three_Hills_Alberta.html" target="_blank"   >- Best Places to Eat in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Three+Hills%2C+AB+T0M+2A0" target="_blank"   >- Best Places to Go Shopping in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="http://www.threehills.ca/main.aspx?parentCode=B199A985-CF62-4BAF-8A3B-9CEE859A0C1F" target="_blank"   >- Public Transportation Options in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499113-Three_Hills_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/strathmore/three-hills/" target="_blank"   >- Best Things to do with the Kids in Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.threehillscapital.com/news" target="_blank"   >- Local News for Three Hills, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/three-hills" target="_blank"   >- Weather in Three Hills, Alberta</a></li>
 					</ul>
       </div>
      </div>

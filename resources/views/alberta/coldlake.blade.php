@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cold Lake, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499100-Activities-Cold_Lake_Alberta.html" target="_blank" >- Best Attractions in Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499100-Cold_Lake_Alberta.html" target="_blank" >- Best Places to Eat in Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/cold-lake/tri-city-mall" target="_blank" >- Best Places to Go Shopping in Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://coldlake.com/content/cold-lake-transit" target="_blank" >- Public Transportation Options in Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499100-Cold_Lake_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coldlake.com/content/youth-programs" target="_blank" >- Best Things to do with the Kids in Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.coldlakesun.com/category/news/local-news/" target="_blank" >- Local News for Cold Lake, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/cold-lake" target="_blank" >- Weather in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499100-Activities-Cold_Lake_Alberta.html" target="_blank"   >- Best Attractions in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499100-Cold_Lake_Alberta.html" target="_blank"   >- Best Places to Eat in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/cold-lake/tri-city-mall" target="_blank"   >- Best Places to Go Shopping in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://coldlake.com/en/live/transit.aspx" target="_blank"   >- Public Transportation Options in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499100-Cold_Lake_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.coldlake.com/content/youth-programs" target="_blank"   >- Best Things to do with the Kids in Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/cold-lake/" target="_blank"   >- Local News for Cold Lake, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/cold-lake" target="_blank"   >- Weather in Cold Lake, Alberta</a></li>
 					</ul>
       </div>
      </div>

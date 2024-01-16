@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Richmond, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thecrazytourist.com/15-best-things-richmond-hill-ontario-canada/" target="_blank" >- Best Attractions in Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3608901-Richmond_Ottawa_Ontario.html" target="_blank" >- Best Places to Eat in Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/richmond-hill" target="_blank" >- Best Places to Go Shopping in Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Richmond-ON-Canada" target="_blank" >- Public Transportation Options in Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/richmond-hill.html" target="_blank" >- Best Places to Stay in Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/25-family-fun-things-summer-richmond-hill/" target="_blank" >- Best Things to do with the Kids in Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.local.ca/on/richmond/news/" target="_blank" >- Local News for Richmond, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/richmond" target="_blank" >- Weather in Richmond, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thecrazytourist.com/15-best-things-richmond-hill-ontario-canada/" target="_blank"   >- Best Attractions in Richmond, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g3608901-Richmond_Ottawa_Ontario.html" target="_blank"   >- Best Places to Eat in Richmond, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/richmond-hill" target="_blank"   >- Best Places to Go Shopping in Richmond, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Ottawa/Richmond-ON-Canada" target="_blank"   >- Public Transportation Options in Richmond, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/richmond-hill.html" target="_blank"   >- Best Places to Stay in Richmond, Ontario</a></li>
+					<li class="list-group-item">- Best Things to do with the Kids in Richmond, Ontario</li>
+					<li class="list-group-item"><a href="https://www.local.ca/on/richmond/news/" target="_blank"   >- Local News for Richmond, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/richmond" target="_blank"   >- Weather in Richmond, Ontario</a></li>
 					</ul>
       </div>
      </div>

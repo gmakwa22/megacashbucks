@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about King, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.king.ca/experienceking" target="_blank" >- Best Attractions in King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/King-City-Ontario" target="_blank" >- Best Places to Eat in King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.Kingcentre.com/en/shopping.php?type=shopping" target="_blank" >- Best Places to Go Shopping in King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/King-City-ON-Canada" target="_blank" >- Public Transportation Options in King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/king-city.html" target="_blank" >- Best Places to Stay in King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/snow-sports/location/ontario/york/king-city/" target="_blank" >- Best Things to do with the Kids in King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yorkregion.com/king-on/" target="_blank" >- Local News for King, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/king-city" target="_blank" >- Weather in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.king.ca/experienceking" target="_blank"   >- Best Attractions in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/King-City-Ontario" target="_blank"   >- Best Places to Eat in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.Kingcentre.com/en/shopping.php?type=shopping" target="_blank"   >- Best Places to Go Shopping in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/King-City-ON-Canada" target="_blank"   >- Public Transportation Options in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/king-city.html" target="_blank"   >- Best Places to Stay in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/snow-sports/location/ontario/york/king-city/" target="_blank"   >- Best Things to do with the Kids in King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yorkregion.com/king-on/" target="_blank"   >- Local News for King, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/king-city" target="_blank"   >- Weather in King, Ontario</a></li>
 					</ul>
       </div>
      </div>

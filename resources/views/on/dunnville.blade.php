@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Dunnville, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g793718-Activities-Dunnville_Haldimand_Ontario.html" target="_blank" >- Best Attractions in Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/dunnville/" target="_blank" >- Best Places to Eat in Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g793718-Activities-c26-Dunnville_Haldimand_Ontario.html" target="_blank" >- Best Places to Go Shopping in Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Dunnville" target="_blank" >- Public Transportation Options in Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/dunnville.html" target="_blank" >- Best Places to Stay in Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g793718-Activities-zft11306-Dunnville_Haldimand_Ontario.html" target="_blank" >- Best Things to do with the Kids in Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/dunnville/" target="_blank" >- Local News for Dunnville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dunnville" target="_blank" >- Weather in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g793718-Activities-Dunnville_Haldimand_Ontario.html" target="_blank"   >- Best Attractions in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/dunnville/" target="_blank"   >- Best Places to Eat in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g793718-Activities-c26-Dunnville_Haldimand_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Dunnville" target="_blank"   >- Public Transportation Options in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/dunnville.html" target="_blank"   >- Best Places to Stay in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g793718-Activities-zft11306-Dunnville_Haldimand_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/dunnville/" target="_blank"   >- Local News for Dunnville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/dunnville" target="_blank"   >- Weather in Dunnville, Ontario</a></li>
 					</ul>
       </div>
      </div>

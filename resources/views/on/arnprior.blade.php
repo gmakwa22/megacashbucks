@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Arnprior, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://attractionsontario.ca/?gclid=EAIaIQobChMIxP7didDI8wIVtz6tBh0i5QMPEAAYAiAAEgKa1fD_BwE" target="_blank" >- Best Attractions in Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499249-Arnprior_Ontario.html" target="_blank" >- Best Places to Eat in Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499249-Activities-c26-Arnprior_Ontario.html" target="_blank" >- Best Places to Go Shopping in Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ontarionorthland.ca/en/station/arnprior" target="_blank" >- Public Transportation Options in Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.hotwire.com/Arnprior-Hotels.d6057823.Travel-Guide-Hotels?&fid=F1&sid=S11&acid=AC50002&cmid=CM200394&bid=B30147650&kid=K3951699&mid=MDSA&targetid=dsa-779029089720&gclid=EAIaIQobChMI_fON29DI8wIVDCCtBh3dSAPIEAAYAyAAEgJ8W_D_BwE&gclsrc=aw.ds" target="_blank" >- Best Places to Stay in Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/arnprior-ontario" target="_blank" >- Best Things to do with the Kids in Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.insideottawavalley.com/arnprior-on/" target="_blank" >- Local News for Arnprior, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/arnprior" target="_blank" >- Weather in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://attractionsontario.ca/?gclid=EAIaIQobChMIxP7didDI8wIVtz6tBh0i5QMPEAAYAiAAEgKa1fD_BwE" target="_blank"   >- Best Attractions in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499249-Arnprior_Ontario.html" target="_blank"   >- Best Places to Eat in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499249-Activities-c26-Arnprior_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.ontarionorthland.ca/en/station/arnprior" target="_blank"   >- Public Transportation Options in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.hotwire.com/Arnprior-Hotels.d6057823.Travel-Guide-Hotels?&fid=F1&sid=S11&acid=AC50002&cmid=CM200394&bid=B30147650&kid=K3951699&mid=MDSA&targetid=dsa-779029089720&gclid=EAIaIQobChMI_fON29DI8wIVDCCtBh3dSAPIEAAYAyAAEgJ8W_D_BwE&gclsrc=aw.ds" target="_blank"   >- Best Places to Stay in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/arnprior-ontario" target="_blank"   >- Best Things to do with the Kids in Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.insideottawavalley.com/arnprior-on/" target="_blank"   >- Local News for Arnprior, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/arnprior" target="_blank"   >- Weather in Arnprior, Ontario</a></li>
 					</ul>
       </div>
      </div>

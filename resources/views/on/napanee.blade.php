@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Napanee, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g609115-Activities-Napanee_Lennox_and_Addington_County_Ontario.html" target="_blank" >- Best Attractions in Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/napanee/" target="_blank" >- Best Places to Eat in Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.greaternapanee.com/en/live-play-and-discover/shopping.aspx" target="_blank" >- Best Places to Go Shopping in Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Scarborough-Town-Centre/Greater-Napanee" target="_blank" >- Public Transportation Options in Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/napanee.html" target="_blank" >- Best Places to Stay in Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/outdoor-and-adventure/location/ontario/lennox-and-addington/napanee/" target="_blank" >- Best Things to do with the Kids in Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.napaneetoday.ca/local-news-2/" target="_blank" >- Local News for Napanee, Ontario</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-39_metric_e.html" target="_blank" >- Weather in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g609115-Activities-Napanee_Lennox_and_Addington_County_Ontario.html" target="_blank"   >- Best Attractions in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/napanee/" target="_blank"   >- Best Places to Eat in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.greaternapanee.com/en/live-play-and-discover/shopping.aspx" target="_blank"   >- Best Places to Go Shopping in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Scarborough-Town-Centre/Greater-Napanee" target="_blank"   >- Public Transportation Options in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/napanee.html" target="_blank"   >- Best Places to Stay in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/outdoor-and-adventure/location/ontario/lennox-and-addington/napanee/" target="_blank"   >- Best Things to do with the Kids in Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.napaneetoday.ca/local-news-2/" target="_blank"   >- Local News for Napanee, Ontario</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/on-39_metric_e.html" target="_blank"   >- Weather in Napanee, Ontario</a></li>
 					</ul>
       </div>
      </div>

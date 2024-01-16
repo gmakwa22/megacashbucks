@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tottenham, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7130503-Activities-Tottenham_New_Tecumseth_Ontario.html" target="_blank" >- Best Attractions in Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7130503-Tottenham_New_Tecumseth_Ontario.html" target="_blank" >- Best Places to Eat in Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g7130503-Activities-c26-Tottenham_New_Tecumseth_Ontario.html" target="_blank" >- Best Places to Go Shopping in Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Tottenham-ON-Canada" target="_blank" >- Public Transportation Options in Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g7130503-d6278062-Tottenham_Conservation_Area-Tottenham_New_Tecumseth_Ontario.html" target="_blank" >- Best Places to Stay in Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/tottenham/" target="_blank" >- Best Things to do with the Kids in Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/new-tecumseth/" target="_blank" >- Local News for Tottenham, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tottenham" target="_blank" >- Weather in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g7130503-Activities-Tottenham_New_Tecumseth_Ontario.html" target="_blank"   >- Best Attractions in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g7130503-Tottenham_New_Tecumseth_Ontario.html" target="_blank"   >- Best Places to Eat in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g7130503-Activities-c26-Tottenham_New_Tecumseth_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Tottenham-ON-Canada" target="_blank"   >- Public Transportation Options in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g7130503-d6278062-Tottenham_Conservation_Area-Tottenham_New_Tecumseth_Ontario.html" target="_blank"   >- Best Places to Stay in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/tottenham/on/kids-fun" target="_blank"   >- Best Things to do with the Kids in Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/new-tecumseth/" target="_blank"   >- Local News for Tottenham, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tottenham" target="_blank"   >- Weather in Tottenham, Ontario</a></li>
 					</ul>
       </div>
      </div>

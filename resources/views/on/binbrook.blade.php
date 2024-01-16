@@ -53,14 +53,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Binbrook, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/travel-resources/5-day-ontario-road-trip-adventures-attractions-sports-and-around-toronto?gclid=EAIaIQobChMIzITS46_N8wIVMQ2tBh0sugTHEAAYASAAEgIbDPD_BwE" target="_blank" >- Best Attractions in Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4270712-Binbrook_Hamilton_Ontario.html" target="_blank" >- Best Places to Eat in Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.visitparksvillequalicumbeach.com/things-to-do/shopping/?gclid=EAIaIQobChMI4f6Ex7DN8wIVXRitBh0GdwRFEAAYAiAAEgLSx_D_BwE" target="_blank" >- Best Places to Go Shopping in Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Binbrook-Toronto_ON-site_7369246-143" target="_blank" >- Public Transportation Options in Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.trivago.ca/?themeId=1&iPathId=56944&sem_keyword=hotel%20hamilton&sem_creativeid=486771967374&sem_matchtype=b&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=&sem_param1=&sem_param2=&sem_campaignid=11857607964&sem_adgroupid=114728606545&sem_targetid=kwd-24726256&sem_location=9001551&cipc=sem&cip=1071900386&gclid=EAIaIQobChMI3Omi77DN8wIVFK6WCh28uQpaEAAYASAAEgLT-fD_BwE" target="_blank" >- Best Places to Stay in Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/binbrook/on" target="_blank" >- Best Things to do with the Kids in Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://globalnews.ca/tag/binbrook/" target="_blank" >- Local News for Binbrook, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/binbrook" target="_blank" >- Weather in Binbrook, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.destinationontario.com/en-ca/travel-resources/5-day-ontario-road-trip-adventures-attractions-sports-and-around-toronto?gclid=EAIaIQobChMIzITS46_N8wIVMQ2tBh0sugTHEAAYASAAEgIbDPD_BwE" target="_blank"   >- Best Attractions in Binbrook, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4270712-Binbrook_Hamilton_Ontario.html" target="_blank"   >- Best Places to Eat in Binbrook, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.visitparksvillequalicumbeach.com/things-to-do/shopping/?gclid=EAIaIQobChMI4f6Ex7DN8wIVXRitBh0GdwRFEAAYAiAAEgLSx_D_BwE" target="_blank"   >- Best Places to Go Shopping in Binbrook, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Binbrook-Toronto_ON-site_7369246-143" target="_blank"   >- Public Transportation Options in Binbrook, Ontario</a></li>
+					<li class="list-group-item">- Best Places to Stay in Binbrook, Ontario</li>
+					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/binbrook/on" target="_blank"   >- Best Things to do with the Kids in Binbrook, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/binbrook/" target="_blank"   >- Local News for Binbrook, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/binbrook" target="_blank"   >- Weather in Binbrook, Ontario</a></li>
 					</ul>
       </div>
      </div>

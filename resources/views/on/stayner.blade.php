@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Stayner, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g676255-Activities-Stayner_Clearview_Township_Ontario.html" target="_blank" >- Best Attractions in Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://restaurantguru.com/Stayner" target="_blank" >- Best Places to Eat in Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopstayner.com/" target="_blank" >- Best Places to Go Shopping in Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Stayner" target="_blank" >- Public Transportation Options in Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/stayner.html" target="_blank" >- Best Places to Stay in Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/stayner/" target="_blank" >- Best Things to do with the Kids in Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.simcoe.com/stayner-on/" target="_blank" >- Local News for Stayner, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stayner" target="_blank" >- Weather in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g676255-Activities-Stayner_Clearview_Township_Ontario.html" target="_blank"   >- Best Attractions in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://restaurantguru.com/Stayner" target="_blank"   >- Best Places to Eat in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopstayner.com/" target="_blank"   >- Best Places to Go Shopping in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Stayner" target="_blank"   >- Public Transportation Options in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/stayner.html" target="_blank"   >- Best Places to Stay in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/simcoe/stayner/" target="_blank"   >- Best Things to do with the Kids in Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.simcoe.com/stayner-on/" target="_blank"   >- Local News for Stayner, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/stayner" target="_blank"   >- Weather in Stayner, Ontario</a></li>
 					</ul>
       </div>
      </div>

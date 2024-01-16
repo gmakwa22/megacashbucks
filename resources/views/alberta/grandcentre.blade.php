@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Grand Centre, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://au.trip.com/travel-guide/destination/grand-centre-1542620/" target="_blank" >- Best Attractions in Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.canadianplanet.net/grand-centre/food+and+restaurant" target="_blank" >- Best Places to Eat in Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://closelocation.com/shopping-mall/shopping-mall-in-grand-centre-alberta-4211-601-39" target="_blank" >- Best Places to Go Shopping in Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Grand_Centre,_Alberta" target="_blank" >- Public Transportation Options in Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.priceline.com/hotel-deals/c3000031195/CA/Alberta/Grand-Centre-Hotels.html" target="_blank" >- Best Places to Stay in Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Grand_Centre,_Alberta" target="_blank" >- Best Things to do with the Kids in Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://lakelandconnect.net/2019/03/06/cold-lake-to-recognize-the-history-of-grand-centre/" target="_blank" >- Local News for Grand Centre, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/grand-centre" target="_blank" >- Weather in Grand Centre, Alberta</a></li>
+					<li class="list-group-item"><a href="https://au.trip.com/travel-guide/destination/grand-centre-1542620/" target="_blank"   >- Best Attractions in Grand Centre, Alberta</a></li>
+					<li class="list-group-item">- Best Places to Eat in Grand Centre, Alberta</li>
+					<li class="list-group-item">- Best Places to Go Shopping in Grand Centre, Alberta</li>
+					<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Grand_Centre,_Alberta" target="_blank"   >- Public Transportation Options in Grand Centre, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.priceline.com/hotel-deals/c3000031195/CA/Alberta/Grand-Centre-Hotels.html" target="_blank"   >- Best Places to Stay in Grand Centre, Alberta</a></li>
+					<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Grand_Centre,_Alberta" target="_blank"   >- Best Things to do with the Kids in Grand Centre, Alberta</a></li>
+					<li class="list-group-item"><a href="https://lakelandconnect.net/2019/03/06/cold-lake-to-recognize-the-history-of-grand-centre/" target="_blank"   >- Local News for Grand Centre, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/grand-centre" target="_blank"   >- Weather in Grand Centre, Alberta</a></li>
 					</ul>
       </div>
      </div>

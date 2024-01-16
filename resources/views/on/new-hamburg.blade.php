@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about New Hamburg, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g735506-Activities-New_Hamburg_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Attractions in New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g735506-New_Hamburg_Region_of_Waterloo_Ontario.html" target="_blank" >- Best Places to Eat in New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=New+Hamburg%2C+ON" target="_blank" >- Best Places to Go Shopping in New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/New-Hamburg/Kitchener" target="_blank" >- Public Transportation Options in New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/new-hamburg.html" target="_blank" >- Best Places to Stay in New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/play/location/ontario/waterloo/new-hamburg/" target="_blank" >- Best Things to do with the Kids in New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.newhamburgindependent.ca/" target="_blank" >- Local News for New Hamburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/new-hamburg" target="_blank" >- Weather in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g735506-Activities-New_Hamburg_Region_of_Waterloo_Ontario.html" target="_blank"   >- Best Attractions in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g735506-New_Hamburg_Region_of_Waterloo_Ontario.html" target="_blank"   >- Best Places to Eat in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=New+Hamburg%2C+ON" target="_blank"   >- Best Places to Go Shopping in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.rome2rio.com/s/New-Hamburg/Kitchener" target="_blank"   >- Public Transportation Options in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/new-hamburg.html" target="_blank"   >- Best Places to Stay in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/play/location/ontario/waterloo/new-hamburg/" target="_blank"   >- Best Things to do with the Kids in New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.newhamburgindependent.ca/" target="_blank"   >- Local News for New Hamburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/new-hamburg" target="_blank"   >- Weather in New Hamburg, Ontario</a></li>
 					</ul>
       </div>
      </div>

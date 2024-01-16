@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Barrie, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.thompsonokanagan.com/?gclid=EAIaIQobChMI5cH-9LPK8wIVtyCtBh2mgwHMEAAYASAAEgI9S_D_BwE" target="_blank" >- Best Attractions in Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154980-Barrie_Ontario.html" target="_blank" >- Best Places to Eat in Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tourismbarrie.com/where_to_shop/malls" target="_blank" >- Best Places to Go Shopping in Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/SchedulesMaps.aspx" target="_blank" >- Public Transportation Options in Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848859.b1114449679839.g1aud-1210701017419%3Akwd-933811162733.l1.e1c.m1EAIaIQobChMIorixs7bK8wIVwxrnCh2algNTEAAYASAAEgJHb_D_BwE.r186cdb047f5fc79f8336c55b5575158b3cdc4c9ae7a89d8cccea9ea08ed4238e7.c1jp0f_QwXCioJEwGXn1gT9A.j19001551.k1.d1486360418992.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Barrie%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMIorixs7bK8wIVwxrnCh2algNTEAAYASAAEgJHb_D_BwE&locale=en_CA&regionId=6692&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://mjko.ca/" target="_blank" >- Best Things to do with the Kids in Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://barrie.ctvnews.ca/?clipId=453288&cid=ps:localnewscampaign:searchad:ds:vancouvercrawl" target="_blank" >- Local News for Barrie, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/barrie" target="_blank" >- Weather in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thompsonokanagan.com/?gclid=EAIaIQobChMI5cH-9LPK8wIVtyCtBh2mgwHMEAAYASAAEgI9S_D_BwE" target="_blank"   >- Best Attractions in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154980-Barrie_Ontario.html" target="_blank"   >- Best Places to Eat in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tourismbarrie.com/where_to_shop/malls" target="_blank"   >- Best Places to Go Shopping in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/SchedulesMaps.aspx" target="_blank"   >- Public Transportation Options in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848859.b1114449679839.g1aud-1210701017419%3Akwd-933811162733.l1.e1c.m1EAIaIQobChMIorixs7bK8wIVwxrnCh2algNTEAAYASAAEgJHb_D_BwE.r186cdb047f5fc79f8336c55b5575158b3cdc4c9ae7a89d8cccea9ea08ed4238e7.c1jp0f_QwXCioJEwGXn1gT9A.j19001551.k1.d1486360418992.h1e.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Barrie%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMIorixs7bK8wIVwxrnCh2algNTEAAYASAAEgJHb_D_BwE&locale=en_CA&regionId=6692&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank"   >- Best Places to Stay in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://mjko.ca/" target="_blank"   >- Best Things to do with the Kids in Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://barrie.ctvnews.ca/?clipId=453288&cid=ps:localnewscampaign:searchad:ds:vancouvercrawl" target="_blank"   >- Local News for Barrie, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/barrie" target="_blank"   >- Weather in Barrie, Ontario</a></li>
 					</ul>
       </div>
      </div>

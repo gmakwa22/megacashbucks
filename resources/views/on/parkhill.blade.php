@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Parkhill, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4013739-Activities-Parkhill_Ontario.html" target="_blank" >- Best Attractions in Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4013739-Parkhill_Ontario.html" target="_blank" >- Best Places to Eat in Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4013739-Activities-c26-Parkhill_Ontario.html" target="_blank" >- Best Places to Go Shopping in Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://huronshoresareatransit.ca/schedules/" target="_blank" >- Public Transportation Options in Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de10419588/parkhill-ontario-hotels-rooms/" target="_blank" >- Best Places to Stay in Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/parkhill/" target="_blank" >- Best Things to do with the Kids in Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://blackburnnews.com/tag/parkhill/" target="_blank" >- Local News for Parkhill, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/parkhill" target="_blank" >- Weather in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4013739-Activities-Parkhill_Ontario.html" target="_blank"   >- Best Attractions in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4013739-Parkhill_Ontario.html" target="_blank"   >- Best Places to Eat in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4013739-Activities-c26-Parkhill_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://huronshoresareatransit.ca/schedules/" target="_blank"   >- Public Transportation Options in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/ontario/parkhill/" target="_blank"   >- Best Places to Stay in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/middlesex/parkhill/" target="_blank"   >- Best Things to do with the Kids in Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://blackburnnews.com/tag/parkhill/" target="_blank"   >- Local News for Parkhill, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/parkhill" target="_blank"   >- Weather in Parkhill, Ontario</a></li>
 					</ul>
       </div>
      </div>

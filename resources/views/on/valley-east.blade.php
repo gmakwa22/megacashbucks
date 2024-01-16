@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Valley East, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4045236-Activities-Val_Caron_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Attractions in Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4045236-Val_Caron_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Eat in Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/val-caron/val-est-mall" target="_blank" >- Best Places to Go Shopping in Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Valley_East-Greater_Sudbury_ON-site_20388346-3723" target="_blank" >- Public Transportation Options in Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4045236-Val_Caron_Sudbury_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/greater-sudbury/hanmer/" target="_blank" >- Best Things to do with the Kids in Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.sudbury.com/neighbourhood-news/valley-east" target="_blank" >- Local News for Valley East, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/valley-east" target="_blank" >- Weather in Valley East, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g4045236-Activities-Val_Caron_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Attractions in Valley East, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g4045236-Val_Caron_Sudbury_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Eat in Valley East, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/ontario/val-caron/val-est-mall" target="_blank"   >- Best Places to Go Shopping in Valley East, Ontario</a></li>
+					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Valley_East-Greater_Sudbury_ON-site_20388346-3723" target="_blank"   >- Public Transportation Options in Valley East, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g4045236-Val_Caron_Sudbury_Northeastern_Ontario_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Valley East, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/category/sports/location/ontario/greater-sudbury/hanmer/" target="_blank"   >- Best Things to do with the Kids in Valley East, Ontario</a></li>
+					<li class="list-group-item">- Local News for Valley East, Ontario</li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/valley-east" target="_blank"   >- Weather in Valley East, Ontario</a></li>
 					</ul>
       </div>
      </div>

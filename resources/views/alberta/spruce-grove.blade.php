@@ -41,14 +41,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Spruce Grove, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g609102-Activities-Spruce_Grove_Alberta.html" target="_blank" >- Best Attractions in Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g609102-Spruce_Grove_Alberta.html" target="_blank" >- Best Places to Eat in Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/spruce-grove/westland-market-mall" target="_blank" >- Best Places to Go Shopping in Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sprucegrove.org/services/spruce-grove-transit/" target="_blank" >- Public Transportation Options in Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.hotelplanner.com/Hotels/55976-in-Spruce-Grove-AB.html#dir-bar" target="_blank" >- Best Places to Stay in Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sprucegrove.org/community/visiting-spruce-grove/" target="_blank" >- Best Things to do with the Kids in Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.sprucegroveexaminer.com/category/news/" target="_blank" >- Local News for Spruce Grove, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/spruce-grove" target="_blank" >- Weather in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g609102-Activities-Spruce_Grove_Alberta.html" target="_blank"   >- Best Attractions in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g609102-Spruce_Grove_Alberta.html" target="_blank"   >- Best Places to Eat in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/alberta/spruce-grove/westland-market-mall" target="_blank"   >- Best Places to Go Shopping in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.sprucegrove.org/services/spruce-grove-transit/" target="_blank"   >- Public Transportation Options in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.hotelplanner.com/Hotels/55976-in-Spruce-Grove-AB.html#dir-bar" target="_blank"   >- Best Places to Stay in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.sprucegrove.org/community/visiting-spruce-grove/" target="_blank"   >- Best Things to do with the Kids in Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/spruce-grove/" target="_blank"   >- Local News for Spruce Grove, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/spruce-grove" target="_blank"   >- Weather in Spruce Grove, Alberta</a></li>
 					</ul>
       </div>
      </div>

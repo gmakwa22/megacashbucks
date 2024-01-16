@@ -52,14 +52,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Azilda, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.libertychurchmn.com/events/?gclid=EAIaIQobChMIs4imvazK8wIVwiCtBh0CfwfmEAAYASAAEgIwkfD_BwE" target="_blank" >- Best Attractions in Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Azilda+St%2C+Greater+Sudbury%2C+ON+P0M+1B0" target="_blank" >- Best Places to Eat in Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.loopnet.com/?tab=sale&type=retail&gclid=EAIaIQobChMIuo3l5azK8wIVWiCtBh1NBAYzEAAYASAAEgKO6vD_BwE" target="_blank" >- Best Places to Go Shopping in Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://nextcity.org/daily/entry/the-week-in-carrots-cities-countries-try-lures-to-get-people-to-ride?gclid=EAIaIQobChMImLHi8qzK8wIV9R6tBh0H2weEEAAYAiAAEgLxH_D_BwE" target="_blank" >- Public Transportation Options in Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848901.b1114449707399.g1aud-1210701017419%3Akwd-48540881749.l1.e1c.m1EAIaIQobChMImtrIiq3K8wIVZAh9Ch3ouwC8EAAYAiAAEgKpOvD_BwE.r1d2f96f1f73fcd3fb5063e9a7e6a758f306d18d88efe3c7136dd06228774df34d.c1SoII38F7zkpD5LyrmyjHJg.j19001551.k1.d1486430301672.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Azilda%2C%20Sudbury%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMImtrIiq3K8wIVZAh9Ch3ouwC8EAAYAiAAEgKpOvD_BwE&locale=en_CA&regionId=6342948&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank" >- Best Places to Stay in Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://discoversudbury.ca/things-to-do/activity-type/family/" target="_blank" >- Best Things to do with the Kids in Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://thestarfish.ca/journal?gclid=EAIaIQobChMImMqFtq3K8wIVDCCtBh1JUghlEAAYASAAEgKSDPD_BwE" target="_blank" >- Local News for Azilda, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/azilda" target="_blank" >- Weather in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.libertychurchmn.com/events/?gclid=EAIaIQobChMIs4imvazK8wIVwiCtBh0CfwfmEAAYASAAEgIwkfD_BwE" target="_blank"   >- Best Attractions in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Azilda+St%2C+Greater+Sudbury%2C+ON+P0M+1B0" target="_blank"   >- Best Places to Eat in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.loopnet.com/?tab=sale&type=retail&gclid=EAIaIQobChMIuo3l5azK8wIVWiCtBh1NBAYzEAAYASAAEgKO6vD_BwE" target="_blank"   >- Best Places to Go Shopping in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.greatersudbury.ca/live/transit/" target="_blank"   >- Public Transportation Options in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.expedia.ca/Hotel-Search?SEMDTL=a111848848901.b1114449707399.g1aud-1210701017419%3Akwd-48540881749.l1.e1c.m1EAIaIQobChMImtrIiq3K8wIVZAh9Ch3ouwC8EAAYAiAAEgKpOvD_BwE.r1d2f96f1f73fcd3fb5063e9a7e6a758f306d18d88efe3c7136dd06228774df34d.c1SoII38F7zkpD5LyrmyjHJg.j19001551.k1.d1486430301672.h1b.i1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&destination=Azilda%2C%20Sudbury%2C%20Ontario%2C%20Canada&endDate=2021-10-29&gclid=EAIaIQobChMImtrIiq3K8wIVZAh9Ch3ouwC8EAAYAiAAEgKpOvD_BwE&locale=en_CA&regionId=6342948&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&semdtl=&siteid=4&sort=RECOMMENDED&startDate=2021-10-28&theme=&useRewards=false&userIntent=" target="_blank"   >- Best Places to Stay in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://discoversudbury.ca/things-to-do/activity-type/family/" target="_blank"   >- Best Things to do with the Kids in Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://thestarfish.ca/journal?gclid=EAIaIQobChMImMqFtq3K8wIVDCCtBh1JUghlEAAYASAAEgKSDPD_BwE" target="_blank"   >- Local News for Azilda, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/azilda" target="_blank"   >- Weather in Azilda, Ontario</a></li>
 					</ul>
       </div>
      </div>

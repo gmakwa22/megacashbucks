@@ -48,14 +48,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about North Bay, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tourismnorthbay.com/" target="_blank" >- Best Attractions in North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/north-bay/" target="_blank" >- Best Places to Eat in North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155000-Activities-c26-North_Bay_Northeastern_Ontario_Ontario.html" target="_blank" >- Best Places to Go Shopping in North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.northbay.ca/transit" target="_blank" >- Public Transportation Options in North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155000-North_Bay_Northeastern_Ontario_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/nipissing/north-bay/" target="_blank" >- Best Things to do with the Kids in North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.baytoday.ca/" target="_blank" >- Local News for North Bay, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/north-bay" target="_blank" >- Weather in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tourismnorthbay.com/" target="_blank"   >- Best Attractions in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/north-bay/" target="_blank"   >- Best Places to Eat in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155000-Activities-c26-North_Bay_Northeastern_Ontario_Ontario.html" target="_blank"   >- Best Places to Go Shopping in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.northbay.ca/transit" target="_blank"   >- Public Transportation Options in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g155000-North_Bay_Northeastern_Ontario_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/nipissing/north-bay/" target="_blank"   >- Best Things to do with the Kids in North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/north-bay/" target="_blank"   >- Local News for North Bay, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/north-bay" target="_blank"   >- Weather in North Bay, Ontario</a></li>
 					</ul>
       </div>
      </div>

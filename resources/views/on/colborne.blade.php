@@ -7,7 +7,7 @@
 			<div class="col-xs-12">
 				<p class="title">Colborne Ontario</p>
 				<h2 class="small-title">Colborne’s Best PayDay Loans</h2>
-				<p class="text text-justify">Our Payday loan in colborne, Ontario with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
+				<p class="text text-justify">Our Payday Loans in Colborne Ontario with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
 				<p class="text text-justify">We know that things happen in life and sometimes you need extra money for unexpected expenses. If you need the car or computer repaired, emergency dental work or last-minute tuition fees, what do you do? Borrow from family? That can be complicated. Apply for a line of credit? But that can take too long. You need a solution now. A post-dated check? That can be tricky. How about a cleaner, faster, easier solution than any of those options? Our payday loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>
 				<p class="text text-justify">Plus, we use the industry’s state-of-the-art encryption technology to ensure that your personal application information is rock solid safe. Also, the application is as simple as can be. The days of standing in line at some storefront location, with all your documents piled in your lap, waiting for your number to be called, are over at {{$privname}}. Ours is a completely streamlined, easy to use, secure, online process. The whole thing can be done from the comfort of your couch, all in one day. Once approved, and you sign the electronic contract, your funds are just 5 minutes away from being in your bank account. </p>
 				<p class="text text-justify">So, if you’re looking for a short-term loan, with a trusted, direct lender, {{$privname}} is the company for you. Our Code of Conduct is drawn from industry best practices, ensuring a transparent and responsible lending process wherever you are, in Colborne or across Ontario.</p>
@@ -50,14 +50,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Colborne, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-Colborne_Ontario.html" target="_blank" >- Best Attractions in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-colborne/" target="_blank" >- Best Places to Eat in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.thingstodopost.org/top-5-shopping-in-colborne-colborne-668591" target="_blank" >- Best Places to Go Shopping in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.portcolborne.ca/en/living-here/transit.aspx" target="_blank" >- Public Transportation Options in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-colborne.html" target="_blank" >- Best Places to Stay in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-zft11306-Colborne_Ontario.html" target="_blank" >- Best Things to do with the Kids in Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.cramahenow.com/?cat=3" target="_blank" >- Local News for Colborne, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/colborne" target="_blank" >- Weather in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-Colborne_Ontario.html" target="_blank"   >- Best Attractions in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/port-colborne/" target="_blank"   >- Best Places to Eat in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.thingstodopost.org/top-5-shopping-in-colborne-colborne-668591" target="_blank"   >- Best Places to Go Shopping in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.portcolborne.ca/en/living-here/transit.aspx" target="_blank"   >- Public Transportation Options in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/port-colborne.html" target="_blank"   >- Best Places to Stay in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g5414486-Activities-zft11306-Colborne_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.cramahenow.com/?cat=3" target="_blank"   >- Local News for Colborne, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/colborne" target="_blank"   >- Weather in Colborne, Ontario</a></li>
 					</ul>
       </div>
      </div>

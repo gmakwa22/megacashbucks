@@ -49,14 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Tillsonburg, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499299-Activities-Tillsonburg_Ontario.html" target="_blank" >- Best Attractions in Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.restaurantji.com/on/tillsonburg/" target="_blank" >- Best Places to Eat in Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://tillsonburgtowncentre.com/stores" target="_blank" >- Best Places to Go Shopping in Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tillsonburg.ca/en/live-and-play/tgo-transit.aspx" target="_blank" >- Public Transportation Options in Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/tillsonburg.html" target="_blank" >- Best Places to Stay in Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/oxford/tillsonburg/" target="_blank" >- Best Things to do with the Kids in Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.norfolkandtillsonburgnews.com/" target="_blank" >- Local News for Tillsonburg, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tillsonburg" target="_blank" >- Weather in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499299-Activities-Tillsonburg_Ontario.html" target="_blank"   >- Best Attractions in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.restaurantji.com/on/tillsonburg/" target="_blank"   >- Best Places to Eat in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://tillsonburgtowncentre.com/stores" target="_blank"   >- Best Places to Go Shopping in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tillsonburg.ca/living-here/t-go-transit/" target="_blank"   >- Public Transportation Options in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/tillsonburg.html" target="_blank"   >- Best Places to Stay in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/oxford/tillsonburg/" target="_blank"   >- Best Things to do with the Kids in Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/tillsonburg/" target="_blank"   >- Local News for Tillsonburg, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/tillsonburg" target="_blank"   >- Weather in Tillsonburg, Ontario</a></li>
 					</ul>
       </div>
      </div>

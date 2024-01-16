@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Canora, SK</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.viator.com/Canora/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank" >- Best Attractions in Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-Canora-Saskatchewan" target="_blank" >- Best Places to Eat in Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.Canoralakelouise.com/shopping" target="_blank" >- Best Places to Go Shopping in Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://Canora.ca/150/Getting-Around-Canora" target="_blank" >- Public Transportation Options in Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.Canoralakelouise.com/accommodation" target="_blank" >- Best Places to Stay in Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://flashpackingfamily.com/best-things-to-do-in-Canora-with-kids/" target="_blank" >- Best Things to do with the Kids in Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.rmotoday.com/Canora" target="_blank" >- Local News for Canora, Saskatchewan</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/Saskatchewan/Canora" target="_blank" >- Weather in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.viator.com/Canora/d611-ttd?m=28353&supag=68732029897&supsc=dsa-650389793948&supai=420120885795&supap=&supdv=c&supnt=nt%3Ag&suplp=9001551&supli=&supti=dsa-650389793948&tsem=true&supci=dsa-650389793948&supap1=&supap2=&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-E8WwHpr6VQXmCJANXiAletpFA0l7iVUyV8UyTaYcKPCMEloHI5NkaAqH4EALw_wcB" target="_blank"   >- Best Attractions in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://eatnorth.com/eat-north/7-things-eat-Canora-Saskatchewan" target="_blank"   >- Best Places to Eat in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.Canoralakelouise.com/shopping" target="_blank"   >- Best Places to Go Shopping in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://Canora.ca/150/Getting-Around-Canora" target="_blank"   >- Public Transportation Options in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.Canoralakelouise.com/accommodation" target="_blank"   >- Best Places to Stay in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://flashpackingfamily.com/best-things-to-do-in-Canora-with-kids/" target="_blank"   >- Best Things to do with the Kids in Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.rmotoday.com/Canora" target="_blank"   >- Local News for Canora, Saskatchewan</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/Saskatchewan/Canora" target="_blank"   >- Weather in Canora, Saskatchewan</a></li>
 					</ul>
       </div>
      </div>

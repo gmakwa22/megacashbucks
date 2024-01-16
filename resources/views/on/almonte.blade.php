@@ -51,14 +51,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Almonte, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2084915-Activities-Almonte_Mississippi_Mills_Ontario.html" target="_blank" >- Best Attractions in Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2084915-Almonte_Mississippi_Mills_Ontario.html" target="_blank" >- Best Places to Eat in Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2084915-Activities-c26-Almonte_Mississippi_Mills_Ontario.html" target="_blank" >- Best Places to Go Shopping in Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://millstonenews.com/almonte-commuter-bus-fare-and-schedule-info/" target="_blank" >- Public Transportation Options in Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Almonte-Hotels.d6244893.Travel-Guide-Hotels?semcid=CA.UB.GOOGLE.DL-DSA-c-EN.HOTEL&semdtl=a111766942614.b1116981749649.r1.g1dsa-975551410270.i1150235931831.d1483829037947.e1c.j19001551.k1.f1.n1.l1g.h1b.m1&gclid=EAIaIQobChMI2bbo2sDI8wIVxTytBh1eiA0xEAAYASAAEgI3A_D_BwE" target="_blank" >- Best Places to Stay in Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2084915-Activities-zft11306-Almonte_Mississippi_Mills_Ontario.html" target="_blank" >- Best Things to do with the Kids in Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.insideottawavalley.com/almonte-on-news/" target="_blank" >- Local News for Almonte, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/almonte" target="_blank" >- Weather in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2084915-Activities-Almonte_Mississippi_Mills_Ontario.html" target="_blank"   >- Best Attractions in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2084915-Almonte_Mississippi_Mills_Ontario.html" target="_blank"   >- Best Places to Eat in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2084915-Activities-c26-Almonte_Mississippi_Mills_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://millstonenews.com/almonte-commuter-bus-fare-and-schedule-info/" target="_blank"   >- Public Transportation Options in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://staycanada.ca/ontario/almonte/" target="_blank"   >- Best Places to Stay in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2084915-Activities-zft11306-Almonte_Mississippi_Mills_Ontario.html" target="_blank"   >- Best Things to do with the Kids in Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.insideottawavalley.com/almonte-on-news/" target="_blank"   >- Local News for Almonte, Ontario</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/almonte" target="_blank"   >- Weather in Almonte, Ontario</a></li>
 					</ul>
       </div>
      </div>

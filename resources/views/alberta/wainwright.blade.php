@@ -44,14 +44,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Wainwright, AB</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://wainwright.ca/visiting/local-attractions/" target="_blank" >- Best Attractions in Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984032-Wainwright_Alberta.html" target="_blank" >- Best Places to Eat in Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="https://wainwright.ca/doing-business/shop-local/" target="_blank" >- Best Places to Go Shopping in Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="https://wainwright.ca/town-services/transportation/" target="_blank" >- Public Transportation Options in Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g984032-Wainwright_Alberta-Hotels.html" target="_blank" >- Best Places to Stay in Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/wainwright/" target="_blank" >- Best Things to do with the Kids in Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="http://starnews.ca/" target="_blank" >- Local News for Wainwright, Alberta</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/wainwright" target="_blank" >- Weather in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://wainwright.ca/visiting/local-attractions/" target="_blank"   >- Best Attractions in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g984032-Wainwright_Alberta.html" target="_blank"   >- Best Places to Eat in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://wainwright.ca/doing-business/shop-local/" target="_blank"   >- Best Places to Go Shopping in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://wainwright.ca/town-services/transportation/" target="_blank"   >- Public Transportation Options in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g984032-Wainwright_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/alberta/wainwright/" target="_blank"   >- Best Things to do with the Kids in Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="http://starnews.ca/" target="_blank"   >- Local News for Wainwright, Alberta</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/alberta/wainwright" target="_blank"   >- Weather in Wainwright, Alberta</a></li>
 					</ul>
       </div>
      </div>
