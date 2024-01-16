@@ -1966,91 +1966,91 @@ class OntarioController extends Controller
           }
          public function wawa() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Wawa| Loans in Wawa Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Wawa');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wawa Ontario. The entire lending process is automated and provides you with a fast answer at the end. ');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wawa, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wawa', $data);
           }
          public function wellandpelham() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Welland Pelham| Loans in Welland Pelham Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Welland Pelham');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Welland Pelham Ontario. Once approved, your money is instantly sent to your bank account. ');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Welland Pelham, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-welland-pelham', $data);
           }
          public function wellesley() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Wellesley| Loans in Wellesley Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Wellesley');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wellesley Ontario. Our agreements are clear and there’s no hidden fees. ');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wellesley, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wellesley', $data);
           }
          public function wendover() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Wendover| Loans in Wendover Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Wendover');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wendover Ontario. Our easy to use tools help you assess the full costs of any borrowing decision. ');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wendover, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wendover', $data);
           }
          public function westlorne() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in West Lorne| Loans in West Lorne Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in West Lorne');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in West Lorne Ontario. We help you be a smart and informed borrower. ');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in West Lorne, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-west-lorne', $data);
           }
          public function wheatley() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Wheatley| Loans in Wheatley Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Wheatley');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wheatley Ontario. Protecting your security and privacy is absolutely essential to us. ');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wheatley, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wheatley', $data);
           }
          public function wiarton() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Wiarton| Loans in Wiarton Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Wiarton');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wiarton Ontario. We use the industry’s state-of-the-art encryption technology and security.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wiarton, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wiarton', $data);
           }
          public function wikwemikong() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Wikwemikong| Loans in Wikwemikong Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Wikwemikong');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wikwemikong Ontario. All of our online transactions are fully protected.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wikwemikong, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wikwemikong', $data);
           }
          public function winchester() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Winchester| Loans in Winchester Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Winchester');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Winchester Ontario. Getting a loan has never been easier - or faster.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Winchester, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-winchester', $data);
           }
          public function windsor() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Windsor| Loans in Windsor Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Windsor');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Windsor Ontario.  Just choose your loan amount and repayment plan - then you’re good to go.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Windsor, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-windsor', $data);
           }
          public function wingham() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Windsor| Loans in Wingham Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Windsor');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Wingham Ontario. Any time, day or night, your loan will be e-transferred to you in just 5 minutes!');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Wingham, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wingham', $data);
           }
          public function woodstock() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Woodstock| Loans in Woodstock Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Woodstock');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Woodstock Ontario. Your Privacy, Confidentiality and Financial Security are Guaranteed.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Woodstock, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-woodstock', $data);
           }
          public function wyoming() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Plympton-Wyoming| Loans in Plympton-Wyoming Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Plympton-Wyoming');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Plympton-Wyoming Ontario. We are compliant with all Provincial Regulations.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Woodstock, advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-wyoming', $data);

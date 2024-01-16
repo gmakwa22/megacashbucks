@@ -6,7 +6,7 @@
 {!! SEOMeta::generate() !!}
 <meta property="og:title" content="Best Online Payday loans in Canada 24/7" />
 <meta property="og:type" content="Official website" />
-<meta property="og:url" content="{{ Request::fullUrl() }}" />
+<!-- <meta property="og:url" content="{{ Request::fullUrl() }}" /> -->
 <meta property="og:image" content="https://www.megacashbucks.com/images2/logo/megacashbucks.png" />
 <meta property="og:description" content="Best low cost online payday loans in canada 24/7.Get instant money by e-transfer. Easy cash advance fast short term loans even with bad credit.">
 <meta property="og:site_name" content="{{$privname}}">
@@ -26,9 +26,9 @@
 <link rel="stylesheet" type="text/css" href="/css/x45-min.css">
 <link rel="stylesheet" type="text/css" href="/css/action-box-min.css">
 
-<link rel="canonical" href="{{ Request::fullUrl() }}" />
+<!-- <link rel="canonical" href="{{ Request::fullUrl() }}" /> -->
 <link rel="alternate" hreflang="en-ca" href="{{ Request::fullUrl() }}" />
-<link rel="alternate" href="{{ Request::fullUrl() }}" hreflang="x-default" />
+<!-- <link rel="alternate" href="{{ Request::fullUrl() }}" hreflang="x-default" /> -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <meta name="p:domain_verify" content="75004b9c2621597d028016a30c07bfb7"/>
 <script defer src="/js/script-min.js"></script>
