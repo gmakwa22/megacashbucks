@@ -53,7 +53,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g804488-Activities-East_Gwillimbury_Ontario.html" target="_blank" >- Best Attractions in Mount Albert, Ontario</a></li>
 					<li class="list-group-item"><a href="https://restaurantguru.com/Mount-Albert" target="_blank" >- Best Places to Eat in Mount Albert, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=grocery&find_loc=Mount+Albert%2C+ON+L0G+1M0" target="_blank" >- Best Places to Go Shopping in Mount Albert, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Mount-Albert-ON-Canada" target="_blank" >- Public Transportation Options in Mount Albert, Ontario</a></li>
+					<li class="list-group-item"><- Public Transportation Options in Mount Albert, Ontario</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g17434272-Mount_Albert_East_Gwillimbury_Ontario-Hotels.html" target="_blank" >- Best Places to Stay in Mount Albert, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g804488-Activities-East_Gwillimbury_Ontario.html" target="_blank" >- Best Things to do with the Kids in Mount Albert, Ontario</a></li>
 					<li class="list-group-item"><a href="https://globalnews.ca/tag/mount-albert/" target="_blank" >- Local News for Mount Albert, Ontario</a></li>

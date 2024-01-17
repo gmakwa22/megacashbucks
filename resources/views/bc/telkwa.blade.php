@@ -50,7 +50,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g2049622-Telkwa_British_Columbia.html" target="_blank" >- Best Places to Eat in Telkwa, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://tourismsmithers.com/plan-your-visit/directory/category/shopping" target="_blank" >- Best Places to Go Shopping in Telkwa, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/smithers/schedules-and-maps/route-overview?route=22" target="_blank" >- Public Transportation Options in Telkwa, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de1709413/telkwa-and-vicinity-british-columbia-hotels-rooms/" target="_blank" >- Best Places to Stay in Telkwa, British Columbia</a></li>
+					<li class="list-group-item">- Best Places to Stay in Telkwa, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2049622-Activities-Telkwa_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Telkwa, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://globalnews.ca/tag/telkwa/" target="_blank" >- Local News for Telkwa, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/telkwa" target="_blank" >- Weather in Telkwa, British Columbia</a></li>

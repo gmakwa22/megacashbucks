@@ -144,6 +144,10 @@ class ABController extends Controller
      public function fortmcmurry() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Fort McMurray", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN FORT MCMURRAY", "headtxtcolor" => "WHITE"];
        SEOMeta::setTitle('Get Payday Loans Online Fortmcmurray');
+
+       SEOMeta::setDescription('Need Instant Payday Loans Online in Fort McMurry, AB? Get Up To $1500 From a Safe Trusted Licensed Lender. Easy Application.');
+
+
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.fortmcmurray', $data); }
 
@@ -250,12 +254,14 @@ class ABController extends Controller
      public function strathmore() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Strathmore", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN STRATHMORE", "headtxtcolor" => "WHITE"];
        SEOMeta::setTitle('Need Fast Cash Loans Near Strathmore, AB');
+       SEOMeta::setDescription ('Empower Your Financial Journey in Strathmore with Our Customized Loans - Your Bridge to a Brighter Future!');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.strathmore', $data); }
 
      public function highriver() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "High River", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN HIGH RIVER", "headtxtcolor" => "WHITE", "headalt" => "payday loans highriver" ];
        SEOMeta::setTitle('Need Fast Cash Loans Near High River, AB');
+       SEOMeta::setDescription ('Loans in High River - Tailored Solutions for Every Residents Unique Needs.');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.highriver', $data); }
 
@@ -276,6 +282,7 @@ class ABController extends Controller
      public function canmore() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Canmore", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN CANMORE", "headtxtcolor" => "WHITE", "headalt" => "payday loans Canmore"];
        SEOMeta::setTitle('Need Fast Cash Loans Near Canmore, AB');
+       SEOMeta::setDescription ('Get the Cash You Need, Right Here in Canmore! Discover Our Range of Loans for Every Situation');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.canmore', $data); }
 
@@ -442,7 +449,9 @@ class ABController extends Controller
 
      public function didsbury() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Didsbury", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN DIDSBURY", "headtxtcolor" => "WHITE"];
-       SEOMeta::setTitle('Need Fast Cash Loans Near Didsbury, AB? ');
+       SEOMeta::setTitle('Secure Your Dreams in Didsbury with Our Reliable Loans - Your Path to Financial Success Starts Here');
+       SEOMeta::setDescription('Need Fast Cash Loans Near Didsbury, AB? ');
+
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.didsbury', $data); }
 
@@ -484,6 +493,7 @@ class ABController extends Controller
      public function peaceriver() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Peace River", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN PEACE RIVER", "headtxtcolor" => "WHITE"];
        SEOMeta::setTitle('Peace River | Need Fast Cash Loans Near Peace River, AB.');
+       SEOMeta::setDescription ('Mega Cash Bucksin Peace River - Explore Tailored Loans for Your Unique Financial Journey.');
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.peaceriver', $data); }
 
@@ -553,6 +563,8 @@ class ABController extends Controller
      public function crossfield() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Crossfield", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN CROSSFIELD", "headtxtcolor" => "WHITE", "headalt" => "payday loans Crossfield"];
        SEOMeta::setTitle('Crossfield | Need Fast Cash Loans Near Crossfield, AB');
+       SEOMeta::setDescription ('Turn Your Plans into Reality: Crossfield Top Choice for Convenient and Quick Loans.');
+
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.crossfield', $data); }
 
@@ -615,6 +627,9 @@ class ABController extends Controller
      public function hanna() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Hanna", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN HANNA", "headtxtcolor" => "WHITE", "headalt" => "payday loans Hanna"];
        SEOMeta::setTitle('Hanna | Need Fast Cash Loans Near Hanna, AB');
+
+       SEOMeta::setDescription ('Your trust is our priority. As a direct lender, we strictly follow all Canadian Provincial regulations, placing your financial safety and satisfaction first.');
+
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');
        return view('/alberta.hanna', $data); }
 

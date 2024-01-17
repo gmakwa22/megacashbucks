@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1>Short Term Loans</h1>
+				<h2>Short Term Loans</h2>
 				<h2 class="small-title">In 5 minutes, get as much as $1500 straight into your bank account</h2>
 				<p class="text text-justify">A short-term loan from Pay Day offers Canadians the kind of financial flexibility and security they need. Often called <a href="/payday-loan-canada" target="_blank" rel="noopener">payday loans</a>, these kinds of lending products provide a lump sum cash payment, which is they repaid (with interest), typically after the borrower’s next pay period. Pay Day has taken this process several steps further and brought short term lending into the 21st century with a fully online, instant, no-hassle lending process.</p>
 				<p class="text text-justify">At Pay Day, you can apply for a flexible <a href="/how-its-done" target="_blank" rel="noopener">cash advance loan</a> entirely online. There are no visits to offices, documents to sign and mail, faxes to send, or other wastes of your time. The application typically takes 5 to 10 minutes to complete online. Once submitted, it goes through an automated decision review, which includes a credit check. But don’t worry if you have bad credit – we don’t reject applications based on credit scores, and you’ll get a fair review like anyone else. After your loan application is approved, you can digitally sign your loan agreement, send it back online, and receive money in your bank account – as quickly as 5 minutes after we receive your signed agreement. And all of this without any physical paperwork or office visits. That’s lending for the way you live today!</p>

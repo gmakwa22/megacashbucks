@@ -40,7 +40,7 @@
 				<li class="list-group-item"><a href="http://www.windsorpubliclibrary.com/?page_id=50" target="_blank" rel="noopener">- Libraries in Windsor, Ontario</a></li>
 				<li class="list-group-item"><a href="https://www.citywindsor.ca/residents/transitwindsor/Pages/Transit-Windsor.aspx" target="_blank" rel="noopener">- Public Transit, Windsor, Ontario</a></li>
 				<li class="list-group-item"><a href="https://www.yelp.ca/biz/frenchys-poutinery-windsor" target="_blank" rel="noopener">- Best fast food restaurant, Windsor, Ontario</a></li>
-				<li class="list-group-item"><a href="https://windsorstar.com/" target="_blank" rel="noopener">- News in Windsor, Ontario</a></li>
+				<li class="list-group-item"><a href="https://www.cbc.ca/news/canada/windsor" target="_blank" rel="noopener">- News in Windsor, Ontario</a></li>
 				<li class="list-group-item"><a href="https://weather.com/en-CA/weather/today/l/42.31,-83.04?par=google?par=google" target="_blank" rel="noopener">- Weather in Windsor, Ontario</a></li>
 				</ul>
 

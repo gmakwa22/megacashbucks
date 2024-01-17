@@ -55,7 +55,7 @@
 					<li class="list-group-item"><a href="https://www.yrt.ca/en/yrt-in-stouffville.aspx" target="_blank" >- Public Transportation Options in Stouffville, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g796993-d4259143-Whitchurch_Stouffville_Museum_Community_Centre-Whitchurch_Stouffville_Ontario.html" target="_blank" >- Best Places to Stay in Stouffville, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g796993-Activities-zft11306-Whitchurch_Stouffville_Ontario.html" target="_blank" >- Best Things to do with the Kids in Stouffville, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yorkregion.com/whitchurchstouffville-on/" target="_blank" >- Local News for Stouffville, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/stouffville/" target="_blank" >- Local News for Stouffville, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/stouffville" target="_blank" >- Weather in Stouffville, Ontario</a></li>
 					</ul>
       </div>

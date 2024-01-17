@@ -59,7 +59,7 @@
 					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-Ballantrae-Toronto_ON-site_13402827-143" target="_blank"   >- Public Transportation Options in Ballantrae, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.ihg.com/hotels/us/en/reservation?fromRedirect=true&qSrt=sAV&qIta=99504300&icdv=99504300&setPMCookies=true&dp=true&gclid=EAIaIQobChMItv6buLDK8wIVCB6tBh0C9gPMEAAYAiAAEgLkMPD_BwE&cm_mmc=PDSEA-_-G|F-AMER|FS-USA|H-AMER|HS-USA|6C|NBS|EXM|CORE-IHG&srb_u=1" target="_blank"   >- Best Places to Stay in Ballantrae, Ontario</a></li>
 					<li class="list-group-item"><a href="https://christplace.church/cpkids/?gclid=EAIaIQobChMIh9C5y7DK8wIV6iCtBh2OCQQOEAAYASAAEgINvvD_BwE" target="_blank"   >- Best Things to do with the Kids in Ballantrae, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.yorkregion.com/whitchurchstouffville-on/" target="_blank"   >- Local News for Ballantrae, Ontario</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/stouffville/" target="_blank"   >- Local News for Ballantrae, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/ballantrae" target="_blank"   >- Weather in Ballantrae, Ontario</a></li>
 					</ul>
       </div>

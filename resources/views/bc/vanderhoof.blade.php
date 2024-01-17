@@ -51,7 +51,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1590608-Activities-c26-Vanderhoof_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.vanderhoof.ca/residents/community-bus/" target="_blank" >- Public Transportation Options in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/vanderhoof.html" target="_blank" >- Best Places to Stay in Vanderhoof, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/northern-bc/vanderhoof.html target="_blank" >- Best Things to do with the Kids in Vanderhoof, British Columbia</a></li>
+					<li class="list-group-item">- Best Things to do with the Kids in Vanderhoof, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.ominecaexpress.com/" target="_blank" >- Local News for Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-44_metric_e.html" target="_blank" >- Weather in Vanderhoof, British Columbia</a></li>
 					</ul>

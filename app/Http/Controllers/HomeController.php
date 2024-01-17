@@ -489,7 +489,7 @@ SEOMeta::setDescription ('Your financial security is our responsibility. Operati
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/saskatoon.jpg", "licpr" => "on", "spprov" => "Saskatoon", "headpg" => "SASKATOON'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "SASKATOON'S BEST PAYDAY LOAN OPTION We know that things happen in life and sometimes you need extra money for unexpected expenses."];
-     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Saskatoon, SK');
+     SEOMeta::setTitle('Need Instant Payday Loans Online in Saskatoon, SK');
      SEOMeta::setDescription('Saskatoon Payday Loans 24/7. ✔ 5 Minute Approval ✔ No FAX ✔ Bad Credit OK ✔ Interac ✔ Instant Response. SK');
      SEOMeta::addKeyword('loans Saskatoon, bad credit loans Saskatoon, cash loans Saskatoon, instant payday loans Saskatoon, online loans Saskatoon, quick loans Saskatoon, quick loans in Saskatoon, loan companies Saskatoon, cash advance Saskatoon, cash advance loans Saskatoon, cash advance Saskatoon, cash for you now Saskatoon, cash king Saskatoon, cash money Saskatoon cash shop Saskatoon, cash store Saskatoon, direct cash Saskatoon, ez loan Saskatoon, fast cash loans Saskatoon, money loans Saskatoon, money mart Saskatoon, money Saskatoon payday loans Saskatoon, SK');
      return view('payday-loans-saskatoon', $data);

@@ -1224,7 +1224,7 @@ class OntarioController extends Controller
          public function milverton() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
            SEOMeta::setTitle('Online Instant Payday Loans in Milverton');
-           SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Milton Ontario. You have more time to repay, with no extra fees or interest charges.');
+           SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Milverton Ontario. You have more time to repay, with no extra fees or interest charges.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Milton , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('/on.milverton', $data);
           }
@@ -1708,7 +1708,7 @@ class OntarioController extends Controller
           public function stcatharinesniagara() {
             $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
             SEOMeta::setTitle('Online Instant Payday Loans in Catherines');
-            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Niagara Falls Ontario. Getting a loan has never been easier - or faster.');
+            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in St. Catharines. Getting a loan has never been easier - or faster.');
             SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Niagara Falls , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
                return view('/on.st-catharines-niagara', $data);
           }

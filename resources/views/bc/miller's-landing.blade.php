@@ -47,7 +47,7 @@
 				<h3>Helpful information about Miller's Landing, BC</h3>
 				<ul class="list-group">
 					<li class="list-group-item"><a href="https://bowenislandmuseum.ca/millers-landing/" target="_blank" >- Best Attractions in Miller's Landing, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://foodpages.ca/BC/Miller39slanding" target="_blank" >- Best Places to Eat in Miller's Landing, British Columbia</a></li>
+					<li class="list-group-item">-Best Places to Eat in Miller's Landing, British Columbia</li>
 					<li class="list-group-item"><a href="https://bowenislandmuseum.ca/millers-landing" target="_blank" >- Best Places to Go Shopping in Miller's Landing, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://moovitapp.com/index/en/public_transit-David_Road-Greater_Vancouver_BC-site_59043971-145" target="_blank" >- Public Transportation Options in Miller's Landing, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.airbnb.ca/millers-landing-canada/stays" target="_blank" >- Best Places to Stay in Miller's Landing, British Columbia</a></li>

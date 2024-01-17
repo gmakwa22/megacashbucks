@@ -47,7 +47,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1576717-Blind_Bay_British_Columbia.html" target="_blank" >- Best Places to Eat in Blind Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Blind+Bay%2C+BC+V0E+2W2" target="_blank" >- Best Places to Go Shopping in Blind Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/shuswap/schedules-and-maps/route-overview?route=13" target="_blank" >- Public Transportation Options in Blind Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://ca.hotels.com/de1699502/blind-bay-british-columbia-hotels-rooms/" target="_blank" >- Best Places to Stay in Blind Bay, British Columbia</a></li>
+					<li class="list-group-item">>- Best Places to Stay in Blind Bay, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/british-columbia/columbia-shuswap/blind-bay/" target="_blank" >- Best Things to do with the Kids in Blind Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://globalnews.ca/tag/blind-bay/" target="_blank" >- Local News for Blind Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/british-columbia/blind-bay" target="_blank" >- Weather in Blind Bay, British Columbia</a></li>

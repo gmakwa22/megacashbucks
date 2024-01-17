@@ -52,7 +52,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g676258-Activities-Thornbury_Blue_Mountains_Grey_County_Ontario.html" target="_blank" >- Best Attractions in Thornbury, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g676258-Thornbury_Blue_Mountains_Grey_County_Ontario.html" target="_blank" >- Best Places to Eat in Thornbury, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g676258-Activities-c26-Thornbury_Blue_Mountains_Grey_County_Ontario.html" target="_blank" >- Best Places to Go Shopping in Thornbury, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Thornbury-ON-Canada" target="_blank" >- Public Transportation Options in Thornbury, Ontario</a></li>
+					<li class="list-group-item">- Public Transportation Options in Thornbury, Ontario</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/thornbury.html" target="_blank" >- Best Places to Stay in Thornbury, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/grey/thornbury/" target="_blank" >- Best Things to do with the Kids in Thornbury, Ontario</a></li>
 					<li class="list-group-item"><a href="https://blackburnnews.com/tag/thornbury/" target="_blank" >- Local News for Thornbury, Ontario</a></li>

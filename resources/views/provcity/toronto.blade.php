@@ -41,7 +41,7 @@
 			<ul class="list-group">
 				<li class="list-group-item"><a href="https://www.toronto.ca/" target="_blank" rel="noopener">- City of Toronto, ON</a></li>
 				<li class="list-group-item"><a href="https://www.torontopubliclibrary.ca/" target="_blank" rel="noopener">- Libraries in Toronto, ON</a></li>
-				<li class="list-group-item"><a href="http://www.ttc.ca/Routes/index.jsp" target="_blank" rel="noopener">- Public Transit, Toronto, ON</a></li>
+				<li class="list-group-item"><a href="http://www.ttc.ca/" target="_blank" rel="noopener">- Public Transit, Toronto, ON</a></li>
 				<li class="list-group-item"><a href="https://www.ripleyaquariums.com/canada/contact/" target="_blank" rel="noopener">- Top family activity, Toronto, ON</a></li>
 				<li class="list-group-item"><a href="https://www.tripadvisor.in/Restaurants-g155019-c10646-zfn8150902-Toronto_Ontario.html" target="_blank" rel="noopener">- Best fast food in Toronto, ON</a></li>
 				<li class="list-group-item"><a href="https://toronto.ctvnews.ca/" target="_blank" rel="noopener">- News in Toronto, ON</a></li>

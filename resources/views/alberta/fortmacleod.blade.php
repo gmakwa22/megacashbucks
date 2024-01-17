@@ -46,7 +46,7 @@
 				<ul class="list-group">
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182207-Activities-Fort_Macleod_Alberta.html" target="_blank"   >- Best Attractions in Fort Macleod, Alberta</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182207-Fort_Macleod_Alberta.html" target="_blank"   >- Best Places to Eat in Fort Macleod, Alberta</a></li>
-					<li class="list-group-item"><a href="https://fortmacleod.com/live-here/directory/" target="_blank"   >- Best Places to Go Shopping in Fort Macleod, Alberta</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Fort Macleod, Alberta</li>
 					<li class="list-group-item"><a href="http://www.usbusstation.com/alberta/AB/fort_macleod_bus_routes.htm" target="_blank"   >- Public Transportation Options in Fort Macleod, Alberta</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g182207-Fort_Macleod_Alberta-Hotels.html" target="_blank"   >- Best Places to Stay in Fort Macleod, Alberta</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182207-Activities-zft11306-Fort_Macleod_Alberta.html" target="_blank"   >- Best Things to do with the Kids in Fort Macleod, Alberta</a></li>
