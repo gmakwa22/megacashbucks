@@ -59,7 +59,7 @@ class HomeController extends Controller
        setpurlads();
          $data = ["bannerbg" => "states/cali.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "California", "headpg" => "CALIFORNIA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
          SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online California');
-          SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by transfer all over Canada. Payday Loans BC');
+          SEOMeta::setDescription('financial hub specializing in low-cost, rapid online payday loans in Vancouver, BC, and swift cash advances with flexible repayment plans. Applying is effortless, and approval is instantaneous! Transfer money conveniently all over Canada');
 
          return view('/usa/california', $data);
      }
@@ -68,7 +68,7 @@ class HomeController extends Controller
        setpurlads();
          $data = ["bannerbg" => "states/illinois.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "Illinois", "headpg" => "ILLINOIS'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Illinois, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
          SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Illinois');
-          SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
+          SEOMeta::setDescription('Financial institution offering affordable online payday loans in Vancouver, BC, and fast cash advances with multiple repayment options. The application process is simple, and approval is instant! Enjoy money transfers across Canada.');
 
          return view('/usa/illinois', $data);
      }
@@ -77,7 +77,7 @@ class HomeController extends Controller
        setpurlads();
          $data = ["bannerbg" => "states/ohio.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "Ohio", "headpg" => "OHIO'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
          SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Ohio');
-          SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
+          SEOMeta::setDescription('Mega Cash Bucks  is your go-to financial partner for low-cost online payday loans in Vancouver, BC, and quick cash advances with easy repayment plans. Applying is a breeze, and approval is immediate! Receive funds through convenient transfers all over Canada');
 
          return view('/usa/ohio', $data);
      }
@@ -86,7 +86,7 @@ class HomeController extends Controller
        setpurlads();
          $data = ["bannerbg" => "states/georgia.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "Georgia", "headpg" => "GEORGIA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
          SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Georgia');
-          SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
+          SEOMeta::setDescription('Mega Cash Bucks is a trusted financial service provider offering affordable online payday loans in Vancouver, BC, and rapid cash advances with flexible repayment schedules. The application process is straightforward, and approval is swift! Get your money via transfers available across Canada');
 
          return view('/usa/georgia', $data);
      }
@@ -95,7 +95,7 @@ class HomeController extends Controller
        setpurlads();
          $data = ["bannerbg" => "provinces/vancouver.jpg", "licpr" => "bc", "headsub" => "The funds you need when you need them. USA", "spprov" => "North Carolina", "headpg" => "NORTH CAROLINA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
          SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online North Carolina');
-          SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
+          SEOMeta::setDescription('Mega Cash Bucks  is a financial institution providing low-cost online payday loans in Vancouver, BC, and fast cash advances with multiple repayment options. Applying is easy, and approval is instant! Transfer money conveniently all over Canada.');
 
          return view('/usa/north-carolina', $data);
      }
@@ -104,7 +104,7 @@ class HomeController extends Controller
        setpurlads();
          $data = ["bannerbg" => "states/michigan.jpg", "licpr" => "bc", "spprov" => "Michigan", "headsub" => "The funds you need when you need them. USA",  "headpg" => "MICHIGAN'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WATCH OUT FOR FRAUD Best things about VANCOUVER'S BEST PAYDAY LOAN OPTION The Best PayDay Loan in Vancouver Best things about living in Vancouver, BC in Vancouver, Surrey, Victoria, Kelowna, Abbotsford, Burnaby, White Rock, Nanaimo, Kamloops, Chilliwack, Prince George, Vernon, Courtenay, Campbell River, Penticton, Mission, Parksville, Duncan, Ladner, Tsawwassen, Port Alberni, Fort St. John, Cranbrook, Squamish, Terrace, Salmon Arm, Trail-Fruitvale, Powell River, Quesnel, Aldergrove, Prince Rupert, Dawson Creek, Nelson, Ladysmith"];
          SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Michigan');
-          SEOMeta::setDescription('Financial institution providing low cost quick online payday loans Vancouver BC and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada. Payday Loans BC');
+          SEOMeta::setDescription('Mega Cash Bucks  is your trusted source for affordable online payday loans in Vancouver, BC, and quick cash advances with easy repayment options. The application process is simple, and approval is immediate! Experience swift money transfers available nationwide.');
 
          return view('/usa/michigan', $data);
      }
@@ -173,7 +173,7 @@ setpurlads();
         // $data = ["bannerbg" => "home-payday-loans.jpg", "licpr" => "bc"];
         $data = ["bannerbg" => "/land/$monthday.jpg", "headsub" => "The funds you need when you need them.", "headalign" => "text-right", "headsub" => "The funds you need when you need them.", "licpopwarning" => "megacashbucks", "martop" => "31", "headtxtsize" => "4",  "headtxtcolor" => "white", "headalt" => "Fast and secure hassle-free loans Alberta British Columbia Manitoba New Brunswick Newfoundland and Labrador Northwest Territories Nova Scotia Nunavut."];
         SEOMeta::setTitle('Wise Payday Loans Online in Canada | Mega Cash Bucks');
-        SEOMeta::setDescription('Mega Cash Bucks is a financial institution providing low cost quick online payday loans and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada.');
+        SEOMeta::setDescription('Mega Cash Bucks is  is a financial institution specializing in providing low-cost online payday loans and speedy cash advances with easy repayment options. Applying is a snap, and approval is instant! Receive funds via e-transfer across all regions of Canada.');
         SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
         return view('welcomehome', $data);
     }
@@ -207,7 +207,7 @@ setpurlads();
 
          $data = ["bannerbg" => "/land/26.jpg", "licpr" => "ab", "spprov" => "Alberta", "headpg" => "ALBERTA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "martop" => "30", "land" => $key, "headalt" => "ALBERTA'S BEST PAYDAY LOAN OPTION Some other Alberta cities where we provide loans WHAT'S THE BEST LOAN FOR YOU? Helpful information about Alberta, Canada $today $b"];
          SEOMeta::setTitle('Wise Payday Loans Online in Canada | Mega Cash Bucks');
-         SEOMeta::setDescription('Mega Cash Bucks is a financial institution providing low cost quick online payday loans and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada.');
+         SEOMeta::setDescription('Mega Cash Bucks is a financial service provider offering cost-effective online payday loans and fast cash advances with flexible repayment schedules. The application is hassle-free, and approval is swift! Get your money via e-transfer, available throughout Canada.');
          SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
          return view('landing', $data);
      }
@@ -270,6 +270,7 @@ public function brc()
         setpurlads();
         $data = ["bannerbg" => "provinces/british-columbia.jpg", "licpr" => "bc", "spprov" => "British Columbia", "headpg" => "BRITISH COLUMBIA'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "BRITISH COLUMBIA'S BEST PAYDAY LOAN OPTION The Payday Loan British Columbians Need Some British Columbia cities UNDERSTAND YOUR FEE OBLIGATIONS OPT FOR TRANSPARENCY British Columbia, Canada"];
         SEOMeta::setTitle('British Columbia Cities | Safe Trusted Licensed Lender');
+        SEOMeta::setDescription('Obtain swift financial assistance with our online payday loans in British Columbia. We provide fast and quick money to individuals in need. Simply register and apply for a quick loan to receive instant approval, addressing your urgent financial requirements promptly.');
         return view('bccities', $data);
     }
 
@@ -362,7 +363,7 @@ SEOMeta::addKeyword('Online cash loans in Thompson, Manitoba, money, cash, cash 
     setpurlads();
      $data = ["bannerbg" => "a-prov/brandon.jpg", "licpr" => "mb", "spprov" => "Brandon", "headpg" => "BRANDON'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "payday loans Brandon"];
      SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Brandon MB');
-     SEOMeta::setDescription ('A safe and trusted best lender loans canada direct lender conforming to all Provincial rules and regulations pertaining to our regulatory environment.');
+     SEOMeta::setDescription ('We are your reliable partner in financial solutions. As a direct lender, we strictly conform to all Provincial rules and regulations in Canada, ensuring a secure and compliant platform for your borrowing needs.');
      SEOMeta::addKeyword('payday loans Brandon manitoba, payday loans Brandon manitoba, payday loans Brandon manitoba, payday loans manitoba no credit check');
      return view('payday-loans-brandon', $data);
   }
@@ -460,7 +461,7 @@ SEOMeta::addKeyword('Online cash loans in Thompson, Manitoba, money, cash, cash 
     setpurlads();
      $data = ["bannerbg" => "provinces/windsor.jpg", "licpr" => "on", "spprov" => "Windsor", "headpg" => "WINDSOR'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "WINDSOR'S BEST PAYDAY LOAN OPTION. We know that things happen in life and sometimes you need extra money for unexpected expenses"];
      SEOMeta::setTitle('Need Instant Payday Loans Online in London, ON');
-SEOMeta::setDescription ('A safe and trusted best lender loans canada direct lender conforming to all Provincial rules and regulations pertaining to our regulatory environment.');
+SEOMeta::setDescription ('Your financial security is our responsibility. Operating as a direct lender, we comply with all Provincial rules and regulations in Canada, establishing ourselves as a safe and trusted lending solution.');
      SEOMeta::addKeyword('Online cash loans london_ontario, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, Ontario,Windsor, on, On');
      return view('payday-loans-windsor', $data);
   }
@@ -488,7 +489,7 @@ SEOMeta::setDescription ('A safe and trusted best lender loans canada direct len
   {
     setpurlads();
      $data = ["bannerbg" => "a-prov/saskatoon.jpg", "licpr" => "on", "spprov" => "Saskatoon", "headpg" => "SASKATOON'S BEST PAYDAY LOAN OPTION", "headtxtcolor" => "white", "headalt" => "SASKATOON'S BEST PAYDAY LOAN OPTION We know that things happen in life and sometimes you need extra money for unexpected expenses."];
-     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Saskatoon, SK? Mega Cash Bucks is a Safe Trusted Licensed Lender with Easy Applications, Multiple repayments and 5 Minutes‎‎ e-Transfers.');
+     SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Saskatoon, SK');
      SEOMeta::setDescription('Saskatoon Payday Loans 24/7. ✔ 5 Minute Approval ✔ No FAX ✔ Bad Credit OK ✔ Interac ✔ Instant Response. SK');
      SEOMeta::addKeyword('loans Saskatoon, bad credit loans Saskatoon, cash loans Saskatoon, instant payday loans Saskatoon, online loans Saskatoon, quick loans Saskatoon, quick loans in Saskatoon, loan companies Saskatoon, cash advance Saskatoon, cash advance loans Saskatoon, cash advance Saskatoon, cash for you now Saskatoon, cash king Saskatoon, cash money Saskatoon cash shop Saskatoon, cash store Saskatoon, direct cash Saskatoon, ez loan Saskatoon, fast cash loans Saskatoon, money loans Saskatoon, money mart Saskatoon, money Saskatoon payday loans Saskatoon, SK');
      return view('payday-loans-saskatoon', $data);
@@ -785,7 +786,7 @@ SEOMeta::setTitle('Mega Cash Bucks | Cash Money');
         // $data = ["bannerbg" => "home-payday-loans.jpg", "licpr" => "bc"];
         $data = ["bannerbg" => "images/odsp-payday-loans-online.png", "headalign" => "text-right", "licpopwarning" => "6hfinancial", "martop" => "40",  "headtxtcolor" => "white"];
         SEOMeta::setTitle('Mega Cash Bucks | Wise Payday Loans Online in Canada');
-        SEOMeta::setDescription('Mega Cash Bucks is a financial institution providing low cost quick online payday loans and fast cash advances in multiple repayments. Easy to apply and instant approval!');
+        SEOMeta::setDescription('Mega Cash Bucks  is a financial institution offering low-cost, speedy online payday loans and fast cash advances with flexible repayment plans. The application process is straightforward, and approval is instant');
         SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, fast cash, cash loans, quick cash, Wise loans, payday, financial, cash lenders, online cash loan, loans, Wise loan, cash loan, payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance');
         return view('welcomehome', $data);
     }
@@ -795,7 +796,7 @@ SEOMeta::setTitle('Mega Cash Bucks | Cash Money');
         // $data = ["bannerbg" => "home-payday-loans.jpg", "licpr" => "bc"];
         $data = ["bannerbg" => "receiving-money-quickly.jpg", "headalign" => "text-left", "headphonehide" => "hide", "headpg" => "MONEY, WHEN YOU NEED IT MOST", "headsub" => "Put your mind at ease when unexpected expenses arise.", "martop" => "30", "headalt" => "THE SHORT TERM HASSLE-FREE LOAN The funds you need when you need them and Apply immediately and know immediately receive any time cash loans with transfer money worldwide in just 5 minutes."];
         SEOMeta::setTitle('Mega Cash Bucks | How we deliver loans to our customers');
-        SEOMeta::setDescription('Mega Cash Bucks is a financial institution providing low cost quick online payday loans and fast cash advances in multiple repayments. Easy to apply and instant approval!');
+        SEOMeta::setDescription('Mega Cash Bucks is a financial service provider specializing in low-cost online payday loans and quick cash advances with multiple repayment options. Applying is easy, and approval is instant!');
         SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, fast cash, cash loans, quick cash, Wise loans, payday, financial, cash lenders, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance');
         return view('howitsdone', $data);
     }
@@ -804,7 +805,7 @@ SEOMeta::setTitle('Mega Cash Bucks | Cash Money');
         setpurlads();
         $data = ["bannerbg" => "why-choose-us.jpg", "headalign" => "text-right", "headpg" => "THE SHORT TERM HASSLE-FREE LOAN", "headsub" => "The funds you need when you need them.", "headalt" => "THE SHORT TERM HASSLE-FREE LOAN The funds you need when you need them and Apply immediately and know immediately receive any time cash loans with transfer money worldwide in just 5 minutes."];
         SEOMeta::setTitle('Mega Cash Bucks | Why Choose Us For a Payday Loan');
-        SEOMeta::setDescription('Why Choose Us? Mega Cash Bucks is a financial institution providing low cost quick online payday loans and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by transfer worldwide.');
+        SEOMeta::setDescription('Why Choose Us? Mega Cash Bucks is is a financial institution dedicated to providing low-cost, quick online payday loans and fast cash advances with convenient multiple repayment options. The application is user-friendly, and approval is instantaneous!');
         SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, fast cash, cash loans, quick cash, Wise loans, payday, financial, cash lenders, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance');
         return view('why_choose_us', $data);
     }
@@ -822,7 +823,7 @@ SEOMeta::setTitle('Mega Cash Bucks | Cash Money');
     {
       setpurlads();
       SEOMeta::setTitle('Mega Cash Bucks | Wise Payday Loans Online in Canada');
-      SEOMeta::setDescription('Mega Cash Bucks is a financial institution providing low cost quick online payday loans and fast cash advances in multiple repayments. Easy to apply and instant approval! Money by e-transfer all over Canada.');
+      SEOMeta::setDescription('Mega Cash Bucks is your go-to financial partner for affordable online payday loans and rapid cash advances with flexible repayment plans. The application process is hassle-free, and approval is instant!');
       SEOMeta::addKeyword('Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
         return view('agent-list');
     }
@@ -862,7 +863,7 @@ SEOMeta::setTitle('Mega Cash Bucks | Cash Money');
     {
       setpurlads();
         SEOMeta::setTitle('Mega Cash Bucks | Best Lender Loans Canada');
-        SEOMeta::setDescription('A safe and trusted best lender loans canada direct lender conforms to all rules and regulations pertaining to our regulatory environment.');
+        SEOMeta::setDescription('We build trust through adherence to high standards. As a direct lender, we comply with all Provincial rules and regulations in Canada, ensuring your financial security and satisfaction.');
         SEOMeta::addKeyword('what is the best lender for home loans, best lending companies for home loans, best lender for debt consolidation loan, best payday loans direct lender, 2019 best business loan lender, best bad credit auto loan lender reviews, best bad credit loans direct lender, best crypto currency lending loans, best direct lender loans, best installment loans direct lender, best lender for bad credit loan canada, best lender for new business loans, best lender for new business loans canada, best money lender in singapore for business loan, best online personal loan lender, best payday loan lender for bad credit, best payday loans direct lender uk, best payday loans uk direct lender, best peer to peer lending personal loans, best personal loans lending club, best student loan lending, what is the best private student loan lender, which private student loan lender is best
 ');
    return view('best-lender-loans-canada');

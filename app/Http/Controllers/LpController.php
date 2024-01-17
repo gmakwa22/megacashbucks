@@ -58,7 +58,7 @@ class LpController extends Controller
 
      
   public function instantcashloan() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Cash Loan</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this instant cash loan Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
+   $txtlp = '<h2>Instant Cash Loan</h2><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this instant cash loan Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Instant Cash Loan", "headtxtcolor" => "white", "headalt" => "Instant Cash Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Cash Loan');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this instant cash loan Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -67,7 +67,7 @@ class LpController extends Controller
             }
             
   public function getapersonalloan() { $track = $this->tracker();
-   $txtlp = '<h1>Get A Personal Loan</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadian residents to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Get A Personal Loan</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadian residents to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Get A Personal Loan", "headtxtcolor" => "white", "headalt" => "Get A Personal Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get A Personal Loan');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadian residents to apply, get approved, and receive their funds, all in the same day.');
@@ -75,7 +75,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easycashcanada() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Cash Canada</h1><p>We offer you an Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Easy Cash Canada</h2><p>We offer you an Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Easy Cash Canada", "headtxtcolor" => "white", "headalt" => "Easy Cash Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Cash Canada');
     SEOMeta::setDescription('We offer you an Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -83,7 +83,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function aloan() { $track = $this->tracker();
-  $txtlp = '<h1>A Loan</h1><p>If you’re looking for a Payday Loans, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+  $txtlp = '<h2>A Loan</h2><p>If you’re looking for a Payday Loans, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
   $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "A Loan", "headtxtcolor" => "white", "headalt" => "A Loan", "land" => "1", "lptxt" => $txtlp];
   SEOMeta::setTitle('A Loan');
   SEOMeta::setDescription('If you’re looking for a Payday Loans, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -91,7 +91,7 @@ class LpController extends Controller
     return view('lp.lptemplate', $data);
             }
   public function nocreditcheckloan() { $track = $this->tracker();
-   $txtlp = '<h1>No Credit Check Loan</h1><p>Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in 1,2 or 3 installments.</p>';
+   $txtlp = '<h2>No Credit Check Loan</h2><p>Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in 1,2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/5.jpg", "martop" => "30", "headpg" => "No Credit Check Loan", "headtxtcolor" => "white", "headalt" => "No Credit Check Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('No Credit Check Loan');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in 1,2 or 3 installments.');
@@ -99,7 +99,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function onlinelending() { $track = $this->tracker();
-   $txtlp = '<h1>Online Lending</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Online Lending</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Online Lending", "headtxtcolor" => "white", "headalt" => "Online Lending", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Online Lending');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -107,7 +107,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Loans Online</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Quick Loans Online</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Quick Loans Online", "headtxtcolor" => "white", "headalt" => "Quick Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Loans Online');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -115,7 +115,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Bad Credit</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Bad Credit</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Payday Loans Bad Credit", "headtxtcolor" => "white", "headalt" => "Payday Loans Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Bad Credit');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -123,7 +123,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function badcreditlenders() { $track = $this->tracker();
-   $txtlp = '<h1>Bad Credit Lenders</h1><p>Canadian residents are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
+   $txtlp = '<h2>Bad Credit Lenders</h2><p>Canadian residents are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Bad Credit Lenders", "headtxtcolor" => "white", "headalt" => "Bad Credit Lenders", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Bad Credit Lenders');
     SEOMeta::setDescription('Canadian residents are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.');
@@ -131,7 +131,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function nocreditcheckpaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>No Credit Check Payday Loans</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>No Credit Check Payday Loans</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "No Credit Check Payday Loans", "headtxtcolor" => "white", "headalt" => "No Credit Check Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('No Credit Check Payday Loans');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -139,7 +139,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantpersonalloan() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Personal Loan</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Instant Personal Loan</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Instant Personal Loan", "headtxtcolor" => "white", "headalt" => "Instant Personal Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Personal Loan');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -147,7 +147,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Advance</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Advance</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Payday Advance", "headtxtcolor" => "white", "headalt" => "Payday Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Advance');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -155,7 +155,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansalberta() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Alberta</h1><p>Look forward to more great Payday Loans in Alberta opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Alberta</h2><p>Look forward to more great Payday Loans in Alberta opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "Payday Loans Alberta", "headtxtcolor" => "white", "headalt" => "Payday Loans Alberta", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Alberta');
     SEOMeta::setDescription('Look forward to more great Payday Loans in Alberta opportunities as we work to make your financial life easier and happier.');
@@ -163,7 +163,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanwithoutcreditcheck() { $track = $this->tracker();
-   $txtlp = '<h1>Loan Without Credit Check</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Loan Without Credit Check</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Loan Without Credit Check", "headtxtcolor" => "white", "headalt" => "Loan Without Credit Check", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loan Without Credit Check');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -171,7 +171,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easypersonalloans() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Personal Loans</h1><p>Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Easy Personal Loans</h2><p>Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Easy Personal Loans", "headtxtcolor" => "white", "headalt" => "Easy Personal Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Personal Loans');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -179,7 +179,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Loans</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>Cash Loans</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Cash Loans", "headtxtcolor" => "white", "headalt" => "Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Loans');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.');
@@ -187,7 +187,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashloanstoday() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Loans Today</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Cash Loans Today</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Cash Loans Today", "headtxtcolor" => "white", "headalt" => "Cash Loans Today", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Loans Today');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -195,7 +195,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function aloans() { $track = $this->tracker();
-   $txtlp = '<h1>A Loans</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>A Loans</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "A Loans", "headtxtcolor" => "white", "headalt" => "A Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('A Loans');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -203,7 +203,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantcashadvanceonline() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Cash Advance Online</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Instant Cash Advance Online</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Instant Cash Advance Online", "headtxtcolor" => "white", "headalt" => "Instant Cash Advance Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Cash Advance Online');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -211,7 +211,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Loans Online</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Cash Loans Online</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Cash Loans Online", "headtxtcolor" => "white", "headalt" => "Cash Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Loans Online');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -219,7 +219,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function unemployedloans() { $track = $this->tracker();
-   $txtlp = '<h1>Unemployed Loans</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Unemployed Loans</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Unemployed Loans", "headtxtcolor" => "white", "headalt" => "Unemployed Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Unemployed Loans');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -227,7 +227,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydaylenders() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Lenders</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Lenders</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Payday Lenders", "headtxtcolor" => "white", "headalt" => "Payday Lenders", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Lenders');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -235,7 +235,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansbarrieontario() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Barrie Ontario</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans Barrie Ontario</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Payday Loans Barrie Ontario", "headtxtcolor" => "white", "headalt" => "Payday Loans Barrie Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Barrie Ontario');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -243,7 +243,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personalloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Loans Online</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Personal Loans Online</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Personal Loans Online", "headtxtcolor" => "white", "headalt" => "Personal Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Loans Online');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -251,7 +251,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function samedaycashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Same Day Cash Loans</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Same Day Cash Loans</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Same Day Cash Loans", "headtxtcolor" => "white", "headalt" => "Same Day Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Same Day Cash Loans');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -259,7 +259,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickcashadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Cash Advance</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Quick Cash Advance</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Quick Cash Advance", "headtxtcolor" => "white", "headalt" => "Quick Cash Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Cash Advance');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -267,7 +267,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function poorcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Poor Credit</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Poor Credit</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Poor Credit", "headtxtcolor" => "white", "headalt" => "Poor Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Poor Credit');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -275,7 +275,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanplacesinedmonton() { $track = $this->tracker();
-   $txtlp = '<h1>Loan Places in Edmonton</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Loan Places in Edmonton</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Loan Places in Edmonton", "headtxtcolor" => "white", "headalt" => "Loan Places in Edmonton", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loan Places in Edmonton');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -283,7 +283,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanslondonontario() { $track = $this->tracker();
-   $txtlp = '<h1>Loans London Ontario</h1><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Loans London Ontario</h2><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Loans London Ontario", "headtxtcolor" => "white", "headalt" => "Loans London Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loans London Ontario');
     SEOMeta::setDescription('If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -291,7 +291,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashcanadaloans() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Canada Loans</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Cash Canada Loans</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Cash Canada Loans", "headtxtcolor" => "white", "headalt" => "Cash Canada Loanss", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Canada Loans');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -299,7 +299,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function helpwithrent() { $track = $this->tracker();
-   $txtlp = '<h1>Help With Rent</h1><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Help With Rent</h2><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Help With Rent", "headtxtcolor" => "white", "headalt" => "Help With Rent", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Help With Rent');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -307,7 +307,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanskingston() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Kingston</h1><p>We know that things happen in life and sometimes you need Payday Loans in Kingston for unexpected expenses.</p>';
+   $txtlp = '<h2>Payday Loans Kingston</h2><p>We know that things happen in life and sometimes you need Payday Loans in Kingston for unexpected expenses.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Payday Loans Kingston", "headtxtcolor" => "white", "headalt" => "Payday Loans Kingston", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Kingston');
     SEOMeta::setDescription('We know that things happen in life and sometimes you need Payday Loans in Kingston for unexpected expenses.');
@@ -315,7 +315,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashadvancepaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Advance Payday Loans</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
+   $txtlp = '<h2>Cash Advance Payday Loans</h2><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Cash Advance Payday Loans", "headtxtcolor" => "white", "headalt" => "Cash Advance Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Advance Payday Loans');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -323,7 +323,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantloan() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Loan</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Instant Loan</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Instant Loan", "headtxtcolor" => "white", "headalt" => "Instant Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Loan');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.');
@@ -331,7 +331,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easycashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Cash Loans</h1><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Easy Cash Loans</h2><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Easy Cash Loans", "headtxtcolor" => "white", "headalt" => "Easy Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Cash Loans');
     SEOMeta::setDescription('We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -339,7 +339,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function shorttermloansnocreditcheck() { $track = $this->tracker();
-   $txtlp = '<h1>Short Term Loans No Credit Check</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Short Term Loans No Credit Check</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Short Term Loans No Credit Check", "headtxtcolor" => "white", "headalt" => "Short Term Loans No Credit Check", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Short Term Loans No Credit Check');
     SEOMeta::setDescription('If you’re looking for a short yerm loans no credit check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -347,7 +347,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function kingpaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>King Payday Loans</h1><p>moretexthere</p>';
+   $txtlp = '<h2>King Payday Loans</h2><p>moretexthere</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "King Payday Loans", "headtxtcolor" => "white", "headalt" => "King Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('King Payday Loans');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. In fact, two of them! We have a King Payday Loans. This is one you can pay back in a 1, 2, or 3 installments.');
@@ -355,7 +355,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loansloans() { $track = $this->tracker();
-   $txtlp = '<h1>Loansloans</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Loansloans</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Loansloans", "headtxtcolor" => "white", "headalt" => "Loansloans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loansloans');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -363,7 +363,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personalloanonlineapply() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Loan Online Apply</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Personal Loan Online Apply</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Personal Loan Online Apply", "headtxtcolor" => "white", "headalt" => "Personal Loan Online Apply", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Loan Online Apply');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -371,7 +371,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easycashadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Cash Advance</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Easy Cash Advance</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "Easy Cash Advance", "headtxtcolor" => "white", "headalt" => "Easy Cash Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Cash Advance');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -379,7 +379,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastcashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Cash Loans</h1><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.s</p>';
+   $txtlp = '<h2>Fast Cash Loans</h2><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.s</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Fast Cash Loans", "headtxtcolor" => "white", "headalt" => "Fast Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Cash Loans');
     SEOMeta::setDescription('Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.');
@@ -387,7 +387,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loansand() { $track = $this->tracker();
-   $txtlp = '<h1>Loans And</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Loans And</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Loans And", "headtxtcolor" => "white", "headalt" => "Loans And", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loans And');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -395,7 +395,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickcashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Cash Loans</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Quick Cash Loans</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Quick Cash Loans", "headtxtcolor" => "white", "headalt" => "Quick Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Cash Loans');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -403,7 +403,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashadvanceloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Advance Loans Online</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cash Advance Loans Online</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Cash Advance Loans Online", "headtxtcolor" => "white", "headalt" => "Cash Advance Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Advance Loans Online');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -411,7 +411,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansstratford() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Stratford</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Stratford</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "Payday Loans Stratford", "headtxtcolor" => "white", "headalt" => "Payday Loans Stratford", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Stratford');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -419,7 +419,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function daypayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Day Pay Loans</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Day Pay Loans</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Day Pay Loans", "headtxtcolor" => "white", "headalt" => "Day Pay Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Day Pay Loans');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -427,7 +427,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastcashadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Cash Advance</h1><p>Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Fast Cash Advance</h2><p>Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Fast Cash Advance", "headtxtcolor" => "white", "headalt" => "Fast Cash Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Cash Advance');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. In fact, two of them! We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -435,7 +435,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personalloansonlineapproval() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Loans Online Approval</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>Personal Loans Online Approval</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Personal Loans Online Approval", "headtxtcolor" => "white", "headalt" => "Personal Loans Online Approval", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Loans Online Approval');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.');
@@ -443,7 +443,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function xtracash() { $track = $this->tracker();
-   $txtlp = '<h1>Xtra Cash</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Xtra Cash</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Xtra Cash", "headtxtcolor" => "white", "headalt" => "Xtra Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Xtra Cash');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -451,7 +451,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneyforcash() { $track = $this->tracker();
-   $txtlp = '<h1>Money For Cash</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Money For Cash</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Money For Cash", "headtxtcolor" => "white", "headalt" => "Money For Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money For Cash');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -459,7 +459,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function checkforcash() { $track = $this->tracker();
-   $txtlp = '<h1>Check For Cash</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Check For Cash</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Check For Cash", "headtxtcolor" => "white", "headalt" => "Check For Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Check For Cash');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -467,7 +467,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easytogetpaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Easy To Get Payday Loans</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Easy To Get Payday Loans</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Easy To Get Payday Loans", "headtxtcolor" => "white", "headalt" => "Easy To Get Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy To Get Payday Loans');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -475,7 +475,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashloansbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Loans Bad Credit</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cash Loans Bad Credit</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Cash Loans Bad Credit", "headtxtcolor" => "white", "headalt" => "Cash Loans Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Loans Bad Credit');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -483,7 +483,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydaycashadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Cash Advance</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Cash Advance</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Payday Cash Advance", "headtxtcolor" => "white", "headalt" => "Payday Cash Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Cash Advance');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -491,7 +491,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickpaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Payday Loans</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Quick Payday Loans</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Quick Payday Loans", "headtxtcolor" => "white", "headalt" => "Quick Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Payday Loans');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -499,7 +499,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanstorontoontario() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Toronto Ontario</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Toronto Ontario</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Payday Loans Toronto Ontario", "headtxtcolor" => "white", "headalt" => "Payday Loans Toronto Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Toronto Ontario');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -507,7 +507,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashpawn() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Pawn</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Cash Pawn</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Cash Pawn", "headtxtcolor" => "white", "headalt" => "Cash Pawn", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Pawn');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -515,7 +515,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function smallpersonalloans() { $track = $this->tracker();
-   $txtlp = '<h1>Small Personal Loans</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Small Personal Loans</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Small Personal Loans", "headtxtcolor" => "white", "headalt" => "Small Personal Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Small Personal Loans');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -523,7 +523,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function icash() { $track = $this->tracker();
-   $txtlp = '<h1>ICash</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>ICash</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "ICash", "headtxtcolor" => "white", "headalt" => "ICash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('ICash');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for, and receive their funds quickly and easily.');
@@ -531,7 +531,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashloans24() { $track = $this->tracker();
-   $txtlp = '<h1>24 Cash Loans</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>24 Cash Loans</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "24 Cash Loans", "headtxtcolor" => "white", "headalt" => "24 Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('24 Cash Loans');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -539,7 +539,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function getcash() { $track = $this->tracker();
-   $txtlp = '<h1>Get Cash</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Get Cash</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Get Cash", "headtxtcolor" => "white", "headalt" => "Get Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get Cash');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -547,7 +547,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantloans() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Loans</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Instant Loans</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Instant Loans", "headtxtcolor" => "white", "headalt" => "Instant Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Loans');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -555,7 +555,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloan() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loan</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loan</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Payday Loan", "headtxtcolor" => "white", "headalt" => "Payday Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loan');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -563,7 +563,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneydirect() { $track = $this->tracker();
-   $txtlp = '<h1>Money Direct</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Money Direct</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "Money Direct", "headtxtcolor" => "white", "headalt" => "Money Direct", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Direct');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -571,7 +571,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantcashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Cash Loans</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Instant Cash Loans</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Instant Cash Loans", "headtxtcolor" => "white", "headalt" => "Instant Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Cash Loans');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -579,7 +579,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydaycashadvancenearme() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Cash Advance Near Me</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Cash Advance Near Me</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Payday Cash Advance Near Me", "headtxtcolor" => "white", "headalt" => "Payday Cash Advance Near Me", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Cash Advance Near Me');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -587,7 +587,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function lendingservices() { $track = $this->tracker();
-   $txtlp = '<h1>Lending Services</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Lending Services</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "Lending Services", "headtxtcolor" => "white", "headalt" => "Lending Services", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Lending Services');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -595,7 +595,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanapplications() { $track = $this->tracker();
-   $txtlp = '<h1>Loan Applications</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Loan Applications</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Loan Applications", "headtxtcolor" => "white", "headalt" => "Loan Applications", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loan Applications');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -603,7 +603,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function onlineloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Online Loans Canada</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Online Loans Canada</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Online Loans Canada", "headtxtcolor" => "white", "headalt" => "Online Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Online Loans Canada');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -611,7 +611,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansedmonton() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Edmonton</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Edmonton</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Payday Loans Edmonton", "headtxtcolor" => "white", "headalt" => "Payday Loans Edmonton", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Edmonton');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -619,7 +619,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansoshawaontario() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Oshawa Ontario</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Oshawa Ontario</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Payday Loans Oshawa Ontario", "headtxtcolor" => "white", "headalt" => "Payday Loans Oshawa Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Oshawa Ontario');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -627,7 +627,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanplaces() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loan Place</h1><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loan Place</h2><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "Payday Loan Place", "headtxtcolor" => "white", "headalt" => "Payday Loan Place", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loan Place');
     SEOMeta::setDescription('If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -635,7 +635,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantemergencyloan() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Emergency Loan</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Instant Emergency Loan</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Instant Emergency Loan", "headtxtcolor" => "white", "headalt" => "Instant Emergency Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Emergency Loan');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -643,7 +643,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansbc() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans BC</h1><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans BC</h2><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Payday Loans BC", "headtxtcolor" => "white", "headalt" => "Payday Loans BC", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans BC');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -651,7 +651,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneyfast() { $track = $this->tracker();
-   $txtlp = '<h1>Money Fast</h1><p>We know that things happen in life and sometimes you need money fast for unexpected expenses.</p>';
+   $txtlp = '<h2>Money Fast</h2><p>We know that things happen in life and sometimes you need money fast for unexpected expenses.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Money Fast", "headtxtcolor" => "white", "headalt" => "Money Fast", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Fast');
     SEOMeta::setDescription('We know that things happen in life and sometimes you need money fast for unexpected expenses.');
@@ -659,7 +659,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function instantpaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Instant Payday Loans</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
+   $txtlp = '<h2>Instant Payday Loans</h2><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Instant Payday Loans", "headtxtcolor" => "white", "headalt" => "Instant Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Instant Payday Loans');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -667,7 +667,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneyloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Money Loans Canada</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Money Loans Canada</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Money Loans Canada", "headtxtcolor" => "white", "headalt" => "Money Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Loans Canada');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.');
@@ -675,7 +675,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanslondonontario() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans London Ontario</h1><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Payday Loans London Ontario</h2><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Payday Loans London Ontario", "headtxtcolor" => "white", "headalt" => "Payday Loans London Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans London Ontario');
     SEOMeta::setDescription('We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -683,7 +683,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashloansnocreditcheck() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Loans No Credit Check</h1><p>If you’re looking for a Payday Loans, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Cash Loans No Credit Check</h2><p>If you’re looking for a Payday Loans, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Cash Loans No Credit Check", "headtxtcolor" => "white", "headalt" => "Cash Loans No Credit Check", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Loans No Credit Check');
     SEOMeta::setDescription('If you’re looking for a Payday Loans, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -691,7 +691,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function shorttermloansbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Short Term Loans Bad Credit</h1><p>moretexthere</p>';
+   $txtlp = '<h2>Short Term Loans Bad Credit</h2><p>moretexthere</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Short Term Loans Bad Credit", "headtxtcolor" => "white", "headalt" => "Short Term Loans Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Short Term Loans Bad Credit');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.');
@@ -699,7 +699,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Online</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans Online</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Payday Loans Online", "headtxtcolor" => "white", "headalt" => "Payday Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Online');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -707,7 +707,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickshorttermloans() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Short Term Loans</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Quick Short Term Loans</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Quick Short Term Loans", "headtxtcolor" => "white", "headalt" => "Quick Short Term Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Short Term Loans');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -715,7 +715,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashfor() { $track = $this->tracker();
-   $txtlp = '<h1>Cash For</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cash For</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Cash For", "headtxtcolor" => "white", "headalt" => "Cash For", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash For');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -723,7 +723,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanplacesinwinnipeg() { $track = $this->tracker();
-   $txtlp = '<h1>Loan Places In Winnipeg</h1><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan in Winnipeg when life throws the unexpected at them.</p>';
+   $txtlp = '<h2>Loan Places In Winnipeg</h2><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan in Winnipeg when life throws the unexpected at them.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Loan Places In Winnipeg", "headtxtcolor" => "white", "headalt" => "Loan Places In Winnipeg", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loan Places In Winnipeg');
     SEOMeta::setDescription('Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan in Winnipeg when life throws the unexpected at them.');
@@ -731,7 +731,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansmission() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Mission</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Mission</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Payday Loans Mission", "headtxtcolor" => "white", "headalt" => "Payday Loans Mission", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Mission');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -747,7 +747,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function howtogetcashfastwithnojob() { $track = $this->tracker();
-   $txtlp = '<h1>How To Get Cash Fast With No Job</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>How To Get Cash Fast With No Job</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "How To Get Cash Fast With No Job", "headtxtcolor" => "white", "headalt" => "How To Get Cash Fast With No Job", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('How To Get Cash Fast With No Job');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -755,7 +755,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function shorttermloansonlinenocreditcheck() { $track = $this->tracker();
-   $txtlp = '<h1>Short Term Loans Online No Credit Check</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Short Term Loans Online No Credit Check</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Short Term Loans Online No Credit Check", "headtxtcolor" => "white", "headalt" => "Short Term Loans Online No Credit Check", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Short Term Loans Online No Credit Check');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -763,7 +763,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencypersonalloansbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Personal Loans Bad Credit</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Emergency Personal Loans Bad Credit</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Emergency Personal Loans Bad Credit", "headtxtcolor" => "white", "headalt" => "Emergency Personal Loans Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Personal Loans Bad Credit');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -771,7 +771,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickpersonalloans() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Personal Loans</h1><p>Mega Cash Bucks has brought Canadians a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Quick Personal Loans</h2><p>Mega Cash Bucks has brought Canadians a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Quick Personal Loans", "headtxtcolor" => "white", "headalt" => "Quick Personal Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Personal Loans');
     SEOMeta::setDescription('Mega Cash Bucks has brought Canadians a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -779,7 +779,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loansforpeopleondisability() { $track = $this->tracker();
-   $txtlp = '<h1>Loans For People On Disability</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>Loans For People On Disability</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "Loans For People On Disability", "headtxtcolor" => "white", "headalt" => "Loans For People On Disability", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loans For People On Disability');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.');
@@ -787,7 +787,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function samedaycashadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Same Day Cash Advance</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Same Day Cash Advance</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Same Day Cash Advance", "headtxtcolor" => "white", "headalt" => "Same Day Cash Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Same Day Cash Advance');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -795,7 +795,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansvancouver() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Vancouver</h1><p>Our Payday Loans in Vancouver can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Vancouver</h2><p>Our Payday Loans in Vancouver can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Payday Loans Vancouver", "headtxtcolor" => "white", "headalt" => "Payday Loans Vancouver", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Vancouver');
     SEOMeta::setDescription('Our Payday Loans in Vancouver can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -803,7 +803,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function wwwicashca() { $track = $this->tracker();
-   $txtlp = '<h1>www ICash ca</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>www ICash ca</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "www ICash ca", "headtxtcolor" => "white", "headalt" => "www ICash ca", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('www ICash ca');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -811,7 +811,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function onlineloanlenders() { $track = $this->tracker();
-   $txtlp = '<h1>Online Loan Lenders</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Online Loan Lenders</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Online Loan Lenders", "headtxtcolor" => "white", "headalt" => "Online Loan Lenders", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Online Loan Lenders');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -819,7 +819,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashadvanceonlinesameday() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Advance Online Same Day</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Cash Advance Online Same Day</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Cash Advance Online Same Day", "headtxtcolor" => "white", "headalt" => "Cash Advance Online Same Day", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Advance Online Same Day');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -827,7 +827,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanlenders() { $track = $this->tracker();
-   $txtlp = '<h1>Loan Lenders</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Loan Lenders</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Loan Lenders", "headtxtcolor" => "white", "headalt" => "Loan Lenders", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loan Lenders');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -835,7 +835,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function lendingloan() { $track = $this->tracker();
-   $txtlp = '<h1>Lending Loan</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Lending Loan</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Lending Loan", "headtxtcolor" => "white", "headalt" => "Lending Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Lending Loan');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -843,7 +843,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansleamington() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Leamington</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Leamington</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "Payday Loans Leamington", "headtxtcolor" => "white", "headalt" => "Payday Loans Leamington", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Leamington');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -851,7 +851,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function shorttermpersonalloansforbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Short Term Personal Loans For Bad Credit</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Short Term Personal Loans For Bad Credit</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Short Term Personal Loans For Bad Credit", "headtxtcolor" => "white", "headalt" => "Short Term Personal Loans For Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Short Term Personal Loans For Bad Credit');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -859,7 +859,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function needloanimmediately() { $track = $this->tracker();
-   $txtlp = '<h1>Need Loan Immediately</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Need Loan Immediately</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Need Loan Immediately", "headtxtcolor" => "white", "headalt" => "Need Loan Immediately", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Need Loan Immediately');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -867,7 +867,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function needcashnow() { $track = $this->tracker();
-   $txtlp = '<h1>Need Cash Now</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Need Cash Now</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Need Cash Now", "headtxtcolor" => "white", "headalt" => "Need Cash Now", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Need Cash Now');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -875,7 +875,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashmoneyloans() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Money Loans</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cash Money Loans</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Cash Money Loans", "headtxtcolor" => "white", "headalt" => "Cash Money Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Money Loans');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -883,7 +883,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencycashimmediately() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Cash Immediately</h1><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Emergency Cash Immediately</h2><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Emergency Cash Immediately", "headtxtcolor" => "white", "headalt" => "Emergency Cash Immediately", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Cash Immediately');
     SEOMeta::setDescription('If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -891,7 +891,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easyapprovalloan() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Approval Loan</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Easy Approval Loan</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Easy Approval Loan", "headtxtcolor" => "white", "headalt" => "Easy Approval Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Approval Loan');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -899,7 +899,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashstoreedmonton() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Store Edmonton</h1><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Cash Store Edmonton</h2><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Cash Store Edmonton", "headtxtcolor" => "white", "headalt" => "Cash Store Edmonton", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Store Edmonton');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -907,7 +907,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function governmentmoney() { $track = $this->tracker();
-   $txtlp = '<h1>Government Money</h1><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
+   $txtlp = '<h2>Government Money</h2><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Government Money", "headtxtcolor" => "white", "headalt" => "Government Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Government Money');
     SEOMeta::setDescription('We know that things happen in life and sometimes you need Cash Money for unexpected expenses.');
@@ -915,7 +915,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansvernon() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Vernon</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
+   $txtlp = '<h2>Payday Loans Vernon</h2><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Payday Loans Vernon", "headtxtcolor" => "white", "headalt" => "Payday Loans Vernon", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Vernon');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -923,7 +923,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickcash() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Cash</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Quick Cash</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Quick Cash", "headtxtcolor" => "white", "headalt" => "Quick Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Cash');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.');
@@ -931,7 +931,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanswhiterock() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans White Rock</h1><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Payday Loans White Rock</h2><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Payday Loans White Rock", "headtxtcolor" => "white", "headalt" => "Payday Loans White Rock", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans White Rock');
     SEOMeta::setDescription('We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -939,7 +939,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function needaloannow() { $track = $this->tracker();
-   $txtlp = '<h1>Need A Loan Now</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Need A Loan Now</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Need A Loan Now", "headtxtcolor" => "white", "headalt" => "Need A Loan Now", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Need A Loan Now');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -947,7 +947,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneymakemoney() { $track = $this->tracker();
-   $txtlp = '<h1>Money Make Money</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.</p>';
+   $txtlp = '<h2>Money Make Money</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Money Make Money", "headtxtcolor" => "white", "headalt" => "Money Make Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Make Money');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.');
@@ -955,7 +955,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastemergencyloan() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Emergency Loan</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Fast Emergency Loan</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Fast Emergency Loan", "headtxtcolor" => "white", "headalt" => "Fast Emergency Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Emergency Loan');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -963,7 +963,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashadvanceonlinebadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Advance Online Bad Credit</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Cash Advance Online Bad Credit</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Cash Advance Online Bad Credit", "headtxtcolor" => "white", "headalt" => "Cash Advance Online Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Advance Online Bad Credit');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -971,7 +971,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanssprucegrove() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Spruce Grove</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Spruce Grove</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Payday Loans Spruce Grove", "headtxtcolor" => "white", "headalt" => "Payday Loans Spruce Grove", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Spruce Grove');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -979,7 +979,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastcash() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Cash</h1><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
+   $txtlp = '<h2>Fast Cash</h2><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Fast Cash", "headtxtcolor" => "white", "headalt" => "Fast Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Cash');
     SEOMeta::setDescription('Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.');
@@ -987,7 +987,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function needurgentmoneytoday() { $track = $this->tracker();
-   $txtlp = '<h1>Need Urgent Money Today</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Need Urgent Money Today</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Need Urgent Money Today", "headtxtcolor" => "white", "headalt" => "Need Urgent Money Today", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Need Urgent Money Today');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -995,7 +995,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personallending() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Lending</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Personal Lending</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "Personal Lending", "headtxtcolor" => "white", "headalt" => "Personal Lending", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Lending');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1003,7 +1003,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function onlinemoney() { $track = $this->tracker();
-   $txtlp = '<h1>Online Money</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Online Money</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Online Money", "headtxtcolor" => "white", "headalt" => "Online Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Online Money');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1011,7 +1011,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easypaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Payday Loan</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Easy Payday Loan</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Easy Payday Loan", "headtxtcolor" => "white", "headalt" => "Easy Payday Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Payday Loan');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1019,7 +1019,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easypayday() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Payday</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Easy Payday</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "Easy Payday", "headtxtcolor" => "white", "headalt" => "Easy Payday", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Payday');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1027,7 +1027,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashdepot() { $track = $this->tracker();
-   $txtlp = '<h1>Cash-Depot</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Cash-Depot</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Cash-Depot", "headtxtcolor" => "white", "headalt" => "Cash-Depot", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash-Depot');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -1035,7 +1035,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function microloans() { $track = $this->tracker();
-   $txtlp = '<h1>Micro Loans</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>Micro Loans</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Micro Loans", "headtxtcolor" => "white", "headalt" => "Micro Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Micro Loans');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.');
@@ -1043,7 +1043,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanlenders() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loan Lenders</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loan Lenders</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Payday Loan Lenders", "headtxtcolor" => "white", "headalt" => "Payday Loan Lenders", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loan Lenders');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1051,7 +1051,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneygetmoney() { $track = $this->tracker();
-   $txtlp = '<h1>Money Get Money</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Money Get Money</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Money Get Money", "headtxtcolor" => "white", "headalt" => "Money Get Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Get Money');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1059,7 +1059,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashadvanceplaces() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Advance Places</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Cash Advance Places</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "Cash Advance Places", "headtxtcolor" => "white", "headalt" => "Cash Advance Places", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Advance Places');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -1067,7 +1067,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencyloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Loans Online</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Emergency Loans Online</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Emergency Loans Online", "headtxtcolor" => "white", "headalt" => "Emergency Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Loans Online');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1075,7 +1075,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function earncash() { $track = $this->tracker();
-   $txtlp = '<h1>Earn Cash</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Earn Cash</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Earn Cash", "headtxtcolor" => "white", "headalt" => "Earn Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Earn Cash');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1083,7 +1083,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencypaydayloanbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Payday Loan Bad Credit</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Emergency Payday Loan Bad Credit</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Emergency Payday Loan Bad Credit", "headtxtcolor" => "white", "headalt" => "Emergency Payday Loan Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Payday Loan Bad Credit');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1091,7 +1091,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function getmoneyfor() { $track = $this->tracker();
-   $txtlp = '<h1>Get Money For</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Get Money For</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Get Money For", "headtxtcolor" => "white", "headalt" => "Get Money For", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get Money For');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1099,7 +1099,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cash() { $track = $this->tracker();
-   $txtlp = '<h1>Cash</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Cash</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Cash", "headtxtcolor" => "white", "headalt" => "Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1107,7 +1107,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function etransferpaydayloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>E Transfer Payday Loans Canada</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>E Transfer Payday Loans Canada</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "E Transfer Payday Loans Canada", "headtxtcolor" => "white", "headalt" => "E Transfer Payday Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('E Transfer Payday Loans Canada');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1115,7 +1115,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanplacesnearme() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loan Places Near Me</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loan Places Near Me</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Payday Loan Places Near Me", "headtxtcolor" => "white", "headalt" => "Payday Loan Places Near Me", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loan Places Near Me');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1123,7 +1123,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencymoneybadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Money Bad Credit</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Emergency Money Bad Credit</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Emergency Money Bad Credit", "headtxtcolor" => "white", "headalt" => "Emergency Money Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Money Bad Credit');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1131,7 +1131,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansvictoria() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Victoria</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Victoria</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Payday Loans Victoria", "headtxtcolor" => "white", "headalt" => "Payday Loans Victoria", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Victoria');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1139,7 +1139,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function taxadvanceloan() { $track = $this->tracker();
-   $txtlp = '<h1>Tax Advance Loan</h1><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Tax Advance Loan</h2><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Tax Advance Loan", "headtxtcolor" => "white", "headalt" => "Tax Advance Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Tax Advance Loan');
     SEOMeta::setDescription('If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1147,7 +1147,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loansforpeoplewithbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Loans For People With Bad Credit</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Loans For People With Bad Credit</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Loans For People With Bad Credit", "headtxtcolor" => "white", "headalt" => "Loans For People With Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loans For People With Bad Credit');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1155,7 +1155,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanswinnipegmanitoba() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Winnipeg Manitoba</h1><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans Winnipeg Manitoba</h2><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Payday Loans Winnipeg Manitoba", "headtxtcolor" => "white", "headalt" => "Payday Loans Winnipeg Manitoba", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Winnipeg Manitoba');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1163,7 +1163,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function forloan() { $track = $this->tracker();
-   $txtlp = '<h1>For Loan</h1><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
+   $txtlp = '<h2>For Loan</h2><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "For Loan", "headtxtcolor" => "white", "headalt" => "For Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('For Loan');
     SEOMeta::setDescription('We know that things happen in life and sometimes you need Cash Money for unexpected expenses.');
@@ -1171,7 +1171,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function howcanigetmoney() { $track = $this->tracker();
-   $txtlp = '<h1>How Can I Get Money</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
+   $txtlp = '<h2>How Can I Get Money</h2><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "How Can I Get Money", "headtxtcolor" => "white", "headalt" => "How Can I Get Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('How Can I Get Money');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -1179,7 +1179,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneyto() { $track = $this->tracker();
-   $txtlp = '<h1>Money To</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Money To</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Money To", "headtxtcolor" => "white", "headalt" => "Money To", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money To');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.');
@@ -1187,7 +1187,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personalmoney() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Money</h1><p>We offer you an Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Personal Money</h2><p>We offer you an Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Personal Money", "headtxtcolor" => "white", "headalt" => "Personal Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Money');
     SEOMeta::setDescription('We offer you an Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -1195,7 +1195,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansbolton() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Bolton</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans Bolton</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Payday Loans Bolton", "headtxtcolor" => "white", "headalt" => "Payday Loans Bolton", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Bolton');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1203,7 +1203,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function pay2day() { $track = $this->tracker();
-   $txtlp = '<h1>Pay2day</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.</p>';
+   $txtlp = '<h2>Pay2day</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Pay2day", "headtxtcolor" => "white", "headalt" => "Pay2day", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Pay2day');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.');
@@ -1211,7 +1211,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function welfareassistance() { $track = $this->tracker();
-   $txtlp = '<h1>Welfare Assistance</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Welfare Assistance</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "Welfare Assistance", "headtxtcolor" => "white", "headalt" => "Welfare Assistance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Welfare Assistance');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1219,7 +1219,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashmoneyadvance() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Money Advance</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Cash Money Advance</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Cash Money Advance", "headtxtcolor" => "white", "headalt" => "Cash Money Advance", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Money Advance');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -1227,7 +1227,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easycashloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Cash Loans Online</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Easy Cash Loans Online</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Easy Cash Loans Online", "headtxtcolor" => "white", "headalt" => "Easy Cash Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Cash Loans Online');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1235,7 +1235,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydaycashloans() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Cash Loans</h1><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
+   $txtlp = '<h2>Payday Cash Loans</h2><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "Payday Cash Loans", "headtxtcolor" => "white", "headalt" => "Payday Cash Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Cash Loans');
     SEOMeta::setDescription('Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.');
@@ -1243,7 +1243,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function privatelenderontario() { $track = $this->tracker();
-   $txtlp = '<h1>Private Lender Ontario</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Private Lender Ontario</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Private Lender Ontario", "headtxtcolor" => "white", "headalt" => "Private Lender Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Private Lender Ontario');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1251,7 +1251,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function getaloanonline() { $track = $this->tracker();
-   $txtlp = '<h1>Get A Loan Online</h1><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Get A Loan Online</h2><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Get A Loan Online", "headtxtcolor" => "white", "headalt" => "Get A Loan Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get A Loan Online');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.');
@@ -1259,7 +1259,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cheaploans() { $track = $this->tracker();
-   $txtlp = '<h1>Cheap Loans</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cheap Loans</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Cheap Loans", "headtxtcolor" => "white", "headalt" => "Cheap Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cheap Loans');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1267,7 +1267,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function needapaydayloan() { $track = $this->tracker();
-   $txtlp = '<h1>Need A Payday Loan</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Need A Payday Loan</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Need A Payday Loan", "headtxtcolor" => "white", "headalt" => "Need A Payday Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Need A Payday Loan');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1275,7 +1275,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashmoneyhamilton() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Money Hamilton</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Cash Money Hamilton</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Cash Money Hamilton", "headtxtcolor" => "white", "headalt" => "Cash Money Hamilton", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Money Hamilton');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -1283,7 +1283,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personalpaydayloansnearme() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Payday Loans Near Me</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>Personal Payday Loans Near Me</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Personal Payday Loans Near Me", "headtxtcolor" => "white", "headalt" => "Personal Payday Loans Near Me", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Payday Loans Near Me');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans, get approved for and receive their funds quickly and easily.');
@@ -1291,7 +1291,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function ladyloans() { $track = $this->tracker();
-   $txtlp = '<h1>Lady Loans</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Lady Loans</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Lady Loans", "headtxtcolor" => "white", "headalt" => "Lady Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Lady Loans');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1299,7 +1299,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashmoneykingston() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Money Kingston</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cash Money Kingston</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Cash Money Kingston", "headtxtcolor" => "white", "headalt" => "Cash Money Kingston", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Money Kingston');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1307,7 +1307,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanmoneynow() { $track = $this->tracker();
-   $txtlp = '<h1>Loan Money Now</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Loan Money Now</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Loan Money Now", "headtxtcolor" => "white", "headalt" => "Loan Money Now", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loan Money Now');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -1315,7 +1315,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function personalfinanceloansnearme() { $track = $this->tracker();
-   $txtlp = '<h1>Personal Finance Loans Near Me</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Personal Finance Loans Near Me</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Personal Finance Loans Near Me", "headtxtcolor" => "white", "headalt" => "Personal Finance Loans Near Me", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Personal Finance Loans Near Me');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1323,7 +1323,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastloanstoday() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Loans Today</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Fast Loans Today</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Fast Loans Today", "headtxtcolor" => "white", "headalt" => "Fast Loans Today", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Loans Today');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1331,7 +1331,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastcashbadcredit() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Cash Bad Credit</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Fast Cash Bad Credit</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Fast Cash Bad Credit", "headtxtcolor" => "white", "headalt" => "Fast Cash Bad Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Cash Bad Credit');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1339,7 +1339,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function badcreditpaydayloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Bad Credit Payday Loans Canada</h1><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Bad Credit Payday Loans Canada</h2><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Bad Credit Payday Loans Canada", "headtxtcolor" => "white", "headalt" => "Bad Credit Payday Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Bad Credit Payday Loans Canada');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.');
@@ -1347,7 +1347,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansmedicinehat() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Medicine Hat</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Medicine Hat</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Payday Loans Medicine Hat", "headtxtcolor" => "white", "headalt" => "Payday Loans Medicine Hat", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Medicine Hat');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1355,7 +1355,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function applicationloan() { $track = $this->tracker();
-   $txtlp = '<h1>Application Loan</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Application Loan</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Application Loan", "headtxtcolor" => "white", "headalt" => "Application Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Application Loan');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1363,7 +1363,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function getcreditonline() { $track = $this->tracker();
-   $txtlp = '<h1>Get Credit Online</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Get Credit Online</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Get Credit Online", "headtxtcolor" => "white", "headalt" => "Get Credit Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get Credit Online');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1371,7 +1371,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickcashmoney() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Cash Money</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Quick Cash Money</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Quick Cash Money", "headtxtcolor" => "white", "headalt" => "Quick Cash Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Cash Money');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1379,7 +1379,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Canada</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Payday Loans Canada</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Payday Loans Canada", "headtxtcolor" => "white", "headalt" => "Payday Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Canada');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1387,7 +1387,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function bestwaytogetmoney() { $track = $this->tracker();
-   $txtlp = '<h1>Best Way To Get Money</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Best Way To Get Money</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "Best Way To Get Money", "headtxtcolor" => "white", "headalt" => "Best Way To Get Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Best Way To Get Money');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1395,7 +1395,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencypersonalloan() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Personal Loan</h1><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Emergency Personal Loan</h2><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "Emergency Personal Loan", "headtxtcolor" => "white", "headalt" => "Emergency Personal Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Personal Loan');
     SEOMeta::setDescription('If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1403,7 +1403,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function helpwithutilities() { $track = $this->tracker();
-   $txtlp = '<h1>Help With Utilities</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Help With Utilities</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Help With Utilities", "headtxtcolor" => "white", "headalt" => "Help With Utilities", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Help With Utilities');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1411,7 +1411,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencyloansnocreditcheck() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Loans No Credit Check</h1><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Emergency Loans No Credit Check</h2><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "Emergency Loans No Credit Check", "headtxtcolor" => "white", "headalt" => "Emergency Loans No Credit Check", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Loans No Credit Check');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1419,7 +1419,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function howearnmoney() { $track = $this->tracker();
-   $txtlp = '<h1>How Earn Money</h1><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
+   $txtlp = '<h2>How Earn Money</h2><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "How Earn Money", "headtxtcolor" => "white", "headalt" => "How Earn Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('How Earn Money');
     SEOMeta::setDescription('We know that things happen in life and sometimes you need Cash Money for unexpected expenses.');
@@ -1427,7 +1427,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function applyforpaydayloan() { $track = $this->tracker();
-   $txtlp = '<h1>Apply For Payday Loan</h1><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
+   $txtlp = '<h2>Apply For Payday Loan</h2><p>Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Apply For Payday Loan", "headtxtcolor" => "white", "headalt" => "Apply For Payday Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Apply For Payday Loan');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -1435,7 +1435,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneymart() { $track = $this->tracker();
-   $txtlp = '<h1>Money Mart</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Money Mart</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Money Mart", "headtxtcolor" => "white", "headalt" => "Money Mart", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Mart');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.');
@@ -1443,7 +1443,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function ineedhelpfinancially() { $track = $this->tracker();
-   $txtlp = '<h1>I Need Help Financially</h1><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>I Need Help Financially</h2><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "I Need Help Financially", "headtxtcolor" => "white", "headalt" => "I Need Help Financially", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('I Need Help Financially');
     SEOMeta::setDescription('We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -1451,7 +1451,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function borrowcash() { $track = $this->tracker();
-   $txtlp = '<h1>Borrow Cash</h1><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Borrow Cash</h2><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Borrow Cash", "headtxtcolor" => "white", "headalt" => "Borrow Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Borrow Cash');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.');
@@ -1459,7 +1459,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneymartpaydayloan() { $track = $this->tracker();
-   $txtlp = '<h1>Money Mart Payday Loan</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment.</p>';
+   $txtlp = '<h2>Money Mart Payday Loan</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Money Mart Payday Loan", "headtxtcolor" => "white", "headalt" => "Money Mart Payday Loan", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Mart Payday Loan');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment.');
@@ -1467,7 +1467,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function easyloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Easy Loans Canada</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Easy Loans Canada</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Easy Loans Canada", "headtxtcolor" => "white", "headalt" => "Easy Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Easy Loans Canada');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1475,7 +1475,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function payloan() { $track = $this->tracker();
-   $txtlp = '<h1>Pay Loan</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Pay Loan</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Pay Loan", "headtxtcolor" => "white", "headalt" => "Pay Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Pay Loan');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -1483,7 +1483,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function getyoumoney() { $track = $this->tracker();
-   $txtlp = '<h1>Get You Money</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Get You Money</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "Get You Money", "headtxtcolor" => "white", "headalt" => "Get You Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get You Money');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1491,7 +1491,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function etransferonline() { $track = $this->tracker();
-   $txtlp = '<h1>E Transfer Online</h1><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast easy transparent and responsible PayDay Loan, when life throws the unexpected at them.</p>';
+   $txtlp = '<h2>E Transfer Online</h2><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast easy transparent and responsible PayDay Loan, when life throws the unexpected at them.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "E Transfer Online", "headtxtcolor" => "white", "headalt" => "E Transfer Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('E Transfer Online');
     SEOMeta::setDescription('Canadians are smart and savvy, which is why they’re recognizing the value of fast easy transparent and responsible PayDay Loan, when life throws the unexpected at them.');
@@ -1499,7 +1499,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function nocreditcheckloansonlineinstantapproval() { $track = $this->tracker();
-   $txtlp = '<h1>No Credit Check Lans Online Instant Approval</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>No Credit Check Lans Online Instant Approval</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "No Credit Check Lans Online Instant Approval", "headtxtcolor" => "white", "headalt" => "No Credit Check Lans Online Instant Approval", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('No Credit Check Lans Online Instant Approval');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1507,7 +1507,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function quickcashloansonline() { $track = $this->tracker();
-   $txtlp = '<h1>Quick Cash Loans Online</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Quick Cash Loans Online</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Quick Cash Loans Online", "headtxtcolor" => "white", "headalt" => "Quick Cash Loans Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Quick Cash Loans Online');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1515,7 +1515,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloansguelphontario() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Guelph Ontario</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Loans Guelph Ontario</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Payday Loans Guelph Ontario", "headtxtcolor" => "white", "headalt" => "Payday Loans Guelph Ontario", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Guelph Ontario');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1523,7 +1523,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneytreepaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Money Tree Payday Loans</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Money Tree Payday Loans</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Money Tree Payday Loans", "headtxtcolor" => "white", "headalt" => "Money Tree Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money Tree Payday Loans');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1531,7 +1531,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function onlineloansonchildtaxbenefit() { $track = $this->tracker();
-   $txtlp = '<h1>Online Loans On Child Tax Benefit</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Online Loans On Child Tax Benefit</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Online Loans On Child Tax Benefit", "headtxtcolor" => "white", "headalt" => "Online Loans On Child Tax Benefit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Online Loans On Child Tax Benefit');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1539,7 +1539,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function incomesupportalberta() { $track = $this->tracker();
-   $txtlp = '<h1>Income Support Alberta</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
+   $txtlp = '<h2>Income Support Alberta</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "Income Support Alberta", "headtxtcolor" => "white", "headalt" => "Income Support Alberta", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Income Support Alberta');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in a single installment. Or, if you prefer, we have a more flexible arrangement, which allows you to repay in either 2 or 3 installments.');
@@ -1547,7 +1547,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function myonlinecash() { $track = $this->tracker();
-   $txtlp = '<h1>My Online Cash</h1><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans get approved for, and receive their funds quickly and easily.</p>';
+   $txtlp = '<h2>My Online Cash</h2><p>Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans get approved for, and receive their funds quickly and easily.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "My Online Cash", "headtxtcolor" => "white", "headalt" => "My Online Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('My Online Cash');
     SEOMeta::setDescription('Mega Cash Bucks is a leader among a new generation of payday loan alternative lenders. We operate exclusively online, which means that people can apply for Payday Loans get approved for, and receive their funds quickly and easily.');
@@ -1555,7 +1555,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanscalgaryalberta() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Calgary Alberta</h1><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans Calgary Alberta</h2><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Payday Loans Calgary Alberta", "headtxtcolor" => "white", "headalt" => "Payday Loans Calgary Alberta", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Calgary Alberta');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Calgary Alberta with a trusted direct lender, Mega Cash Bucks is the company for you.');
@@ -1563,7 +1563,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function lamina() { $track = $this->tracker();
-   $txtlp = '<h1>Lamina</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Lamina</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "Lamina", "headtxtcolor" => "white", "headalt" => "Lamina", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Lamina');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1571,7 +1571,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function credit() { $track = $this->tracker();
-   $txtlp = '<h1>Credit</h1><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Credit</h2><p>Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Credit", "headtxtcolor" => "white", "headalt" => "Credit", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Credit');
     SEOMeta::setDescription('Look forward to more great Payday Loans No Credit Check opportunities as we work to make your financial life easier and happier.');
@@ -1579,7 +1579,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function childtaxloans() { $track = $this->tracker();
-   $txtlp = '<h1>Child Tax Loans</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Child Tax Loans</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/3.jpg", "martop" => "30", "headpg" => "Child Tax Loans", "headtxtcolor" => "white", "headalt" => "Child Tax Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Child Tax Loans');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1587,7 +1587,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function poorcreditloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Poor Credit Loans Canada</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Poor Credit Loans Canada</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Poor Credit Loans Canada", "headtxtcolor" => "white", "headalt" => "Poor Credit Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Poor Credit Loans Canada');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1595,7 +1595,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function cashadvanceloansnearme() { $track = $this->tracker();
-   $txtlp = '<h1>Cash Advance Loans Near Me</h1><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Cash Advance Loans Near Me</h2><p>Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/4.jpg", "martop" => "30", "headpg" => "Cash Advance Loans Near Me", "headtxtcolor" => "white", "headalt" => "Cash Advance Loans Near Me", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Cash Advance Loans Near Me');
     SEOMeta::setDescription('Our Payday Loans with No Credit Check can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1603,7 +1603,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function howgainmoney() { $track = $this->tracker();
-   $txtlp = '<h1>How Gain Money</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>How Gain Money</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/6.jpg", "martop" => "30", "headpg" => "How Gain Money", "headtxtcolor" => "white", "headalt" => "How Gain Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('How Gain Money');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1611,7 +1611,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function hourcashmoney24() { $track = $this->tracker();
-   $txtlp = '<h1>24 Hour Cash Money</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>24 Hour Cash Money</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/7.jpg", "martop" => "30", "headpg" => "24 Hour Cash Money", "headtxtcolor" => "white", "headalt" => "24 Hour Cash Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('24 Hour Cash Money');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1619,7 +1619,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function payday() { $track = $this->tracker();
-   $txtlp = '<h1>Payday</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/8.jpg", "martop" => "30", "headpg" => "Payday", "headtxtcolor" => "white", "headalt" => "Payday", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1627,7 +1627,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function etransferpaydayloanscanada247() { $track = $this->tracker();
-   $txtlp = '<h1>E Transfer Payday Loans Canada 24 7</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>E Transfer Payday Loans Canada 24 7</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/9.jpg", "martop" => "30", "headpg" => "E Transfer Payday Loans Canada 24 7", "headtxtcolor" => "white", "headalt" => "E Transfer Payday Loans Canada 24 7", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('E Transfer Payday Loans Canada 24 7');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1635,7 +1635,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function onlinecreditcard() { $track = $this->tracker();
-   $txtlp = '<h1>Online Credit Card</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Online Credit Card</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/10.jpg", "martop" => "30", "headpg" => "Online Credit Card", "headtxtcolor" => "white", "headalt" => "Online Credit Card", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Online Credit Card');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1643,7 +1643,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayadvanceonline() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Advance Online</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Payday Advance Online</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/11.jpg", "martop" => "30", "headpg" => "Payday Advance Online", "headtxtcolor" => "white", "headalt" => "Payday Advance Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Advance Online');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1651,7 +1651,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanstore() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loan Store</h1><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loan Store</h2><p>If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/12.jpg", "martop" => "30", "headpg" => "Payday Loan Store", "headtxtcolor" => "white", "headalt" => "Payday Loan Store", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loan Store');
     SEOMeta::setDescription('If you’re looking for a Payday Loans No Credit Check with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1659,7 +1659,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencymoney() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Money</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>Emergency Money</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/13.jpg", "martop" => "30", "headpg" => "Emergency Money", "headtxtcolor" => "white", "headalt" => "Emergency Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Money');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1667,7 +1667,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function venuefinancial() { $track = $this->tracker();
-   $txtlp = '<h1>Venue Financial</h1><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Venue Financial</h2><p>If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/14.jpg", "martop" => "30", "headpg" => "Venue Financial", "headtxtcolor" => "white", "headalt" => "Venue Financial", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Venue Financial');
     SEOMeta::setDescription('If you’re looking for a Payday Loans Online with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1675,7 +1675,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function getmoneyonline() { $track = $this->tracker();
-   $txtlp = '<h1>Get Money Online</h1><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
+   $txtlp = '<h2>Get Money Online</h2><p>We know that things happen in life and sometimes you need Cash Money for unexpected expenses.</p>';
    $data = ["bannerbg" => "land/15.jpg", "martop" => "30", "headpg" => "Get Money Online", "headtxtcolor" => "white", "headalt" => "Get Money Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Get Money Online');
     SEOMeta::setDescription('We know that things happen in life and sometimes you need Cash Money for unexpected expenses.');
@@ -1683,7 +1683,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loanscom() { $track = $this->tracker();
-   $txtlp = '<h1>Loans com</h1><p>moretexthere</p>';
+   $txtlp = '<h2>Loans com</h2><p>moretexthere</p>';
    $data = ["bannerbg" => "land/16.jpg", "martop" => "30", "headpg" => "Loans com", "headtxtcolor" => "white", "headalt" => "Loans com", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loans com');
     SEOMeta::setDescription('Forget those line-ups down at the brick-and-mortar joint. You can apply for this Instant Approval Payday Loans from the comfort of your couch. Our advanced assessment tools instantly determines your eligibility.');
@@ -1691,7 +1691,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function moneyigetmoney() { $track = $this->tracker();
-   $txtlp = '<h1>Money I Get Money</h1><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
+   $txtlp = '<h2>Money I Get Money</h2><p>Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.</p>';
    $data = ["bannerbg" => "land/17.jpg", "martop" => "30", "headpg" => "Money I Get Money", "headtxtcolor" => "white", "headalt" => "Money I Get Money", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Money I Get Money');
     SEOMeta::setDescription('Mega Cash Bucks has developed an innovative, 24 Hour Payday Loans process that allows Canadians to apply, get approved, and receive their funds, all in the same day.');
@@ -1699,7 +1699,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function prestocash() { $track = $this->tracker();
-   $txtlp = '<h1>Presto Cash</h1><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Presto Cash</h2><p>We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/18.jpg", "martop" => "30", "headpg" => "Presto Cash", "headtxtcolor" => "white", "headalt" => "Presto Cash", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Presto Cash');
     SEOMeta::setDescription('We offer you a Online Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -1707,7 +1707,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastcashcanada() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Cash Canada</h1><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Fast Cash Canada</h2><p>If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/19.jpg", "martop" => "30", "headpg" => "Fast Cash Canada", "headtxtcolor" => "white", "headalt" => "Fast Cash Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Cash Canada');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted direct lender, Mega Cash Bucks is the company for you.');
@@ -1715,7 +1715,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function employmentinsurancepaydayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Employment Insurance Payday Loans</h1><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.</p>';
+   $txtlp = '<h2>Employment Insurance Payday Loans</h2><p>Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.</p>';
    $data = ["bannerbg" => "land/20.jpg", "martop" => "30", "headpg" => "Employment Insurance Payday Loans", "headtxtcolor" => "white", "headalt" => "Employment Insurance Payday Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Employment Insurance Payday Loans');
     SEOMeta::setDescription('Mega Cash Bucks has brought a great solution. We have a Payday Loans. This is one you can pay back in 1, 2 or 3 installments.');
@@ -1723,7 +1723,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function paydayloanschildtax() { $track = $this->tracker();
-   $txtlp = '<h1>Payday Loans Child Tax</h1><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Payday Loans Child Tax</h2><p>If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/21.jpg", "martop" => "30", "headpg" => "Payday Loans Child Tax", "headtxtcolor" => "white", "headalt" => "Payday Loans Child Tax", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Payday Loans Child Tax');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with No Credit Check, with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1731,7 +1731,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function emergencysamedayloans() { $track = $this->tracker();
-   $txtlp = '<h1>Emergency Same Day Loans</h1><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
+   $txtlp = '<h2>Emergency Same Day Loans</h2><p>We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.</p>';
    $data = ["bannerbg" => "land/22.jpg", "martop" => "30", "headpg" => "Emergency Same Day Loans", "headtxtcolor" => "white", "headalt" => "Emergency Same Day Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Emergency Same Day Loans');
     SEOMeta::setDescription('We offer you a Payday Loans that can be approved in just minutes. And once approved, just 5 minutes after signing your contract we’ll have your money e-transferred into your bank account.');
@@ -1739,7 +1739,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastshorttermloans() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Short Term Loans</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>Fast Short Term Loans</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/23.jpg", "martop" => "30", "headpg" => "Fast Short Term Loans", "headtxtcolor" => "white", "headalt" => "Fast Short Term Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Short Term Loans');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1747,7 +1747,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function financialsupport() { $track = $this->tracker();
-   $txtlp = '<h1>Financial Support</h1><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
+   $txtlp = '<h2>Financial Support</h2><p>Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.</p>';
    $data = ["bannerbg" => "land/24.jpg", "martop" => "30", "headpg" => "Financial Support", "headtxtcolor" => "white", "headalt" => "Financial Support", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Financial Support');
     SEOMeta::setDescription('Canadians are smart and savvy, which is why they’re recognizing the value of fast, easy, transparent and responsible PayDay Loan when life throws the unexpected at them.');
@@ -1755,7 +1755,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function noincomeloans() { $track = $this->tracker();
-   $txtlp = '<h1>No Income Loans</h1><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>No Income Loans</h2><p>Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/25.jpg", "martop" => "30", "headpg" => "No Income Loans", "headtxtcolor" => "white", "headalt" => "No Income Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('No Income Loans');
     SEOMeta::setDescription('Mega Cash Bucks Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1763,7 +1763,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function needhelpfinancially() { $track = $this->tracker();
-   $txtlp = '<h1>Need Help Financially</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Need Help Financially</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/26.jpg", "martop" => "30", "headpg" => "Need Help Financially", "headtxtcolor" => "white", "headalt" => "Need Help Financially", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Need Help Financially');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');
@@ -1771,7 +1771,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function poorcreditloan() { $track = $this->tracker();
-   $txtlp = '<h1>txt here</h1><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
+   $txtlp = '<h2>txt here</h2><p>Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.</p>';
    $data = ["bannerbg" => "land/27.jpg", "martop" => "30", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Poor Credit Loan');
     SEOMeta::setDescription('Our Payday Loans can do the trick. Check out our cash advance or more flexible payment plan. Either is an affordable solution, that’s quick and easy, when the unexpected expenses arise.');
@@ -1779,7 +1779,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loans500() { $track = $this->tracker();
-   $txtlp = '<h1>500 Loans</h1><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
+   $txtlp = '<h2>500 Loans</h2><p>Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.</p>';
    $data = ["bannerbg" => "land/1.jpg", "martop" => "30", "headpg" => "500 Loans", "headtxtcolor" => "white", "headalt" => "500 Loans", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('500 Loans');
     SEOMeta::setDescription('Look forward to more great Payday Loans opportunities as we work to make your financial life easier and happier.');
@@ -1787,7 +1787,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function loansinstant() { $track = $this->tracker();
-   $txtlp = '<h1>Loans Instant</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Loans Instant</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/2.jpg", "martop" => "30", "headpg" => "Loans Instant", "headtxtcolor" => "white", "headalt" => "Loans Instant", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Loans Instant');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');

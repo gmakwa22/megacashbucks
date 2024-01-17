@@ -109,7 +109,7 @@ class OntarioController extends Controller
           }
          public function attawapiskat() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Atikokan');
+           SEOMeta::setTitle('Online Instant Payday Loans in Attawapiskat');
            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Attawapiskat, Ontario. Once approved, you won’t have to watch out long for your money.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Attawapiskat, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
            return view('/on.attawapiskat', $data);
@@ -263,7 +263,7 @@ class OntarioController extends Controller
           }
          public function bradford() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Blind River');
+           SEOMeta::setTitle('Online Instant Payday Loans in Bradford');
            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Bradford, Ontario. We use are advanced algorithm to take in the whole financial picture of your situation.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Bradford, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('/on.bradford', $data);
@@ -880,7 +880,7 @@ class OntarioController extends Controller
           }
          public function hawkesbury() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Havelock');
+           SEOMeta::setTitle('Online Instant Payday Loans in Hawkesbury');
            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Hawkesbury Ontario. All our online transactions are fully protected.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Hawkesbury, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('/on.hawkesbury', $data);
@@ -1139,16 +1139,16 @@ class OntarioController extends Controller
           }
          public function marchmontbasslake() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Marchmont');
+           SEOMeta::setTitle('Online Instant Payday in Marchmont');
            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Marchmont Ontario. Your interest fee is unchanged, whether it’s better for you to pay in 1, 2 or 3 equal repayments.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Marchmont , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('/on.marchmont-bass-lake', $data);
           }
           public function ottawagatineau() {
             $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario Gatineau", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-            SEOMeta::setTitle('Online Instant Payday Loans in Marchmont');
-            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Marchmont Ontario. Your interest fee is unchanged, whether it’s better for you to pay in 1, 2 or 3 equal repayments.');
-            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Marchmont , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
+            SEOMeta::setTitle('Online Instant Payday Loans in Ottawa');
+            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Ottawa Ontario. Your interest fee is unchanged, whether it’s better for you to pay in 1, 2 or 3 equal repayments.');
+            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Ottawa , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
                return view('/on.ottawa-gatineau', $data);
            }
          public function markdale() {
@@ -1188,7 +1188,7 @@ class OntarioController extends Controller
           }
          public function metcalfe() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Meaford');
+           SEOMeta::setTitle('Online Instant Payday Loans in Metcalfe');
            SEOMeta::setDescription('Mega Cash Bucks for online instant payday loans in Metcalfe Ontario. Our Installment plans mean instant cash for you!');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Metcalfe , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('/on.metcalfe', $data);

@@ -51,7 +51,7 @@
 					<li class="list-group-item"><a href="https://www.parksvilledowntown.ca/parksville-business-directory/parksville-shopping" target="_blank" >- Best Places to Go Shopping in Parksville, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/nanaimo/schedules-and-maps/route-overview?route=88" target="_blank" >- Public Transportation Options in Parksville, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.visitparksvillequalicumbeach.com/stay/" target="_blank" >- Best Places to Stay in Parksville, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directohttps://www.visitparksvillequalicumbeach.com/things-to-do/family-fun/" target="_blank" >- Best Things to do with the Kids in Parksville, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.cascadiakids.com/family-travel-kid-friendly-parksville-bc/" target="_blank" >- Best Things to do with the Kids in Parksville, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.pqbnews.com/" target="_blank" >- Local News for Parksville, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/parksville" target="_blank" >- Weather in Parksville, British Columbia</a></li>
 					</ul>

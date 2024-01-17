@@ -46,7 +46,7 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Logan Lake, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://visitloganlake.com/things-to-do" target="_blank" >- Best Attractions in Logan Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.experienceloganlake.com/" target="_blank" >- Best Attractions in Logan Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.loganlake.ca/restaurant-listings" target="_blank" >- Best Places to Eat in Logan Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.loganlake.ca/shopping-directory" target="_blank" >- Best Places to Go Shopping in Logan Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/kelowna/schedules-and-maps/health-connections/logan-lake-kelowna" target="_blank" >- Public Transportation Options in Logan Lake, British Columbia</a></li>

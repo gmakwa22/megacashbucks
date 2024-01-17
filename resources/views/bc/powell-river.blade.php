@@ -48,7 +48,7 @@
 				<ul class="list-group">
 					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/explore/north-coast/powell-river/" target="_blank" >- Best Attractions in Powell River, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://sunshinecoastcanada.com/blog/2021/05/powell-river-dining-guide-patios-takeout-and-delivery-edition/" target="_blank" >- Best Places to Eat in Powell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://powellriverconnect.com/directory/business/shopping/" target="_blank" >- Best Places to Go Shopping in Powell River, British Columbia</a></li>
+					<li class="list-group-item">>- Best Places to Go Shopping in Powell River, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/powell-river/home" target="_blank" >- Public Transportation Options in Powell River, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/powell-river.html" target="_blank" >- Best Places to Stay in Powell River, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.triphobo.com/places/powell-river-canada/things-to-do/family-and-kids" target="_blank" >- Best Things to do with the Kids in Powell River, British Columbia</a></li>

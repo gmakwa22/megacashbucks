@@ -109,7 +109,7 @@ class OntarioController extends Controller
           }
          public function attawapiskat() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Atikokan| Loans in Attawapiskat, Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Attawapiskat| Loans in Attawapiskat, Ontario');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Attawapiskat, Ontario. Once approved, you won’t have to watch out long for your money.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Attawapiskat, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
            return view('payday-loans-attawapiskat', $data);
@@ -263,7 +263,7 @@ class OntarioController extends Controller
           }
          public function bradford() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Blind River| Loans in Bradford, Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Bradford | Loans in Bradford, Ontario');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Bradford, Ontario. We use are advanced algorithm to take in the whole financial picture of your situation.');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Bradford, , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-bradford', $data);
@@ -1181,7 +1181,7 @@ class OntarioController extends Controller
           }
          public function metcalfe() {
            $data = ["bannerbg" => "provinces/alberta.jpg", "licpr" => "ab", "spprov" => "Ontario", "headpg" => "Online Instant Payday Loans in Ontario", "headtxtcolor" => "white", "headalt" => "payday loans Ontario"];
-           SEOMeta::setTitle('Online Instant Payday Loans in Meaford| Loans in Metcalfe, Ontario');
+           SEOMeta::setTitle('Online Instant Payday Loans in Metcalfe| Loans in Metcalfe, Ontario');
            SEOMeta::setDescription('Swift Cash Online for online instant payday loans in Metcalfe Ontario. Our Installment plans mean instant cash for you!');
            SEOMeta::addKeyword('Swift Online Cash, online cash loans, loan, loans in Metcalfe , advances, money, cash, cash canada, loan calculator, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia,  personal loans, Saskatchewan, Manitoba, financial, loan with bad credit, cash lenders, canada, loans for bad credit, canadian, bad credit loans, online cash loan, loans, loans bad credit, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
               return view('payday-loans-metcalfe', $data);

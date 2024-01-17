@@ -46,8 +46,8 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Hope, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://hopebc.ca/experience_nature_in_hope_bc/" target="_blank" >- Best Attractions in Hope, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://hopebc.ca/10-restaurants-in-hope-you-need-to-try/" target="_blank" >- Best Places to Eat in Hope, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/mainland/hope/top-things-to-do.html" target="_blank" >- Best Attractions in Hope, British Columbia</a></li>
+					<li class="list-group-item">- Best Places to Eat in Hope, British Columbia</li>
 					<li class="list-group-item"><a href="http://invest.hopebc.ca/shop-local-in-hope/" target="_blank" >- Best Places to Go Shopping in Hope, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/chilliwack/schedules-and-maps/route-overview?route=22" target="_blank" >- Public Transportation Options in Hope, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/hope.html" target="_blank" >- Best Places to Stay in Hope, British Columbia</a></li>

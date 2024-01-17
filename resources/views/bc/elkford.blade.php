@@ -51,7 +51,7 @@
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Elkford%2C+BC+V0B+1H0" target="_blank" >- Best Places to Go Shopping in Elkford, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/elk-valley/schedules-and-maps/route-overview?route=1" target="_blank" >- Public Transportation Options in Elkford, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g796996-Elkford_Kootenay_Rockies_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Elkford, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.elkford.ca/programming.html" target="_blank" >- Best Things to do with the Kids in Elkford, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.elkford.ca/tourism/things-to-do" target="_blank" >- Best Things to do with the Kids in Elkford, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.e-know.ca/category/regions/elk-valley/elkford/" target="_blank" >- Local News for Elkford, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/elkford" target="_blank" >- Weather in Elkford, British Columbia</a></li>
 					</ul>

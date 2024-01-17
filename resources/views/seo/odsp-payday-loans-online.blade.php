@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1>Disability Income and ODSP Payday Loans Online</h1>
+				<h2>Disability Income and ODSP Payday Loans Online</h2>
 				<h2 class="small-title">Low Rates for ODSP Payday Loans Up to $1,500</h2>
 				<p class="text text-justify">Residents of Ontario can rest assured that we do provide loans for those on social assistance. This includes ODSP.</p>
 				<p class="text text-justify">Life brings big surprises and sometimes they’re the difficult kind. We understand that and are committed to providing whatever financial assistance that we can, with our low cost, flexible short-term loans.</p>

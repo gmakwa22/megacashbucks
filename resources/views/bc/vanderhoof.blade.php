@@ -46,12 +46,12 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Vanderhoof, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.vanderhoofchamber.com/about/in-town-attractions/" target="_blank" >- Best Attractions in Vanderhoof, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/northern-bc/vanderhoof.html" target="_blank" >- Best Attractions in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1590608-Vanderhoof_British_Columbia.html" target="_blank" >- Best Places to Eat in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g1590608-Activities-c26-Vanderhoof_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.vanderhoof.ca/residents/community-bus/" target="_blank" >- Public Transportation Options in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/vanderhoof.html" target="_blank" >- Best Places to Stay in Vanderhoof, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.vanderhoofchamber.com/pdf/Cards_Guides/Kids%20tour%20card%20FINAL.pdf" target="_blank" >- Best Things to do with the Kids in Vanderhoof, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/northern-bc/vanderhoof.html target="_blank" >- Best Things to do with the Kids in Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.ominecaexpress.com/" target="_blank" >- Local News for Vanderhoof, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-44_metric_e.html" target="_blank" >- Weather in Vanderhoof, British Columbia</a></li>
 					</ul>

@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">PRIVACY POLICY</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">PRIVACY POLICY</h2><br>
         <p><strong>Your Privacy is our Priority.</strong></p>
 
         <p style="text-align: justify;">Protecting your private information is extremely important to our company and employees. This statement of Privacy governs how we do data collection and use that data at {{ $privname }}. All references to {{ $privname }} shall also include the <a href="{{ $privurl }}">{{ $privurl }}</a> website. You agree by using the {{ $privname }} services and website, that you are consenting to the data practices described here.</p>

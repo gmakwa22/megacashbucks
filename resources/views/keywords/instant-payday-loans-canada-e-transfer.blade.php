@@ -13,7 +13,7 @@
               
           </div>
           <div class="blog-detail">
-            <h1>Instant Payday Loans Canada E Transfer Loans Available Online</h1>
+            <h2>Instant Payday Loans Canada E Transfer Loans Available Online</h2>
     				<h2 class="small-title">In 5 minutes, get as much as $1,500 straight into your bank account</h2>
     				<p class="text text-justify">The Instant Payday Loans Canada E Transfer Loan that Works<br><br>
     				When an Instant Payday Loans Canada E Transfer hits you or your family, you don’t have time to go through the usual dog and pony show, jumping all the hoops required by the old-fashioned loan companies.</p>

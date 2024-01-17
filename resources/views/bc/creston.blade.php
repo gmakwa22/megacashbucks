@@ -51,7 +51,7 @@
 					<li class="list-group-item"><a href="https://www.crestonvalleybc.com/activities/shopping" target="_blank" >- Best Places to Go Shopping in Creston, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/creston-valley/home" target="_blank" >- Public Transportation Options in Creston, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.crestonvalleybc.com/accommodation/hotels-motelsrentals" target="_blank" >- Best Places to Stay in Creston, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.crestonvalleykootenaylakeroute.com/blog/kid-friendly-summer-fun-creston-valley" target="_blank" >- Best Things to do with the Kids in Creston, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripbuzz.com/things-to-do-with-kids/creston-british-columbia" target="_blank" >- Best Things to do with the Kids in Creston, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.crestonvalleyadvance.ca/" target="_blank" >- Local News for Creston, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-26_metric_e.html" target="_blank" >- Weather in Creston, British Columbia</a></li>
 					</ul>

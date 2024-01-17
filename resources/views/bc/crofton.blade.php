@@ -50,7 +50,7 @@
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Crofton%2C+BC" target="_blank" >- Best Places to Eat in Crofton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Crofton%2C+BC" target="_blank" >- Best Places to Go Shopping in Crofton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps/route-overview?route=6" target="_blank" >- Public Transportation Options in Crofton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Crofton-Hotels.d6288185.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Crofton, British Columbia</a></li>
+					<li class="list-group-item">>- Best Places to Stay in Crofton, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g2613795-Activities-zft11306-Crofton_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Crofton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://local.ca/bc/crofton/news/" target="_blank" >- Local News for Crofton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/14-day-weather-trend/british-columbia/crofton" target="_blank" >- Weather in Crofton, British Columbia</a></li>

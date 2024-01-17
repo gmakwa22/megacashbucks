@@ -50,7 +50,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1392612-Cobble_Hill_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Cobble Hill, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Cobble+Hill%2C+BC+V0R" target="_blank" >- Best Places to Go Shopping in Cobble Hill, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps" target="_blank" >- Public Transportation Options in Cobble Hill, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.expedia.ca/Cobble-Hill-Hotels.d6025694.Travel-Guide-Hotels" target="_blank" >- Best Places to Stay in Cobble Hill, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.travelweekly.com/Hotels/Cobble-Hill-BC" target="_blank" >- Best Places to Stay in Cobble Hill, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/cobble-hill-british-columbia" target="_blank" >- Best Things to do with the Kids in Cobble Hill, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.cowichanvalleycitizen.com" target="_blank" >- Local News for Cobble Hill, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/cobble-hill" target="_blank" >- Weather in Cobble Hill, British Columbia</a></li>

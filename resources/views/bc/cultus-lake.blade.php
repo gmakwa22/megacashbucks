@@ -49,10 +49,10 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/AttractionsNear-g154927-d1520769-Cultus_Lake_Waterpark-Chilliwack_British_Columbia.html" target="_blank" >- Best Attractions in Cultus Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.cultuslake.bc.ca/restaurants-at-cultus-lake-park/" target="_blank" >- Best Places to Eat in Cultus Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Cultus+Lake%2C+BC" target="_blank" >- Best Places to Go Shopping in Cultus Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.cultuslake.bc.ca/2019/06/08/bc-transit/" target="_blank" >- Public Transportation Options in Cultus Lake, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Cultus Lake, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154927-d1520769-Cultus_Lake_Waterpark-Chilliwack_British_Columbia.html" target="_blank" >- Best Places to Stay in Cultus Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/cultus-lake/bc" target="_blank" >- Best Things to do with the Kids in Cultus Lake, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theprogress.com/tag/cultus-lake/" target="_blank" >- Local News for Cultus Lake, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/cultus-lake/" target="_blank" >- Local News for Cultus Lake, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/cultus-lake" target="_blank" >- Weather in Cultus Lake, British Columbia</a></li>
 					</ul>
       </div>

@@ -46,7 +46,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181794-Activities-Aldergrove_Langley_British_Columbia.html" target="_blank" >- Best Attractions in Aldergrove, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181794-Aldergrove_Langley_British_Columbia.html" target="_blank" >- Best Places to Eat in Aldergrove, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.shopping-canada.com/shopping-malls-centers/british-columbia/langley/aldergrove-village" target="_blank" >- Best Places to Go Shopping in Aldergrove, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.myebus.ca/destinations/aldergrove/" target="_blank" >- Public Transportation Options in Aldergrove, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Aldergrove, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181794-Aldergrove_Langley_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Aldergrove, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181794-Activities-zft11306-Aldergrove_Langley_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Aldergrove, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.aldergrovestar.com/" target="_blank" >- Local News for Aldergrove, British Columbia</a></li>

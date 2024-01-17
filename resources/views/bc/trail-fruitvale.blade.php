@@ -46,7 +46,7 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Trail-Fruitvale, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="http://www.village.fruitvale.bc.ca/content/things-do" target="_blank" >- Best Attractions in Trail-Fruitvale, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/kootenays/trail.html" target="_blank" >- Best Attractions in Trail-Fruitvale, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.menupix.com/british-columbia/n/1143/Fruitvale-restaurants" target="_blank" >- Best Places to Eat in Trail-Fruitvale, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://m.yelp.ca/search?cflt=shopping&find_loc=Fruitvale%2C+BC&start=10" target="_blank" >- Best Places to Go Shopping in Trail-Fruitvale, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=43" target="_blank" >- Public Transportation Options in Trail-Fruitvale, British Columbia</a></li>

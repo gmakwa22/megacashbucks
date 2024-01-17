@@ -29,7 +29,7 @@
      <div class="row justify-content-center">
        <div class="col-lg-8">
             <div class="section-title text-center">
-               <h1 class="title">What’s the best loan for you?</h1>
+               <h2 class="title">What’s the best loan for you?</h2>
                <p class="text">Forget those line-ups down at the brick-and-mortar joint. You can apply for this loan from the comfort of your couch. Our advanced assessment tools instantly determine your eligibility. </br><b>The hassle-free loan option.</b></p>
             </div>
         </div>
