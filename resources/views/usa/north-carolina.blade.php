@@ -47,7 +47,7 @@
 		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28934-Activities-c26-Illinois.html" target="_blank" >- Best Places to Go Shopping in Illinois</a></li>
 		<li class="list-group-item"><a href="https://idot.illinois.gov/" target="_blank" >- Public Transportation Options in Illinois</a></li>
 		<li class="list-group-item"><a href="https://www.booking.com/region/us/illinois.html" target="_blank" >- Best Places to Stay in Illinois</a></li>
-		<li class="list-group-item"><a href="https://familydestinationsguide.com/fun-things-to-do-in-illinois-with-kids/" target="_blank" >- Best Things to do with the Kids in Illinois</a></li>
+		<li class="list-group-item">- Best Things to do with the Kids in Illinois</li>
 		<li class="list-group-item"><a href="https://www.foxnews.com/category/us/us-regions/midwest/illinois" target="_blank" >- Local News for Illinois</a></li>
 		<li class="list-group-item"><a href="https://www.weather.gov/ilx/" target="_blank" >- Weather in Illinois</a></li>
 					</ul>

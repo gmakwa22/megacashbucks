@@ -1281,9 +1281,9 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloanscalgary() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
+        SEOMeta::setTitle('Payday Loans Calgary Alberta');
+        SEOMeta::setDescription('If you’re looking for a Payday Loans Calgary Alberta with a trusted direct lender,Mega Cash Bucks is the company for you.');
+        SEOMeta::addKeyword('Payday Loans Calgary Alberta, lamina, credit, child tax loans, poor credit loans canada, cash advance loans near me, how gain money, 24 hour cash money, payday');
         return view('keywords2.payday-loans-calgary', $data); }
 
      public function kwPaydayLoansHamiltonOntario() { $track = $this->tracker();
@@ -1302,17 +1302,17 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloansnearme() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.payday-loans-near-me', $data); }
+        SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Near Me Canada');
+        SEOMeta::setDescription('Payday adva Loans Near Me, Short Term Loans Or Cash Advance Loan Interest Rates  How They Work? Contact Mega Cash Bucks. The Only Trusted Payday Advance In Canada.');
+        SEOMeta::addKeyword('Payday Advance, Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
+       return view('keywords2.payday-loans-near-me', $data); }
 
      public function kwpaydayloansnearmenocreditcheck() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.payday-loans-near-me-no-credit-check', $data); }
+        SEOMeta::setTitle('Mega Cash Bucks | Payday Loans Near Me Canada');
+      SEOMeta::setDescription('Payday adva Loans Near Me, Short Term Loans Or Cash Advance Loan Interest Rates  How They Work? Contact Mega Cash Bucks. The Only Trusted Payday Advance In Canada.');
+      SEOMeta::addKeyword('Payday Advance, Mega Cash Bucks, online cash loans, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, ontario, british columbia, nova scotia, Saskatchewan, Manitoba, financial, cash lenders, canada, canadian, online cash loan, loans, Wise loan, cash loan,  payday, payday loans, payday loan, express approval, easy money, easy cash, cash advance, toronto, ottawa, vancouver, edmonton, calgary, bc, new brunswick, moncton');
+    return view('keywords2.payday-loans-near-me-no-credit-check', $data); }
 
      public function kwpaydayloansnocreditcheck() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
@@ -1330,10 +1330,10 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloansottawa() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.payday-loans-ottawa', $data); }
+        SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online in Ottawa');
+     SEOMeta::setDescription('Payday Loans Ottawa, ON | Need Instant Payday Loans Online in Ottawa? Get Up To $1500');
+     SEOMeta::addKeyword('loans Ottawa, bad credit loans Ottawa, cash loans Ottawa, instant payday loans Ottawa, online loans Ottawa, quick loans Ottawa, quick loans in Ottawa, loan companies Ottawa, cash advance Ottawa, cash advance loans Ottawa, cash advance Ottawa, cash for you now Ottawa, cash king Ottawa, cash money Ottawa, cash shop Ottawa, cash store Ottawa, direct cash Ottawa, ez loan Ottawa, fast cash loans Ottawa, money loans Ottawa, money mart Ottawa, money Ottawa, payday loans Ottawa');
+     return view('keywords2.payday-loans-ottawa', $data); }
 
      public function kwPaydayLoansPrinceGeorge() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
@@ -1351,10 +1351,10 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloanssaskatoon() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.payday-loans-saskatoon', $data); }
+        SEOMeta::setTitle('Mega Cash Bucks | Need Instant Payday Loans Online in Saskatoon, SK? Mega Cash Bucks is a Safe Trusted Licensed Lender with Easy Applications, Multiple repayments and 5 Minutes‎‎ e-Transfers.');
+     SEOMeta::setDescription('Saskatoon Payday Loans 24/7. ✔ 5 Minute Approval ✔ No FAX ✔ Bad Credit OK ✔ Interac ✔ Instant Response. SK');
+     SEOMeta::addKeyword('loans Saskatoon, bad credit loans Saskatoon, cash loans Saskatoon, instant payday loans Saskatoon, online loans Saskatoon, quick loans Saskatoon, quick loans in Saskatoon, loan companies Saskatoon, cash advance Saskatoon, cash advance loans Saskatoon, cash advance Saskatoon, cash for you now Saskatoon, cash king Saskatoon, cash money Saskatoon cash shop Saskatoon, cash store Saskatoon, direct cash Saskatoon, ez loan Saskatoon, fast cash loans Saskatoon, money loans Saskatoon, money mart Saskatoon, money Saskatoon payday loans Saskatoon, SK');
+     return view('keywords2.payday-loans-saskatoon', $data); }
 
      public function kwpaydayloansthatacceptdisability() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
@@ -1365,10 +1365,10 @@ class Kw2Controller extends Controller
 
      public function kwpaydayloanswinnipeg() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];
-        SEOMeta::setTitle('');
-        SEOMeta::setDescription('');
-        SEOMeta::addKeyword('');
-        return view('keywords2.payday-loans-winnipeg', $data); }
+        SEOMeta::setTitle('Mega Cash Bucks | Instant Payday Loans Online Winnipeg MB');
+        SEOMeta::setDescription('Do you need payday loans in Winnipeg MB? Mega Cash Bucks offers quick approval payday loans to the people who need money instantly.');
+        SEOMeta::addKeyword('payday loans winnipeg no credit check');
+       return view('keywords2.payday-loans-winnipeg', $data); }
 
      public function kwpaydayloanswithgovernmentbenefits() { $track = $this->tracker();
         $data = ["bannerbg" => "land/1.jpg", "headpg" => "Payday Loan Online", "headtxtcolor" => "white", "headalt" => "Payday Loan Online"];

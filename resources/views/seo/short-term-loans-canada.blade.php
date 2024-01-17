@@ -26,7 +26,7 @@ Competitive Rates
 	Convenient Online Application Process
 </h3>
 <p class="text m-bottom">
-	Our digital application process means customers can apply for a cash loan from the comfort of their home or office or on the go with the best <a href="/payday-loan-app-canada" target="_blank" rel="noopener">payday loan app</a> for both iOS and Android devices. It’s fast and convenient – most customers only need 5 to 10 minutes to complete the application form. We only request basic personal and financial information, to ensure you meet our lending requirements, and to allow us to evaluate your ability to repay your loan. Compared to traditional lending application processes, you save time, money, travel, and hassle.
+	Our digital application process means customers can apply for a cash loan from the comfort of their home or office or on the go with the best payday loan app for both iOS and Android devices. It’s fast and convenient – most customers only need 5 to 10 minutes to complete the application form. We only request basic personal and financial information, to ensure you meet our lending requirements, and to allow us to evaluate your ability to repay your loan. Compared to traditional lending application processes, you save time, money, travel, and hassle.
 </p>
 <h3 class="small-title" style="color:#b2752d;">
 	Flexible Safe Online Loans for Canadians

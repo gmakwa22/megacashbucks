@@ -49,15 +49,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Toronto, ON</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/tourist-attractions-/toronto-cdn-on-ont.htm" target="_blank"   >- Best Attractions in Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g155019-Toronto_Ontario.html" target="_blank"   >- Best Places to Eat in Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g155019-Activities-c26-Toronto_Ontario.html" target="_blank"   >- Best Places to Go Shopping in Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.ttc.ca/" target="_blank"   >- Public Transportation Options in Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Hotels-g155019-Toronto_Ontario-Hotels.html" target="_blank"   >- Best Places to Stay in Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://toronto.kidsoutandabout.com/content/top-20-places-take-kids-and-around-toronto" target="_blank"   >- Best Things to do with the Kids in Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://toronto.ctvnews.ca/" target="_blank"   >- Local News for Toronto, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/ontario/toronto" target="_blank"   >- Weather in Toronto, Ontario</a></li>
-					</ul>
+				<li class="list-group-item"><a href="https://www.toronto.ca/" target="_blank" rel="noopener">- City of Toronto, ON</a></li>
+				<li class="list-group-item"><a href="https://www.torontopubliclibrary.ca/" target="_blank" rel="noopener">- Libraries in Toronto, ON</a></li>
+				<li class="list-group-item"><a href="http://www.ttc.ca/ target="_blank" rel="noopener">- Public Transit, Toronto, ON</a></li>
+				<li class="list-group-item"><a href="https://www.ripleyaquariums.com/canada/contact/" target="_blank" rel="noopener">- Top family activity, Toronto, ON</a></li>
+				<li class="list-group-item"><a href="https://www.blazepizza.com/locations/toronto-john-st" target="_blank" rel="noopener">- Best fast food in Toronto, ON</a></li>
+				<li class="list-group-item"><a href="https://toronto.ctvnews.ca/" target="_blank" rel="noopener">- News in Toronto, ON</a></li>
+				<li class="list-group-item"><a href="https://weather.com/en-CA/weather/today/l/43.65,-79.38?par=google?par=google" target="_blank" rel="noopener">- Weather in Toronto, ON</a></li>
+				</ul>
       </div>
      </div>
   </div>

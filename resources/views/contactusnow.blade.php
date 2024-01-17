@@ -6,7 +6,7 @@
 <div class="container">
 <article class="block-txt rellax" data-rellax-speed="7">
 <div class="v-center parallaxEffect">
-<h1 class="title">Contact Us Today!</h1>
+<h2 class="title">Contact Us Today!</h2>
 <h2 class="subtitle-lato">We’re always happy to hear from you. Tell us about your experience with our service and what we can do to serve you even better.</h2>
 </div>
 </article>

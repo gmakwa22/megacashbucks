@@ -2,7 +2,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1>Child Tax Credit Loans that Work</h1>
+				<h2>Child Tax Credit Loans that Work</h2>
 				<h2 class="small-title">Low Rates for Child Tax Credit Loans up to $1,500</h2>
         <p class="text text-justify">The Canada Child Benefit is a big help to lots of Canadian families in meeting the needs of the children. It helps with child-raising expenses right up until the child is 18 years old. It’s been colloquially over the years known as the “baby bonus.”</p>
         <p class="text text-justify">What you may not know is that you can get a baby bonus payday loan.<br>

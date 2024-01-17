@@ -46,7 +46,7 @@
 		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g28943-Activities-c26-t143-Michigan.html" target="_blank" >- Best Places to Go Shopping in Michigan</a></li>
 		<li class="list-group-item"><a href="https://www.michigan.gov/mdot" target="_blank" >- Public Transportation Options in Michigan</a></li>
 		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g28943-Michigan-Hotels.html" target="_blank" >- Best Places to Stay in Michigan</a></li>
-		<li class="list-group-item"><a href="https://familydestinationsguide.com/fun-things-to-do-kids-michigan/" target="_blank" >- Best Things to do with the Kids in Michigan</a></li>
+		<li class="list-group-item">- Best Things to do with the Kids in Michigan</li>
 		<li class="list-group-item"><a href="https://www.mlive.com/" target="_blank" >- Local News for Michigan</a></li>
 		<li class="list-group-item"><a href="https://weather.com/weather/tenday/l/Michigan+Center+MI?canonicalCityId=5f4e7f436b01939a0ec78f75693e65c6a39cdef15d8313dba0790bc7df0e36f7" target="_blank" >- Weather in Michigan</a></li>
 					</ul>

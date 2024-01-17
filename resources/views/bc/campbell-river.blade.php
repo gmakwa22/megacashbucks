@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Campbell River, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.campbellriver.travel/attractions/top-ten/" target="_blank" >- Best Attractions in Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181792-Campbell_River_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.campbellriver.travel/attractions/shopping/" target="_blank" >- Best Places to Go Shopping in Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/campbell-river/home" target="_blank" >- Public Transportation Options in Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.booking.com/city/ca/campbell-river.html" target="_blank" >- Best Places to Stay in Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181792-Activities-zft11306-Campbell_River_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.campbellrivermirror.com/" target="_blank" >- Local News for Campbell River, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-19_metric_e.html" target="_blank" >- Weather in Campbell River, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.ehcanadatravel.com/british-columbia/vancouver-island/campbell-river/attractions.html" target="_blank"   >- Best Attractions in Campbell River, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181792-Campbell_River_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Places to Eat in Campbell River, British Columbia</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Campbell River, British Columbia</li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/campbell-river/home" target="_blank"   >- Public Transportation Options in Campbell River, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.booking.com/city/ca/campbell-river.html" target="_blank"   >- Best Places to Stay in Campbell River, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181792-Activities-zft11306-Campbell_River_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Things to do with the Kids in Campbell River, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.campbellrivermirror.com/" target="_blank"   >- Local News for Campbell River, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://weather.gc.ca/city/pages/bc-19_metric_e.html" target="_blank"   >- Weather in Campbell River, British Columbia</a></li>
 					</ul>
       </div>
      </div>

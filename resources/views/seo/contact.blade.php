@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-<h1 class="title">Contact Us Today!</h1>
+<h2 class="title">Contact Us Today!</h2>
 <h4 class="subtitle-lato">We’re always happy to hear from you. Tell us about your experience with our service and what we can do to serve you even better.</h4>
 </div>
 </article>

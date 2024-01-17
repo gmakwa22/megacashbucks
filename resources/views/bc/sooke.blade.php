@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Sooke, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-sooke-bc-cdn-1-287.htm" target="_blank" >- Best Attractions in Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182158-Sooke_Victoria_Capital_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.sooke.org/shopping/" target="_blank" >- Best Places to Go Shopping in Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/victoria/schedules-and-maps/route-overview?route=61" target="_blank" >- Public Transportation Options in Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.sooke.org/accommodations/" target="_blank" >- Best Places to Stay in Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182158-Activities-zft11306-Sooke_Victoria_Capital_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.sookenewsmirror.com/" target="_blank" >- Local News for Sooke, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/sooke" target="_blank" >- Weather in Sooke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.planetware.com/canada/top-rated-things-to-do-in-sooke-bc-cdn-1-287.htm" target="_blank"   >- Best Attractions in Sooke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182158-Sooke_Victoria_Capital_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Places to Eat in Sooke, British Columbia</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Sooke, British Columbia</li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/victoria/schedules-and-maps/route-overview?route=61" target="_blank"   >- Public Transportation Options in Sooke, British Columbia</a></li>
+					<li class="list-group-item">- Best Places to Stay in Sooke, British Columbia</li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g182158-Activities-zft11306-Sooke_Victoria_Capital_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Things to do with the Kids in Sooke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.sookenewsmirror.com/" target="_blank"   >- Local News for Sooke, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/sooke" target="_blank"   >- Weather in Sooke, British Columbia</a></li>
 					</ul>
       </div>
      </div>

@@ -41,15 +41,15 @@
       </div>
       <div class="col-lg-6 sm-mt-30">
 			<h3>Helpful information about Georgia</h3>
-				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28931-Activities-Georgia.html" target="_blank" >- Best Attractions in Georgia</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g60898-c37-Atlanta_Georgia.html" target="_blank" >- Best Steakhouse in Georgia</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28931-Activities-c26-Georgia.html" target="_blank" >- Best Places to Go Shopping in Georgia</a></li>
-		<li class="list-group-item"><a href="https://www.gatransit.org/" target="_blank" >- Public Transportation Options in Georgia</a></li>
-		<li class="list-group-item"><a href="https://www.exploregeorgia.org/places-to-stay/article/10-awesome-places-to-spend-the-night" target="_blank" >- Best Places to Stay in Georgia</a></li>
-		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28931-Activities-zft11306-Georgia.html" target="_blank" >- Best Things to do with the Kids in Georgia</a></li>
-		<li class="list-group-item"><a href="https://georgiatoday.ge/" target="_blank" >- Local News for Georgia</a></li>
-		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/georgia/atlanta" target="_blank" >- Weather in Georgia, CA</a></li>
+			<ul class="list-group">
+					<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28931-Activities-Georgia.html" target="_blank"   >- Best Attractions in Georgia</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g60898-c37-Atlanta_Georgia.html" target="_blank"   >- Best Steakhouse in Georgia</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28931-Activities-c26-Georgia.html" target="_blank"   >- Best Places to Go Shopping in Georgia</a></li>
+		<li class="list-group-item"><a href="https://www.gatransit.org/" target="_blank"   >- Public Transportation Options in Georgia</a></li>
+		<li class="list-group-item"><a href="https://www.exploregeorgia.org/places-to-stay/article/10-awesome-places-to-spend-the-night" target="_blank"   >- Best Places to Stay in Georgia</a></li>
+		<li class="list-group-item"><a href="https://www.tripadvisor.com/Attractions-g28931-Activities-zft11306-Georgia.html" target="_blank"   >- Best Things to do with the Kids in Georgia</a></li>
+		<li class="list-group-item"><a href="https://georgiatoday.ge/" target="_blank"   >- Local News for Georgia</a></li>
+		<li class="list-group-item"><a href="https://www.theweathernetwork.com/us/weather/georgia/atlanta" target="_blank"   >- Weather in Georgia, CA</a></li>
 					</ul>
       </div>
      </div>

@@ -739,7 +739,7 @@ class LpController extends Controller
               return view('lp.lptemplate', $data);
             }
   public function fastloanscanada() { $track = $this->tracker();
-   $txtlp = '<h1>Fast Loans Canada</h1><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
+   $txtlp = '<h2>Fast Loans Canada</h2><p>If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.</p>';
    $data = ["bannerbg" => "land/5.jpg", "martop" => "30", "headpg" => "Fast Loans Canada", "headtxtcolor" => "white", "headalt" => "Fast Loans Canada", "land" => "1", "lptxt" => $txtlp];
     SEOMeta::setTitle('Fast Loans Canada');
     SEOMeta::setDescription('If you’re looking for a Payday Loans with a trusted, direct lender, Mega Cash Bucks is the company for you.');

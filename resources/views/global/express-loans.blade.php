@@ -84,7 +84,7 @@ Can I get an express loan fast with no credit check?
 </h3>
 <p class="text">
 Most payday or express loans that advertise “no credit check” still require you to do a lot of work. You have to visit a lender’s office location, fill out a lot of paperwork, provide proof of your income and other information, and more. Then, you have to sit around, waiting for your approval and your money. All that effort and waiting is frustrating, especially when cash is needed quickly – the whole point of a quick money loan in the first place!<br>
-Pay Day offers an alternative to this old, outdated method of obtaining loans. You don’t need to visit an office – there are none! To <a href="{{url('/borrow-money')}}" rel="noopener">borrow money</a> quickly, just complete the loan application online, your smartphone or the <a href="{{url('/payday-loan-app-canada')}}" rel="noopener">payday loan app</a>. It takes just minutes.<br>
+Pay Day offers an alternative to this old, outdated method of obtaining loans. You don’t need to visit an office – there are none! To <a href="{{url('/borrow-money')}}" rel="noopener">borrow money</a> quickly, just complete the loan application online, your smartphone or the payday loan app. It takes just minutes.<br>
 Approval decisions are fast, too, so there’s no waiting. And receiving your money? That’s also super-fast, with e-transfers available within 5 minutes following digital signing of your loan agreement.
 </p>
 <h3 class="small-title">

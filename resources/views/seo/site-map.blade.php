@@ -114,7 +114,7 @@
          <li>
          <ul>
            <li><a href="{{url('/borrow-money')}}">  Borrow Money</a></li>
-            {{-- <li><a href="{{url('/bad-credit-loans')}}">  Bad Credit Loans</a></li> --}}
+            <!-- {{-- <li><a href="{{url('/bad-credit-loans')}}">  Bad Credit Loans</a></li> --}} -->
             <li><a href="{{url('/installment-loans-canada')}}">  Installment Loans</a></li>
             <!-- <li><a href="{{url('/cash-loans')}}">  Cash Loans</a></li> -->
             <li><a href="{{url('/payday-advance')}}">  Payday Advance</a></li>
@@ -134,7 +134,7 @@
             <li><a href="{{url('/loans-on-child-tax')}}">  Loans on Child Tax</a></li>
             <li><a href="{{url('/instant-payday-loans-canada-e-transfer')}}">  E-Transfer Loans</a></li>
             <!-- <li><a href="{{ url('/blog/')}}" >BLOG</a></li> -->
-            <li><a href="{{ url('/link-partners')}}" >Link Partners</a></li>
+            <!-- <li><a href="{{ url('/link-partners')}}" >Link Partners</a></li> -->
          </ul>
         </li>
        </ul>

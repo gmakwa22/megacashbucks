@@ -37,16 +37,16 @@
       </div>
       <div class="col-lg-6 sm-mt-30">
 					<h3>Helpful information about Sydney, NS</h3>
-          <ul class="list-group">
-						<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Sydney,_Nova_Scotia" target="_blank" >- Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://cbrl.ca/locations/sydney/" target="_blank" >- Libraries in Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://cbrm.ns.ca/transit.html" target="_blank" >- Public Transit in Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154973-Sydney_Cape_Breton_Island_Nova_Scotia.html" target="_blank" >- Best restaurants in Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://ca.hotels.com/de1633546/sydney-nova-scotia-hotels-rooms/" target="_blank" >- The best Hotels in Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://www.babyandlife.com/things-to-do-in-sydney-nova-scotia/" target="_blank" >- Best Things to do in Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://globalnews.ca/tag/sydney-ns/" target="_blank" >- News in Sydney, NS</a></li>
-						<li class="list-group-item"><a href="https://weather.com/weather/today/l/46.14,-60.19?par=google" target="_blank" >- Weather in Sydney, NS</a></li>
-		 			 </ul>
+					<ul class="list-group">
+					<li class="list-group-item"><a href="https://en.wikipedia.org/wiki/Sydney,_Nova_Scotia" target="_blank">- Sydney, NS</a></li>
+					<li class="list-group-item"><a href="https://cbrl.ca/locations/sydney/" target="_blank">- Libraries in Sydney, NS</a></li>
+					<li class="list-group-item"><a href="https://cbrm.ns.ca/transit.html" target="_blank">- Public Transit in Sydney, NS</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154973-Sydney_Cape_Breton_Island_Nova_Scotia.html" target="_blank">- Best restaurants in Sydney, NS</a></li>
+					<li class="list-group-item">- The best Hotels in Sydney, NS</li>
+					<li class="list-group-item">- Best Things to do in Sydney, NS</li>
+					<li class="list-group-item"><a href="https://globalnews.ca/tag/sydney-ns/" target="_blank">- News in Sydney, NS</a></li>
+					<li class="list-group-item"><a href="https://weather.com/weather/today/l/46.14,-60.19?par=google" target="_blank">- Weather in Sydney, NS</a></li>
+				</ul>
       </div>
      </div>
   </div>

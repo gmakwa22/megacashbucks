@@ -46,14 +46,14 @@
       <div class="col-lg-6 sm-mt-30">
 				<h3>Helpful information about Cedar, BC</h3>
 				<ul class="list-group">
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Cedar%2C+BC+V9X" target="_blank" >- Best Places to Eat in Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-c26-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/nanaimo/home" target="_blank" >- Public Transportation Options in Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154935-d3242906-Cedar_Farmers_Market-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Stay in Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.todocanada.ca/fun-things-kids-nanaimo/" target="_blank" >- Best Things to do with the Kids in Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.nanaimobulletin.com/" target="_blank" >- Local News for Cedar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/cedar" target="_blank" >- Weather in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Attractions in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Cedar%2C+BC+V9X" target="_blank"   >- Best Places to Eat in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154935-Activities-c26-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Places to Go Shopping in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.bctransit.com/nanaimo/home" target="_blank"   >- Public Transportation Options in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g154935-d3242906-Cedar_Farmers_Market-Nanaimo_Vancouver_Island_British_Columbia.html" target="_blank"   >- Best Places to Stay in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://britishcolumbia.com/things-to-do-and-see/attractions/kids-stuff/" target="_blank"   >- Best Things to do with the Kids in Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.nanaimobulletin.com/" target="_blank"   >- Local News for Cedar, British Columbia</a></li>
+					<li class="list-group-item"><a href="https://www.theweathernetwork.com/ca/weather/british-columbia/cedar" target="_blank"   >- Weather in Cedar, British Columbia</a></li>
 					</ul>
       </div>
      </div>

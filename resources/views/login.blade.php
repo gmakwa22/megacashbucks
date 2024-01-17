@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <!-- @if (Cookie::get('__gtm_campaign_url') !== false)
     <p>cookie is set</p>
 @else

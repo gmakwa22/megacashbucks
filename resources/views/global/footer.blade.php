@@ -121,7 +121,7 @@ footer section#footer .footer-left a:link, footer section#footer .footer-left a:
 		<h3>More</h3>
 		<ul>
 		<li id="fast"><a href="/fast-loans-canada" onClick="ga('send', 'event', 'footer', 'click', 'fast loan canada');">Fast Loan</a></li>
-{{--		<li id="app"><a href="/payday-loan-app-canada" onClick="ga('send', 'event', 'footer', 'click', 'Cash loans');">Taxcash Loan App</a></li> --}}
+<!-- {{--		<li id="app"><a href="/payday-loan-app-canada" onClick="ga('send', 'event', 'footer', 'click', 'Cash loans');">Taxcash Loan App</a></li> --}} -->
 		<li id="payd"><a href="{{url('/payday-loan-canada')}}" onClick="ga('send', 'event', 'footer', 'click', 'payday loan');">Payday Loan</a></li>
 		<li id="edu"><a href="{{url('/education-center')}}" onClick="ga('send', 'event', 'footer', 'click', 'education center');">Be informed</a></li>
 		<li id="sitm"><a href="{{ url('/sitemap' )}}" onClick="ga('send', 'event', 'footer', 'click', 'site map');">Site map</a></li>

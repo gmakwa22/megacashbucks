@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">The Best Weekend Payday Loan for You</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">The Best Weekend Payday Loan for You</h2><br>
 				<h2 class="title" style="color:#b2752d;">The Trustworthy Weekend Payday Loan</h2>
 				<p class="text text-justify">
 

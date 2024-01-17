@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1>GET YOUR MONEY IN A SNAP</h1>
+				<h2>GET YOUR MONEY IN A SNAP</h2>
 				<h2 class="small-title">Borrowing the Quick Way</h2>
 				<p class="text text-justify">We know that you have your own special financial concerns that are unique to you, that’s why our short-term loan business is geared to meet your personal needs. </p>
 				<p class="text text-justify">Even a bad credit score, whether it’s fairly earned or not, doesn’t have to be an obstacle to getting the money you need, when you need it. As a responsible lender, we know that our job is to see the big picture. Whatever happened in the past, if our evaluation of your overall financial situation indicates that today you can repay your loan, we can provide you the funds you need in an instant.</p>

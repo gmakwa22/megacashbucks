@@ -55,7 +55,7 @@
 <p>Was there a problem getting our email? <a href="{{url('/forgotpassword')}}">Try again!</a></p>
 <br>
 <div class="text-center">
-<a href="{{url('/login')}}" class="btn-green">Sign In</a>
+<!-- <a href="{{url('/login')}}" class="btn-green">Sign In</a> -->
 </div>
 </div>
 </div>
