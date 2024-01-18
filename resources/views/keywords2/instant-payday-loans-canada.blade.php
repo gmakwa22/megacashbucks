@@ -13,7 +13,7 @@
 
           </div>
           <div class="blog-detail">
-            <h1>Advance Loans Available Online</h1>
+            <h2>Advance Loans Available Online</h2>
     				<h2 class="small-title">In 5 minutes, get as much as $1,500 straight into your bank account</h2>
     				<p class="text text-justify">The Advance Loan that Works<br><br>
     				When an Advance hits you or your family, you don’t have time to go through the usual dog and pony show, jumping all the hoops required by the old-fashioned loan companies.</p>
@@ -30,7 +30,7 @@
     				<p class="text text-justify">Don’t worry though; we may be fully automated, but if you have any questions, we’re ready and happy to answer them. Just reach out to us through our Contact Us pages and we’ll be back to you with an answer to your question as fast as we can.
     				</p>
     				<p class="text text-justify">Mega Cash Bucks is a Canadian company that prides itself on serving our fellow Canadians in a manner consistent with our common commitment to the highest standard of responsible, transparent and ethical business practices. We want to help you get your financial life back in order as quickly and easily as possible. <br><br>
-    				You can depend on us to help you exercise the soundest judgment as to what level or kind of loan best suits your circumstances. And, we do it all in plain language that you’ll understand, with no hidden fees or other unpleasant surprises.
+          You can depend on us to help you exercise the soundest judgment as to what level or kind of loan best suits your circumstances. And, we do it all in plain language that you’ll understand, with no hidden fees or other unpleasant surprises.
     				</p>
 
             <h2 class="display-4"><b>Greats Ways to Use Your Advance Loan</b></h2><br>

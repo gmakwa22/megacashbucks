@@ -49,7 +49,7 @@
 				<ul class="list-group">
 					<li class="list-group-item"><a href="https://www.tripadvisor.com/Tourism-g23094919-Fredericton_Junction_New_Brunswick-Vacations.html" target="_blank" >- Best Attractions in Fredericton Junction, New Brunswick</a></li>
 					<li class="list-group-item"><a href="https://restaurantguru.com/Fredericton-Junction" target="_blank" >- Best Places to Eat in Fredericton Junction, New Brunswick</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Shopping+Centres+%26+Malls/Fredericton+Junction+NB" target="_blank" >- Best Places to Go Shopping in Fredericton Junction, New Brunswick</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Fredericton Junction, New Brunswick</li>
 					<li class="list-group-item"><a href="https://www2.gnb.ca/content/gnb/en/gateways/about_nb/transportation.html" target="_blank" >- Public Transportation Options in Fredericton Junction, New Brunswick</a></li>
 					<li class="list-group-item"><a href="http://www.maplandia.com/canada/new-brunswick/sunbury-county/fredericton-junction/hotels/" target="_blank" >- Best Places to Stay in Fredericton Junction, New Brunswick</a></li>
 					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/fredericton-junction/nb" target="_blank" >- Best Things to do with the Kids in Fredericton Junction, New Brunswick</a></li>

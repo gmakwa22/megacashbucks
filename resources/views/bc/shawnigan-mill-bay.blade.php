@@ -48,7 +48,7 @@
 				<ul class="list-group">
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499155-Activities-Mill_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Shawnigan-Mill Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499155-Mill_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Shawnigan-Mill Bay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/Shopping+Centres+%26+Malls/Shawnigan+Lake+BC" target="_blank" >- Best Places to Go Shopping in Shawnigan-Mill Bay, British Columbia</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Shawnigan-Mill Bay, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps/route-overview?route=8" target="_blank" >- Public Transportation Options in Shawnigan-Mill Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/mill-bay.html" target="_blank" >- Best Places to Stay in Shawnigan-Mill Bay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499155-Activities-zft11306-Mill_Bay_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Shawnigan-Mill Bay, British Columbia</a></li>

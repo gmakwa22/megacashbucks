@@ -51,7 +51,7 @@
 				<ul class="list-group">
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g671618-Activities-Caledon_Ontario.html" target="_blank"   >- Best Attractions in Palgrave, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/RestaurantsNear-g671618-d212064-Albion_Hills_Conservation_Park-Caledon_Ontario.html" target="_blank"   >- Best Places to Eat in Palgrave, Ontario</a></li>
-					<li class="list-group-item"><a href="https://www.canadapages.com/shopping-listings-palgrave-on/" target="_blank"   >- Best Places to Go Shopping in Palgrave, Ontario</a></li>
+					<li class="list-group-item">- Best Places to Go Shopping in Palgrave, Ontario</li>
 					<li class="list-group-item"><a href="https://www.rome2rio.com/s/Toronto/Palgrave-ON-Canada" target="_blank"   >- Public Transportation Options in Palgrave, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/HotelsNear-g671618-d20950005-PALGRAVE_VARIETY_AND_LCBO_Caledon_Ontario-Caledon_Ontario.html" target="_blank"   >- Best Places to Stay in Palgrave, Ontario</a></li>
 					<li class="list-group-item"><a href="https://www.canadiankidsactivities.com/directory/location/ontario/peel/palgrave/" target="_blank"   >- Best Things to do with the Kids in Palgrave, Ontario</a></li>
