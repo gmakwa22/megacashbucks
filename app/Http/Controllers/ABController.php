@@ -449,7 +449,7 @@ class ABController extends Controller
 
      public function didsbury() {
        $data = ["bannerbg" => "provinces/34.jpg", "licpr" => "ab", "spprov" => "Didsbury", "headpg" => "SAFE & FLEXIBLE PAYDAY LOANS IN DIDSBURY", "headtxtcolor" => "WHITE"];
-       SEOMeta::setTitle('Secure Your Dreams in Didsbury with Our Reliable Loans - Your Path to Financial Success Starts Here');
+       SEOMeta::setTitle('Secure Your Dreams in Didsbury with Our Reliable Loans');
        SEOMeta::setDescription('Need Fast Cash Loans Near Didsbury, AB? ');
 
        SEOMeta::addKeyword('Online cash loans Wood Buffalo, money, cash, cash canada, fast cash, cash loans, quick cash, Wise loans, payday, alberta, calgary, edmonton, red deer, lethbridge, st. albert, medicine hat, airdrie, grande prairie, spruce grove, leduc, fort MacMurray, fort saskatchewan, wetaskiwin, camrose, canmore, lacombe, brooks, okotoks, lloydminster, beaumont, cold lake, chestermere, sylvan lake, stony plain, cochrane, strathmore, sherwood park, high river, whitecort, morinville, hinton, banff, wood buffalo, drumheller, blackfalds, cold lake south, jasper, olds, taber, edson, slave lake, innisfail, cardston, macleod, saint paul, rocky mountian house, lake louise, pincher creek, bonyville, stettler, athabasca, ab');

@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://wanderlog.com/explore/76063/rossland" target="_blank"   >- Best Attractions in Rossland, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yellowpages.ca/search/si/1/restaurants/Rossland+BC" target="_blank"   >- Best Places to Eat in Rossland, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://rosslandinn.ca/area/shopping/" target="_blank"   >- Best Places to Go Shopping in Rossland, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=46" target="_blank"   >- Public Transportation Options in Rossland, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Rossland, British Columbia</li>
 					<li class="list-group-item"><a href="https://hikebiketravel.com/the-best-hotel-in-rossland-bc-to-sleep-eat-play/" target="_blank"   >- Best Places to Stay in Rossland, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.familydaysout.com/kids-things-to-do-canada/rossland/bc" target="_blank"   >- Best Things to do with the Kids in Rossland, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.rosslandnews.com/" target="_blank"   >- Local News for Rossland, British Columbia</a></li>

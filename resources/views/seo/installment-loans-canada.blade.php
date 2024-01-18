@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">LOW RATE INSTALLMENT LOANS</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">LOW RATE INSTALLMENT LOANS</h2><br>
 				<h2 class="small-title center text-center">That alternative to the old payday loan that you’ve been waiting for</h2><br>
 				<p class="text">At {{$privname}}, we know how important flexibility is to financial success. We take into consideration all the relevant details of your financial situation to ensure whichever of our repayment plans you choose, we can keep your rate as low as possible. Whether you’re borrowing $100 or $1,500, repaying in a single payment or 2 or 3 installments, our advanced algorithm is working out the best rate for your situation.
 				</p>

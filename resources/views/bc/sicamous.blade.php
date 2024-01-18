@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.triphobo.com/places/sicamous-canada/things-to-do" target="_blank" >- Best Attractions in Sicamous, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://shuswaptourism.ca/discover/sicamous-eagle-valley/dining-listings/" target="_blank" >- Best Places to Eat in Sicamous, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://shuswaptourism.ca/plan/services-and-amenities/retail/" target="_blank" >- Best Places to Go Shopping in Sicamous, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/shuswap/home" target="_blank" >- Public Transportation Options in Sicamous, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Sicamous, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/sicamous.html" target="_blank" >- Best Places to Stay in Sicamous, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.guestbookvacationrentals.ca/post/top-10-family-friendly-things-to-do-in-sicamous" target="_blank" >- Best Things to do with the Kids in Sicamous, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.eaglevalleynews.com/" target="_blank" >- Local News for Sicamous, British Columbia</a></li>

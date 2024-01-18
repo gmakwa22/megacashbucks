@@ -42,7 +42,7 @@
 				<li class="list-group-item"><a href="https://www.mississauga.ca/library/" target="_blank" rel="noopener">- Libraries in Mississauga, Ontario</a></li>
 				<li class="list-group-item"><a href="https://www.mississauga.ca/portal/services/transportationmaps" target="_blank" rel="noopener">- Public Transit, Mississauga, Ontario</a></li>
 				<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=hotdogs&amp;find_loc=Mississauga%2C+ON" target="_blank" rel="noopener">- Best fast food restaurant, Mississauga, Ontario</a></li>
-				<li class="list-group-item"><a href="https://www.expedia.com/Mississauga.d178296.Destination-Travel-Guides" target="_blank" rel="noopener">- Mississauga vacation travel deals</a></li>
+				<li class="list-group-item">- Mississauga vacation travel deals</li>
 				<li class="list-group-item"><a href="https://www.mississauga.com/" target="_blank" rel="noopener">- News in Mississauga, Ontario</a></li>
 				<li class="list-group-item"><a href="https://weather.com/en-CA/weather/today/l/43.59,-79.64?par=google?par=google" target="_blank" rel="noopener">- Weather in Mississauga, Ontario</a></li>
 				</ul>

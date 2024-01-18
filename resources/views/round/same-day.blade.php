@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">Payday Loans with Same Day Deposit</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">Payday Loans with Same Day Deposit</h2><br>
 				<h2 class="title" style="color:#b2752d;">Same Day Payday Loans Direct Lender</h2>
 				<p class="text text-justify">
 CASH is a trusted, reliable, licensed Canadian lender that provides approval for same day payday loans even if you have bad credit.<br><br>

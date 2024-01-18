@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">How we do it</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">How we do it</h2><br>
 				<h2 class="small-title center text-center">That alternative to the old payday loan that you’ve been waiting for</h2><br>
 				<p class="text">We offer your payday loan as a fully automated, online experience. The benefits are huge. Here are a few of the reasons this is your exciting new future in the world of short-term loans.</p><br>
 				<h2 class="small-title center text-center">Same Day Cash Loans</h2><br>

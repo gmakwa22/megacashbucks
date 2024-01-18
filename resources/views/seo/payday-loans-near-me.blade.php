@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-	<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">THE PAYDAY SOLUTION THAT WORKS</h1><br>
+	<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">THE PAYDAY SOLUTION THAT WORKS</h2><br>
 	<h2 class="small-title center text-center">Get up to $1,500. Low Rates. 5 minutes e-transfer</h2><br>
 				<p class="text text-justify">Some people go searching for “payday loan near me.” Those days, thankfully, are finally over. No longer is anybody limited by their geographic location to the kind of borrowing option that are available to them. With our instant, online service, {{$privname}} makes short term loans available to anyone, anywhere, any time of day. And you can do it all from the comfort and convenience of your office or sofa. </p>
 				<p class="text text-justify">So, next time you start typing into that browser “payday loan near me,” remember, that’s the internet – it brings the world to your doorstep. Applying with us gives you access to a lending process that is lightning fast. You’ll have a range of loan amount options, repayment options and terms, which allow you to tailor your loan to your needs. Most of the time the whole thing is done in an hour. And after you’re approved, and sign your electronic contract, you’ll see those funds in your bank account, by e-transfer, in just 5 to 10 minutes. </p>

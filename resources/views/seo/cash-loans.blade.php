@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">Forget the traditional payday loan</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">Forget the traditional payday loan</h2><br>
 				<h2 class="small-title center text-center">We’ve got the better option</h2><br>
 				<p class="text">Everyone’s had occasion to take out a loan. So, we all know that often some assistance and guidance can be important to getting things back on the rails financially. Mega Cash Bucks has just what the doctor ordered: loans, customized to your needs, ready to go, when you need them.</p><br>
 				<h2 class="small-title center text-center">Same Day Cash Loans</h2><br>

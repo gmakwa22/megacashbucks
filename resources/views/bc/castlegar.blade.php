@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181791-Activities-Castlegar_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Attractions in Castlegar, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181791-Castlegar_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Places to Eat in Castlegar, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Castlegar%2C+BC" target="_blank" >- Best Places to Go Shopping in Castlegar, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/west-kootenay/schedules-and-maps/route-overview?route=31" target="_blank" >- Public Transportation Options in Castlegar, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Castlegar, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/castlegar.html" target="_blank" >- Best Places to Stay in Castlegar, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/castlegar-british-columbia" target="_blank" >- Best Things to do with the Kids in Castlegar, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.castlegarnews.com/" target="_blank" >- Local News for Castlegar, British Columbia</a></li>

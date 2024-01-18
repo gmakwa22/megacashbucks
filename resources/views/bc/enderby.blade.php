@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499129-Activities-Enderby_Okanagan_Valley_British_Columbia.html" target="_blank" >- Best Attractions in Enderby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=restaurants&find_loc=Enderby%2C+BC" target="_blank" >- Best Places to Eat in Enderby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://exploringenderby.com/directory/categories/retail-services" target="_blank" >- Best Places to Go Shopping in Enderby, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/vernon/schedules-and-maps/route-overview?route=60" target="_blank" >- Public Transportation Options in Enderby, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Enderby, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499129-Enderby_Okanagan_Valley_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Enderby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://exploringenderby.com/play/family-friendly/" target="_blank" >- Best Things to do with the Kids in Enderby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.cityofenderby.com/news/" target="_blank" >- Local News for Enderby, British Columbia</a></li>

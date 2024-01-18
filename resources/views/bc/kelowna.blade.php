@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tourismkelowna.com/things-to-do/attractions/" target="_blank"   >- Best Attractions in Kelowna, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tourismkelowna.com/eat-drink/restaurants/" target="_blank"   >- Best Places to Eat in Kelowna, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tourismkelowna.com/things-to-do/shopping/" target="_blank"   >- Best Places to Go Shopping in Kelowna, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/kelowna/home" target="_blank"   >- Public Transportation Options in Kelowna, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Kelowna, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/kelowna.html" target="_blank"   >- Best Places to Stay in Kelowna, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.kelownahomes.ca/blog/things-to-do-with-kids-kelowna.html" target="_blank"   >- Best Things to do with the Kids in Kelowna, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.kelownacapnews.com/" target="_blank"   >- Local News for Kelowna, British Columbia</a></li>

@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.liftylife.ca/things-to-do-in-harrison-hot-springs/" target="_blank" >- Best Attractions in Harrison Hot Springs, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154931-Harrison_Hot_Springs_British_Columbia.html" target="_blank" >- Best Places to Eat in Harrison Hot Springs, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Harrison+Hot+Springs%2C+BC" target="_blank" >- Best Places to Go Shopping in Harrison Hot Springs, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/chilliwack/schedules-and-maps/route-overview?route=11" target="_blank" >- Public Transportation Options in Harrison Hot Springs, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Harrison Hot Springs, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154931-Harrison_Hot_Springs_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Harrison Hot Springs, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://travelingcanucks.com/2021/07/things-to-do-at-harrison-hot-springs-with-kids/" target="_blank" >- Best Things to do with the Kids in Harrison Hot Springs, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.agassizharrisonobserver.com/local-news/" target="_blank" >- Local News for Harrison Hot Springs, British Columbia</a></li>

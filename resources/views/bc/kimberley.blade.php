@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tourismkimberley.com/attractions" target="_blank" >- Best Attractions in Kimberley, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g182146-Kimberley_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Places to Eat in Kimberley, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.kimberley.ca/shopping" target="_blank" >- Best Places to Go Shopping in Kimberley, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/kimberley/home" target="_blank" >- Public Transportation Options in Kimberley, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Kimberley, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tourismkimberley.com/accommodation" target="_blank" >- Best Places to Stay in Kimberley, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://www.tripbuzz.com/things-to-do-with-kids/kimberley-british-columbia" target="_blank" >- Best Things to do with the Kids in Kimberley, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.kimberleybulletin.com/" target="_blank" >- Local News for Kimberley, British Columbia</a></li>

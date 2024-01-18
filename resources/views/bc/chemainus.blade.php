@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154926-Activities-Chemainus_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Chemainus, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g154926-Chemainus_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Chemainus, British Columbia</a></li>
 					<li class="list-group-item"><a href="http://visitchemainus.ca/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Chemainus, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/cowichan-valley/schedules-and-maps/route-overview?route=6" target="_blank" >- Public Transportation Options in Chemainus, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Chemainus, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g154926-Chemainus_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Chemainus, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g154926-Activities-zft11306-Chemainus_Cowichan_Valley_Regional_District_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Chemainus, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.chemainusvalleycourier.ca/" target="_blank" >- Local News for Chemainus, British Columbia</a></li>

@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-				<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">Online Borrowing Made Easy</h1><br>
+				<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">Online Borrowing Made Easy</h2><br>
 				<h2 class="title " style="color:#b2752d;">The Online Option?</h2>
 				<p class="text-justify">Our great new short-term loan service provides you the opportunity to borrow anywhere from as little as $100 to as much as $1,500 and it’s all done online. What could be more convenient? Additionally, we provide repayment installment options. It’s all about making the process easier for you. </p>
 

@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.princeton.ca/p/top-7-things-to-do-in-princeton" target="_blank" >- Best Attractions in Princeton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.thingstodopost.org/where-to-eat-in-princeton-the-best-restaurants-and-bars-104220" target="_blank" >- Best Places to Eat in Princeton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://bc.allpages.com/princeton/shopping-shopping-services/specialty-stores/" target="_blank" >- Best Places to Go Shopping in Princeton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/health-connections/princeton-penticton" target="_blank" >- Public Transportation Options in Princeton, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Princeton, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g181776-Princeton_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Princeton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.princeton.ca/p/top-7-things-to-do-in-princeton" target="_blank" >- Best Things to do with the Kids in Princeton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://local.ca/bc/princeton/news/" target="_blank" >- Local News for Princeton, British Columbia</a></li>

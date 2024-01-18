@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.summerland.ca/discover/things-to-do" target="_blank" >- Best Attractions in Summerland, British Columbia</a></li>
 					<li class="list-group-item">- Best Places to Eat in Summerland, British Columbia</li>
 					<li class="list-group-item">- Best Places to Go Shopping in Summerland, British Columbia</li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/route-overview?route=30" target="_blank" >- Public Transportation Options in Summerland, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Summerland, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/summerland-province-of-british-columbia.html" target="_blank" >- Best Places to Stay in Summerland, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://okanaganfamilyfun.com/city/summerland/29-things-to-do-in-summerland-with-kids" target="_blank" >- Best Things to do with the Kids in Summerland, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.summerlandreview.com/" target="_blank" >- Local News for Summerland, British Columbia</a></li>

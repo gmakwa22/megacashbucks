@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-	<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">SAME DAY PAYDAY LOANS</h1><br>
+	<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">SAME DAY PAYDAY LOANS</h2><br>
 	<h2 class="small-title center text-center">Get up to $1,500. Low Rates. 5 minutes e-transfer</h2><br>
 				<p class="text text-justify">We’ve all been there – bills are piling up, unexpected expenses pop up on Friday night, your paycheck is still days or even weeks away and you need same day payday loans to keep food on the table and keep the lights on.</p>
 				<p class="text text-justify">When you get approved for a payday loan on the same day, you’ll be able to pay your bills, handle expenses, and keep your family fed and sheltered, by providing you a temporary cash infusion that you pay repay back.</p>

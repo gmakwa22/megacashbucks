@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.thebarefootnomad.com/canada/things-to-do-okanagan-falls-british-columbia/" target="_blank"   >- Best Attractions in Okanagan Falls, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.thingstodopost.org/okanagan-falls-food-guide-10-must-eat-restaurants-street-food-stalls-in-okanagan-falls-116561" target="_blank"   >- Best Places to Eat in Okanagan Falls, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g947970-Activities-c26-Okanagan_Falls_Okanagan_Valley_British_Columbia.html" target="_blank"   >- Best Places to Go Shopping in Okanagan Falls, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/south-okanagan-similkameen/schedules-and-maps/route-overview?route=20" target="_blank"   >- Public Transportation Options in Okanagan Falls, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Okanagan Falls, British Columbia</li>
 					<li class="list-group-item"><a href="https://visitokfalls.com/accommodations/" target="_blank"   >- Best Places to Stay in Okanagan Falls, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.thebarefootnomad.com/canada/things-to-do-okanagan-falls-british-columbia/" target="_blank"   >- Best Things to do with the Kids in Okanagan Falls, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://globalnews.ca/tag/okanagan-falls/" target="_blank"   >- Local News for Okanagan Falls, British Columbia</a></li>

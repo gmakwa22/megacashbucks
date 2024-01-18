@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tourismpembertonbc.com/pemberton-activities/" target="_blank" >- Best Attractions in Pemberton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tourismpembertonbc.com/dining/" target="_blank" >- Best Places to Eat in Pemberton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tourismpembertonbc.com/shopping/" target="_blank" >- Best Places to Go Shopping in Pemberton, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/pemberton-valley/home" target="_blank" >- Public Transportation Options in Pemberton, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Pemberton, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tourismpembertonbc.com/accommodations/" target="_blank" >- Best Places to Stay in Pemberton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.pembertonvalleylodge.com/pemberton/news/2019/7/25/pemberton-summer-family-friendly-activities/" target="_blank" >- Best Things to do with the Kids in Pemberton, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.pemberton.ca/government/news" target="_blank" >- Local News for Pemberton, British Columbia</a></li>

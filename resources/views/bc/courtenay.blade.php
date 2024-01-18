@@ -46,7 +46,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g181789-Activities-Courtenay_Comox_Valley_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Attractions in Courtenay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181789-Courtenay_Comox_Valley_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Places to Eat in Courtenay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://downtowncourtenay.com/things-to-do/shopping/" target="_blank" >- Best Places to Go Shopping in Courtenay, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/comox-valley/home" target="_blank" >- Public Transportation Options in Courtenay, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Courtenay, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/courtenay.html" target="_blank" >- Best Places to Stay in Courtenay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g6586257-Activities-zft11306-Comox_Valley_Vancouver_Island_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Courtenay, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.comoxvalleyrecord.com/" target="_blank" >- Local News for Courtenay, British Columbia</a></li>

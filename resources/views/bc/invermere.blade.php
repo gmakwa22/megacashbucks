@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://destinationlesstravel.com/things-to-do-in-invermere-bc-canada/" target="_blank" >- Best Attractions in Invermere, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g181783-Invermere_Kootenay_Rockies_British_Columbia.html" target="_blank" >- Best Places to Eat in Invermere, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://invermerepanorama.com/shops-and-art/" target="_blank" >- Best Places to Go Shopping in Invermere, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/columbia-valley/home" target="_blank" >- Public Transportation Options in Invermere, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Invermere, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/invermere.html" target="_blank" >- Best Places to Stay in Invermere, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.triphobo.com/places/invermere-british-columbia-canada/things-to-do/family-and-kids" target="_blank" >- Best Things to do with the Kids in Invermere, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.invermerevalleyecho.com/" target="_blank" >- Local News for Invermere, British Columbia</a></li>

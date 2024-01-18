@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.thingstodopost.org/10-things-to-do-in-lumby-that-you-shouldn-t-miss-841543" target="_blank" >- Best Attractions in Lumby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g1068865-Lumby_Okanagan_Valley_British_Columbia.html" target="_blank" >- Best Places to Eat in Lumby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Lumby%2C+BC+V0E" target="_blank" >- Best Places to Go Shopping in Lumby, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/vernon/schedules-and-maps/route-overview?route=61" target="_blank" >- Public Transportation Options in Lumby, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Lumby, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g1068865-Lumby_Okanagan_Valley_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Lumby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://okanaganfamilyfun.com/lumby" target="_blank" >- Best Things to do with the Kids in Lumby, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://lumbyvalleytimes.ca/" target="_blank" >- Local News for Lumby, British Columbia</a></li>

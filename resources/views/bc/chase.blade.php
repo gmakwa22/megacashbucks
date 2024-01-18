@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499123-Activities-Chase_British_Columbia.html" target="_blank" >- Best Attractions in Chase, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Restaurants-g499123-Chase_British_Columbia.html" target="_blank" >- Best Places to Eat in Chase, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.yelp.ca/search?cflt=shopping&find_loc=Chase%2C+BC" target="_blank" >- Best Places to Go Shopping in Chase, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/revelstoke/schedules-and-maps/health-connections/chase-kamloops" target="_blank" >- Public Transportation Options in Chase, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Chase, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Hotels-g499123-Chase_British_Columbia-Hotels.html" target="_blank" >- Best Places to Stay in Chase, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499123-Activities-zft11306-Chase_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Chase, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://globalnews.ca/tag/chase-bc/" target="_blank" >- Local News for Chase, British Columbia</a></li>

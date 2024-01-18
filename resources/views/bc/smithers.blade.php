@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://tourismsmithers.com/things-to-do" target="_blank" >- Best Attractions in Smithers, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://tourismsmithers.com/things-to-do/eat-drink" target="_blank" >- Best Places to Eat in Smithers, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499148-Activities-c26-Smithers_British_Columbia.html" target="_blank" >- Best Places to Go Shopping in Smithers, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/smithers/home" target="_blank" >- Public Transportation Options in Smithers, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Smithers, British Columbia</li>
 					<li class="list-group-item"><a href="https://tourismsmithers.com/places-to-sleep/hotels-motels/" target="_blank" >- Best Places to Stay in Smithers, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.tripadvisor.ca/Attractions-g499148-Activities-zft11306-Smithers_British_Columbia.html" target="_blank" >- Best Things to do with the Kids in Smithers, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.interior-news.com/" target="_blank" >- Local News for Smithers, British Columbia</a></li>

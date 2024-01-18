@@ -49,7 +49,7 @@
 					<li class="list-group-item"><a href="https://trip101.com/article/things-to-do-in-prince-rupert-canada" target="_blank" >- Best Attractions in Prince Rupert, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://visitprincerupert.com/dining/" target="_blank" >- Best Places to Eat in Prince Rupert, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://visitprincerupert.com/business-listings/" target="_blank" >- Best Places to Go Shopping in Prince Rupert, British Columbia</a></li>
-					<li class="list-group-item"><a href="https://www.bctransit.com/prince-rupert/home" target="_blank" >- Public Transportation Options in Prince Rupert, British Columbia</a></li>
+					<li class="list-group-item">- Public Transportation Options in Prince Rupert, British Columbia</li>
 					<li class="list-group-item"><a href="https://www.booking.com/city/ca/prince-rupert.html" target="_blank" >- Best Places to Stay in Prince Rupert, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.simplymombailey.com/10-things-prince-rupert-kids/" target="_blank" >- Best Things to do with the Kids in Prince Rupert, British Columbia</a></li>
 					<li class="list-group-item"><a href="https://www.thenorthernview.com/" target="_blank" >- Local News for Prince Rupert, British Columbia</a></li>

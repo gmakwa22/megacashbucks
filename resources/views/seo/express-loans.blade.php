@@ -1,7 +1,7 @@
 <section class="marketing-service page-section-ptb">
 		<div class="container">
 			<div class="col-xs-12">
-	<h1 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">EXPRESS LOANS ONLINE</h1><br>
+	<h2 class="title center text-center" style="color:#b2752d; font-weight: 700; font-size: 50px;">EXPRESS LOANS ONLINE</h2><br>
 	<h2 class="small-title center text-center">Get up to $1,500. Low Rates. 5 minutes e-transfer</h2><br>
 				<p class="text text-justify">Express loans are instant online personal loans that can provide you the funds you need quickly, securely and efficiently. When you need money fast and cannot wait, there’s often no better choice as you’ll usually have the money within an hour. They can be a real lifesaver.</p>
 				<p class="text text-justify">These type of express payday loans can quickly provide you with the funds you need, without restriction on how they can be used. Unlike traditional credit applications, the loan application process, approval, and funding for <a href="/instant-payday-loans-canada" rel="noopener">instant loans online</a> are super-fast. Speed and convenience are the hallmark for these kinds of loans, making them a perfect fit for the way most Canadians live their busy lives. </p>
