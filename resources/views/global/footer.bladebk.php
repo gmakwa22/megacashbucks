@@ -28,7 +28,7 @@
 		<h3>PAYDAY</h3>
 		<ul>
 		<!-- <li id="why"><a href="{{ url('/why_use_us' )}}" onClick="ga('send', 'event', 'footer', 'click', 'why use us');">What we offer</a></li> -->
-		<li id="how"><a href="{{ url('/agent-list' )}}" onClick="ga('send', 'event', 'footer', 'click', 'how it works');">How it’s done</a></li>
+		<li id="how"><a href="{{ url('/agent-list' )}}" onClick="ga('send', 'event', 'footer', 'click', 'how it works');">How It’s done</a></li>
 		<li><a href="/">Apply right now!</a></br></li>
 		</ul>
 	</div>
