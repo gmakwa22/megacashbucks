@@ -1,3 +1,109 @@
+<style>
+  .fixed-menu {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f7f7f7;
+    padding: 5px 15px; /* Reduced padding to make the strip thinner */
+    border: 1px solid #ddd;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .close-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px; /* Larger font for the X */
+    font-weight: bold;
+    color: #333;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+  }
+
+  .app-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 0;
+  }
+
+  .app-links div {
+    text-align: center;
+  }
+
+  .app-links img {
+    max-width: 100px; /* Max width for app icons */
+    max-height: 35px;
+  }
+
+  .qr-code {
+    width: 50px;
+    height: 50px;
+    object-fit: contain; /* Ensures the QR code maintains its aspect ratio */
+  }
+
+  @media (max-width: 768px) {
+    .fixed-menu {
+      padding: 5px 10px;
+      flex-direction: row;
+      align-items: center;
+    }
+
+    .app-links {
+      width: 100%;
+      justify-content: center;
+    }
+
+    .app-links img {
+      max-width: 90px;
+      max-height: 30px;
+    }
+
+    .qr-code {
+      width: 45px; /* Adjust size for mobile */
+      height: 45px;
+    }
+  }
+</style>
+
+
+<!-- App Download Banner -->
+<div class="fixed-menu">
+  <div class="app-links">
+    <!-- Google Play Button + QR Code -->
+    <div>
+      <a href="https://play.google.com/store/apps/details?id=com.app.paydayloanssss">
+        <img src="images2/googleplay.svg" alt="Google Play"/>
+      </a>
+      <a onclick="showLargeQRCode('https://d2wuvg8krwnvon.cloudfront.net/appqrcode/android_1732549516.png')">
+        <img src="https://d2wuvg8krwnvon.cloudfront.net/appqrcode/android_1732549516.png" alt="QR Code Android" class="qr-code"/>
+      </a>
+    </div>
+
+    <!-- iOS Button + QR Code -->
+    <div>
+      <a href="https://apps.apple.com/us/app/payday-loans/id1511832987?uo=4">
+        <img src="images2/appstore.svg" alt="App Store"/>
+      </a>
+      <a onclick="showLargeQRCode('https://d2wuvg8krwnvon.cloudfront.net/appqrcode/itune_1605543159.png')">
+        <img src="https://d2wuvg8krwnvon.cloudfront.net/appqrcode/itune_1605543159.png" alt="QR Code iOS" class="qr-code"/>
+      </a>
+    </div>
+  </div>
+  <button class="close-btn" onclick="this.parentNode.style.display = 'none';">
+    &times; <!-- This is the X symbol -->
+  </button>
+</div>
+
+
 <footer class="footer page-section-pt black-bg">
  <div class="container">
   <div class="row">
@@ -73,3 +179,68 @@
       </div>
   </div>
 </footer>
+
+<!-- App Download Banner Function Script -->
+<script>
+let currentLargeQRCode = null;
+
+function showLargeQRCode(url) {
+  // If there's already a large QR code open, remove it first
+  if (currentLargeQRCode) {
+    document.body.removeChild(currentLargeQRCode);
+  }
+
+  // Create a new container for the large QR code
+  var largeQRCodeContainer = document.createElement('div');
+  largeQRCodeContainer.style.position = 'fixed';
+  largeQRCodeContainer.style.top = '50%';
+  largeQRCodeContainer.style.left = '50%';
+  largeQRCodeContainer.style.transform = 'translate(-50%, -50%)';
+  largeQRCodeContainer.style.zIndex = '1001';
+  largeQRCodeContainer.style.backgroundColor = '#fff';
+  largeQRCodeContainer.style.padding = '20px';
+  largeQRCodeContainer.style.border = '1px solid #ddd';
+  largeQRCodeContainer.style.width = '250px';
+  largeQRCodeContainer.style.height = '250px';
+  largeQRCodeContainer.style.display = 'flex';
+  largeQRCodeContainer.style.justifyContent = 'center';
+  largeQRCodeContainer.style.alignItems = 'center';
+
+  var largeQRCode = document.createElement('img');
+  largeQRCode.src = url;
+  largeQRCode.style.width = '200px';
+  largeQRCode.style.height = '200px';
+
+  var closeButton = document.createElement('button');
+  closeButton.style.position = 'absolute';
+  closeButton.style.top = '10px';
+  closeButton.style.right = '10px';
+  closeButton.style.backgroundColor = 'transparent';
+  closeButton.style.border = 'none';
+  closeButton.style.cursor = 'pointer';
+  closeButton.innerHTML = '&times;';
+  closeButton.onclick = function() {
+    document.body.removeChild(largeQRCodeContainer);
+    currentLargeQRCode = null;
+    document.removeEventListener('click', clickOutsideHandler);
+  };
+
+  largeQRCodeContainer.appendChild(largeQRCode);
+  largeQRCodeContainer.appendChild(closeButton);
+  document.body.appendChild(largeQRCodeContainer);
+
+  // Set the reference to the newly opened large QR code container
+  currentLargeQRCode = largeQRCodeContainer;
+
+  // Add event listener for clicks outside of the enlarged QR code container
+  document.addEventListener('click', clickOutsideHandler);
+
+  function clickOutsideHandler(event) {
+    if (!largeQRCodeContainer.contains(event.target) && !event.target.classList.contains('qr-code') && !event.target.parentNode.classList.contains('qr-code')) {
+      document.body.removeChild(largeQRCodeContainer);
+      currentLargeQRCode = null;
+      document.removeEventListener('click', clickOutsideHandler);
+    }
+  }
+}
+</script>
