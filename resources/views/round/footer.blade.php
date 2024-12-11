@@ -6,7 +6,7 @@
         <h6 class="text-white mb-30 mt-10 text-uppercase">{{ $privname }}</h6>
         <ul class="addresss-info">
           <li><i class="fa fa-map-marker"></i> <a href="{{url('/why-choose-us')}}">What we offer</a></li>
-          <li><i class="fa fa-map-marker"></i> <a href="{{url('/how-its-done')}}">How it's done</a></li>
+          <li><i class="fa fa-map-marker"></i> <a href="{{url('/how-its-done')}}">How It's done</a></li>
           <li><i class="fa fa-map-marker"></i> <a href="{{ Session::get('purl') ?? $corpregister }}">Apply right now!</a></li>
           <li><i class="fa fa-map-marker"></i> <a href="{{url('/privacy-policy')}}">Privacy Policy</a></li>
           <li><i class="fa fa-map-marker"></i> <a href="{{url('/responsible-lending')}}">Responsible lending</a></li>
